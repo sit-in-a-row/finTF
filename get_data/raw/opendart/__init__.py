@@ -1,1 +1,1 @@
-from .get_opendart_info import get_financial_info
+from open_dart_main import get_financial_info
