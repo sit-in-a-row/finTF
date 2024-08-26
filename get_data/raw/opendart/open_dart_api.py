@@ -7,8 +7,8 @@ import io
 import time
 import OpenDartReader
 
-from util import cleanse_text
-from config import get_api_key
+from .util import cleanse_text
+from .config import get_api_key
 
 # dart 초기화
 api_key = get_api_key()

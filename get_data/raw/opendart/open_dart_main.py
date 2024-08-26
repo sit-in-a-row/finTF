@@ -1,4 +1,4 @@
-from file_management import save_financial_statement, save_sub_reports
+from .file_management import save_financial_statement, save_sub_reports
 
 def get_financial_info(stock_code, target_business_year):
     '''

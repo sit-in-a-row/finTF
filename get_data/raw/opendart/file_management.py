@@ -1,7 +1,7 @@
 import os
 import pandas as pd
-from open_dart_api import get_sub_report, get_financial_statements
-from data_processing import get_index_dict, divide_statement_df
+from .open_dart_api import get_sub_report, get_financial_statements
+from .data_processing import get_index_dict, divide_statement_df
 
 def sub_reports_to_csv(sub_report_dict, stock_code):
     '''
