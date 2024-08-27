@@ -12,26 +12,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 from pykrx import stock
 from .init_driver import init_driver
 
-# def init_driver(download_dir=os.getcwd()):
-#     service = Service(ChromeDriverManager().install())
-#     chrome_options = Options()
-
-#     prefs = {
-#         "download.default_directory": download_dir,
-#         "download.prompt_for_download": False,  
-#         "download.directory_upgrade": True,
-#         "safebrowsing.enabled": True,
-#         "plugins.always_open_pdf_externally": True  
-#     }
-#     chrome_options.add_experimental_option("prefs", prefs)
-    
-#     chrome_options.add_argument("--no-sandbox")
-#     chrome_options.add_argument("--disable-dev-shm-usage")
-
-#     driver = webdriver.Chrome(service=service, options=chrome_options)
-
-#     return driver
-
 def get_latest_file(download_path):
     """Download path에서 가장 최근에 생성된 파일을 반환"""
     files = [f for f in os.listdir(download_path) if f.endswith(".pdf")]
@@ -50,12 +30,13 @@ def get_ticker_by_name(stock_name: str) -> str:
                 return ticker
     except Exception as e:
         print(f"티커 조회 중 오류 발생: {stock_name}: {e}")
-    return None
+    return 'unknown'
 
 def crawl_ir_pdfs():
-    # 절대 경로로 변환하여 저장 경로 설정
-    download_path = os.path.abspath('../../../store_data/raw/crawling/IR_pdf')
-    os.makedirs(download_path, exist_ok=True)
+    # 드라이버 초기화 및 URL 열기
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    save_path = os.path.join(current_dir, '../../../store_data/raw/crawling/IR_pdf_raw')
+    download_path = os.path.abspath(save_path)
 
     # WebDriver 초기화
     driver = init_driver(download_path)
@@ -113,20 +94,30 @@ def crawl_ir_pdfs():
 
                     latest_file = get_latest_file(download_path)
                     if latest_file:
-                        stock_code = get_ticker_by_name(corp_name)
+                        stock_code = get_ticker_by_name(corp_name.strip())
+                        # print(corp_name.strip())
+                        # print(stock_code)
+
                         to_YYYY_MM = f'{date[:4]}.{date[5:7]}'
-                        if stock_code:
-                            new_dir_path = os.path.join(download_path, stock_code, to_YYYY_MM)
-                            new_file_name = f"{stock_code}_{corp_name}_{date}_IR.pdf"
-                        else:
-                            new_dir_path = os.path.join(download_path, 'unknown', to_YYYY_MM)
-                            new_file_name = f"unknown_{corp_name}_{date}_IR.pdf"
+
+                        new_dir_path = os.path.join(download_path, stock_code, to_YYYY_MM)
+                        new_file_name = f"{stock_code}_{corp_name}_{date}_IR.pdf"
+
+                        # if stock_code:
+                        #     new_dir_path = os.path.join(download_path, stock_code, to_YYYY_MM)
+                        #     new_file_name = f"{stock_code}_{corp_name}_{date}_IR.pdf"
+                        # else:
+                        #     new_dir_path = os.path.join(download_path, 'unknown', to_YYYY_MM)
+                        #     new_file_name = f"unknown_{corp_name}_{date}_IR.pdf"
 
                         os.makedirs(new_dir_path, exist_ok=True)
                         new_file_path = os.path.join(new_dir_path, new_file_name)
+
                         print(new_file_path)
+
                         os.rename(latest_file, new_file_path)
                         print(f"Renamed {os.path.basename(latest_file)} to {new_file_name}")
+
                 except (NoSuchElementException, StaleElementReferenceException, TimeoutException) as e:
                     print(f"{j}번째 row 처리 중 오류 발생: {e}")
                     continue

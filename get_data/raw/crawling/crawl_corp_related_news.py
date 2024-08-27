@@ -14,8 +14,14 @@ def date_to_sedaily_format(date: str) -> str:
     day = date[6:8]
     return f'{year}-{month}-{day}'
 
-def crawl_sedaily_news(stock_code: str, start_date: str, end_date: str, save_path: str = '../../../store_data/raw/crawling/corp_rel_news') -> pd.DataFrame:
+def crawl_sedaily_news(stock_code: str, start_date: str, end_date: str) -> pd.DataFrame:
     """주어진 종목 코드, 시작일자, 종료일자를 기준으로 서울경제의 관련 뉴스를 크롤링하여 CSV로 저장"""
+    
+    # 현재 파일의 디렉토리 경로 가져오기
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    # 저장 경로 부모 디렉토리의 절대 경로 생성
+    save_path = os.path.join(current_dir, f'../../../store_data/raw/crawling/corp_rel_news/')
+    # , save_path: str = '../../../store_data/raw/crawling/corp_rel_news'
     
     # 날짜 형식 변환
     start_date = date_to_sedaily_format(start_date)
@@ -32,7 +38,7 @@ def crawl_sedaily_news(stock_code: str, start_date: str, end_date: str, save_pat
     url = f'https://www.sedaily.com/Search/?scText={stock_code}&scPeriod=0&scArea=tc&scPeriodS={start_date}&scPeriodE={end_date}&scDetail=detail&Page=1'
     
     # WebDriver 초기화
-    download_path = os.path.join(os.getcwd(), 'corp_rel_news')
+    download_path = os.path.join(save_path)
     driver = init_driver(download_path)
     driver.get(url)
     
