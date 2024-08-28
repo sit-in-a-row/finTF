@@ -72,15 +72,15 @@ def opendart_finance(api_key, corp_code, bsns_year, reprt_code, fs_div):
         print(f'재무제표 정보 api 요청 실패 {str(e)}')
         return None
        
-def get_report_code_dict(stock_code: str, target_business_year: int):
+def get_report_code_dict(stock_code: str, target_business_year: str):
     '''
     보고서의 코드를 가져오는 코드. {리포트 이름: 리포트 코드} 형식으로 반환
     '''
-    start_year = target_business_year
-    end_year = target_business_year + 1
+    start_year = target_business_year  # 이미 문자열로 받아옴
+    end_year = str(int(target_business_year) + 1)
 
     try:
-        report = dart.list(stock_code, start=str(start_year), end=str(end_year), kind='A', final=False)
+        report = dart.list(stock_code, start=start_year, end=end_year, kind='A', final=False)
 
         report_code_dict = {}
         for ix, row in report.iterrows():
@@ -111,7 +111,7 @@ def get_sub_report_text(url):
         print(f'보고서 텍스트 api 요청 실패 {str(e)}')
         return None
     
-def get_sub_report(stock_code, target_business_year):
+def get_sub_report(stock_code:str, target_business_year:str):
     '''
     하위 보고서를 모두 가져오는 main함수.
     하위 보고서의 코드를 get_report_code_dict()를 통해 가져온 다음,
@@ -124,6 +124,9 @@ def get_sub_report(stock_code, target_business_year):
 
     try:
         report_code_dict = get_report_code_dict(stock_code, target_business_year)
+        if report_code_dict is None:
+            raise ValueError("report_code_dict가 None입니다.")
+
         report_name_list = list(report_code_dict.keys())
         for i in range(len(report_name_list)):
             sub_report_df = dart.sub_docs(report_code_dict[report_name_list[i]])
@@ -143,7 +146,7 @@ def get_sub_report(stock_code, target_business_year):
         return None
     
 # 종목코드를 입력받아 재무제표 데이터를 반환하는 함수
-def get_financial_statements(stock_code: str, target_business_year: int):
+def get_financial_statements(stock_code: str, target_business_year: str):
     '''
     재무제표 데이터를 api로 받아오는 기능의 main 함수
     종목코드와 목표 영업연도 입력 시 df 반환
@@ -156,7 +159,7 @@ def get_financial_statements(stock_code: str, target_business_year: int):
         
         total_df = pd.DataFrame()
 
-        start_year = target_business_year
+        start_year = int(target_business_year)
         end_year = start_year + 1
 
         for bsns_year in range(start_year, end_year):

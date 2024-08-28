@@ -31,7 +31,6 @@ def crawl_sedaily_news(keyword: str, start_date: str, end_date: str) -> pd.DataF
     # 저장 경로 부모 디렉토리의 절대 경로 생성
     if is_stock_code:
         save_path = os.path.join(current_dir, f'../../../store_data/raw/crawling/corp_rel_news/')
-        # , save_path: str = '../../../store_data/raw/crawling/corp_rel_news'
     else:
         save_path = os.path.join(current_dir, f'../../../store_data/raw/crawling/general_news/')
     
@@ -58,60 +57,69 @@ def crawl_sedaily_news(keyword: str, start_date: str, end_date: str) -> pd.DataF
     news_data_form = WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.ID, 'NewsDataFrm'))
     )
-    pagination_parent = news_data_form.find_element(By.CLASS_NAME, 'page')
-    pagination_list = pagination_parent.find_elements(By.TAG_NAME, 'li')
     
-    if len(pagination_list) > 10:
-        nnext_attribute = pagination_list[-1].find_element(By.TAG_NAME, 'a').get_attribute('href')
-        total_length = int(nnext_attribute.split('&Page=')[-1])
-    else:
-        total_length = len(pagination_list)
-    
-    # 결과를 저장할 리스트
-    crawled_news_result = []
-    current_pg_idx = 1
-    
-    # 페이지네이션을 순회하며 크롤링
-    for i in range(total_length):
-        print(f'{i + 1}/{total_length} 페이지 크롤링 중...')
+    try:
+        # pagination_parent 존재 여부를 확인
+        try:
+            pagination_parent = news_data_form.find_element(By.CLASS_NAME, 'page')
+            pagination_list = pagination_parent.find_elements(By.TAG_NAME, 'li')
+            
+            if len(pagination_list) > 10:
+                nnext_attribute = pagination_list[-1].find_element(By.TAG_NAME, 'a').get_attribute('href')
+                total_length = int(nnext_attribute.split('&Page=')[-1])
+            else:
+                total_length = len(pagination_list)
+        except:
+            total_length = 1  # pagination_parent가 없을 경우 페이지는 1개로 간주
         
-        if i > 0:
-            updated_url = f'https://www.sedaily.com/Search/?scText={keyword}&scPeriod=0&scArea=tc&scPeriodS={start_date}&scPeriodE={end_date}&scDetail=detail&Page={current_pg_idx}'
-            driver.get(updated_url)
-            news_data_form = WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located((By.ID, 'NewsDataFrm'))
-            )
+        # 결과를 저장할 리스트
+        crawled_news_result = []
+        current_pg_idx = 1
         
-        news_list = news_data_form.find_element(By.CLASS_NAME, 'sub_news_list')
-        news_row = news_list.find_elements(By.TAG_NAME, 'li')
+        # 페이지네이션을 순회하며 크롤링
+        for i in range(total_length):
+            print(f'{i + 1}/{total_length} 페이지 크롤링 중...')
+            
+            if i > 0:
+                updated_url = f'https://www.sedaily.com/Search/?scText={keyword}&scPeriod=0&scArea=tc&scPeriodS={start_date}&scPeriodE={end_date}&scDetail=detail&Page={current_pg_idx}'
+                driver.get(updated_url)
+                news_data_form = WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.ID, 'NewsDataFrm'))
+                )
+            
+            news_list = news_data_form.find_element(By.CLASS_NAME, 'sub_news_list')
+            news_row = news_list.find_elements(By.TAG_NAME, 'li')
+            
+            for news_element in news_row:
+                time.sleep(random.uniform(1, 3))
+                news_title = news_element.find_element(By.CLASS_NAME, 'article_tit').text.strip()
+                news_category = news_element.find_element(By.CLASS_NAME, 'sec').text.strip()
+                news_date = news_element.find_element(By.CLASS_NAME, 'date').text.strip()
+                sub_dict = {
+                    'news_title': news_title,
+                    'news_category': news_category,
+                    'news_date': news_date
+                }
+                crawled_news_result.append(sub_dict)
+            
+            current_pg_idx += 1
         
-        for news_element in news_row:
-            time.sleep(random.uniform(1, 3))
-            news_title = news_element.find_element(By.CLASS_NAME, 'article_tit').text.strip()
-            news_category = news_element.find_element(By.CLASS_NAME, 'sec').text.strip()
-            news_date = news_element.find_element(By.CLASS_NAME, 'date').text.strip()
-            sub_dict = {
-                'news_title': news_title,
-                'news_category': news_category,
-                'news_date': news_date
-            }
-            crawled_news_result.append(sub_dict)
+        # 드라이버 종료
+        driver.quit()
         
-        current_pg_idx += 1
-    
-    # 드라이버 종료
-    driver.quit()
-    
-    # DataFrame으로 변환 및 CSV 저장
-    df = pd.DataFrame(crawled_news_result)
+        # DataFrame으로 변환 및 CSV 저장
+        df = pd.DataFrame(crawled_news_result)
 
-    # 다른 파일들과 양식 통일을 위해 YYYY-MM-DD를 YYYY.MM.DD로 변경
-    start_date = start_date.replace('-', '.')
-    end_date = end_date.replace('-', '.')
-    
-    # 경로에 따라 파일을 저장
-    csv_file_path = os.path.join(save_directory, f'{keyword}_{start_date}_{end_date}.csv')
-    df.to_csv(csv_file_path, index=False)
-    
-    print(f'크롤링 완료. {csv_file_path}에 저장되었습니다.')
-    return df
+        # 다른 파일들과 양식 통일을 위해 YYYY-MM-DD를 YYYY.MM.DD로 변경
+        start_date = start_date.replace('-', '.')
+        end_date = end_date.replace('-', '.')
+        
+        # 경로에 따라 파일을 저장
+        csv_file_path = os.path.join(save_directory, f'{keyword}_{start_date}_{end_date}.csv')
+        df.to_csv(csv_file_path, index=False)
+        
+        print(f'크롤링 완료. {csv_file_path}에 저장되었습니다.')
+        return df
+    except Exception as e:
+        print(f'오류 발생: {e}')
+        driver.quit()
