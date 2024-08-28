@@ -1,0 +1,1 @@
+from .get_FRED_data import get_global_info
