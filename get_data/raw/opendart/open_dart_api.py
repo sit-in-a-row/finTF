@@ -101,7 +101,7 @@ def get_sub_report_text(url):
     일단 time.sleep(5)로 하니까 잘 돌아감 (2024.08.22)
     '''
     try:
-        time.sleep(5)
+        time.sleep(3)
         response = requests.get(url)
         cleaned_text = cleanse_text(response)
 

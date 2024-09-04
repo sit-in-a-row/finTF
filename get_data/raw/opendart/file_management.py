@@ -45,11 +45,52 @@ def save_sub_reports(stock_code, target_business_year):
     보고서 저장 기능의 main함수
     '''
     try:
-        sub_report_dict = get_sub_report(stock_code, target_business_year)
-        sub_reports_to_csv(sub_report_dict, stock_code)
-        print('사업보고서 저장에 성공했습니다.')
+        # 현재 파일의 디렉토리 경로 가져오기
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+
+        # 저장 경로 부모 디렉토리의 절대 경로 생성
+        store_path_parent = os.path.join(current_dir, f'../../../store_data/raw/opendart/store_reports/{stock_code}')
+        
+        # 연도별 하위 폴더 확인 (1월부터 12월까지)
+        folder_exists = False
+        for month in range(1, 13):
+            month_str = f'{target_business_year}.{str(month).zfill(2)}'  # YYYY.MM 형식
+            month_folder_path = os.path.join(store_path_parent, month_str)
+
+            if os.path.exists(month_folder_path):
+                folder_exists = True
+                print(f'{month_folder_path} 폴더가 존재합니다. 보고서 저장을 건너뜁니다.')
+                break  # 하나라도 폴더가 존재하면 더 이상 확인할 필요 없음
+
+        # 하위 폴더가 하나도 없으면 보고서 다운로드
+        if not folder_exists:
+            print(f'{store_path_parent}/{target_business_year}에 해당하는 폴더가 없습니다. 보고서를 다운로드합니다.')
+            
+            # get_sub_report를 호출하여 보고서 다운로드
+            sub_report_dict = get_sub_report(stock_code, target_business_year)
+            sub_report_dict_keys_list = list(sub_report_dict.keys())
+
+            for report_title in sub_report_dict_keys_list:
+                # 보고서를 저장할 월 (데이터에 따라 적절히 설정 가능)
+                # 여기서는 임의로 첫 번째 보고서에 해당하는 날짜로 설정
+                store_path = os.path.join(store_path_parent, f'{target_business_year}.01', f'{stock_code}_{report_title}.csv')
+
+                # 파일이 존재하는지 확인
+                if not os.path.exists(store_path):
+                    os.makedirs(os.path.dirname(store_path), exist_ok=True)
+                    temp_df = pd.DataFrame(
+                        {'text': [sub_report_dict[report_title]]},
+                        index=[report_title]
+                    )
+                    temp_df.to_csv(store_path, index=False)
+                    print(f'{store_path} 저장에 성공했습니다.')
+                else:
+                    print(f'{store_path} 파일이 이미 존재합니다. 저장을 건너뜁니다.')
+        else:
+            print(f'{store_path_parent} 경로에 이미 저장된 보고서 폴더가 있습니다. 저장을 건너뜁니다.')
+
     except Exception as e:
-        print(f'사업보고서 저장에 실패했습니다: {str(e)}')
+        print(f'보고서 저장에 실패했습니다: {str(e)}')
 
 def save_financial_statement(stock_code, target_business_year):
     '''
@@ -74,11 +115,14 @@ def save_financial_statement(stock_code, target_business_year):
             statement_title = f'{folder_path}_{stock_code}_재무제표 ({folder_path}).csv'
             store_path = os.path.join(store_path_parent, folder_path, statement_title)
 
-            # 디렉토리 생성 (이미 존재하는 경우 예외 처리)
-            os.makedirs(os.path.dirname(store_path), exist_ok=True)
-            df_to_save.to_csv(store_path, index=False)
+            # 디렉토리 및 파일이 존재하는지 확인
+            if not os.path.exists(store_path):
+                os.makedirs(os.path.dirname(store_path), exist_ok=True)
+                df_to_save.to_csv(store_path, index=False)
+                print(f'{statement_title} 저장에 성공했습니다.')
+            else:
+                print(f'{statement_title} 파일이 이미 존재합니다. 저장을 건너뜁니다.')
 
-        print('재무제표 저장에 성공했습니다.')
         return None
     except Exception as e:
         print(f'재무제표 저장에 실패했습니다: {str(e)}')

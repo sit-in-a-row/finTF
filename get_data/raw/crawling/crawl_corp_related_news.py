@@ -35,8 +35,8 @@ def crawl_sedaily_news(keyword: str, start_date: str, end_date: str) -> pd.DataF
         save_path = os.path.join(current_dir, f'../../../store_data/raw/crawling/general_news/')
     
     # 날짜 형식 변환
-    start_date = date_to_sedaily_format(start_date)
-    end_date = date_to_sedaily_format(end_date)
+    start_date_formatted = date_to_sedaily_format(start_date)
+    end_date_formatted = date_to_sedaily_format(end_date)
     
     # 저장 경로 생성
     year = start_date[:4]
@@ -44,9 +44,20 @@ def crawl_sedaily_news(keyword: str, start_date: str, end_date: str) -> pd.DataF
     save_path = os.path.abspath(save_path)
     save_directory = os.path.join(save_path, keyword, year, month)
     os.makedirs(save_directory, exist_ok=True)
-    
+
+    # CSV 파일 경로 설정 (YYYY-MM-DD 형식을 YYYY.MM.DD로 변경)
+    csv_file_name = f'{keyword}_{start_date.replace("-", ".")}_{end_date.replace("-", ".")}.csv'
+    csv_file_path = os.path.join(save_directory, csv_file_name)
+
+    # 파일이 이미 존재하는지 확인하고, 존재하면 건너뜀
+    if os.path.exists(csv_file_path):
+        print(f'{csv_file_path} 파일이 이미 존재합니다. 크롤링을 건너뜁니다.')
+        return pd.read_csv(csv_file_path)
+    else:
+        print('파일이 없습니다. 크롤링을 진행합니다...')
+
     # 첫 번째 페이지 URL 설정
-    url = f'https://www.sedaily.com/Search/?scText={keyword}&scPeriod=0&scArea=tc&scPeriodS={start_date}&scPeriodE={end_date}&scDetail=detail&Page=1'
+    url = f'https://www.sedaily.com/Search/?scText={keyword}&scPeriod=0&scArea=tc&scPeriodS={start_date_formatted}&scPeriodE={end_date_formatted}&scDetail=detail&Page=1'
     
     # WebDriver 초기화
     download_path = os.path.join(save_path)
@@ -81,7 +92,7 @@ def crawl_sedaily_news(keyword: str, start_date: str, end_date: str) -> pd.DataF
             print(f'{i + 1}/{total_length} 페이지 크롤링 중...')
             
             if i > 0:
-                updated_url = f'https://www.sedaily.com/Search/?scText={keyword}&scPeriod=0&scArea=tc&scPeriodS={start_date}&scPeriodE={end_date}&scDetail=detail&Page={current_pg_idx}'
+                updated_url = f'https://www.sedaily.com/Search/?scText={keyword}&scPeriod=0&scArea=tc&scPeriodS={start_date_formatted}&scPeriodE={end_date_formatted}&scDetail=detail&Page={current_pg_idx}'
                 driver.get(updated_url)
                 news_data_form = WebDriverWait(driver, 10).until(
                     EC.presence_of_element_located((By.ID, 'NewsDataFrm'))
@@ -109,13 +120,8 @@ def crawl_sedaily_news(keyword: str, start_date: str, end_date: str) -> pd.DataF
         
         # DataFrame으로 변환 및 CSV 저장
         df = pd.DataFrame(crawled_news_result)
-
-        # 다른 파일들과 양식 통일을 위해 YYYY-MM-DD를 YYYY.MM.DD로 변경
-        start_date = start_date.replace('-', '.')
-        end_date = end_date.replace('-', '.')
         
         # 경로에 따라 파일을 저장
-        csv_file_path = os.path.join(save_directory, f'{keyword}_{start_date}_{end_date}.csv')
         df.to_csv(csv_file_path, index=False)
         
         print(f'크롤링 완료. {csv_file_path}에 저장되었습니다.')

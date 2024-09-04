@@ -74,6 +74,7 @@ def update_all_raw_info(start_date:str, end_date:str):
             crawl_sedaily_news(stock_code, target_quarter_start_date, target_quarter_end_date)
             print(f'=== {stock_code}에 대한 {target_quarter_start_date}에서 {target_quarter_end_date}까지의 뉴스 헤드라인 데이터 저장 완료 ===')
 
+            # 인자로 연도를 받고, 한번만 실행해도 모든 연도에 대한 값이 들어오기 때문에 1번만 실행 (플래그를 활용하여 False일 때만 진행)
             if is_fin_info_updated == False:
                 print(f'=== {stock_code}에 대한 {target_business_year} 재무 데이터 저장 중... ===')
                 get_financial_info(stock_code, target_business_year)
