@@ -71,9 +71,8 @@ def save_sub_reports(stock_code, target_business_year):
             sub_report_dict_keys_list = list(sub_report_dict.keys())
 
             for report_title in sub_report_dict_keys_list:
-                # 보고서를 저장할 월 (데이터에 따라 적절히 설정 가능)
-                # 여기서는 임의로 첫 번째 보고서에 해당하는 날짜로 설정
-                store_path = os.path.join(store_path_parent, f'{target_business_year}.01', f'{stock_code}_{report_title}.csv')
+                report_date = report_title.split(' ')[1][1:-1]
+                store_path = os.path.join(store_path_parent, f'{report_date}', f'{stock_code}_{report_title}.csv')
 
                 # 파일이 존재하는지 확인
                 if not os.path.exists(store_path):
@@ -105,7 +104,7 @@ def save_financial_statement(stock_code, target_business_year):
 
         financial_statements = get_financial_statements(stock_code, target_business_year)
         df_list = divide_statement_df(financial_statements)
-
+        print(f'조회한 {stock_code}의 {target_business_year}에 대한 재무제표의 개수', len(df_list))
         for i in range(len(df_list)):
             df_to_save = df_list[i]
             time_raw = list(df_to_save['rcept_no'])[0][0:9]

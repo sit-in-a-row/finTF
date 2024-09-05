@@ -40,14 +40,17 @@ def crawl_sedaily_news(keyword: str, start_date: str, end_date: str) -> pd.DataF
     
     # 저장 경로 생성
     year = start_date[:4]
-    month = start_date[5:7]
+    month = start_date[4:6]
+
+    print('확인용:', year, month)
     save_path = os.path.abspath(save_path)
     save_directory = os.path.join(save_path, keyword, year, month)
     os.makedirs(save_directory, exist_ok=True)
 
     # CSV 파일 경로 설정 (YYYY-MM-DD 형식을 YYYY.MM.DD로 변경)
-    csv_file_name = f'{keyword}_{start_date.replace("-", ".")}_{end_date.replace("-", ".")}.csv'
+    csv_file_name = f'{keyword}_{start_date_formatted.replace("-", ".")}_{end_date_formatted.replace("-", ".")}.csv'
     csv_file_path = os.path.join(save_directory, csv_file_name)
+    print('확인용:', csv_file_path)
 
     # 파일이 이미 존재하는지 확인하고, 존재하면 건너뜀
     if os.path.exists(csv_file_path):
