@@ -1,0 +1,233 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분,bfefrmtrm_nm,bfefrmtrm_amount
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 33 기,22268713986,제 32 기,7178925730,1,KRW,,,,,연결,제 31 기,12138199898
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 33 기,10863705619,제 32 기,879235466,2,KRW,,,,,연결,제 31 기,2161296532
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ShortTermTradeReceivable,매출채권,-,제 33 기,1801528172,제 32 기,1034335754,3,KRW,,,,,연결,제 31 기,1079030375
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_AllowanceForDoubtfulAcccountShortTermTradeReceivable,대손충당금,-,제 33 기,110723576,제 32 기,107533547,4,KRW,,,,,연결,제 31 기,141094011
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ShortTermOtherReceivables,단기미수금,-,제 33 기,158833032,제 32 기,226557364,5,KRW,,,,,연결,제 31 기,263689329
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_AllowanceForDoubtfulAcccountShortTermOtherReceivables,대손충당금,-,제 33 기,75250859,제 32 기,98131562,6,KRW,,,,,연결,제 31 기,98131562
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ShortTermLoans,단기대여금,-,제 33 기,42503000,제 32 기,42503000,7,KRW,,,,,연결,제 31 기,42503000
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_AllowanceForDoubtfulAcccountShortTermLoans,대손충당금,-,제 33 기,42500000,제 32 기,42500000,8,KRW,,,,,연결,제 31 기,42500000
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ShortTermAccruedIncome,단기미수수익,-,제 33 기,,제 32 기,13019622,9,KRW,,,,,연결,제 31 기,19249315
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,단기금융상품,-,제 33 기,,제 32 기,960000000,10,KRW,,,,,연결,제 31 기,5775000000
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_CurrentTaxAssets,당기법인세자산,-,제 33 기,,제 32 기,,11,KRW,,,,,연결,제 31 기,15341250
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ShortTermAdvancePayments,단기선급금,-,제 33 기,1462869710,제 32 기,149220543,12,KRW,,,,,연결,제 31 기,349992661
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_AllowanceForDoubtfulAcccountShortTermAdvancePayments,대손충당금,-,제 33 기,,제 32 기,15198960,13,KRW,,,,,연결,제 31 기,15198960
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ShortTermPrepaidExpenses,단기선급비용,-,제 33 기,7972669802,제 32 기,3958741590,14,KRW,,,,,연결,제 31 기,2441977697
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_OtherCurrentAssets,중단영업귀속자산,-,제 33 기,195079086,제 32 기,178676460,15,KRW,,,,,연결,제 31 기,287044272
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 33 기,19705270237,제 32 기,11524046594,16,KRW,,,,,연결,제 31 기,10559532810
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_LongTermLoansGross,장기대여금,-,제 33 기,398094254,제 32 기,378202589,17,KRW,,,,,연결,제 31 기,243977600
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_AllowanceForDoubtfulAcccountLongTermLoansGross,대손충당금,-,제 33 기,212477600,제 32 기,112477600,18,KRW,,,,,연결,제 31 기,112477600
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition,비유동 당기손익-공정가치 측정 지정 금융자산,-,제 33 기,317505830,제 32 기,250000000,19,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_NonCurrentAvailableForSaleFinancialAssets,비유동매도가능금융자산,-,제 33 기,,제 32 기,,20,KRW,,,,,연결,제 31 기,125000000
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_InvestmentAccountedForUsingEquityMethod,관계기업투자,-,제 33 기,5009753687,제 32 기,5555954198,21,KRW,,,,,연결,제 31 기,4353444049
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_FixturesAndFittingsGross,집기비품,-,제 33 기,2124623526,제 32 기,1972892746,22,KRW,,,,,연결,제 31 기,1930585366
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_AccumulatedDepreciationFixturesAndFittingsGross,감가상각누계액,-,제 33 기,1906272424,제 32 기,1810324308,23,KRW,,,,,연결,제 31 기,1752850351
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_StructureGross,구축물,-,제 33 기,15458328,제 32 기,,24,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_AccumulatedDepreciationStructureGross,감가상각누계액,-,제 33 기,2600466,제 32 기,,25,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_RightofuseAssets,사용권자산,-,제 33 기,251984354,제 32 기,,26,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_GoodwillGross,영업권,-,제 33 기,7415798202,제 32 기,2550058872,27,KRW,,,,,연결,제 31 기,2550058872
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_IntangibleAssetsOtherThanGoodwill,영업권 이외의 무형자산,-,제 33 기,4867547089,제 32 기,1422535963,28,KRW,,,,,연결,제 31 기,1645633336
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_LongTermLeaseholdDeposits,장기임차보증금,-,제 33 기,1227529296,제 32 기,1120000000,29,KRW,,,,,연결,제 31 기,1120000000
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_LongTermDepositsProvidedGross,기타보증금,-,제 33 기,540400,제 32 기,460400,30,KRW,,,,,연결,제 31 기,460400
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_OtherNonCurrentAssets,중단영업귀속자산,-,제 33 기,,제 32 기,118166704,31,KRW,,,,,연결,제 31 기,273677054
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 33 기,197785761,제 32 기,78577030,32,KRW,,,,,연결,제 31 기,182024084
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 33 기,41973984223,제 32 기,18702972324,33,KRW,,,,,연결,제 31 기,22697732708
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 33 기,8193658715,제 32 기,1978663720,35,KRW,,,,,연결,제 31 기,6127904066
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ShortTermTradePayables,단기매입채무,-,제 33 기,437026330,제 32 기,319561045,36,KRW,,,,,연결,제 31 기,350632056
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ShortTermOtherPayables,단기미지급금,-,제 33 기,1026242013,제 32 기,353437743,37,KRW,,,,,연결,제 31 기,943880361
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ShortTermAccruedExpenses,단기미지급비용,-,제 33 기,896031907,제 32 기,75698110,38,KRW,,,,,연결,제 31 기,49205753
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_ShorttermBorrowings,단기차입금,-,제 33 기,3000000000,제 32 기,,39,KRW,,,,,연결,제 31 기,2800000000
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ShortTermAdvancesCustomers,단기선수금,-,제 33 기,6261464,제 32 기,1035105795,40,KRW,,,,,연결,제 31 기,730406829
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ShortTermIncomeReceivedInAdvance,단기선수수익,-,제 33 기,2445243175,제 32 기,86558129,41,KRW,,,,,연결,제 31 기,892434430
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ShortTermWithholdings,단기예수금,-,제 33 기,62542345,제 32 기,40798632,42,KRW,,,,,연결,제 31 기,18179962
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_DividendsPayable,미지급배당금,-,제 33 기,9750,제 32 기,9750,43,KRW,,,,,연결,제 31 기,9750
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_OtherCurrentLiabilities,중단사업귀속부채,-,제 33 기,51179182,제 32 기,51179182,44,KRW,,,,,연결,제 31 기,343154925
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_PaymentsOfIncomeTaxesPayable,미지급법인세,-,제 33 기,67800416,제 32 기,16315334,45,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_CurrentLeaseLiabilities,유동리스부채,-,제 33 기,201322133,제 32 기,,46,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 33 기,12811451355,제 32 기,154946565,47,KRW,,,,,연결,제 31 기,81011277
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_LongTermBorrowingsGross,장기차입금,-,제 33 기,554651325,제 32 기,,48,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ConvertibleBonds,전환사채,-,제 33 기,9699955664,제 32 기,,49,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_RedemptionPremiumOnConvertibleBonds,전환사채상환할증금,-,제 33 기,752284249,제 32 기,,50,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ConversionRightsAdjustmentOfConvertibleBonds,전환사채전환권조정,-,제 33 기,3217308452,제 32 기,,51,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_BondWithWarrant,신주인수권부사채,-,제 33 기,2100000000,제 32 기,,52,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_RedemptionPremiumOnBondWithWarrant,신주인수권부사채상환할증금,-,제 33 기,107530500,제 32 기,,53,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ExchangeableRightsAdjustmentOfExchangeableBonds,신주인수권조정,-,제 33 기,620607334,제 32 기,,54,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_NoncurrentLeaseLiabilities,비유동리스부채,-,제 33 기,55066055,제 32 기,,55,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_PostemploymentBenefitObligations,확정급여부채,-,제 33 기,266903076,제 32 기,154946565,56,KRW,,,,,연결,제 31 기,81011277
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_NonCurrentDerivativeLiabilities,비유동파생상품부채,-,제 33 기,3112976272,제 32 기,,57,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 33 기,21005110070,제 32 기,2133610285,58,KRW,,,,,연결,제 31 기,6208915343
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,-,제 33 기,20564520280,제 32 기,16569362039,60,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 33 기,8479633000,제 32 기,7916274500,61,KRW,,,,,연결,제 31 기,7916274500
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 33 기,6011917200,제 32 기,2075290610,62,KRW,,,,,연결,제 31 기,2075290610
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_SharePremium,주식발행초과금,-,제 33 기,6011917200,제 32 기,2075290610,63,KRW,,,,,연결,제 31 기,2075290610
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타자본구성요소,-,제 33 기,-3140356901,제 32 기,-176345145,64,KRW,,,,,연결,제 31 기,-176345145
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_TreasuryShares,자기주식,-,제 33 기,1595070,제 32 기,,65,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_OtherCapitalAdjustments,기타자본조정,-,제 33 기,-3283727344,제 32 기,-176345145,66,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_StockOptions,주식선택권,-,제 33 기,144965513,제 32 기,,67,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,-,제 33 기,-16914446,제 32 기,1040859,68,KRW,,,,,연결,제 31 기,5140178
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_GainsCumulativeEffectForeignCurrencyTranslation,해외사업환산이익,-,제 33 기,-16914446,제 32 기,1040859,69,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금(결손금),-,제 33 기,9230241427,제 32 기,6753101215,70,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_LegalReserve,이익준비금,-,제 33 기,74488625,제 32 기,74488625,71,KRW,,,,,연결,제 31 기,74488625
+20200330003517,11011,2019,00140131,BS,재무상태표,dart_RetainedEarningsBeforeAppropriationsAccumulatedDeficitBeforeDisposition,미처분이익잉여금(미처리결손금),-,제 33 기,9155752802,제 32 기,6678612590,72,KRW,,,,,연결,제 31 기,6593968597
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 33 기,404353873,제 32 기,,73,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 33 기,20968874153,제 32 기,16569362039,74,KRW,,,,,연결,제 31 기,16488817365
+20200330003517,11011,2019,00140131,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 33 기,41973984223,제 32 기,18702972324,75,KRW,,,,,연결,제 31 기,22697732708
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_Revenue,수익(매출액),-,제 33 기,26737869784,제 32 기,19622960624,0,KRW,,,,,연결,제 31 기,14286728508
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,dart_RevenueFromSaleOfGoodsMerchandise,상품매출액,-,제 33 기,86558110,제 32 기,1002753939,1,KRW,,,,,연결,제 31 기,2038973884
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,dart_RevenueFromServices,용역매출액,-,제 33 기,675555000,제 32 기,2426228253,2,KRW,,,,,연결,제 31 기,2692505724
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_OtherRevenue,서비스매출액,-,제 33 기,25975756674,제 32 기,16193978432,3,KRW,,,,,연결,제 31 기,9555248900
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 33 기,18135357041,제 32 기,14632594936,4,KRW,,,,,연결,제 31 기,11025628058
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,dart_CostOfSalesFromSaleOfGoodsMerchandises,상품매출원가,-,제 33 기,81048888,제 32 기,899603757,5,KRW,,,,,연결,제 31 기,1723970615
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,dart_CostOfSalesFromServices,용역매출원가,-,제 33 기,425550000,제 32 기,1979045321,6,KRW,,,,,연결,제 31 기,2178356014
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,dart_OtherCostOfSales,서비스매출원가,-,제 33 기,17628758153,제 32 기,11753945858,7,KRW,,,,,연결,제 31 기,7123301429
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 33 기,8602512743,제 32 기,4990365688,8,KRW,,,,,연결,제 31 기,3261100450
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 33 기,7899615849,제 32 기,4723417950,9,KRW,,,,,연결,제 31 기,3756382580
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익(손실),-,제 33 기,702896894,제 32 기,266947738,10,KRW,,,,,연결,제 31 기,-495282130
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,dart_OtherGains,기타이익,-,제 33 기,2936566813,제 32 기,383934204,11,KRW,,,,,연결,제 31 기,214409549
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,dart_OtherLosses,기타손실,-,제 33 기,1213671284,제 32 기,296969918,12,KRW,,,,,연결,제 31 기,956750362
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 33 기,514087474,제 32 기,51128685,13,KRW,,,,,연결,제 31 기,281804214
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융원가,-,제 33 기,667675569,제 32 기,16948168,14,KRW,,,,,연결,제 31 기,149199492
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-,제 33 기,2272204328,제 32 기,388092541,15,KRW,,,,,연결,제 31 기,-1105018221
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,-,제 33 기,-1029398,제 32 기,151701428,16,KRW,,,,,연결,제 31 기,362862243
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_ProfitLossFromContinuingOperations,계속영업이익(손실),-,제 33 기,2273233726,제 32 기,236391113,17,KRW,,,,,연결,제 31 기,-1467880464
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업이익(손실),-,제 33 기,,제 32 기,-85404545,18,KRW,,,,,연결,제 31 기,-797261375
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 33 기,2273233726,제 32 기,150986568,19,KRW,,,,,연결,제 31 기,-2265141839
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 33 기,-244072170,제 32 기,-77875302,20,KRW,,,,,연결,제 31 기,42837076
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는항목(세후기타포괄손익),-,제 33 기,-215975494,제 32 기,-73775983,21,KRW,,,,,연결,제 31 기,42837076
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정손익(세후기타포괄손익),-,제 33 기,-194071304,제 32 기,-63525452,22,KRW,,,,,연결,제 31 기,42837076
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,지분법 적용대상 관계기업과 공동기업의 기타포괄손익에 대한 지분(세후기타포괄손익),-,제 33 기,-21904190,제 32 기,-10250531,23,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류될 수 있는 항목(세후기타포괄손익),-,제 33 기,-28096676,제 32 기,-4099319,24,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,-,제 33 기,,제 32 기,-4099319,25,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업환산손익,-,제 33 기,-28096676,제 32 기,,26,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 33 기,2029161556,제 32 기,73111266,27,KRW,,,,,연결,제 31 기,-2222304763
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 당기순이익(손실),-,제 33 기,2693115706,제 32 기,150986568,29,KRW,,,,,연결,제 31 기,-2241137990
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분에 귀속되는 당기순이익(손실),-,제 33 기,-419881980,제 32 기,,30,KRW,,,,,연결,제 31 기,-24003849
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"총 포괄손익, 지배기업의 소유주에게 귀속되는 지분",-,제 33 기,2460225766,제 32 기,73111266,32,KRW,,,,,연결,제 31 기,-2198300914
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,"총 포괄손익, 비지배지분",-,제 33 기,-431064210,제 32 기,,33,KRW,,,,,연결,제 31 기,-24003849
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),-,제 33 기,139,제 32 기,10,35,KRW,,,,,연결,제 31 기,-148
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,계속영업기본주당이익(손실),-,제 33 기,139,제 32 기,15,36,KRW,,,,,연결,제 31 기,-96
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,중단영업기본주당이익(손실),-,제 33 기,,제 32 기,-5,37,KRW,,,,,연결,제 31 기,-52
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,희석주당이익(손실),-,제 33 기,139,제 32 기,10,38,KRW,,,,,연결,제 31 기,-148
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,계속영업희석주당이익(손실),-,제 33 기,139,제 32 기,15,39,KRW,,,,,연결,제 31 기,-96
+20200330003517,11011,2019,00140131,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,중단영업희석주당이익(손실),-,제 33 기,,제 32 기,-5,40,KRW,,,,,연결,제 31 기,-52
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 33 기,775974287,제 32 기,-1805219881,0,KRW,,,,,연결,제 31 기,-63763346
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_ProfitLossForStatementOfCashFlows,당기순이익(손실),-,제 33 기,2273233726,제 32 기,150986568,1,KRW,,,,,연결,제 31 기,-2265141839
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감,-,제 33 기,-327552987,제 32 기,645691709,2,KRW,,,,,연결,제 31 기,1928713409
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여,-,제 33 기,189308832,제 32 기,132287789,3,KRW,,,,,연결,제 31 기,169771874
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForInterestIncome,이자수익,-,제 33 기,84514838,제 32 기,89514504,4,KRW,,,,,연결,제 31 기,124011951
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForInterestExpenses,이자비용,-,제 33 기,375643861,제 32 기,6120153,5,KRW,,,,,연결,제 31 기,45384147
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용,-,제 33 기,-1029398,제 32 기,151701428,6,KRW,,,,,연결,제 31 기,362862243
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForShareBasedPayment,주식보상비용,-,제 33 기,144965513,제 32 기,,7,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForGainsOnEvaluationOfDerivativeFinancialAssets,파생금융자산평가이익,-,제 33 기,394350809,제 32 기,,8,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForLossesOnEvaluationOfDerivativeFinancialAssets,파생금융자산평가손실,-,제 33 기,37227157,제 32 기,,9,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익,-,제 33 기,,제 32 기,,10,KRW,,,,,연결,제 31 기,563617
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForLossesOnDispositionOfPropertyPlantAndEquipment,유형자산처분손실,-,제 33 기,,제 32 기,,11,KRW,,,,,연결,제 31 기,157024257
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfIntangibleAssets,무형자산처분이익,-,제 33 기,,제 32 기,,12,KRW,,,,,연결,제 31 기,13508048
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsOfIntangibleAssets,무형자산처분손실,-,제 33 기,,제 32 기,,13,KRW,,,,,연결,제 31 기,36072443
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForLossesFromInventoryLiquidation,재고자산처분손실,-,제 33 기,,제 32 기,,14,KRW,,,,,연결,제 31 기,313093554
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForMiscellaneousLosses,잡손실,-,제 33 기,,제 32 기,347,15,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForDepreciationExpense,감가상각비,-,제 33 기,353783392,제 32 기,59225346,16,KRW,,,,,연결,제 31 기,85057314
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForAmortisationExpense,무형자산상각비,-,제 33 기,683597488,제 32 기,329486888,17,KRW,,,,,연결,제 31 기,336393058
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOfIntangibleAssets,무형자산손상차손,-,제 33 기,559564514,제 32 기,,18,KRW,,,,,연결,제 31 기,549702634
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForLossesOnEvaluationOfFairValueFinancialAssets,당기손익-공정가치측정금융자산평가손실,-,제 33 기,182494170,제 32 기,,19,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비,-,제 33 기,3190029,제 32 기,9625419,20,KRW,,,,,연결,제 31 기,-82709186
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForOtherBadDebtExpenses,기타의 대손상각비,-,제 33 기,228190685,제 32 기,,21,KRW,,,,,연결,제 31 기,139777600
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForOtherLossesWithoutCashFlowOut,기타자산손상차손,-,제 33 기,108105908,제 32 기,173060189,22,KRW,,,,,연결,제 31 기,155454545
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForLossesOnForeignExchangeTranslations,외화환산손실,-,제 33 기,30920214,제 32 기,8391088,23,KRW,,,,,연결,제 31 기,13493851
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익,-,제 33 기,1288630,제 32 기,,24,KRW,,,,,연결,제 31 기,29715238
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법이익,-,제 33 기,362425770,제 32 기,331178767,25,KRW,,,,,연결,제 31 기,184866071
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForLossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법손실,-,제 33 기,187431942,제 32 기,208064677,26,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfInvestmentsInAssociates,관계기업투자주식처분이익,-,제 33 기,2568367247,제 32 기,11578344,27,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로인한자산ㆍ부채의변동,-,제 33 기,-1151098123,제 32 기,-2649726145,28,KRW,,,,,연결,제 31 기,221043024
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAccountReceivable,매출채권의 감소(증가),-,제 33 기,195663777,제 32 기,44694621,29,KRW,,,,,연결,제 31 기,1929739847
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInTradeAndOtherReceivables,기타채권의 감소(증가),-,제 33 기,-30367308,제 32 기,-1291506045,30,KRW,,,,,연결,제 31 기,-210764139
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInOtherCurrentAssets,기타자산의 감소(증가),-,제 33 기,-2372417200,제 32 기,110827435,31,KRW,,,,,연결,제 31 기,-1138529856
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAccountPayable,매입채무의 증가(감소),-,제 33 기,-8591556,제 32 기,-31071011,32,KRW,,,,,연결,제 31 기,-430985690
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInTradeAndOtherPayables,기타채무의 증가(감소),-,제 33 기,1390775849,제 32 기,-1342875757,33,KRW,,,,,연결,제 31 기,236872803
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInPostemploymentBenefitObligations,퇴직급여채무의 증가(감소),-,제 33 기,-125138359,제 32 기,-38757558,34,KRW,,,,,연결,제 31 기,-266594587
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInFairValueOfPlanAssets,사외적립자산의공정가치의 감소(증가),-,제 33 기,-201023326,제 32 기,-101037830,35,KRW,,,,,연결,제 31 기,101304646
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취(영업),-,제 33 기,107235698,제 32 기,54725097,36,KRW,,,,,연결,제 31 기,106948937
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급(영업),-,제 33 기,113887836,제 32 기,6120153,37,KRW,,,,,연결,제 31 기,45384147
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부(환급),-,제 33 기,11956191,제 32 기,776957,38,KRW,,,,,연결,제 31 기,9942730
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 33 기,-9560250655,제 32 기,3323158815,39,KRW,,,,,연결,제 31 기,-573955625
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 처분,-,제 33 기,1260000000,제 32 기,9606831520,40,KRW,,,,,연결,제 31 기,10520664444
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 취득,-,제 33 기,300000000,제 32 기,4791831520,41,KRW,,,,,연결,제 31 기,10294664444
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_ProceedsFromSalesOfLongTermFinancialInstruments,장기금융상품의 처분,-,제 33 기,,제 32 기,,42,KRW,,,,,연결,제 31 기,2500000
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_ProceedsFromSalesOfLongTermLoansAndReceivables,장기대여금의 처분,-,제 33 기,57850002,제 32 기,3758337,43,KRW,,,,,연결,제 31 기,69500000
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_PurchaseOfAvailableForSaleFinancialAssets,매도가능금융자산의 취득,-,제 33 기,,제 32 기,,44,KRW,,,,,연결,제 31 기,125000000
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_ProceedsFromSalesOfFixturesAndFittings,집기비품의 처분,-,제 33 기,,제 32 기,505803,45,KRW,,,,,연결,제 31 기,913048
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_PurchaseOfLongTermLoansAndReceivables,장기대여금의 취득,-,제 33 기,20000000,제 32 기,137983326,46,KRW,,,,,연결,제 31 기,23000000
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_PurchaseOfInvestmentsInSubsidiaries,종속기업투자주식 취득,-,제 33 기,,제 32 기,,47,KRW,,,,,연결,제 31 기,456000000
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_CashFlowsUsedInObtainingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,종속기업과 기타 사업의 지배력 획득에 따른 현금흐름,-,제 33 기,4683250526,제 32 기,,48,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_PurchaseOfInvestmentsInSubsidiariesJointVenturesAndAssociates,관계기업투자주식의 취득,-,제 33 기,,제 32 기,1082167565,49,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_PurchaseOfFairValueFinancialAsset,당기손익-공정가치측정금융자산의 취득,-,제 33 기,250000000,제 32 기,125000000,50,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_PurchaseOfNonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,영업양수도,-,제 33 기,5050000000,제 32 기,,51,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_PurchaseOfFixturesAndFittings,집기비품의 취득,-,제 33 기,66909488,제 32 기,44511107,52,KRW,,,,,연결,제 31 기,186461155
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,임차보증금의 증가,-,제 33 기,52820281,제 32 기,,53,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,상표권의 취득,-,제 33 기,,제 32 기,1650600,54,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_PurchaseOfComputerSoftware,소프트웨어의 취득,-,제 33 기,155144656,제 32 기,1972727,55,KRW,,,,,연결,제 31 기,5407518
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_PurchaseOfCopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRights,저작권의 취득,-,제 33 기,,제 32 기,8000000,56,KRW,,,,,연결,제 31 기,77000000
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_PurchaseOfIntangibleAssetsUnderDevelopment,개발중인자산의 취득,-,제 33 기,,제 32 기,94820000,57,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities,현금의기타유입(유출),-,제 33 기,-299975706,제 32 기,,58,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 33 기,18778335415,제 32 기,-2800000000,59,KRW,,,,,연결,제 31 기,790152744
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 증가,-,제 33 기,3000000000,제 32 기,400000000,60,KRW,,,,,연결,제 31 기,2800000000
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_ProceedsFromConvertibleBonds,전환사채의 발행,-,제 33 기,9672154774,제 32 기,,61,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_ProceedsFromBondWithWarrant,신주인수권부사채의 발행,-,제 33 기,2100000000,제 32 기,,62,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_ProceedsFromIssuingShares,유상증자,-,제 33 기,4499985090,제 32 기,,63,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_AcquisitionOfTreasuryShares,자기주식의 취득,-,제 33 기,1595070,제 32 기,,64,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_DispositionOfTreasuryShares,자기주식의 처분,-,제 33 기,,제 32 기,,65,KRW,,,,,연결,제 31 기,2481340744
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 33 기,276796704,제 32 기,,66,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_PaymentsFromChangesInOwnershipInterestsInSubsidiaries,비지배지분의 매입,-,제 33 기,,제 32 기,,67,KRW,,,,,연결,제 31 기,114000000
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 33 기,215412675,제 32 기,3200000000,68,KRW,,,,,연결,제 31 기,4377188000
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,환율변동효과 반영전 현금및현금성자산의 순증가(감소),-,제 33 기,9994059047,제 32 기,-1282061066,69,KRW,,,,,연결,제 31 기,152433773
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 33 기,879235466,제 32 기,2161296532,70,KRW,,,,,연결,제 31 기,2008489982
+20200330003517,11011,2019,00140131,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 33 기,-9588894,제 32 기,,71,KRW,,,,,연결,제 31 기,372777
+20200330003517,11011,2019,00140131,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 33 기,10863705619,제 32 기,879235466,72,KRW,,,,,연결,제 31 기,2161296532
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 33 기,7916274500,제 32 기,7916274500,1,KRW,,,,,연결,제 31 기,7916274500
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 33 기,2075290610,제 32 기,2075296610,1,KRW,,,,,연결,제 31 기,2075296610
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 33 기,16569362039,제 32 기,16488823365,1,KRW,,,,,연결,제 31 기,18695393140
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 33 기,1040859,제 32 기,5140178,1,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 33 기,16569362039,제 32 기,16488817365,1,KRW,,,,,연결,제 31 기,16781373174
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 33 기,-176345145,제 32 기,-176345145,1,KRW,,,,,연결,제 31 기,-177792552
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 33 기,6753101215,제 32 기,6668457222,1,KRW,,,,,연결,제 31 기,8881614582
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경에 따른 증가(감소),연결재무제표 [member],제 33 기,,제 32 기,7433408,2,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경에 따른 증가(감소),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 33 기,,제 32 기,7433408,2,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경에 따른 증가(감소),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 33 기,,제 32 기,7433408,2,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|비지배지분 [member],제 33 기,-419881980,제 32 기,,3,KRW,,,,,연결,제 31 기,-24003849
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 33 기,2693115706,제 32 기,150986568,3,KRW,,,,,연결,제 31 기,-2241137990
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),연결재무제표 [member],제 33 기,2273233726,제 32 기,150986568,3,KRW,,,,,연결,제 31 기,-2265141839
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 33 기,2693115706,제 32 기,150986568,3,KRW,,,,,연결,제 31 기,-2241137990
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,기타포괄손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 33 기,-215975494,제 32 기,-77875302,4,KRW,,,,,연결,제 31 기,33120808
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,기타포괄손익,연결재무제표 [member],제 33 기,-215975494,제 32 기,-77875302,4,KRW,,,,,연결,제 31 기,33120808
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,기타포괄손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 33 기,-215975494,제 32 기,-73775983,4,KRW,,,,,연결,제 31 기,27980630
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,기타포괄손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 33 기,,제 32 기,-4099319,4,KRW,,,,,연결,제 31 기,5140178
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_ShareBasedPaymentTransactions,주식선택권,연결재무제표 [member],제 33 기,144965513,제 32 기,,5,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_ShareBasedPaymentTransactions,주식선택권,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 33 기,144965513,제 32 기,,5,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_ShareBasedPaymentTransactions,주식선택권,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 33 기,144965513,제 32 기,,5,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_IncreaseDecreaseThroughBusinessCombinations,영업양수도,연결재무제표 [member],제 33 기,-685469784,제 32 기,,6,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_IncreaseDecreaseThroughBusinessCombinations,영업양수도,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 33 기,-685469784,제 32 기,,6,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_IncreaseDecreaseThroughBusinessCombinations,영업양수도,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 33 기,-685469784,제 32 기,,6,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [member]|비지배지분 [member],제 33 기,-11182230,제 32 기,,7,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 33 기,-16914446,제 32 기,,7,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 33 기,-16914446,제 32 기,,7,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,연결재무제표 [member],제 33 기,-28096676,제 32 기,,7,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 33 기,-2421912415,제 32 기,,8,KRW,,,,,연결,제 31 기,-565879371
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 33 기,-2422953274,제 32 기,,8,KRW,,,,,연결,제 31 기,-565879371
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,연결재무제표 [member],제 33 기,-1587535191,제 32 기,,8,KRW,,,,,연결,제 31 기,-541875522
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [member]|비지배지분 [member],제 33 기,835418083,제 32 기,,8,KRW,,,,,연결,제 31 기,24003849
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 33 기,-1040859,제 32 기,,8,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,연결재무제표 [member],제 33 기,4499985090,제 32 기,,9,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 33 기,4499985090,제 32 기,,9,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 33 기,3936626590,제 32 기,,9,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 33 기,563358500,제 32 기,,9,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 33 기,-1595070,제 32 기,,10,KRW,,,,,연결,제 31 기,567326778
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 33 기,-1595070,제 32 기,,10,KRW,,,,,연결,제 31 기,567326778
+20200330003517,11011,2019,00140131,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식,연결재무제표 [member],제 33 기,-1595070,제 32 기,,10,KRW,,,,,연결,제 31 기,2481340744
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 33 기,9230241427,제 32 기,6753101215,11,KRW,,,,,연결,제 31 기,6668457222
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 33 기,-16914446,제 32 기,1040859,11,KRW,,,,,연결,제 31 기,5140178
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 33 기,-3140356901,제 32 기,-176345145,11,KRW,,,,,연결,제 31 기,-176345145
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 33 기,20564520280,제 32 기,16569362039,11,KRW,,,,,연결,제 31 기,16488823365
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|비지배지분 [member],제 33 기,404353873,제 32 기,,11,KRW,,,,,연결,제 31 기,
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_Equity,기말자본,연결재무제표 [member],제 33 기,20968874153,제 32 기,16569362039,11,KRW,,,,,연결,제 31 기,16488817365
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 33 기,8479633000,제 32 기,7916274500,11,KRW,,,,,연결,제 31 기,7916274500
+20200330003517,11011,2019,00140131,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 33 기,6011917200,제 32 기,2075290610,11,KRW,,,,,연결,제 31 기,2075296610
