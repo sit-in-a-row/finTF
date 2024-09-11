@@ -1,0 +1,183 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분,bfefrmtrm_nm,bfefrmtrm_amount
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 21 기,29001398134,제 20 기,33073008391,1,KRW,,,,,연결,제 19 기,32125919229
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 21 기,7815990068,제 20 기,18638114615,2,KRW,,,,,연결,제 19 기,8905301454
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_TradeAndOtherCurrentReceivables,유동매출채권 및 기타채권,-,제 21 기,9217835159,제 20 기,8752189765,3,KRW,,,,,연결,제 19 기,8905920788
+20200327001543,11011,2019,00416654,BS,재무상태표,dart_CurrentAvailableForSaleFinancialAssets,유동매도가능금융자산,-,제 21 기,0,제 20 기,0,4,KRW,,,,,연결,제 19 기,152221479
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_OtherCurrentFinancialAssets,기타유동금융자산,-,제 21 기,9230718098,제 20 기,3201051295,5,KRW,,,,,연결,제 19 기,11118819463
+20200327001543,11011,2019,00416654,BS,재무상태표,dart_OtherCurrentAssets,기타유동자산,-,제 21 기,2592206158,제 20 기,2322938039,6,KRW,,,,,연결,제 19 기,2860986246
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_CurrentTaxAssets,당기법인세자산,-,제 21 기,144648651,제 20 기,158714677,7,KRW,,,,,연결,제 19 기,182669799
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 21 기,17196630143,제 20 기,18081121443,8,KRW,,,,,연결,제 19 기,19091724107
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 21 기,9954238470,제 20 기,9105845870,9,KRW,,,,,연결,제 19 기,9306731326
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,-,제 21 기,2057672814,제 20 기,2187857245,10,KRW,,,,,연결,제 19 기,1613431196
+20200327001543,11011,2019,00416654,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,비유동매출채권 및 기타채권,-,제 21 기,3653698741,제 20 기,4112048917,11,KRW,,,,,연결,제 19 기,3942626049
+20200327001543,11011,2019,00416654,BS,재무상태표,dart_NonCurrentAvailableForSaleFinancialAssets,비유동매도가능금융자산,-,제 21 기,0,제 20 기,0,12,KRW,,,,,연결,제 19 기,1865329526
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 금융자산,-,제 21 기,374500,제 20 기,374500,13,KRW,,,,,연결,제 19 기,0
+20200327001543,11011,2019,00416654,BS,재무상태표,dart_OtherNonCurrentAssets,기타비유동자산,-,제 21 기,146296609,제 20 기,146296609,14,KRW,,,,,연결,제 19 기,146296609
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 21 기,1384349009,제 20 기,2528698302,15,KRW,,,,,연결,제 19 기,2217309401
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 21 기,46198028277,제 20 기,51154129834,16,KRW,,,,,연결,제 19 기,51217643336
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 21 기,8946661686,제 20 기,10084327960,18,KRW,,,,,연결,제 19 기,11359316594
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayables,매입채무 및 기타채무,-,제 21 기,2960618389,제 20 기,6259320531,19,KRW,,,,,연결,제 19 기,4548835137
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_ShorttermBorrowings,단기차입금,-,제 21 기,4100000000,제 20 기,3011708237,20,KRW,,,,,연결,제 19 기,5000000000
+20200327001543,11011,2019,00416654,BS,재무상태표,dart_OtherCurrentLiabilities,기타유동부채,-,제 21 기,1776170783,제 20 기,813299192,21,KRW,,,,,연결,제 19 기,1810481457
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 21 기,109872514,제 20 기,0,22,KRW,,,,,연결,제 19 기,0
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 21 기,1804547448,제 20 기,115821020,23,KRW,,,,,연결,제 19 기,48062112
+20200327001543,11011,2019,00416654,BS,재무상태표,dart_PresentValueOfDefinedBenefitObligation,확정급여부채,-,제 21 기,24620960,제 20 기,11115078,24,KRW,,,,,연결,제 19 기,19898903
+20200327001543,11011,2019,00416654,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentPayables,비유동매입채무 및 기타채무,-,제 21 기,1369949844,제 20 기,104705942,25,KRW,,,,,연결,제 19 기,28163209
+20200327001543,11011,2019,00416654,BS,재무상태표,dart_OtherNonCurrentLiabilities,기타비유동부채,-,제 21 기,409976644,제 20 기,0,26,KRW,,,,,연결,제 19 기,0
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 21 기,10751209134,제 20 기,10200148980,27,KRW,,,,,연결,제 19 기,11407378706
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업 소유주 자본,-,제 21 기,36217932988,제 20 기,41556151604,29,KRW,,,,,연결,제 19 기,40540967537
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 21 기,6597727000,제 20 기,6597727000,30,KRW,,,,,연결,제 19 기,6597727000
+20200327001543,11011,2019,00416654,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 21 기,25117252808,제 20 기,25117252808,31,KRW,,,,,연결,제 19 기,25117252808
+20200327001543,11011,2019,00416654,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타자본,-,제 21 기,-14144949726,제 20 기,-13783147948,32,KRW,,,,,연결,제 19 기,-9966085973
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금,-,제 21 기,18647902906,제 20 기,23624319744,33,KRW,,,,,연결,제 19 기,18792073702
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 21 기,-771113845,제 20 기,-602170750,34,KRW,,,,,연결,제 19 기,-730702907
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 21 기,35446819143,제 20 기,40953980854,35,KRW,,,,,연결,제 19 기,39810264630
+20200327001543,11011,2019,00416654,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 21 기,46198028277,제 20 기,51154129834,36,KRW,,,,,연결,제 19 기,51217643336
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_Revenue,매출액,-,제 21 기,26557494177,제 20 기,33517791307,0,KRW,,,,,연결,제 19 기,31907135067
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 21 기,15599033339,제 20 기,17897711883,1,KRW,,,,,연결,제 19 기,18192267702
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 21 기,10958460838,제 20 기,15620079424,2,KRW,,,,,연결,제 19 기,13714867365
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 21 기,13305034470,제 20 기,12608176856,3,KRW,,,,,연결,제 19 기,14696364197
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익(손실),-,제 21 기,-2346573632,제 20 기,3011902568,4,KRW,,,,,연결,제 19 기,-981496832
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,dart_OtherGains,기타수익,-,제 21 기,493123588,제 20 기,446179582,5,KRW,,,,,연결,제 19 기,230218608
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,dart_OtherLosses,기타비용,-,제 21 기,2608135836,제 20 기,1340857823,6,KRW,,,,,연결,제 19 기,3156440828
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 21 기,511047044,제 20 기,531942806,7,KRW,,,,,연결,제 19 기,1115241895
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융비용,-,제 21 기,242554569,제 20 기,566135670,8,KRW,,,,,연결,제 19 기,918176045
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,-표준계정코드 미사용-,관계기업지분법이익(손실),-,제 21 기,,제 20 기,,9,KRW,,,,,연결,제 19 기,-150173164
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-,제 21 기,-4193093405,제 20 기,2083031463,10,KRW,,,,,연결,제 19 기,-3860826366
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,-,제 21 기,955571589,제 20 기,244232113,11,KRW,,,,,연결,제 19 기,2761066227
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 21 기,-5148664994,제 20 기,1838799350,12,KRW,,,,,연결,제 19 기,-6621892593
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 21 기,-358496717,제 20 기,-695083126,13,KRW,,,,,연결,제 19 기,351495864
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는항목(세후기타포괄손익),-,제 21 기,-301438425,제 20 기,-1055426197,14,KRW,,,,,연결,제 19 기,-2678524
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,-표준계정코드 미사용-,보험수리적손익변동,-,제 21 기,,제 20 기,13310036,15,KRW,,,,,연결,제 19 기,-2678524
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치금융자산평가손익,-,제 21 기,-301438425,제 20 기,-1068736233,16,KRW,,,,,연결,제 19 기,
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,후속적으로 당기손익으로 재분류될 수 있는 항목,-,제 21 기,-57058292,제 20 기,360343071,17,KRW,,,,,연결,제 19 기,354174388
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,매도가능금융자산평가손익,-,제 21 기,,제 20 기,,18,KRW,,,,,연결,제 19 기,-150640843
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,-,제 21 기,,제 20 기,,19,KRW,,,,,연결,제 19 기,14949603
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이(세후기타포괄손익),-,제 21 기,-57058292,제 20 기,360343071,20,KRW,,,,,연결,제 19 기,489865628
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 21 기,-5507161711,제 20 기,1143716224,21,KRW,,,,,연결,제 19 기,-6270396729
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업 소유주지분,-,제 21 기,-4976416838,제 20 기,1786489609,23,KRW,,,,,연결,제 19 기,-6396433119
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,-,제 21 기,-172248156,제 20 기,52309741,24,KRW,,,,,연결,제 19 기,-225459474
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업 소유주지분,-,제 21 기,-5338218616,제 20 기,1015184067,26,KRW,,,,,연결,제 19 기,-6146052399
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,-,제 21 기,-168943095,제 20 기,128532157,27,KRW,,,,,연결,제 19 기,-124344330
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),-,제 21 기,-433,제 20 기,156,29,KRW,,,,,연결,제 19 기,-557
+20200327001543,11011,2019,00416654,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,희석주당이익(손실),-,제 21 기,-433,제 20 기,156,30,KRW,,,,,연결,제 19 기,-557
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 21 기,-7406097375,제 20 기,3091709478,0,KRW,,,,,연결,제 19 기,-2034750787
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_ProfitLossForStatementOfCashFlows,당기순이익(손실),-,제 21 기,-5148664994,제 20 기,1838799350,1,KRW,,,,,연결,제 19 기,-6621892593
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감,-,제 21 기,910873420,제 20 기,-675300549,2,KRW,,,,,연결,제 19 기,4293484767
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForDepreciationExpense,감가상각비,-,제 21 기,1031651940,제 20 기,481505609,3,KRW,,,,,연결,제 19 기,496366674
+20200327001543,11011,2019,00416654,CF,현금흐름표,-표준계정코드 미사용-,지급수수료,-,제 21 기,7430290,제 20 기,26542733,4,KRW,,,,,연결,제 19 기,28163209
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForAmortisationExpense,무형자산상각비,-,제 21 기,33432812,제 20 기,45265684,5,KRW,,,,,연결,제 19 기,58176039
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비,-,제 21 기,56001147,제 20 기,-412914256,6,KRW,,,,,연결,제 19 기,240237258
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForOtherBadDebtExpenses,기타의 대손상각비,-,제 21 기,409221918,제 20 기,150943500,7,KRW,,,,,연결,제 19 기,0
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForOtherLossesWithoutCashFlowOut,급여,-,제 21 기,51584833,제 20 기,68005710,8,KRW,,,,,연결,제 19 기,76219706
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForLossesOnDispositionOfPropertyPlantAndEquipment,유형자산처분손실,-,제 21 기,281250,제 20 기,0,9,KRW,,,,,연결,제 19 기,2585652
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsOfIntangibleAssets,무형자산처분손실,-,제 21 기,0,제 20 기,0,10,KRW,,,,,연결,제 19 기,100397609
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOfIntangibleAssets,무형자산손상차손,-,제 21 기,149160000,제 20 기,0,11,KRW,,,,,연결,제 19 기,137216000
+20200327001543,11011,2019,00416654,CF,현금흐름표,-표준계정코드 미사용-,기타유동금융자산평가손실,-,제 21 기,95065736,제 20 기,414354703,12,KRW,,,,,연결,제 19 기,143620517
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOnAvailableForSaleFinancialAssets,매도가능금융자산손상차손,-,제 21 기,0,제 20 기,0,13,KRW,,,,,연결,제 19 기,604769390
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForLossesOnForeignExchangeTranslations,외화환산손실,-,제 21 기,198299208,제 20 기,357950735,14,KRW,,,,,연결,제 19 기,1215765731
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsOfReceivables,매출채권매각손실,-,제 21 기,0,제 20 기,21428000,15,KRW,,,,,연결,제 19 기,0
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForLossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법손실,-,제 21 기,0,제 20 기,0,16,KRW,,,,,연결,제 19 기,150173164
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsofInvestmentsInAssociates,종속기업투자주식처분손실,-,제 21 기,0,제 20 기,20207717,17,KRW,,,,,연결,제 19 기,510816204
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOnInvestmentsInAssociates,관계기업투자주식손상차손,-,제 21 기,0,제 20 기,0,18,KRW,,,,,연결,제 19 기,12782351
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForInterestExpenses,이자비용,-,제 21 기,147488833,제 20 기,151780967,19,KRW,,,,,연결,제 19 기,169786138
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용,-,제 21 기,955571589,제 20 기,244232113,20,KRW,,,,,연결,제 19 기,2761066227
+20200327001543,11011,2019,00416654,CF,현금흐름표,-표준계정코드 미사용-,정부보조금의 비용상계,-,제 21 기,-1791929112,제 20 기,-1519649300,21,KRW,,,,,연결,제 19 기,-1187958797
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForExpenseOfProvisions,프로젝트손실충당부채 전입액,-,제 21 기,173942388,제 20 기,0,22,KRW,,,,,연결,제 19 기,0
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익,-,제 21 기,2024545,제 20 기,3581818,23,KRW,,,,,연결,제 19 기,22188182
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfIntangibleAssets,무형자산처분이익,-,제 21 기,0,제 20 기,129000000,24,KRW,,,,,연결,제 19 기,5000000
+20200327001543,11011,2019,00416654,CF,현금흐름표,-표준계정코드 미사용-,기타유동금융자산평가이익,-,제 21 기,122060855,제 20 기,121613990,25,KRW,,,,,연결,제 19 기,387114112
+20200327001543,11011,2019,00416654,CF,현금흐름표,-표준계정코드 미사용-,매도가능금융자산처분이익,-,제 21 기,0,제 20 기,0,26,KRW,,,,,연결,제 19 기,396916695
+20200327001543,11011,2019,00416654,CF,현금흐름표,-표준계정코드 미사용-,기타비유동금융자산처분이익,-,제 21 기,0,제 20 기,0,27,KRW,,,,,연결,제 19 기,33898030
+20200327001543,11011,2019,00416654,CF,현금흐름표,-표준계정코드 미사용-,기타유동금융자산처분이익,-,제 21 기,48011120,제 20 기,101711618,28,KRW,,,,,연결,제 19 기,5288315
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익,-,제 21 기,84725058,제 20 기,53545520,29,KRW,,,,,연결,제 19 기,79428448
+20200327001543,11011,2019,00416654,CF,현금흐름표,-표준계정코드 미사용-,배당금수익,-,제 21 기,8532765,제 20 기,6884320,30,KRW,,,,,연결,제 19 기,4839780
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForInterestIncome,이자수익,-,제 21 기,340975069,제 20 기,308617198,31,KRW,,,,,연결,제 19 기,292024743
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로인한자산ㆍ부채의변동,-,제 21 기,-3248852695,제 20 기,1868964402,32,KRW,,,,,연결,제 19 기,-68041161
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAccountReceivable,매출채권,-,제 21 기,-2064223510,제 20 기,1099154927,33,KRW,,,,,연결,제 19 기,1777666246
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInDueFromCustomersForContractWork,계약자산,-,제 21 기,831396497,제 20 기,-187960271,34,KRW,,,,,연결,제 19 기,-761538850
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInOtherReceivables,미수금,-,제 21 기,190209744,제 20 기,-184812015,35,KRW,,,,,연결,제 19 기,11164635
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInAdvancePayments,선급금,-,제 21 기,-900678184,제 20 기,-970217708,36,KRW,,,,,연결,제 19 기,-536333884
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInPrepaidExpenses,선급비용,-,제 21 기,346976656,제 20 기,1362841450,37,KRW,,,,,연결,제 19 기,-207877005
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInDeferredTaxAssets,이연법인세자산,-,제 21 기,-15184575,제 20 기,-18223762,38,KRW,,,,,연결,제 19 기,-82204906
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAccountPayable,매입채무,-,제 21 기,-1418914615,제 20 기,311748576,39,KRW,,,,,연결,제 19 기,-1151352154
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInOtherPayables,미지급금,-,제 21 기,-1913965096,제 20 기,1664574229,40,KRW,,,,,연결,제 19 기,-128710094
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAccruedExpenses,미지급비용,-,제 21 기,34873725,제 20 기,-260958759,41,KRW,,,,,연결,제 19 기,265730409
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInWithholdingsBanks,예수금,-,제 21 기,-210495854,제 20 기,-77879347,42,KRW,,,,,연결,제 19 기,2922809
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInDueToCustomersForContractWork,계약부채,-,제 21 기,487688703,제 20 기,-923453988,43,KRW,,,,,연결,제 19 기,738689600
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAdvancesCustomers,선수금,-,제 21 기,125550202,제 20 기,1451070,44,KRW,,,,,연결,제 19 기,3802033
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInIncomeReceivedInAdvance,선수수익,-,제 21 기,100000,제 20 기,2700000,45,KRW,,,,,연결,제 19 기,0
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInLongTermOtherPayables,장기미지급금,-,제 21 기,1257813612,제 20 기,50000000,46,KRW,,,,,연결,제 19 기,0
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 21 기,215855363,제 20 기,298016738,47,KRW,,,,,연결,제 19 기,209920352
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취,-,제 21 기,8532765,제 20 기,6884320,48,KRW,,,,,연결,제 19 기,4839780
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급,-,제 21 기,114933278,제 20 기,156418255,49,KRW,,,,,연결,제 19 기,169727776
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부(환급),-,제 21 기,28907956,제 20 기,89236528,50,KRW,,,,,연결,제 19 기,-316665844
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 21 기,-3968821332,제 20 기,8587820015,51,KRW,,,,,연결,제 19 기,3107183289
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_ProceedsFromSalesOfOtherCurrentFinancialAssets,기타유동금융자산의 감소,-,제 21 기,16045339436,제 20 기,24241205559,52,KRW,,,,,연결,제 19 기,23428043945
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_ProceedsFromSalesOfOtherNonCurrentFinancialAssets,기타비유동금융자산의 처분,-,제 21 기,0,제 20 기,0,53,KRW,,,,,연결,제 19 기,443898030
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_ProceedsFromSalesOfCurrentAvailableForSaleFinancialAssets,유동매도가능금융자산의 처분,-,제 21 기,0,제 20 기,0,54,KRW,,,,,연결,제 19 기,718639529
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,정부보조금의 수취,-,제 21 기,1904144133,제 20 기,1614857068,55,KRW,,,,,연결,제 19 기,1203929352
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_ProceedsFromSalesOfNonCurrentAvailableForSaleFinancialAssets,비유동매도가능금융자산의 처분,-,제 21 기,0,제 20 기,0,56,KRW,,,,,연결,제 19 기,857808
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금의 감소,-,제 21 기,123000000,제 20 기,0,57,KRW,,,,,연결,제 19 기,755448284
+20200327001543,11011,2019,00416654,CF,현금흐름표,-표준계정코드 미사용-,유동성장기대여금의 회수,-,제 21 기,798155960,제 20 기,806929570,58,KRW,,,,,연결,제 19 기,2052600450
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermLoansAndReceivables,단기기대여금의 회수,-,제 21 기,260000000,제 20 기,400000000,59,KRW,,,,,연결,제 19 기,0
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 21 기,32241585,제 20 기,4054107,60,KRW,,,,,연결,제 19 기,40333057
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 21 기,2507278,제 20 기,540000000,61,KRW,,,,,연결,제 19 기,209236364
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_PurchaseOfOtherCurrentFinancialAssets,기타유동금융자산의 취득,-,제 21 기,22000000000,제 20 기,15867464639,62,KRW,,,,,연결,제 19 기,23098410094
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_PurchaseOfOtherNonCurrentFinancialAssets,기타비유동금융자산의 취득,-,제 21 기,0,제 20 기,0,63,KRW,,,,,연결,제 19 기,110000000
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_PurchaseOfNonCurrentAvailableForSaleFinancialAssets,비유동매도가능금융자산의 취득,-,제 21 기,0,제 20 기,0,64,KRW,,,,,연결,제 19 기,500000000
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 21 기,18133200,제 20 기,0,65,KRW,,,,,연결,제 19 기,1011067680
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_PurchaseOfShortTermLoansAndReceivables,단기대여금의 대여,-,제 21 기,260000000,제 20 기,800000000,66,KRW,,,,,연결,제 19 기,144639000
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_PurchaseOfLongTermLoansAndReceivables,장기대여금의 대여,-,제 21 기,400000000,제 20 기,940000000,67,KRW,,,,,연결,제 19 기,390000000
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 21 기,401183816,제 20 기,380853410,68,KRW,,,,,연결,제 19 기,413352699
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 21 기,54892708,제 20 기,1030908240,69,KRW,,,,,연결,제 19 기,78334057
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 21 기,685942335,제 20 기,-1988291763,70,KRW,,,,,연결,제 19 기,-6033427
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 증가,-,제 21 기,2030099430,제 20 기,7031381798,71,KRW,,,,,연결,제 19 기,5020081447
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 21 기,941807667,제 20 기,9019673561,72,KRW,,,,,연결,제 19 기,5020081447
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,유동성장기차입금의 상환,-,제 21 기,0,제 20 기,0,73,KRW,,,,,연결,제 19 기,2644901
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 상환,-,제 21 기,0,제 20 기,0,74,KRW,,,,,연결,제 19 기,3388526
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 21 기,402349428,제 20 기,0,75,KRW,,,,,연결,제 19 기,0
+20200327001543,11011,2019,00416654,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금의 증가(감소),-,제 21 기,-10688976372,제 20 기,9691237730,76,KRW,,,,,연결,제 19 기,1066399075
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초의 현금,-,제 21 기,18638114615,제 20 기,8905301454,77,KRW,,,,,연결,제 19 기,8140319128
+20200327001543,11011,2019,00416654,CF,현금흐름표,-표준계정코드 미사용-,외화환산으로 인한 현금변동,-,제 21 기,-133148175,제 20 기,41575431,78,KRW,,,,,연결,제 19 기,-301416749
+20200327001543,11011,2019,00416654,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말의현금,-,제 21 기,7815990068,제 20 기,18638114615,79,KRW,,,,,연결,제 19 기,8905301454
+20200327001543,11011,2019,00416654,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 21 기,25117252808,제 20 기,25117252808,1,KRW,,,,,연결,제 19 기,25117252808
+20200327001543,11011,2019,00416654,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 21 기,6597727000,제 20 기,6597727000,1,KRW,,,,,연결,제 19 기,6597727000
+20200327001543,11011,2019,00416654,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 21 기,23624319744,제 20 기,18792073702,1,KRW,,,,,연결,제 19 기,25191139810
+20200327001543,11011,2019,00416654,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본,제 21 기,-13783147948,제 20 기,-9966085973,1,KRW,,,,,연결,제 19 기,-10219099682
+20200327001543,11011,2019,00416654,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 21 기,41556151604,제 20 기,40540967537,1,KRW,,,,,연결,제 19 기,46687019936
+20200327001543,11011,2019,00416654,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|비지배지분 [member],제 21 기,-602170750,제 20 기,-730702907,1,KRW,,,,,연결,제 19 기,-431416978
+20200327001543,11011,2019,00416654,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 21 기,40953980854,제 20 기,39810264630,1,KRW,,,,,연결,제 19 기,46255602958
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경에 따른 증가(감소),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 21 기,,제 20 기,0,2,KRW,,,,,연결,제 19 기,
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경에 따른 증가(감소),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본,제 21 기,,제 20 기,-3032672668,2,KRW,,,,,연결,제 19 기,
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경에 따른 증가(감소),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 21 기,,제 20 기,3032672668,2,KRW,,,,,연결,제 19 기,
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),연결재무제표 [member],제 21 기,-5148664994,제 20 기,1838799350,3,KRW,,,,,연결,제 19 기,-6621892593
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|비지배지분 [member],제 21 기,-172248156,제 20 기,52309741,3,KRW,,,,,연결,제 19 기,-225459474
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 21 기,-4976416838,제 20 기,1786489609,3,KRW,,,,,연결,제 19 기,-6396433119
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 21 기,-4976416838,제 20 기,1786489609,3,KRW,,,,,연결,제 19 기,-6396433119
+20200327001543,11011,2019,00416654,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,연결재무제표 [member],제 21 기,-301438425,제 20 기,-1068736233,4,KRW,,,,,연결,제 19 기,-150640843
+20200327001543,11011,2019,00416654,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|비지배지분 [member],제 21 기,,제 20 기,,4,KRW,,,,,연결,제 19 기,0
+20200327001543,11011,2019,00416654,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 21 기,,제 20 기,-1068736233,4,KRW,,,,,연결,제 19 기,-150640843
+20200327001543,11011,2019,00416654,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본,제 21 기,-301438425,제 20 기,-1068736233,4,KRW,,,,,연결,제 19 기,-150640843
+20200327001543,11011,2019,00416654,SCE,자본변동표,-표준계정코드 미사용-,보험수리적변동,연결재무제표 [member],제 21 기,,제 20 기,13310036,5,KRW,,,,,연결,제 19 기,-2678524
+20200327001543,11011,2019,00416654,SCE,자본변동표,-표준계정코드 미사용-,보험수리적변동,자본 [member]|비지배지분 [member],제 21 기,,제 20 기,226271,5,KRW,,,,,연결,제 19 기,-45535
+20200327001543,11011,2019,00416654,SCE,자본변동표,-표준계정코드 미사용-,보험수리적변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 21 기,,제 20 기,13083765,5,KRW,,,,,연결,제 19 기,-2632989
+20200327001543,11011,2019,00416654,SCE,자본변동표,-표준계정코드 미사용-,보험수리적변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 21 기,,제 20 기,13083765,5,KRW,,,,,연결,제 19 기,-2632989
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본,제 21 기,,제 20 기,,6,KRW,,,,,연결,제 19 기,14949603
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 21 기,,제 20 기,,6,KRW,,,,,연결,제 19 기,14949603
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,지분법자본변동,자본 [member]|비지배지분 [member],제 21 기,,제 20 기,,6,KRW,,,,,연결,제 19 기,0
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,지분법자본변동,연결재무제표 [member],제 21 기,,제 20 기,,6,KRW,,,,,연결,제 19 기,14949603
+20200327001543,11011,2019,00416654,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본,제 21 기,-60363353,제 20 기,284346926,7,KRW,,,,,연결,제 19 기,388704949
+20200327001543,11011,2019,00416654,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,연결재무제표 [member],제 21 기,-57058292,제 20 기,360343071,7,KRW,,,,,연결,제 19 기,489865628
+20200327001543,11011,2019,00416654,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [member]|비지배지분 [member],제 21 기,3305061,제 20 기,75996145,7,KRW,,,,,연결,제 19 기,101160679
+20200327001543,11011,2019,00416654,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 21 기,-60363353,제 20 기,284346926,7,KRW,,,,,연결,제 19 기,388704949
+20200327001543,11011,2019,00416654,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [member]|비지배지분 [member],제 21 기,,제 20 기,,8,KRW,,,,,연결,제 19 기,-174941599
+20200327001543,11011,2019,00416654,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,연결재무제표 [member],제 21 기,,제 20 기,,8,KRW,,,,,연결,제 19 기,-174941599
+20200327001543,11011,2019,00416654,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 21 기,,제 20 기,,8,KRW,,,,,연결,제 19 기,0
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본,제 21 기,-14144949726,제 20 기,-13783147948,9,KRW,,,,,연결,제 19 기,-9966085973
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 21 기,36217932988,제 20 기,41556151604,9,KRW,,,,,연결,제 19 기,40540967537
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|비지배지분 [member],제 21 기,-771113845,제 20 기,-602170750,9,KRW,,,,,연결,제 19 기,-730702907
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_Equity,기말자본,연결재무제표 [member],제 21 기,35446819143,제 20 기,40953980854,9,KRW,,,,,연결,제 19 기,39810264630
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 21 기,18647902906,제 20 기,23624319744,9,KRW,,,,,연결,제 19 기,18792073702
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 21 기,6597727000,제 20 기,6597727000,9,KRW,,,,,연결,제 19 기,6597727000
+20200327001543,11011,2019,00416654,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 21 기,25117252808,제 20 기,25117252808,9,KRW,,,,,연결,제 19 기,25117252808
