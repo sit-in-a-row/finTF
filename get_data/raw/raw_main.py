@@ -12,7 +12,7 @@
 # get_global_info(start_date, end_date)
 
 from .opendart import get_financial_info
-from .market_data import get_daily_OHLCV, get_real_time_OHLCV, get_index_csvs
+from .market_data import get_daily_OHLCV, get_real_time_OHLCV, get_index_csvs, get_bond_yield_data
 from .crawling import crawl_ir_pdfs, crawl_sedaily_news
 from .FRED import get_global_info
 
@@ -132,5 +132,11 @@ def update_all_raw_info(start_date:str, end_date:str):
     print('=== 글로벌 경제 지표 저장 중... ===')
     get_global_info(start_date, end_date)
     print('=== 글로벌 경제 지표 저장 완료 ===')
+
+    ### === get_bond_yield_data() 업데이트 ===
+    year = start_date[:4]
+    print('=== 국채 1년물 수익률 저장 중... ===')
+    get_bond_yield_data(year, start_date, end_date)
+    print('=== 국채 1년물 수익률 저장 완료 ===')
 
     print(f'{start_date}에서 {end_date}까지의 정보를 모두 업데이트 하였습니다!')

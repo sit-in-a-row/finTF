@@ -10,45 +10,42 @@ def get_index_csvs(target_business_year:str):
 
     이때, 경로는 ~./{store_data}/raw/market_data/{인덱스명}/{사업연도}/{사업연도}_{인덱스명}.csv
     '''
-    try:
-        # 현재 파일의 디렉토리 경로 가져오기
-        current_dir = os.path.dirname(os.path.abspath(__file__))
+    # 현재 파일의 디렉토리 경로 가져오기
+    current_dir = os.path.dirname(os.path.abspath(__file__))
 
-        # 저장 경로 부모 디렉토리의 절대 경로 생성
-        store_path_parent = os.path.join(current_dir, f'../../../store_data/raw/market_data/')
+    # 저장 경로 부모 디렉토리의 절대 경로 생성
+    store_path_parent = os.path.join(current_dir, f'../../../store_data/raw/market_data/')
 
-        # 종목 코드를 key, 종목명을 value로 하는 dict 생성
-        index_ticker_dict = {}
-        for ticker in stock.get_index_ticker_list():
-            index_ticker_dict[ticker] = stock.get_index_ticker_name(ticker)
+    # 종목 코드를 key, 종목명을 value로 하는 dict 생성
+    index_ticker_dict = {}
+    for ticker in stock.get_index_ticker_list():
+        index_ticker_dict[ticker] = stock.get_index_ticker_name(ticker)
 
-        # 종목 코드만 list로 담아두기
-        index_ticker_list = list(index_ticker_dict.keys())
+    # 종목 코드만 list로 담아두기
+    index_ticker_list = list(index_ticker_dict.keys())
 
-        # 정보 조회 후 정의된 경로에 저장하기
-        for i in range(len(index_ticker_list)):
-            index_ticker = index_ticker_list[i]
-            index_name = index_ticker_dict[index_ticker]
+    # 정보 조회 후 정의된 경로에 저장하기
+    for i in range(len(index_ticker_list)):
+        index_ticker = index_ticker_list[i]
+        index_name = index_ticker_dict[index_ticker]
 
-            start_date = f'{target_business_year}0101'
-            end_date = f'{target_business_year}1231'
-            
-            info = stock.get_index_ohlcv(start_date, end_date, index_ticker)
+        start_date = f'{target_business_year}0101'
+        end_date = f'{target_business_year}1231'
+        
+        info = stock.get_index_ohlcv(start_date, end_date, index_ticker)
 
-            # 최종 저장 경로 생성
-            store_path = os.path.join(store_path_parent, f'{index_name}/{target_business_year}/{target_business_year}_{index_name}.csv')
+        # 최종 저장 경로 생성
+        store_path = os.path.join(store_path_parent, f'{index_name}/{target_business_year}/{target_business_year}_{index_name}.csv')
 
-            # 디렉토리 생성 (이미 존재하는 경우 예외 처리)
-            os.makedirs(os.path.dirname(store_path), exist_ok=True)
+        # 디렉토리 생성 (이미 존재하는 경우 예외 처리)
+        os.makedirs(os.path.dirname(store_path), exist_ok=True)
 
-            # DataFrame을 CSV 파일로 저장
-            info.to_csv(store_path, index=False)
+        # DataFrame을 CSV 파일로 저장
+        info.to_csv(store_path, index=True)
 
-            # api 호출 빈도 조정
-            time.sleep(0.5)
+        # api 호출 빈도 조정
+        time.sleep(0.5)
 
-            print(f'{target_business_year} {index_name} CSV 파일 저장 {i+1}/{len(index_ticker_list)}')
+        print(f'{target_business_year} {index_name} CSV 파일 저장 {i+1}/{len(index_ticker_list)}')
 
-        print(f'인덱스 지표 CSV 파일 저장 성공')
-    except Exception as e:
-        print(f'인덱스 지표 CSV 저장 실패: {e}')
+    print(f'인덱스 지표 CSV 파일 저장 성공')
