@@ -1,0 +1,10 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분,bfefrmtrm_nm,bfefrmtrm_amount
+20210813001434,11012,2021,00163512,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 66 기 반기말,623451428340000000,제 65 기말,577928299776000000,1,KRW,,,,,연결,,
+20210813001434,11012,2021,00163512,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 66 기 반기말,174316609185000000,제 65 기말,125635643814000000,2,KRW,,,,,연결,,
+20210813001434,11012,2021,00163512,BS,재무상태표,ifrs-full_TradeAndOtherCurrentReceivables,매출채권 및 기타유동채권,-,제 66 기 반기말,267150535109000000,제 65 기말,253393338713000000,3,KRW,,,,,연결,,
+20210813001434,11012,2021,00163512,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 66 기 반기말,9125294181000000,제 65 기말,8225113822000000,4,KRW,,,,,연결,,
+20210813001434,11012,2021,00163512,BS,재무상태표,ifrs-full_OtherCurrentFinancialAssets,기타유동금융자산,-,제 66 기 반기말,136737810643000000,제 65 기말,27942720464000000,5,KRW,,,,,연결,,
+20210813001434,11012,2021,00163512,BS,재무상태표,-표준계정코드 미사용-,상각후원가금융자산,-,제 66 기 반기말,2500000000000000,제 65 기말,2500000000000000,6,KRW,,,,,연결,,
+20210813001434,11012,2021,00163512,BS,재무상태표,ifrs-full_CurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition,유동 당기손익-공정가치 측정 지정 금융자산,-,제 66 기 반기말,3402570211000000,제 65 기말,84502157889000000,7,KRW,,,,,연결,,
+20210813001434,11012,2021,00163512,BS,재무상태표,dart_OtherCurrentAssets,기타유동자산,-,제 66 기 반기말,23934348829000000,제 65 기말,21728878713000000,8,KRW,,,,,연결,,
+20210813001434,11012,2021,00163512,BS,재무상태표,ifrs-full_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,매각예정 또는 소유주에 대한 분배예정으로 분류된 비유동자산이나 처분자산집단,-,제 66 기 반기말,6284260182000000,제 65 기말,54000446361000000,9,KRW,,,,,연결,,
