@@ -66,13 +66,13 @@ def analyze_portfolio():
     returns = returns.loc[common_dates]
     market_index = market_index.loc[common_dates]
 
-
     # Calculate daily portfolio returns
     portfolio_returns = calculate_portfolio_returns(returns, weights)
 
     # Calculate annualized expected returns and covariance matrix
     expected_returns = returns.mean() * 252  # Assuming 252 trading days
     cov_matrix = returns.cov() * 252  # Annualize covariance matrix
+
 
     # Calculate portfolio expected return
     portfolio_return = np.dot(weights, expected_returns)
@@ -90,6 +90,12 @@ def analyze_portfolio():
     confidence_level = 0.95  # 95% confidence level
     VaR = calculate_var(portfolio_returns, confidence_level)
     ES = calculate_es(portfolio_returns, VaR)
+
+    time_horizon = 1# days
+    VaR *= np.sqrt(time_horizon)
+    ES *= np.sqrt(time_horizon)
+
+
     portfolio_beta = calculate_beta(stocks, returns, weights, market_index)
     b = cb(portfolio_returns, market_index)
 
