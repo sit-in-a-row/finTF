@@ -63,7 +63,11 @@ def update_all_raw_info(start_date:str, end_date:str):
         ### === get_daily_OHLCV() 업데이트 ===
         ### === crawl_sedaily_news() 업데이트 (종목에 대한 크롤링 진행) === 
         ### === get_financial_info() 업데이트 ===
-        for stock_code in stock_code_list:
+        stock_size = len(stock_code_list)
+        # stock_code_list
+        for j in range(0, stock_size):
+            stock_code = stock_code_list[j];
+            print("" + str(j+1) + " / " + str(stock_size));
             print(f'=== {quarter_keys[i]}의 {stock_code}에 대해 정보 수집 시작 ({stock_code_list.index(stock_code) + 1}/{len(stock_code_list)}) ===')
 
             print(f'=== {stock_code}에 대한 {target_quarter_start_date}에서 {target_quarter_end_date}까지의 가격데이터 저장 중... ===')
@@ -119,19 +123,19 @@ def update_all_raw_info(start_date:str, end_date:str):
             crawl_sedaily_news(search_keyword, target_quarter_start_date, target_quarter_end_date)
             print(f'=== {search_keyword}에 대한 {target_quarter_start_date}에서 {target_quarter_end_date}까지의 뉴스 헤드라인 데이터 저장 완료 ===')
 
-    ### === crawl_ir_pdfs() 업데이트 ===
-    # 한 번 실행 시 모든 정보를 다 가져오므로 분기별로 나누어 실행할 필요 없음
-    print('=== IR 자료 저장 중... ===')
-    crawl_ir_pdfs()
-    print('=== IR 자료 저장 완료 ===')
+    # ### === crawl_ir_pdfs() 업데이트 ===
+    # # 한 번 실행 시 모든 정보를 다 가져오므로 분기별로 나누어 실행할 필요 없음
+    # print('=== IR 자료 저장 중... ===')
+    # crawl_ir_pdfs()
+    # print('=== IR 자료 저장 완료 ===')
 
-    ### === get_global_info() 업데이트 ===
-    # start_date와 end_date에 대해 한 번에 받아와도 되는 함수
-    # FRED api로 가져오기 때문에 정보를 금방 가져오기도 하고, 분기별로 나누어 실행할 필요가 없음
-    # 국내 주식장이 아니라 해외 경제 지표들에 대한 함수이기 때문
-    print('=== 글로벌 경제 지표 저장 중... ===')
-    get_global_info(start_date, end_date)
-    print('=== 글로벌 경제 지표 저장 완료 ===')
+    # ### === get_global_info() 업데이트 ===
+    # # start_date와 end_date에 대해 한 번에 받아와도 되는 함수
+    # # FRED api로 가져오기 때문에 정보를 금방 가져오기도 하고, 분기별로 나누어 실행할 필요가 없음
+    # # 국내 주식장이 아니라 해외 경제 지표들에 대한 함수이기 때문
+    # print('=== 글로벌 경제 지표 저장 중... ===')
+    # get_global_info(start_date, end_date)
+    # print('=== 글로벌 경제 지표 저장 완료 ===')
 
     ### === get_bond_yield_data() 업데이트 ===
     year = start_date[:4]

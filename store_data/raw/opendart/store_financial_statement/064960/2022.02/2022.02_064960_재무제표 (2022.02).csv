@@ -1,0 +1,233 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분,bfefrmtrm_nm,bfefrmtrm_amount
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 20 기,666284030097,제 19 기,643925147260,1,KRW,,,,,연결,제 18 기,625855314118
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 20 기,242837499168,제 19 기,251177028949,2,KRW,,,,,연결,제 18 기,295492414188
+20220218001046,11011,2021,00398792,BS,재무상태표,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,단기금융상품,-,제 20 기,100000000000,제 19 기,76069600000,3,KRW,,,,,연결,제 18 기,662100000
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_TradeAndOtherCurrentReceivables,매출채권 및 기타유동채권,-,제 20 기,174298082585,제 19 기,187100382479,4,KRW,,,,,연결,제 18 기,197386031172
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 20 기,140024135917,제 19 기,122620714671,5,KRW,,,,,연결,제 18 기,130080223723
+20220218001046,11011,2021,00398792,BS,재무상태표,dart_OtherCurrentAssets,기타유동자산,-,제 20 기,9124312427,제 19 기,6957421161,6,KRW,,,,,연결,제 18 기,2234545035
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 20 기,483512329048,제 19 기,449002699127,7,KRW,,,,,연결,제 18 기,413050683970
+20220218001046,11011,2021,00398792,BS,재무상태표,dart_LongTermDepositsNotClassifiedAsCashEquivalents,장기금융상품,-,제 20 기,878460491,제 19 기,870100000,8,KRW,,,,,연결,제 18 기,8000000
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_OtherNoncurrentFinancialAssets,비유동금융자산,-,제 20 기,83656944613,제 19 기,42970301300,9,KRW,,,,,연결,제 18 기,1599867940
+20220218001046,11011,2021,00398792,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,장기매출채권 및 기타비유동채권,-,제 20 기,835702858,제 19 기,1244988813,10,KRW,,,,,연결,제 18 기,1425814473
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 20 기,367340469576,제 19 기,372038529944,11,KRW,,,,,연결,제 18 기,376307574435
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,-,제 20 기,13346360622,제 19 기,14201975363,12,KRW,,,,,연결,제 18 기,16495805328
+20220218001046,11011,2021,00398792,BS,재무상태표,dart_OtherNonCurrentAssets,기타비유동자산,-,제 20 기,17454390888,제 19 기,17676803707,13,KRW,,,,,연결,제 18 기,17213621794
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 20 기,1149796359145,제 19 기,1092927846387,14,KRW,,,,,연결,제 18 기,1038905998088
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 20 기,234674528341,제 19 기,274060402207,16,KRW,,,,,연결,제 18 기,241124000414
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayables,매입채무 및 기타유동채무,-,제 20 기,157530115291,제 19 기,209150142669,17,KRW,,,,,연결,제 18 기,174398568813
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_OtherCurrentFinancialLiabilities,파생상품부채,-,제 20 기,1142050000,제 19 기,0,18,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 20 기,26721392395,제 19 기,14501347530,19,KRW,,,,,연결,제 18 기,22522891039
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_CurrentProvisions,유동충당부채,-,제 20 기,8466481727,제 19 기,5021282286,20,KRW,,,,,연결,제 18 기,3579082220
+20220218001046,11011,2021,00398792,BS,재무상태표,dart_OtherCurrentLiabilities,기타유동부채,-,제 20 기,40814488928,제 19 기,45387629722,21,KRW,,,,,연결,제 18 기,40623458342
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 20 기,57544716759,제 19 기,58143054404,22,KRW,,,,,연결,제 18 기,61813030030
+20220218001046,11011,2021,00398792,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentPayables,장기매입채무 및 기타비유동채무,-,제 20 기,1771288963,제 19 기,2264248876,23,KRW,,,,,연결,제 18 기,1524330612
+20220218001046,11011,2021,00398792,BS,재무상태표,dart_PostemploymentBenefitObligations,퇴직급여부채,-,제 20 기,25807599558,제 19 기,28034166269,24,KRW,,,,,연결,제 18 기,29206882840
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 20 기,27923765253,제 19 기,23800842860,25,KRW,,,,,연결,제 18 기,26793010385
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_NoncurrentProvisions,비유동충당부채,-,제 20 기,1391443197,제 19 기,3044107327,26,KRW,,,,,연결,제 18 기,3118360020
+20220218001046,11011,2021,00398792,BS,재무상태표,dart_OtherNonCurrentLiabilities,기타비유동부채,-,제 20 기,650619788,제 19 기,999689072,27,KRW,,,,,연결,제 18 기,1170446173
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 20 기,292219245100,제 19 기,332203456611,28,KRW,,,,,연결,제 18 기,302937030444
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,-,제 20 기,857577114045,제 19 기,760724389776,30,KRW,,,,,연결,제 18 기,735968967644
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 20 기,73115680000,제 19 기,73115680000,31,KRW,,,,,연결,제 18 기,73115680000
+20220218001046,11011,2021,00398792,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 20 기,73306106515,제 19 기,69538731270,32,KRW,,,,,연결,제 18 기,69538731270
+20220218001046,11011,2021,00398792,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타자본구성요소,-,제 20 기,-1782079476,제 19 기,-6589214960,33,KRW,,,,,연결,제 18 기,-4292282260
+20220218001046,11011,2021,00398792,BS,재무상태표,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,-,제 20 기,17956259015,제 19 기,-1561481132,34,KRW,,,,,연결,제 18 기,-1378529904
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금,-,제 20 기,694981147991,제 19 기,626220674598,35,KRW,,,,,연결,제 18 기,598985368538
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 20 기,0,제 19 기,0,36,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 20 기,857577114045,제 19 기,760724389776,37,KRW,,,,,연결,제 18 기,735968967644
+20220218001046,11011,2021,00398792,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 20 기,1149796359145,제 19 기,1092927846387,38,KRW,,,,,연결,제 18 기,1038905998088
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_Revenue,수익(매출액),-,제 20 기,941744683893,제 19 기,940745523369,0,KRW,,,,,연결,제 18 기,976273915234
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 20 기,797702674177,제 19 기,804080467524,1,KRW,,,,,연결,제 18 기,823009026108
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 20 기,144042009716,제 19 기,136665055845,2,KRW,,,,,연결,제 18 기,153264889126
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 20 기,52446757470,제 19 기,47282693154,3,KRW,,,,,연결,제 18 기,64050110333
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,-표준계정코드 미사용-,관리비용,-,제 20 기,10432758877,제 19 기,10523690172,4,KRW,,,,,연결,제 18 기,14072343735
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,-표준계정코드 미사용-,판매비용,-,제 20 기,25562017880,제 19 기,22918998161,5,KRW,,,,,연결,제 18 기,35487370598
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,dart_BadDebtExpenses,대손상각비(환입),-,제 20 기,1647270115,제 19 기,1194341005,6,KRW,,,,,연결,제 18 기,122803178
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,dart_OrdinaryDevelopmentExpense,연구개발비용,-,제 20 기,14804710598,제 19 기,12645663816,7,KRW,,,,,연결,제 18 기,14367592822
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익,-,제 20 기,91595252246,제 19 기,89382362691,8,KRW,,,,,연결,제 18 기,89214778793
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,dart_OtherGains,기타이익,-,제 20 기,9012373254,제 19 기,828693434,9,KRW,,,,,연결,제 18 기,4800103108
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,dart_OtherLosses,기타손실,-,제 20 기,12787587820,제 19 기,8433668192,10,KRW,,,,,연결,제 18 기,824584934
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 20 기,25392713208,제 19 기,16462139402,11,KRW,,,,,연결,제 18 기,22420381890
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융원가,-,제 20 기,3746115953,제 19 기,23833741176,12,KRW,,,,,연결,제 18 기,13261355488
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익,-,제 20 기,109466634935,제 19 기,74405786159,13,KRW,,,,,연결,제 18 기,102349323369
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,-,제 20 기,29347776529,제 19 기,19964702865,14,KRW,,,,,연결,제 18 기,23682455607
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_ProfitLossFromContinuingOperations,계속영업이익(손실),-,제 20 기,80118858406,제 19 기,54441083294,15,KRW,,,,,연결,제 18 기,78666867762
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업이익(손실),-,제 20 기,0,제 19 기,0,16,KRW,,,,,연결,제 18 기,-74968289433
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익,-,제 20 기,80118858406,제 19 기,54441083294,17,KRW,,,,,연결,제 18 기,3698578329
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 20 기,29367444495,제 19 기,1588798438,18,KRW,,,,,연결,제 18 기,576123651
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는항목,-,제 20 기,24339511970,제 19 기,1288363191,19,KRW,,,,,연결,제 18 기,-433399999
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정손익,-,제 20 기,1395554861,제 19 기,-119490434,20,KRW,,,,,연결,제 18 기,-433399999
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,-표준계정코드 미사용-,지분증권평가손익,-,제 20 기,22943957109,제 19 기,1407853625,21,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류될 수 있는 항목,-,제 20 기,5027932525,제 19 기,300435247,22,KRW,,,,,연결,제 18 기,1009523650
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업환산손익,-,제 20 기,5027932525,제 19 기,300435247,23,KRW,,,,,연결,제 18 기,938877719
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,-,제 20 기,0,제 19 기,0,24,KRW,,,,,연결,제 18 기,70645931
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 20 기,109486302901,제 19 기,56029881732,25,KRW,,,,,연결,제 18 기,4274701980
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 당기순이익,-,제 20 기,80118858406,제 19 기,54441083294,27,KRW,,,,,연결,제 18 기,2420834148
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분에 귀속되는 당기순이익,-,제 20 기,0,제 19 기,0,28,KRW,,,,,연결,제 18 기,1277744181
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 지분,-,제 20 기,109486302901,제 19 기,56029881732,30,KRW,,,,,연결,제 18 기,3126006321
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,-,제 20 기,0,제 19 기,0,31,KRW,,,,,연결,제 18 기,1148695659
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당이익,-,제 20 기,5787,제 19 기,3952,33,KRW,,,,,연결,제 18 기,181
+20220218001046,11011,2021,00398792,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,희석주당이익,-,제 20 기,5780,제 19 기,3948,34,KRW,,,,,연결,제 18 기,180
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 20 기,59647721979,제 19 기,139336357460,0,KRW,,,,,연결,제 18 기,99309970616
+20220218001046,11011,2021,00398792,CF,현금흐름표,-표준계정코드 미사용-,영업으로부터창출된 현금흐름,-,제 20 기,77697119030,제 19 기,167789693143,1,KRW,,,,,연결,제 18 기,110739811297
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취(영업),-,제 20 기,1733854604,제 19 기,2858228291,2,KRW,,,,,연결,제 18 기,3988391527
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급(영업),-,제 20 기,32428344,제 19 기,20132597,3,KRW,,,,,연결,제 18 기,63305157
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취(영업),-,제 20 기,2330882337,제 19 기,0,4,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부(환급),-,제 20 기,22081705648,제 19 기,31291431377,5,KRW,,,,,연결,제 18 기,16309787861
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsOperatingActivities,중단영업영업활동으로인한순현금흐름,-,제 20 기,0,제 19 기,0,6,KRW,,,,,연결,제 18 기,954860810
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 20 기,-57097034215,제 19 기,-145798825897,7,KRW,,,,,연결,제 18 기,-7005055581
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,-,제 20 기,116074600000,제 19 기,69175000000,8,KRW,,,,,연결,제 18 기,27438186731
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_DecreaseInLoans,대여금의 감소,-,제 20 기,168579000,제 19 기,168685000,9,KRW,,,,,연결,제 18 기,360687830
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_ProceedsFromSalesOfFairValueFinancialAsset,당기손익-지분증권의 처분,-,제 20 기,15075474900,제 19 기,0,10,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,기타포괄손익-지분증권의 처분,-,제 20 기,36260713700,제 19 기,42455694050,11,KRW,,,,,연결,제 18 기,517991
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 20 기,9293304880,제 19 기,33342230,12,KRW,,,,,연결,제 18 기,106503233
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금의 감소,-,제 20 기,243730025,제 19 기,2270000,13,KRW,,,,,연결,제 18 기,659000000
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_ProceedsFromSalesOfOtherCurrentFinancialAssets,유동금융자산의 감소,-,제 20 기,0,제 19 기,0,14,KRW,,,,,연결,제 18 기,520897000
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_PurchaseOfFinancialInstruments,금융상품의 취득,-,제 20 기,140013360491,제 19 기,148862600000,15,KRW,,,,,연결,제 18 기,662100000
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_PurchaseOfFairValueFinancialAsset,당기손익-지분증권의 취득,-,제 20 기,14864458000,제 19 기,0,16,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_PurchaseOfCurrentAvailableForSaleFinancialAssets,기타포괄손익-지분증권의 취득,-,제 20 기,47212441670,제 19 기,81995368470,17,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_PurchaseOfAvailableForSaleFinancialAssets,채무증권의 취득,-,제 20 기,0,제 19 기,0,18,KRW,,,,,연결,제 18 기,10000000
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 20 기,30563346554,제 19 기,24841650224,19,KRW,,,,,연결,제 18 기,32548672856
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 20 기,1559830005,제 19 기,1934198483,20,KRW,,,,,연결,제 18 기,2706541443
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 20 기,0,제 19 기,0,21,KRW,,,,,연결,제 18 기,5000000
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_CashFlowsFromLosingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,종속기업투자의 처분,-,제 20 기,0,제 19 기,0,22,KRW,,,,,연결,제 18 기,10594669018
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_CashPaymentsForDiscontinuedOperations,중단영업으로 인한 현금유출,-,제 20 기,0,제 19 기,0,23,KRW,,,,,연결,제 18 기,10753203085
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 20 기,-21179643398,제 19 기,-31743564328,24,KRW,,,,,연결,제 18 기,1166116391
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_DispositionOfTreasuryShares,자기주식의 처분,-,제 20 기,0,제 19 기,0,25,KRW,,,,,연결,제 18 기,27745961250
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_ProceedsFromConsolidatedCapitalTransactions,합병으로인한 증가,-,제 20 기,0,제 19 기,0,26,KRW,,,,,연결,제 18 기,1568077855
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 지급,-,제 20 기,455949588,제 19 기,469630128,27,KRW,,,,,연결,제 18 기,473583733
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_AcquisitionOfTreasuryShares,자기주식의 취득,-,제 20 기,0,제 19 기,2296932700,28,KRW,,,,,연결,제 18 기,2039417700
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금지급,-,제 20 기,20723693810,제 19 기,28977001500,29,KRW,,,,,연결,제 18 기,15978766180
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_PaymentsFromChangesInOwnershipInterestsInSubsidiaries,종속기업투자의 취득,-,제 20 기,0,제 19 기,0,30,KRW,,,,,연결,제 18 기,9628000000
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsFinancingActivities,중단영업으로인한현금유출,-,제 20 기,0,제 19 기,0,31,KRW,,,,,연결,제 18 기,-28155101
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 20 기,10289425853,제 19 기,-6109352474,32,KRW,,,,,연결,제 18 기,911649881
+20220218001046,11011,2021,00398792,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 20 기,-8339529781,제 19 기,-44315385239,33,KRW,,,,,연결,제 18 기,94382681307
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 20 기,251177028949,제 19 기,295492414188,34,KRW,,,,,연결,제 18 기,201109732881
+20220218001046,11011,2021,00398792,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 20 기,242837499168,제 19 기,251177028949,35,KRW,,,,,연결,제 18 기,295492414188
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 20 기,760724389776,제 19 기,735968967644,1,KRW,,,,,연결,제 18 기,824808703199
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,1,KRW,,,,,연결,제 18 기,97245191750
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,760724389776,제 19 기,735968967644,1,KRW,,,,,연결,제 18 기,727563511449
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,-6589214960,제 19 기,-4292282260,1,KRW,,,,,연결,제 18 기,-17041126433
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,-1561481132,제 19 기,-1378529904,1,KRW,,,,,연결,제 18 기,-2135210831
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,626220674598,제 19 기,598985368538,1,KRW,,,,,연결,제 18 기,613026765307
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,73115680000,제 19 기,73115680000,1,KRW,,,,,연결,제 18 기,73115680000
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,69538731270,제 19 기,69538731270,1,KRW,,,,,연결,제 18 기,60597403406
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경에 따른 증가(감소),연결재무제표 [member],제 20 기,0,제 19 기,0,2,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경에 따른 증가(감소),자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,2,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경에 따른 증가(감소),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,0,제 19 기,0,2,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경에 따른 증가(감소),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,0,제 19 기,0,2,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경에 따른 증가(감소),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,0,제 19 기,0,2,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경에 따른 증가(감소),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,0,제 19 기,0,2,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경에 따른 증가(감소),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,0,제 19 기,0,2,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경에 따른 증가(감소),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,0,제 19 기,0,2,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익,연결재무제표 [member],제 20 기,80118858406,제 19 기,54441083294,3,KRW,,,,,연결,제 18 기,3698578329
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익,자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,3,KRW,,,,,연결,제 18 기,1277744181
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,80118858406,제 19 기,54441083294,3,KRW,,,,,연결,제 18 기,2420834148
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,0,제 19 기,0,3,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,0,제 19 기,0,3,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,80118858406,제 19 기,54441083294,3,KRW,,,,,연결,제 18 기,2420834148
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,0,제 19 기,0,3,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,0,제 19 기,0,3,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도의 재측정요소,연결재무제표 [member],제 20 기,1395554861,제 19 기,-119490434,4,KRW,,,,,연결,제 18 기,-433399999
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도의 재측정요소,자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,4,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도의 재측정요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,1395554861,제 19 기,-119490434,4,KRW,,,,,연결,제 18 기,-433399999
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도의 재측정요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,0,제 19 기,0,4,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도의 재측정요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,0,제 19 기,0,4,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도의 재측정요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,1395554861,제 19 기,-119490434,4,KRW,,,,,연결,제 18 기,-433399999
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도의 재측정요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,0,제 19 기,0,4,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도의 재측정요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,0,제 19 기,0,4,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,연결재무제표 [member],제 20 기,0,제 19 기,0,5,KRW,,,,,연결,제 18 기,70645931
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,5,KRW,,,,,연결,제 18 기,31835991
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,0,제 19 기,0,5,KRW,,,,,연결,제 18 기,38809940
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,0,제 19 기,0,5,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,0,제 19 기,0,5,KRW,,,,,연결,제 18 기,38809940
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,0,제 19 기,0,5,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,0,제 19 기,0,5,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,0,제 19 기,0,5,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,연결재무제표 [member],제 20 기,5027932525,제 19 기,300435247,6,KRW,,,,,연결,제 18 기,938877719
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,6,KRW,,,,,연결,제 18 기,-160884513
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,5027932525,제 19 기,300435247,6,KRW,,,,,연결,제 18 기,1099762232
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,0,제 19 기,0,6,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,5027932525,제 19 기,300435247,6,KRW,,,,,연결,제 18 기,1099762232
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,0,제 19 기,0,6,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,0,제 19 기,0,6,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,0,제 19 기,0,6,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식 거래로 인한 증감,연결재무제표 [member],제 20 기,8574510729,제 19 기,-2296932700,7,KRW,,,,,연결,제 18 기,23235599225
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식 거래로 인한 증감,자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,7,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식 거래로 인한 증감,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,8574510729,제 19 기,-2296932700,7,KRW,,,,,연결,제 18 기,23235599225
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식 거래로 인한 증감,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,4807135484,제 19 기,-2296932700,7,KRW,,,,,연결,제 18 기,15009814870
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식 거래로 인한 증감,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,0,제 19 기,0,7,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식 거래로 인한 증감,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,0,제 19 기,0,7,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식 거래로 인한 증감,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,0,제 19 기,0,7,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식 거래로 인한 증감,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,3767375245,제 19 기,0,7,KRW,,,,,연결,제 18 기,8225784355
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,종속기업의처분,연결재무제표 [member],제 20 기,-484021261,제 19 기,0,8,KRW,,,,,연결,제 18 기,-98886367118
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,종속기업의처분,자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,8,KRW,,,,,연결,제 18 기,-98661637066
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,종속기업의처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,-484021261,제 19 기,0,8,KRW,,,,,연결,제 18 기,-224730052
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,종속기업의처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,0,제 19 기,0,8,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,종속기업의처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,-484021261,제 19 기,0,8,KRW,,,,,연결,제 18 기,-224730052
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,종속기업의처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,0,제 19 기,0,8,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,종속기업의처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,0,제 19 기,0,8,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,종속기업의처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,0,제 19 기,0,8,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_OtherTransactions,종속기업의자기주식취득,연결재무제표 [member],제 20 기,0,제 19 기,0,9,KRW,,,,,연결,제 18 기,-16804193
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_OtherTransactions,종속기업의자기주식취득,자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,9,KRW,,,,,연결,제 18 기,-7065686
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_OtherTransactions,종속기업의자기주식취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,0,제 19 기,0,9,KRW,,,,,연결,제 18 기,-9738507
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_OtherTransactions,종속기업의자기주식취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,0,제 19 기,0,9,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_OtherTransactions,종속기업의자기주식취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,0,제 19 기,0,9,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_OtherTransactions,종속기업의자기주식취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,0,제 19 기,0,9,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_OtherTransactions,종속기업의자기주식취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,0,제 19 기,0,9,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_OtherTransactions,종속기업의자기주식취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,0,제 19 기,0,9,KRW,,,,,연결,제 18 기,-9738507
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정지분증권평가손익,연결재무제표 [member],제 20 기,22943957109,제 19 기,1407853625,10,KRW,,,,,연결,제 18 기,-46041998
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정지분증권평가손익,자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,10,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정지분증권평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,22943957109,제 19 기,1407853625,10,KRW,,,,,연결,제 18 기,-46041998
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정지분증권평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,0,제 19 기,0,10,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정지분증권평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,22943957109,제 19 기,1407853625,10,KRW,,,,,연결,제 18 기,3723320
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정지분증권평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,0,제 19 기,0,10,KRW,,,,,연결,제 18 기,-49765318
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정지분증권평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,0,제 19 기,0,10,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정지분증권평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,0,제 19 기,0,10,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ReclassificationAdjustments,기타포괄손익-공정가치측정지분증권대체,연결재무제표 [member],제 20 기,0,제 19 기,0,11,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ReclassificationAdjustments,기타포괄손익-공정가치측정지분증권대체,자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,11,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ReclassificationAdjustments,기타포괄손익-공정가치측정지분증권대체,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,0,제 19 기,0,11,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ReclassificationAdjustments,기타포괄손익-공정가치측정지분증권대체,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,0,제 19 기,0,11,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ReclassificationAdjustments,기타포괄손익-공정가치측정지분증권대체,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,-7970128226,제 19 기,-1915132872,11,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ReclassificationAdjustments,기타포괄손익-공정가치측정지분증권대체,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,7970128226,제 19 기,1915132872,11,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ReclassificationAdjustments,기타포괄손익-공정가치측정지분증권대체,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,0,제 19 기,0,11,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_ReclassificationAdjustments,기타포괄손익-공정가치측정지분증권대체,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,0,제 19 기,0,11,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업지분증가,연결재무제표 [member],제 20 기,0,제 19 기,0,12,KRW,,,,,연결,제 18 기,-9628000000
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업지분증가,자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,12,KRW,,,,,연결,제 18 기,-7206144790
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업지분증가,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,0,제 19 기,0,12,KRW,,,,,연결,제 18 기,-2421855210
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업지분증가,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,0,제 19 기,0,12,KRW,,,,,연결,제 18 기,-2260970697
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업지분증가,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,0,제 19 기,0,12,KRW,,,,,연결,제 18 기,-160884513
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업지분증가,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,0,제 19 기,0,12,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업지분증가,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,0,제 19 기,0,12,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업지분증가,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,0,제 19 기,0,12,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,종속기업의증자,연결재무제표 [member],제 20 기,0,제 19 기,0,13,KRW,,,,,연결,제 18 기,8206242149
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,종속기업의증자,자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,13,KRW,,,,,연결,제 18 기,7480960133
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,종속기업의증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,0,제 19 기,0,13,KRW,,,,,연결,제 18 기,725282016
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,종속기업의증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,0,제 19 기,0,13,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,종속기업의증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,0,제 19 기,0,13,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,종속기업의증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,0,제 19 기,0,13,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,종속기업의증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,0,제 19 기,0,13,KRW,,,,,연결,제 18 기,
+20220218001046,11011,2021,00398792,SCE,자본변동표,-표준계정코드 미사용-,종속기업의증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,0,제 19 기,0,13,KRW,,,,,연결,제 18 기,725282016
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,지분증권처분손익의 대체,연결재무제표 [member],제 20 기,0,제 19 기,0,14,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,지분증권처분손익의 대체,자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,14,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,지분증권처분손익의 대체,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,0,제 19 기,0,14,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,지분증권처분손익의 대체,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,0,제 19 기,0,14,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,지분증권처분손익의 대체,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,0,제 19 기,23892772,14,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,지분증권처분손익의 대체,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,0,제 19 기,-23892772,14,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,지분증권처분손익의 대체,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,0,제 19 기,0,14,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,지분증권처분손익의 대체,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,0,제 19 기,0,14,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,연결재무제표 [member],제 20 기,20724068100,제 19 기,28977526900,15,KRW,,,,,연결,제 18 기,15979065600
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,15,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,20724068100,제 19 기,28977526900,15,KRW,,,,,연결,제 18 기,15979065600
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,0,제 19 기,0,15,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,0,제 19 기,0,15,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,20724068100,제 19 기,28977526900,15,KRW,,,,,연결,제 18 기,15979065600
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,0,제 19 기,0,15,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,0,제 19 기,0,15,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_Equity,기말자본,연결재무제표 [member],제 20 기,857577114045,제 19 기,760724389776,16,KRW,,,,,연결,제 18 기,735968967644
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|비지배지분 [member],제 20 기,0,제 19 기,0,16,KRW,,,,,연결,제 18 기,0
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 20 기,857577114045,제 19 기,760724389776,16,KRW,,,,,연결,제 18 기,735968967644
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 20 기,-1782079476,제 19 기,-6589214960,16,KRW,,,,,연결,제 18 기,-4292282260
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타포괄손익누계액 [member],제 20 기,17956259015,제 19 기,-1561481132,16,KRW,,,,,연결,제 18 기,-1378529904
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 20 기,694981147991,제 19 기,626220674598,16,KRW,,,,,연결,제 18 기,598985368538
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 20 기,73115680000,제 19 기,73115680000,16,KRW,,,,,연결,제 18 기,73115680000
+20220218001046,11011,2021,00398792,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 20 기,73306106515,제 19 기,69538731270,16,KRW,,,,,연결,제 18 기,69538731270
