@@ -1,0 +1,306 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분,bfefrmtrm_nm,bfefrmtrm_amount
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 22 기,467831375076,제 21 기,566212896315,7,KRW,,,,,연결,제 20 기,519321206547
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 22 기,174588797255,제 21 기,159912887090,8,KRW,,,,,연결,제 20 기,177610233420
+20240321001153,11011,2023,00480950,BS,재무상태표,-표준계정코드 미사용-,파생금융자산,-,제 22 기,,제 21 기,13952697737,9,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 22 기,61046949291,제 21 기,22021774452,10,KRW,,,,,연결,제 20 기,41756712989
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_CurrentFinancialAssetsAtFairValueThroughProfitOrLossMandatorilyMeasuredAtFairValue,당기손익-공정가치측정금융자산,-,제 22 기,,제 21 기,4996651633,11,KRW,,,,,연결,제 20 기,62860948627
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_CurrentTaxAssets,당기법인세자산,-,제 22 기,908548866,제 21 기,959981417,12,KRW,,,,,연결,제 20 기,1159383520
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 22 기,23660855907,제 21 기,44817359583,13,KRW,,,,,연결,제 20 기,6467796213
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_OtherCurrentAssets,기타유동자산,-,제 22 기,12415375764,제 21 기,5288365334,14,KRW,,,,,연결,제 20 기,2722016796
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,단기금융상품,-,제 22 기,3558493135,제 21 기,10000000,15,KRW,,,,,연결,제 20 기,479209804
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_TradeAndOtherCurrentReceivables,매출채권 및 기타채권,-,제 22 기,72998574292,제 21 기,67866056934,16,KRW,,,,,연결,제 20 기,62164165471
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 22 기,293242577821,제 21 기,406300009225,17,KRW,,,,,연결,제 20 기,341710973127
+20240321001153,11011,2023,00480950,BS,재무상태표,dart_InvestedAssetForPostemploymentBenefit,사외적립자산(투자자산),-,제 22 기,453844518,제 21 기,,18,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,BS,재무상태표,dart_LongTermDepositsNotClassifiedAsCashEquivalents,당기손익-공정가치측정금융자산,-,제 22 기,3789122757,제 21 기,14892459743,19,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,매출채권 및 기타채권,-,제 22 기,19430430,제 21 기,4330618396,20,KRW,,,,,연결,제 20 기,30173934
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 22 기,,제 21 기,76099758,21,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,-,제 22 기,1107419433,제 21 기,13105067108,22,KRW,,,,,연결,제 20 기,21236236645
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 22 기,181337001416,제 21 기,177315821659,23,KRW,,,,,연결,제 20 기,159545581204
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_InvestmentsInAssociates,관계기업투자,-,제 22 기,37201835609,제 21 기,24639112178,24,KRW,,,,,연결,제 20 기,19173326621
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsAtAmortisedCost,상각후원가측정금융자산,-,제 22 기,16485849728,제 21 기,121000000000,25,KRW,,,,,연결,제 20 기,100000000000
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산,-,제 22 기,1000389165,제 21 기,1443781800,26,KRW,,,,,연결,제 20 기,3248631000
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_OtherNoncurrentAssets,기타비유동자산,-,제 22 기,3032120,제 21 기,65174719,27,KRW,,,,,연결,제 20 기,3852293
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_OtherNoncurrentFinancialAssets,기타금융자산,-,제 22 기,1825308071,제 21 기,1720867068,28,KRW,,,,,연결,제 20 기,2310027050
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 22 기,48974271296,제 21 기,45722067446,29,KRW,,,,,연결,제 20 기,35016337898
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_RightofuseAssets,사용권자산,-,제 22 기,1045073278,제 21 기,1988939350,30,KRW,,,,,연결,제 20 기,1146806482
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 22 기,224478427149,제 21 기,181786181957,32,KRW,,,,,연결,제 20 기,257705333729
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업지분,-,제 22 기,211260491436,제 21 기,167104794543,33,KRW,,,,,연결,제 20 기,251259819311
+20240321001153,11011,2023,00480950,BS,재무상태표,dart_CapitalSurplus,기타불입자본,-,제 22 기,371172492115,제 21 기,267664462464,34,KRW,,,,,연결,제 20 기,86560770693
+20240321001153,11011,2023,00480950,BS,재무상태표,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,-,제 22 기,-6661869350,제 21 기,-5399788115,35,KRW,,,,,연결,제 20 기,-2988582575
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 22 기,50876872000,제 21 기,21109454000,36,KRW,,,,,연결,제 20 기,188144981000
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_RetainedEarnings,결손금,-,제 22 기,-204127003329,제 21 기,-116269333806,37,KRW,,,,,연결,제 20 기,-20457349807
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 22 기,13217935713,제 21 기,14681387414,38,KRW,,,,,연결,제 20 기,6445514418
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 22 기,467831375076,제 21 기,566212896315,39,KRW,,,,,연결,제 20 기,519321206547
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 22 기,240285619506,제 21 기,379746133294,41,KRW,,,,,연결,제 20 기,251577436014
+20240321001153,11011,2023,00480950,BS,재무상태표,dart_CurrentDerivativeLiabilities,파생금융부채,-,제 22 기,4901161666,제 21 기,48894958261,42,KRW,,,,,연결,제 20 기,1199122267
+20240321001153,11011,2023,00480950,BS,재무상태표,dart_CurrentPortionOfBondWithWarrant,신주인수권부사채,-,제 22 기,8389440520,제 21 기,106910810912,43,KRW,,,,,연결,제 20 기,103396212810
+20240321001153,11011,2023,00480950,BS,재무상태표,dart_CurrentPortionOfConvertibleBonds,전환사채,-,제 22 기,,제 21 기,49950287434,44,KRW,,,,,연결,제 20 기,54743291176
+20240321001153,11011,2023,00480950,BS,재무상태표,dart_CurrentPortionOfExchangeableBond,교환사채,-,제 22 기,29015310598,제 21 기,,45,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,BS,재무상태표,-표준계정코드 미사용-,사모사채,-,제 22 기,30000000000,제 21 기,46000000000,46,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_CurrentLeaseLiabilities,리스부채,-,제 22 기,814712086,제 21 기,1082580680,47,KRW,,,,,연결,제 20 기,566976593
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_CurrentPortionOfLongtermBorrowings,유동성장기부채,-,제 22 기,2700000000,제 21 기,20700000000,48,KRW,,,,,연결,제 20 기,2700000000
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_CurrentProvisions,충당부채,-,제 22 기,1511410165,제 21 기,4770164473,49,KRW,,,,,연결,제 20 기,1920043458
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 22 기,638528,제 21 기,442655957,50,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_OtherCurrentFinancialLiabilities,기타유동금융부채,-,제 22 기,1835000000,제 21 기,975000000,51,KRW,,,,,연결,제 20 기,1000000000
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_OtherCurrentLiabilities,기타 유동부채,-,제 22 기,37446617798,제 21 기,21471800542,52,KRW,,,,,연결,제 20 기,2944829287
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_ShorttermBorrowings,단기차입금,-,제 22 기,76221826715,제 21 기,25718994131,53,KRW,,,,,연결,제 20 기,57201826715
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayables,매입채무 및 기타채무,-,제 22 기,47449501430,제 21 기,52828880904,54,KRW,,,,,연결,제 20 기,25905133708
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 22 기,243352947927,제 21 기,384426714358,55,KRW,,,,,연결,제 20 기,261615872818
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 22 기,3067328421,제 21 기,4680581064,56,KRW,,,,,연결,제 20 기,10038436804
+20240321001153,11011,2023,00480950,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentPayables,매입채무 및 기타채무,-,제 22 기,68135837,제 21 기,77883634,57,KRW,,,,,연결,제 20 기,79872464
+20240321001153,11011,2023,00480950,BS,재무상태표,dart_PostemploymentBenefitObligations,퇴직급여채무,-,제 22 기,,제 21 기,295765518,58,KRW,,,,,연결,제 20 기,251577229
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 22 기,649897856,제 21 기,1065597154,59,KRW,,,,,연결,제 20 기,4171131419
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_NoncurrentLeaseLiabilities,리스부채,-,제 22 기,508294728,제 21 기,1591334758,60,KRW,,,,,연결,제 20 기,605455692
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_OtherNoncurrentFinancialLiabilities,기타비유동금융부채,-,제 22 기,1841000000,제 21 기,1650000000,61,KRW,,,,,연결,제 20 기,760000000
+20240321001153,11011,2023,00480950,BS,재무상태표,ifrs-full_OtherNoncurrentLiabilities,장기차입금,-,제 22 기,,제 21 기,,62,KRW,,,,,연결,제 20 기,4170400000
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익(손실),-,제 22 기,-6899810801,제 21 기,-12839603028,6,KRW,,,,,연결,제 20 기,-20509278907
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,dart_OtherGains,기타영업외수익,-,제 22 기,3682801329,제 21 기,2687602909,7,KRW,,,,,연결,제 20 기,27237497571
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,dart_OtherLosses,기타영업외비용,-,제 22 기,28729110223,제 21 기,33826275240,8,KRW,,,,,연결,제 20 기,5593539807
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 22 기,25064354330,제 21 기,25616326992,9,KRW,,,,,연결,제 20 기,21295926673
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,-표준계정코드 미사용-,지분법손실,-,제 22 기,16993304671,제 21 기,7458621905,10,KRW,,,,,연결,제 20 기,1068340950
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,-표준계정코드 미사용-,지분법이익,-,제 22 기,317302053,제 21 기,53388904,11,KRW,,,,,연결,제 20 기,2541192982
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,당기총포괄손익,-,제 22 기,-96164760350,제 21 기,-102452343130,12,KRW,,,,,연결,제 20 기,3586569839
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,-,제 22 기,1543713487,제 21 기,184503654,14,KRW,,,,,연결,제 20 기,1104581740
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업소유주지분,-,제 22 기,-97708473837,제 21 기,-102636846784,15,KRW,,,,,연결,제 20 기,2481988099
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 22 기,261438443914,제 21 기,256397766049,16,KRW,,,,,연결,제 20 기,221644517125
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본및희석주당순손실,-,제 22 기,-443,제 21 기,-1031,18,KRW,,,,,연결,제 20 기,6
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융원가,-,제 22 기,74170073811,제 21 기,68186926769,19,KRW,,,,,연결,제 20 기,11936692645
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익-유효이자율법에 따른 이자수익,-,제 22 기,3946772334,제 21 기,6029776278,20,KRW,,,,,연결,제 20 기,1946914397
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_GainsLossesOnNetMonetaryPosition,금융수익-기타,-,제 22 기,25767713521,제 21 기,12435563511,21,KRW,,,,,연결,제 20 기,13394653010
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 22 기,18164543529,제 21 기,12776723964,22,KRW,,,,,연결,제 20 기,786647766
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,-,제 22 기,47290945,제 21 기,-1630977647,23,KRW,,,,,연결,제 20 기,112780297
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 22 기,-3039759136,제 21 기,-2978225437,24,KRW,,,,,연결,제 20 기,-2313055515
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,후속적으로 당기손익으로 재분류되는 항목,-,제 22 기,-2503764039,제 21 기,-1019468601,25,KRW,,,,,연결,제 20 기,-95401710
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_ReclassificationAdjustmentsOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산손익,-,제 22 기,2503764039,제 21 기,58050351,26,KRW,,,,,연결,제 20 기,-722035208
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,-,제 22 기,,제 21 기,-961418250,27,KRW,,,,,연결,제 20 기,-817436918
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,후속적으로 당기손익으로 재분류되지 않는항목,-,제 22 기,-535995097,제 21 기,-1958756836,28,KRW,,,,,연결,제 20 기,-2217653805
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,dart_ShareOfRetainedEarningsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법 이익잉여금 변동,-,제 22 기,,제 21 기,,29,KRW,,,,,연결,제 20 기,-8069773
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,-,제 22 기,-92602462,제 21 기,-153907636,30,KRW,,,,,연결,제 20 기,79441168
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,기타포괄손익-공정가치 금융자산 평가손익,-,제 22 기,-443392635,제 21 기,-1804849200,31,KRW,,,,,연결,제 20 기,-2289025200
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 22 기,-93125001214,제 21 기,-99474117693,32,KRW,,,,,연결,제 20 기,5899625354
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,-,제 22 기,82812528,제 21 기,221292789,34,KRW,,,,,연결,제 20 기,1085671384
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업소유주지분,-,제 22 기,-93207813742,제 21 기,-99695410482,35,KRW,,,,,연결,제 20 기,4813953970
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-,제 22 기,-93077710269,제 21 기,-101105095340,36,KRW,,,,,연결,제 20 기,6012405651
+20240321001153,11011,2023,00480950,CIS,포괄손익계산서,ifrs-full_Revenue,매출액,-,제 22 기,279602987443,제 21 기,269174490013,37,KRW,,,,,연결,제 20 기,222431164891
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초의 현금,-,제 22 기,22021774452,제 21 기,41756712989,2,KRW,,,,,연결,제 20 기,14685658257
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말 현금및현금성자산,-,제 22 기,61046949291,제 21 기,22021774452,3,KRW,,,,,연결,제 20 기,41756712989
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 22 기,62731688207,제 21 기,38700367150,8,KRW,,,,,연결,제 20 기,285127619447
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_DecreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 감소,-,제 22 기,905000000,제 21 기,5000000,10,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 증가,-,제 22 기,1715000000,제 21 기,870000000,11,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_PaymentForConsolidatedCapitalTransactions,연결자본거래로인한 현금유출액,-,제 22 기,10329330,제 21 기,,12,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_PaymentForStockIssueCost,신주발행비,-,제 22 기,315332412,제 21 기,,13,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 22 기,1491856340,제 21 기,829340822,14,KRW,,,,,연결,제 20 기,975306403
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ProceedsFromBondWithWarrant,신주인수권부사채의발행,-,제 22 기,31208100000,제 21 기,,15,KRW,,,,,연결,제 20 기,140025000000
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ProceedsFromBonds,사모사채의 발행,-,제 22 기,20000000000,제 21 기,55000000000,16,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ProceedsFromConvertibleBonds,전환사채의 발행,-,제 22 기,3009000000,제 21 기,18000000000,17,KRW,,,,,연결,제 20 기,65100000000
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ProceedsFromExchangeableBond,교환사채의 발행,-,제 22 기,27741966680,제 21 기,,18,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 차입,-,제 22 기,,제 21 기,13829600000,20,KRW,,,,,연결,제 20 기,570400000
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ProceedsFromPaidinCapitalIncrease,유상증자,-,제 22 기,25009827025,제 21 기,,21,KRW,,,,,연결,제 20 기,57133226606
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 차입,-,제 22 기,48988970841,제 21 기,99668129583,22,KRW,,,,,연결,제 20 기,71800000000
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ProceedsFromStockRedemption,무상감자,-,제 22 기,,제 21 기,-57106450,23,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_RepaymentForGovernmentGrantsClassifiedAsFinancingActivities,정부보조금의 상환,-,제 22 기,,제 21 기,,24,KRW,,,,,연결,제 20 기,5195876
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_RepaymentsOfBondWithWarrant,신주인수권부사채의 상환,-,제 22 기,41300000000,제 21 기,,25,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_RepaymentsOfBonds,전환사채의 상환,-,제 22 기,,제 21 기,5100000000,26,KRW,,,,,연결,제 20 기,10000000000
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_RepaymentsOfConvertibleBonds,전환사채의 전환,-,제 22 기,,제 21 기,22118690,27,KRW,,,,,연결,제 20 기,57112740
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_RepaymentsOfExchangeableBond,사모사채의 상환,-,제 22 기,36000000000,제 21 기,11000000000,28,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 상환,-,제 22 기,,제 21 기,,29,KRW,,,,,연결,제 20 기,1430500000
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 22 기,13918658257,제 21 기,131570962167,30,KRW,,,,,연결,제 20 기,36970000000
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_DividendsPaidToNoncontrollingInterestsClassifiedAsFinancingActivities,비지배지분과의 거래,-,제 22 기,,제 21 기,82834304,31,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,정부보조금의 수령,-,제 22 기,,제 21 기,,32,KRW,,,,,연결,제 20 기,66107860
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,유동성장기부채의 상환,-,제 22 기,1000000000,제 21 기,,33,KRW,,,,,연결,제 20 기,129000000
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 22 기,-15289334721,제 21 기,-52128704084,34,KRW,,,,,연결,제 20 기,-247213336470
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금의 감소,-,제 22 기,4391320610,제 21 기,1614405717,35,KRW,,,,,연결,제 20 기,270000000
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_DecreaseInLoans,장기대여금의 감소,-,제 22 기,3121187966,제 21 기,24555538,36,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 22 기,4183521450,제 21 기,1014672508,37,KRW,,,,,연결,제 20 기,100780000
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,단기금융상품의 감소,-,제 22 기,10000000,제 21 기,2706421337,38,KRW,,,,,연결,제 20 기,1633337366
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ProceedsFromSalesOfCurrentAvailableForSaleFinancialAssets,상각후원가측정금융자산의 처분,-,제 22 기,71080827570,제 21 기,,39,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ProceedsFromSalesOfFairValueFinancialAsset,당기손익-공정가치측정금융자산의처분,-,제 22 기,5091544920,제 21 기,19142428349,40,KRW,,,,,연결,제 20 기,8247298942
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInAssociates,관계기업투자의 처분,-,제 22 기,7251381631,제 21 기,12672233492,41,KRW,,,,,연결,제 20 기,37242919307
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInSubsidiaries,종속기업투자의 처분,-,제 22 기,,제 21 기,3506868575,42,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ProceedsFromSalesOfLongTermFinancialInstruments,장기금융상품의 감소,-,제 22 기,200000000,제 21 기,60188643,43,KRW,,,,,연결,제 20 기,479695216
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermLoansAndReceivables,단기대여금의 감소,-,제 22 기,2468494480,제 21 기,49773813928,44,KRW,,,,,연결,제 20 기,21141555604
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_PurchaseOfCurrentFinancialAssetsHeldToMaturity,상각후원가측정금융자산의 취득,-,제 22 기,30090000000,제 21 기,21000000000,45,KRW,,,,,연결,제 20 기,100000000000
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_PurchaseOfFairValueFinancialAsset,당기손익-공정가치측정금융자산의취득,-,제 22 기,,제 21 기,10688139000,46,KRW,,,,,연결,제 20 기,46819000000
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_PurchaseOfFinancialInstruments,단기금융상품의 증가,-,제 22 기,4185493135,제 21 기,2200000000,47,KRW,,,,,연결,제 20 기,1796281816
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_PurchaseOfInvestmentsInAssociates,관계기업투자의 취득,-,제 22 기,44110000000,제 21 기,310000000,48,KRW,,,,,연결,제 20 기,10100000000
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_PurchaseOfInvestmentsInSubsidiaries,종속기업투자의 취득,-,제 22 기,,제 21 기,5010000000,49,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_PurchaseOfInvestmentsInSubsidiariesJointVenturesAndAssociates,연결범위 변동에 따른 현금의 증감,-,제 22 기,858609256,제 21 기,,50,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_PurchaseOfLongTermFinancialInstruments,장기금융상품의 증가,-,제 22 기,60000000,제 21 기,98364100,51,KRW,,,,,연결,제 20 기,306808978
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_PurchaseOfLongTermLoansAndReceivables,장기대여금의 증가,-,제 22 기,,제 21 기,15000000,52,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_PurchaseOfShortTermLoansAndReceivables,단기대여금의 증가,-,제 22 기,2965575150,제 21 기,53478543256,53,KRW,,,,,연결,제 20 기,28850000000
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_CashFlowsUsedInObtainingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,사업결합으로인한현금유입액,-,제 22 기,,제 21 기,-1692456933,54,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 22 기,,제 21 기,,55,KRW,,,,,연결,제 20 기,16930143
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInvestmentProperty,투자부동산의 처분,-,제 22 기,,제 21 기,,56,KRW,,,,,연결,제 20 기,2481818182
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 22 기,11936364,제 21 기,23636364,57,KRW,,,,,연결,제 20 기,4686272723
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 22 기,125104360,제 21 기,2653747284,58,KRW,,,,,연결,제 20 기,339708480
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_PurchaseOfInvestmentProperty,투자부동산의 취득,-,제 22 기,104075300,제 21 기,18764611231,59,KRW,,,,,연결,제 20 기,131434361100
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 22 기,22233649611,제 21 기,28112635581,60,KRW,,,,,연결,제 20 기,3666223579
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 22 기,-8278555556,제 21 기,-6376490089,61,KRW,,,,,연결,제 20 기,-10950356021
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산 부채의 변동,-,제 22 기,1288689693,제 21 기,5508533818,62,KRW,,,,,연결,제 20 기,4879557828
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInValueAddedTaxReceivables,부가세가치세 대급금의 감소(증가),-,제 22 기,1070684454,제 21 기,170455085,63,KRW,,,,,연결,제 20 기,442037270
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInAccruedIncome,미수수익의 감소(증가),-,제 22 기,35142186,제 21 기,,64,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInAdvancePayments,선급금의 감소(증가),-,제 22 기,-9138009926,제 21 기,-2487203692,65,KRW,,,,,연결,제 20 기,956297756
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInDepositsProvided,보증금의 감소(증가),-,제 22 기,,제 21 기,1360315,66,KRW,,,,,연결,제 20 기,-462439679
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInFairValueOfPlanAssets,사외적립자산의감소(증가),-,제 22 기,-174795028,제 21 기,-42429800,67,KRW,,,,,연결,제 20 기,-738180886
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInLongTermTradeReceivable,계약자산의 감소(증가),-,제 22 기,1096651861,제 21 기,-4666232254,68,KRW,,,,,연결,제 20 기,18344661367
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInOtherReceivables,미수금의 감소(증가),-,제 22 기,1778360101,제 21 기,-3769611683,69,KRW,,,,,연결,제 20 기,482868353
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInCurrentValueAddedTaxPayables,부가가치세 예수금의 증가(감소),-,제 22 기,236276661,제 21 기,-433205810,70,KRW,,,,,연결,제 20 기,-284503456
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInDerivativeLiabilities,파생상품부채의 증가(감소),-,제 22 기,,제 21 기,,71,KRW,,,,,연결,제 20 기,100000000
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInDueToCustomersForContractWork,초과청구공사의 증가(감소),-,제 22 기,,제 21 기,-139661057,72,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAccruedExpenses,미지급비용의 증가(감소),-,제 22 기,-7589721,제 21 기,-388929654,73,KRW,,,,,연결,제 20 기,-757211011
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAdvancesCustomers,선수금의 증가(감소),-,제 22 기,15299816996,제 21 기,19603206133,74,KRW,,,,,연결,제 20 기,-4930150646
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInGuaranteeDepositRent,임대보증금의 증가(감소),-,제 22 기,191000000,제 21 기,5000000000,75,KRW,,,,,연결,제 20 기,-410000000
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInOtherLongTermProvisions,계약부채의 증가(감소),-,제 22 기,-1338611287,제 21 기,-7751975043,76,KRW,,,,,연결,제 20 기,9322173558
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInOtherPayables,미지급금의 증가(감소),-,제 22 기,-7237609124,제 21 기,4808408439,77,KRW,,,,,연결,제 20 기,-2054887966
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInPostemploymentBenefitObligations,퇴직금의지급,-,제 22 기,-971771640,제 21 기,-711140149,78,KRW,,,,,연결,제 20 기,-724097688
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInProvisions,충당부채의 증가(감소),-,제 22 기,-101430588,제 21 기,-268642353,79,KRW,,,,,연결,제 20 기,-119339451
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInWithholdingsBanks,예수금의 증가(감소),-,제 22 기,-214586256,제 21 기,-898237702,80,KRW,,,,,연결,제 20 기,1070353779
+20240321001153,11011,2023,00480950,CF,현금흐름표,-표준계정코드 미사용-,퇴직금의승계,-,제 22 기,,제 21 기,,81,KRW,,,,,연결,제 20 기,30038632
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInInventories,재고자산의 감소(증가),-,제 22 기,19835236670,제 21 기,-37106553946,82,KRW,,,,,연결,제 20 기,12086735135
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInPrepaidExpenses,선급비용의 감소 (증가),-,제 22 기,292667478,제 21 기,-1169907157,83,KRW,,,,,연결,제 20 기,-53239621
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAccountReceivable,매출채권의 감소(증가),-,제 22 기,-26754012113,제 21 기,12066463724,84,KRW,,,,,연결,제 20 기,-24215827386
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAccountPayable,매입채무의 증가(감소),-,제 22 기,7391268969,제 21 기,23692370422,85,KRW,,,,,연결,제 20 기,-3205730232
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감,-,제 22 기,89982709145,제 21 기,92234405108,86,KRW,,,,,연결,제 20 기,-19473332648
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비,-,제 22 기,1293603685,제 21 기,1084517113,87,KRW,,,,,연결,제 20 기,375788734
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForExpenseOfProvisions,충당부채전입액,-,제 22 기,939640920,제 21 기,3360797734,88,KRW,,,,,연결,제 20 기,1711082367
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익,-,제 22 기,286543123,제 21 기,549552922,89,KRW,,,,,연결,제 20 기,246320139
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfBiologicalAssets,종속기업투자처분이익,-,제 22 기,2752864930,제 21 기,1946848595,90,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfFinancialAssets,당기손익-공정가치측정금융자산처분이익,-,제 22 기,5185859,제 21 기,1870335921,91,KRW,,,,,연결,제 20 기,1686661084
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfIntangibleAssets,리스자산처분이익,-,제 22 기,9361614,제 21 기,3059116,92,KRW,,,,,연결,제 20 기,10425536
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfInvestmentsInAssociates,관계기업투자처분이익,-,제 22 기,699019587,제 21 기,,93,KRW,,,,,연결,제 20 기,25717629093
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForGainsOnEvaluationOfDerivativeFinancialAssets,파생상품평가이익,-,제 22 기,11460735,제 21 기,620335698,94,KRW,,,,,연결,제 20 기,223700000
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForGainsOnEvaluationOfFairValueFinancialAssets,당기손익-공정가치측정금융자산평가이익,-,제 22 기,180294000,제 21 기,6072514798,95,KRW,,,,,연결,제 20 기,9663987946
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForGainsOnRedemptionOfBorrowings,사채상환이익,-,제 22 기,22847005143,제 21 기,1074407506,96,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOfIntangibleAssets,무형자산손상차손,-,제 22 기,9321913907,제 21 기,20709320973,97,KRW,,,,,연결,제 20 기,4798329341
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOfInvestmentAssets,사용권자산손상차손,-,제 22 기,91519966,제 21 기,1652290458,98,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOfPropertyPlantAndEquipment,유형자산손상차손,-,제 22 기,5972467176,제 21 기,472226427,99,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOnAvailableForSaleFinancialAssets,상각후원가측정금융자산손상차손,-,제 22 기,3861445616,제 21 기,,100,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOnInvestmentsInAssociates,관계기업투자손상차손,-,제 22 기,11085494745,제 21 기,5806852319,101,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForInterestExpenses,이자비용,-,제 22 기,15728240598,제 21 기,18157554790,102,KRW,,,,,연결,제 20 기,4239583148
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForLossOnDisposalOfInvestmentsInSubsidiaries,종속기업투자처분손실,-,제 22 기,202790336,제 21 기,,103,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForLossesFromInventoryShrinkage,재고자산폐기손실,-,제 22 기,,제 21 기,,104,KRW,,,,,연결,제 20 기,259539254
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForLossesFromRedemptionOfBorrowings,당기손익-공정가치측정금융자산처분손실,-,제 22 기,1708965052,제 21 기,147632129,105,KRW,,,,,연결,제 20 기,1586471221
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForLossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법손실,-,제 22 기,16993304671,제 21 기,7458621905,106,KRW,,,,,연결,제 20 기,1068340950
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsOfFinancialAssets,상각후원가측정금융자산처분손실,-,제 22 기,12136401369,제 21 기,,107,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsOfInvestmentProperty,투자부동산처분손실,-,제 22 기,427886653,제 21 기,,108,KRW,,,,,연결,제 20 기,254138226
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsofInvestmentsInAssociates,관계기업투자처분손실,-,제 22 기,133468690,제 21 기,3016678731,109,KRW,,,,,연결,제 20 기,17089119
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForLossesOnDispositionOfPropertyPlantAndEquipment,유형자산처분손실,-,제 22 기,11190410,제 21 기,22079310,110,KRW,,,,,연결,제 20 기,64071297
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForLossesOnEvaluationOfDerivativeFinancialLiabilities,파생상품평가손실,-,제 22 기,12876067149,제 21 기,30759286029,111,KRW,,,,,연결,제 20 기,1053182267
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForLossesOnEvaluationOfFairValueFinancialAssets,당기손익-공정가치측정금융자산평가손실,-,제 22 기,9484958506,제 21 기,14972873621,112,KRW,,,,,연결,제 20 기,3661305812
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForLossesOnForeignExchangeTranslations,외화환산손실,-,제 22 기,1030724622,제 21 기,1530879295,113,KRW,,,,,연결,제 20 기,206656008
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForMiscellaneousIncome,잡이익,-,제 22 기,,제 21 기,581962371,114,KRW,,,,,연결,제 20 기,6968950
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForMiscellaneousLosses,잡손실,-,제 22 기,13494181,제 21 기,37142364,115,KRW,,,,,연결,제 20 기,177618579
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForOtherBadDebtExpenses,기타의대손상각비,-,제 22 기,16319166048,제 21 기,,116,KRW,,,,,연결,제 20 기,659565163
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법이익,-,제 22 기,317302053,제 21 기,53388904,117,KRW,,,,,연결,제 20 기,2541192982
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여,-,제 22 기,328112032,제 21 기,861503568,118,KRW,,,,,연결,제 20 기,926807172
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForReversalsOfBadDebtExpenses,기타의손실충당금환입,-,제 22 기,,제 21 기,449438361,119,KRW,,,,,연결,제 20 기,205499009
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForReversalsOfProvisions,충당부채환입,-,제 22 기,4096943705,제 21 기,514099748,121,KRW,,,,,연결,제 20 기,1388932547
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_AdjustmentsForShareBasedPayment,주식보상비용,-,제 22 기,184109090,제 21 기,142212319,122,KRW,,,,,연결,제 20 기,82821980
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_EmployeeBenefits,복리후생비,-,제 22 기,,제 21 기,,123,KRW,,,,,연결,제 20 기,38418967
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_ImpairmentLossesOnInvestmentProperty,투자부동산손상차손,-,제 22 기,547141321,제 21 기,267713891,124,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_LeaseIncome,리스료수익,-,제 22 기,,제 21 기,,125,KRW,,,,,연결,제 20 기,823843
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_LossesFromRedemptionOfBonds,사채상환손실,-,제 22 기,,제 21 기,,126,KRW,,,,,연결,제 20 기,249875270
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_LossesOnDisposalOfIntangibleAssets,무형자산처분손실,-,제 22 기,22836432,제 21 기,,127,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_LossesOnDispositionOfReceivables,매출채권처분손실,-,제 22 기,,제 21 기,,128,KRW,,,,,연결,제 20 기,3608662
+20240321001153,11011,2023,00480950,CF,현금흐름표,dart_WritedownsOfInventories,재고자산평가손실,-,제 22 기,-40145660,제 21 기,-1180739969,129,KRW,,,,,연결,제 20 기,-837654360
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_AdjustmentsForAmortisationExpense,무형자산상각비,-,제 22 기,391396898,제 21 기,1444547344,130,KRW,,,,,연결,제 20 기,2044755527
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationExpense,감가상각비,-,제 22 기,4021976870,제 21 기,2907112622,131,KRW,,,,,연결,제 20 기,2341189939
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용,-,제 22 기,47290945,제 21 기,-1630977647,132,KRW,,,,,연결,제 20 기,112780297
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익,-,제 22 기,3946772334,제 21 기,6029776278,133,KRW,,,,,연결,제 20 기,1946914397
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_GainsOnDisposalsOfPropertyPlantAndEquipment,유형자산처분이익,-,제 22 기,,제 21 기,,134,KRW,,,,,연결,제 20 기,1178342062
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_RentalExpense,지급임차료,-,제 22 기,,제 21 기,,135,KRW,,,,,연결,제 20 기,248700000
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부,-,제 22 기,48376926,제 21 기,1129961986,136,KRW,,,,,연결,제 20 기,1779709250
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자비용지급,-,제 22 기,8668756452,제 21 기,8435584608,137,KRW,,,,,연결,제 20 기,3080527139
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수익수취,-,제 22 기,2925836740,제 21 기,4644957809,138,KRW,,,,,연결,제 20 기,2517870664
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsOperatingActivities,법인세환급,-,제 22 기,-633656542,제 21 기,275277463,139,KRW,,,,,연결,제 20 기,86159170
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 22 기,-93125001214,제 21 기,-99474117693,140,KRW,,,,,연결,제 20 기,5899625354
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,외화표시 현금및현금성자산의 환율변동효과,-,제 22 기,-138623091,제 21 기,69888486,141,KRW,,,,,연결,제 20 기,107127776
+20240321001153,11011,2023,00480950,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,현금의 증감,-,제 22 기,39163797930,제 21 기,-19804827023,142,KRW,,,,,연결,제 20 기,26963926956
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [구성요소]|비지배지분 [구성요소],제 22 기,-1128656427,제 21 기,212100170,3,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,연결재무제표 [member],제 22 기,-1128656427,제 21 기,4864168483,3,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,,제 21 기,4652068313,3,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 22 기,,제 21 기,4650833862,3,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 22 기,,제 21 기,1234451,3,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,연결재무제표 [member],제 22 기,-2503764039,제 21 기,-58050351,4,KRW,,,,,연결,제 20 기,722035208
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 22 기,-1902047147,제 21 기,-21261216,4,KRW,,,,,연결,제 20 기,703124852
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,-1902047147,제 21 기,-21261216,4,KRW,,,,,연결,제 20 기,703124852
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [구성요소]|비지배지분 [구성요소],제 22 기,-601716892,제 21 기,-36789135,4,KRW,,,,,연결,제 20 기,18910356
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,연결재무제표 [member],제 22 기,-443392635,제 21 기,-1804849200,5,KRW,,,,,연결,제 20 기,-2289025200
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,-443392635,제 21 기,-1804849200,5,KRW,,,,,연결,제 20 기,-2289025200
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 22 기,-443392635,제 21 기,-1804849200,5,KRW,,,,,연결,제 20 기,-2289025200
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_CompoundFinancialInstrumentConversion,전환사채행사,자본 [구성요소]|비지배지분 [구성요소],제 22 기,,제 21 기,5404418222,6,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_CompoundFinancialInstrumentConversion,전환사채행사,연결재무제표 [member],제 22 기,49524863703,제 21 기,20164326224,6,KRW,,,,,연결,제 20 기,9942887260
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_CompoundFinancialInstrumentConversion,전환사채행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,49524863703,제 21 기,14759908002,6,KRW,,,,,연결,제 20 기,9942887260
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_CompoundFinancialInstrumentConversion,전환사채행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 22 기,38420719903,제 21 기,12464952002,6,KRW,,,,,연결,제 20 기,-57112740
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_CompoundFinancialInstrumentConversion,전환사채행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 22 기,11104143800,제 21 기,2294956000,6,KRW,,,,,연결,제 20 기,10000000000
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_CompoundFinancialInstrumentIssue,전환사채발행,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 22 기,,제 21 기,527379219,7,KRW,,,,,연결,제 20 기,3182303000
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_CompoundFinancialInstrumentIssue,전환사채발행,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,,제 21 기,527379219,7,KRW,,,,,연결,제 20 기,3182303000
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_CompoundFinancialInstrumentIssue,전환사채발행,연결재무제표 [member],제 22 기,,제 21 기,527379219,7,KRW,,,,,연결,제 20 기,3182303000
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_CompoundFinancialInstrumentRedemption,전환사채상환,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 22 기,-446754058,제 21 기,-951440670,8,KRW,,,,,연결,제 20 기,-825307128
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_CompoundFinancialInstrumentRedemption,전환사채상환,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,-446754058,제 21 기,-951440670,8,KRW,,,,,연결,제 20 기,-825307128
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_CompoundFinancialInstrumentRedemption,전환사채상환,연결재무제표 [member],제 22 기,-446754058,제 21 기,-951440670,8,KRW,,,,,연결,제 20 기,-825307128
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 22 기,-116269333806,제 21 기,-20457349807,9,KRW,,,,,연결,제 20 기,-20603784364
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 22 기,21109454000,제 21 기,188144981000,9,KRW,,,,,연결,제 20 기,144668508400
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 22 기,-5399788115,제 21 기,-2988582575,9,KRW,,,,,연결,제 20 기,-5464069070
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,167104794543,제 21 기,251259819311,9,KRW,,,,,연결,제 20 기,143843199230
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|비지배지분 [구성요소],제 22 기,14681387414,제 21 기,6445514418,9,KRW,,,,,연결,제 20 기,3369245257
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 22 기,267664462464,제 21 기,86560770693,9,KRW,,,,,연결,제 20 기,25242544264
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 22 기,181786181957,제 21 기,257705333729,9,KRW,,,,,연결,제 20 기,147212444487
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_IncreaseDecreaseThroughBusinessCombinations,사업결합,연결재무제표 [member],제 22 기,,제 21 기,1965836702,10,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_IncreaseDecreaseThroughBusinessCombinations,사업결합,자본 [구성요소]|비지배지분 [구성요소],제 22 기,,제 21 기,2240452389,10,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_IncreaseDecreaseThroughBusinessCombinations,사업결합,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 22 기,,제 21 기,547697909,10,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_IncreaseDecreaseThroughBusinessCombinations,사업결합,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 22 기,,제 21 기,-822313596,10,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_IncreaseDecreaseThroughBusinessCombinations,사업결합,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,,제 21 기,-274615687,10,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_IncreaseDecreaseThroughCorrectionsOfErrors,결손금보전,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 22 기,6586727830,제 21 기,,11,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_IncreaseDecreaseThroughCorrectionsOfErrors,결손금보전,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 22 기,-6586727830,제 21 기,,11,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_OtherTransactions,관계기업투자의 처분,연결재무제표 [member],제 22 기,35646186,제 21 기,37439070,12,KRW,,,,,연결,제 20 기,139932953
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_OtherTransactions,관계기업투자의 처분,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,35646186,제 21 기,37439070,12,KRW,,,,,연결,제 20 기,139932953
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_OtherTransactions,관계기업투자의 처분,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 22 기,1179627335,제 21 기,1198636722,12,KRW,,,,,연결,제 20 기,4878823761
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_OtherTransactions,관계기업투자의 처분,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 22 기,-1143981149,제 21 기,-1161197652,12,KRW,,,,,연결,제 20 기,-4738890808
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ProceedsFromConsolidatedCapitalTransactions,연결실체 내 자본거래 등,연결재무제표 [member],제 22 기,-1179251425,제 21 기,,13,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ProceedsFromConsolidatedCapitalTransactions,연결실체 내 자본거래 등,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 22 기,-1179251425,제 21 기,-159623539,13,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ProceedsFromConsolidatedCapitalTransactions,연결실체 내 자본거래 등,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,-1179251425,제 21 기,-159623539,13,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_PurchaseDisposalsOfOddShares,신주인수권부사채의 행사,연결재무제표 [member],제 22 기,66963818166,제 21 기,,14,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_PurchaseDisposalsOfOddShares,신주인수권부사채의 행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 22 기,15496713200,제 21 기,,14,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_PurchaseDisposalsOfOddShares,신주인수권부사채의 행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,66963818166,제 21 기,,14,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_PurchaseDisposalsOfOddShares,신주인수권부사채의 행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 22 기,51467104966,제 21 기,,14,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ReclassificationAdjustments,확정급여제도의 재측정요소,연결재무제표 [member],제 22 기,-92602462,제 21 기,-153907636,15,KRW,,,,,연결,제 20 기,79441168
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ReclassificationAdjustments,확정급여제도의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 22 기,-92602462,제 21 기,-153907636,15,KRW,,,,,연결,제 20 기,79441168
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ReclassificationAdjustments,확정급여제도의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,-92602462,제 21 기,-153907636,15,KRW,,,,,연결,제 20 기,79441168
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ShareOfRetainedEarningsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법 이익잉여금 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,,제 21 기,,16,KRW,,,,,연결,제 20 기,-8069773
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ShareOfRetainedEarningsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법 이익잉여금 변동,연결재무제표 [member],제 22 기,,제 21 기,,16,KRW,,,,,연결,제 20 기,-8069773
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_ShareOfRetainedEarningsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법 이익잉여금 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 22 기,,제 21 기,,16,KRW,,,,,연결,제 20 기,-8069773
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_StockRedemptionWithoutRefund,무상감자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,,제 21 기,-57106450,17,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_StockRedemptionWithoutRefund,무상감자,연결재무제표 [member],제 22 기,,제 21 기,-57106450,17,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_StockRedemptionWithoutRefund,무상감자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 22 기,,제 21 기,-169330483000,17,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_StockRedemptionWithoutRefund,무상감자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 22 기,,제 21 기,169273376550,17,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_SubscriptionOnNewStocks,유상증자,연결재무제표 [member],제 22 기,24999499095,제 21 기,,18,KRW,,,,,연결,제 20 기,57133226606
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_SubscriptionOnNewStocks,유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 22 기,3166561000,제 21 기,,18,KRW,,,,,연결,제 20 기,33476472600
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_SubscriptionOnNewStocks,유상증자,자본 [구성요소]|비지배지분 [구성요소],제 22 기,,제 21 기,,18,KRW,,,,,연결,제 20 기,1971934044
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_SubscriptionOnNewStocks,유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,24999499095,제 21 기,,18,KRW,,,,,연결,제 20 기,55161292562
+20240321001153,11011,2023,00480950,SCE,자본변동표,dart_SubscriptionOnNewStocks,유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 22 기,21832938095,제 21 기,,18,KRW,,,,,연결,제 20 기,21684819962
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|비지배지분 [구성요소],제 22 기,13217935713,제 21 기,14681387414,19,KRW,,,,,연결,제 20 기,6445514418
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,211260491436,제 21 기,167104794543,19,KRW,,,,,연결,제 20 기,251259819311
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 22 기,-6661869350,제 21 기,-5399788115,19,KRW,,,,,연결,제 20 기,-2988582575
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 22 기,-204127003329,제 21 기,-116269333806,19,KRW,,,,,연결,제 20 기,-20457349807
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 22 기,50876872000,제 21 기,21109454000,19,KRW,,,,,연결,제 20 기,188144981000
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 22 기,371172492115,제 21 기,267664462464,19,KRW,,,,,연결,제 20 기,86560770693
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 22 기,224478427149,제 21 기,181786181957,19,KRW,,,,,연결,제 20 기,257705333729
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,지분법자본변동,연결재무제표 [member],제 22 기,-96268788,제 21 기,-961418250,20,KRW,,,,,연결,제 20 기,-817436918
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,-96268788,제 21 기,-961418250,20,KRW,,,,,연결,제 20 기,-817436918
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 22 기,-96268788,제 21 기,-961418250,20,KRW,,,,,연결,제 20 기,-817436918
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식기준보상거래,연결재무제표 [member],제 22 기,184109090,제 21 기,142212319,21,KRW,,,,,연결,제 20 기,82821980
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식기준보상거래,자본 [구성요소]|비지배지분 [구성요소],제 22 기,184109090,제 21 기,194398561,21,KRW,,,,,연결,제 20 기,
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식기준보상거래,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,,제 21 기,-52186242,21,KRW,,,,,연결,제 20 기,82821980
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식기준보상거래,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 22 기,,제 21 기,-52186242,21,KRW,,,,,연결,제 20 기,82821980
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_IssueOfEquity,신주인수권부사채의 발행,연결재무제표 [member],제 22 기,,제 21 기,,22,KRW,,,,,연결,제 20 기,37251280833
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_IssueOfEquity,신주인수권부사채의 발행,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,,제 21 기,,22,KRW,,,,,연결,제 20 기,37251280833
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_IssueOfEquity,신주인수권부사채의 발행,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 22 기,,제 21 기,,22,KRW,,,,,연결,제 20 기,37251280833
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),연결재무제표 [member],제 22 기,-93125001214,제 21 기,-99474117693,23,KRW,,,,,연결,제 20 기,5899625354
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|비지배지분 [구성요소],제 22 기,82812528,제 21 기,221292789,23,KRW,,,,,연결,제 20 기,1085671384
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,-93207813742,제 21 기,-99695410482,23,KRW,,,,,연결,제 20 기,4813953970
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 22 기,-93207813742,제 21 기,-99695410482,23,KRW,,,,,연결,제 20 기,4813953970
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_PurchaseOfTreasuryShares,자기주식의 취득,연결재무제표 [member],제 22 기,,제 21 기,,24,KRW,,,,,연결,제 20 기,-826101
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_PurchaseOfTreasuryShares,자기주식의 취득,자본 [구성요소]|비지배지분 [구성요소],제 22 기,,제 21 기,,24,KRW,,,,,연결,제 20 기,-246623
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_PurchaseOfTreasuryShares,자기주식의 취득,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 22 기,,제 21 기,,24,KRW,,,,,연결,제 20 기,-579478
+20240321001153,11011,2023,00480950,SCE,자본변동표,ifrs-full_PurchaseOfTreasuryShares,자기주식의 취득,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 22 기,,제 21 기,,24,KRW,,,,,연결,제 20 기,-579478
