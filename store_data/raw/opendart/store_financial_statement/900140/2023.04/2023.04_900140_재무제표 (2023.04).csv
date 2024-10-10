@@ -1,0 +1,324 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분,bfefrmtrm_nm,bfefrmtrm_amount
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 14 기,165962071,제 13 기,202752798,1,USD,,,,,연결,제 12 기,279487274
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 14 기,12947716,제 13 기,17798985,2,USD,,,,,연결,제 12 기,31945949
+20230426000644,11011,2022,00838500,BS,재무상태표,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,단기금융상품,-,제 14 기,15781378,제 13 기,15470158,3,USD,,,,,연결,제 12 기,15463151
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_CurrentFinancialAssetsAtFairValueThroughProfitOrLossMandatorilyMeasuredAtFairValue,당기손익-공정가치 측정 금융자산,-,제 14 기,0,제 13 기,0,4,USD,,,,,연결,제 12 기,2806347
+20230426000644,11011,2022,00838500,BS,재무상태표,dart_ShortTermTradeReceivable,매출채권,-,제 14 기,7752660,제 13 기,21883986,5,USD,,,,,연결,제 12 기,63738578
+20230426000644,11011,2022,00838500,BS,재무상태표,-표준계정코드 미사용-,기타채권,-,제 14 기,18581331,제 13 기,41622247,6,USD,,,,,연결,제 12 기,69047124
+20230426000644,11011,2022,00838500,BS,재무상태표,dart_OtherCurrentAssets,기타유동자산,-,제 14 기,16160253,제 13 기,12945440,7,USD,,,,,연결,제 12 기,4029047
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_CurrentTaxAssets,법인세자산,-,제 14 기,1233418,제 13 기,561245,8,USD,,,,,연결,제 12 기,151341
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 14 기,93505315,제 13 기,92470737,9,USD,,,,,연결,제 12 기,92305737
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 14 기,360565841,제 13 기,355195133,10,USD,,,,,연결,제 12 기,315787464
+20230426000644,11011,2022,00838500,BS,재무상태표,dart_LongTermTradeReceivablesGross,장기매출채권,-,제 14 기,1508346,제 13 기,35393399,11,USD,,,,,연결,제 12 기,73581782
+20230426000644,11011,2022,00838500,BS,재무상태표,-표준계정코드 미사용-,기타포괄손익-공정가치측정 금융자산,-,제 14 기,7981514,제 13 기,13710497,12,USD,,,,,연결,제 12 기,13978618
+20230426000644,11011,2022,00838500,BS,재무상태표,-표준계정코드 미사용-,관계기업투자,-,제 14 기,16907632,제 13 기,29431563,13,USD,,,,,연결,제 12 기,38703728
+20230426000644,11011,2022,00838500,BS,재무상태표,-표준계정코드 미사용-,기타채권,-,제 14 기,20760909,제 13 기,276737,14,USD,,,,,연결,제 12 기,6138189
+20230426000644,11011,2022,00838500,BS,재무상태표,dart_OtherNonCurrentAssets,기타비유동자산,-,제 14 기,1623433,제 13 기,1086183,15,USD,,,,,연결,제 12 기,2122270
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 14 기,59625867,제 13 기,68561953,16,USD,,,,,연결,제 12 기,69397981
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_RightofuseAssets,사용권자산,-,제 14 기,157785996,제 13 기,199388595,17,USD,,,,,연결,제 12 기,108292455
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 14 기,88794922,제 13 기,737915,18,USD,,,,,연결,제 12 기,810949
+20230426000644,11011,2022,00838500,BS,재무상태표,-표준계정코드 미사용-,무형자산,-,제 14 기,5577222,제 13 기,6608291,19,USD,,,,,연결,제 12 기,2761492
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 14 기,526527912,제 13 기,557947931,20,USD,,,,,연결,제 12 기,595274738
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 14 기,182627758,제 13 기,175254529,22,USD,,,,,연결,제 12 기,210615760
+20230426000644,11011,2022,00838500,BS,재무상태표,dart_ShortTermTradePayables,매입채무,-,제 14 기,16991573,제 13 기,16688618,23,USD,,,,,연결,제 12 기,24220880
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_ShorttermBorrowings,단기차입금,-,제 14 기,94797593,제 13 기,95799902,24,USD,,,,,연결,제 12 기,96545366
+20230426000644,11011,2022,00838500,BS,재무상태표,-표준계정코드 미사용-,유동성장기차입금,-,제 14 기,18876605,제 13 기,38648645,25,USD,,,,,연결,제 12 기,21324015
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_CurrentLeaseLiabilities,유동리스부채,-,제 14 기,2264438,제 13 기,3644599,26,USD,,,,,연결,제 12 기,6566610
+20230426000644,11011,2022,00838500,BS,재무상태표,-표준계정코드 미사용-,전환사채,-,제 14 기,21943509,제 13 기,0,27,USD,,,,,연결,제 12 기,30682222
+20230426000644,11011,2022,00838500,BS,재무상태표,dart_CurrentPortionOfExchangeableBond,교환사채,-,제 14 기,0,제 13 기,6076753,28,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,BS,재무상태표,-표준계정코드 미사용-,파생상품부채,-,제 14 기,13985275,제 13 기,266236,29,USD,,,,,연결,제 12 기,19246143
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_CurrentProvisions,충당부채,-,제 14 기,536496,제 13 기,784059,30,USD,,,,,연결,제 12 기,1052228
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_OtherCurrentFinancialLiabilities,기타금융부채,-,제 14 기,8769811,제 13 기,9002539,31,USD,,,,,연결,제 12 기,7954099
+20230426000644,11011,2022,00838500,BS,재무상태표,dart_OtherCurrentLiabilities,기타유동부채,-,제 14 기,2645064,제 13 기,2927594,32,USD,,,,,연결,제 12 기,1322013
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,법인세부채,-,제 14 기,1817394,제 13 기,1415584,33,USD,,,,,연결,제 12 기,1702184
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 14 기,18945475,제 13 기,17691718,34,USD,,,,,연결,제 12 기,55020863
+20230426000644,11011,2022,00838500,BS,재무상태표,dart_LongTermBorrowingsGross,장기차입금,-,제 14 기,12102061,제 13 기,5215748,35,USD,,,,,연결,제 12 기,25875258
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_NoncurrentLeaseLiabilities,비유동리스부채,-,제 14 기,6024805,제 13 기,11353043,36,USD,,,,,연결,제 12 기,27941529
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_NoncurrentProvisions,충당부채,-,제 14 기,818609,제 13 기,1122927,37,USD,,,,,연결,제 12 기,1204076
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 14 기,201573233,제 13 기,192946247,38,USD,,,,,연결,제 12 기,265636623
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,-,제 14 기,319726995,제 13 기,358368759,40,USD,,,,,연결,제 12 기,327213590
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 14 기,24863825,제 13 기,24863825,41,USD,,,,,연결,제 12 기,21087148
+20230426000644,11011,2022,00838500,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타불입자본,-,제 14 기,239523994,제 13 기,239215028,42,USD,,,,,연결,제 12 기,192879985
+20230426000644,11011,2022,00838500,BS,재무상태표,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,-,제 14 기,-6287339,제 13 기,3107037,43,USD,,,,,연결,제 12 기,6867950
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금(결손금),-,제 14 기,61626515,제 13 기,91182869,44,USD,,,,,연결,제 12 기,106378507
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 14 기,5227684,제 13 기,6632925,45,USD,,,,,연결,제 12 기,2424525
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 14 기,324954679,제 13 기,365001684,46,USD,,,,,연결,제 12 기,329638115
+20230426000644,11011,2022,00838500,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 14 기,526527912,제 13 기,557947931,47,USD,,,,,연결,제 12 기,595274738
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_Revenue,매출액,-,제 14 기,192947521,제 13 기,179008457,0,USD,,,,,연결,제 12 기,232369136
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 14 기,160386005,제 13 기,157928545,1,USD,,,,,연결,제 12 기,201708847
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 14 기,32561516,제 13 기,21079912,2,USD,,,,,연결,제 12 기,30660289
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 14 기,36393674,제 13 기,39344268,3,USD,,,,,연결,제 12 기,40998154
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,-표준계정코드 미사용-,기타수익,-,제 14 기,5928523,제 13 기,20207488,4,USD,,,,,연결,제 12 기,15438110
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,-표준계정코드 미사용-,기타비용,-,제 14 기,13258442,제 13 기,14673149,5,USD,,,,,연결,제 12 기,4533729
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익(손실),-,제 14 기,-11162077,제 13 기,-12730017,6,USD,,,,,연결,제 12 기,566516
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 14 기,11687820,제 13 기,13199159,7,USD,,,,,연결,제 12 기,10840355
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융비용,-,제 14 기,21453518,제 13 기,16395139,8,USD,,,,,연결,제 12 기,33198271
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,-표준계정코드 미사용-,지분법투자손익,-,제 14 기,-9535987,제 13 기,-990739,9,USD,,,,,연결,제 12 기,1487799
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-,제 14 기,-30463762,제 13 기,-16916736,10,USD,,,,,연결,제 12 기,-20303601
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,-,제 14 기,273814,제 13 기,196270,11,USD,,,,,연결,제 12 기,507500
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 14 기,-30737576,제 13 기,-17113006,12,USD,,,,,연결,제 12 기,-20811101
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 14 기,-9715270,제 13 기,-3656945,13,USD,,,,,연결,제 12 기,3888311
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는항목,-,제 14 기,-5832132,제 13 기,-205914,14,USD,,,,,연결,제 12 기,263506
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동 중 당기손익으로 재분류되지 않는 항목,-,제 14 기,72100,제 13 기,106694,15,USD,,,,,연결,제 12 기,-48472
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,-표준계정코드 미사용-,기타포괄손익-공정가치 측정 금융자산 평가손익,-,제 14 기,-5904232,제 13 기,-312608,16,USD,,,,,연결,제 12 기,311978
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류될 수 있는 항목(세후기타포괄손익),-,제 14 기,-3883138,제 13 기,-3451031,17,USD,,,,,연결,제 12 기,3624805
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,-,제 14 기,-3060044,제 13 기,-3724005,18,USD,,,,,연결,제 12 기,3514047
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,-,제 14 기,-823094,제 13 기,272974,19,USD,,,,,연결,제 12 기,110758
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,당기총포괄이익(손실),-,제 14 기,-40452846,제 13 기,-20769951,20,USD,,,,,연결,제 12 기,-16922790
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업 소유주지분,-,제 14 기,-29556353,제 13 기,-15195638,22,USD,,,,,연결,제 12 기,-20553550
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,-,제 14 기,-1181223,제 13 기,-1917368,23,USD,,,,,연결,제 12 기,-257551
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업 소유주지분,-,제 14 기,-38950728,제 13 기,-18956552,25,USD,,,,,연결,제 12 기,-16720618
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,-,제 14 기,-1502118,제 13 기,-1813399,26,USD,,,,,연결,제 12 기,-202172
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),-,제 14 기,-0.3,제 13 기,-0.15,28,USD,,,,,연결,제 12 기,-0.35
+20230426000644,11011,2022,00838500,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,희석주당이익(손실),-,제 14 기,-0.3,제 13 기,-0.15,29,USD,,,,,연결,제 12 기,-0.35
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 14 기,53817468,제 13 기,91944745,0,USD,,,,,연결,제 12 기,59241339
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_ProfitLossForStatementOfCashFlows,당기순이익(손실),-,제 14 기,-30737576,제 13 기,-17113006,1,USD,,,,,연결,제 12 기,-20811101
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감,-,제 14 기,37888938,제 13 기,14778677,2,USD,,,,,연결,제 12 기,29764325
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForLossesOnEvaluationOfFairValueFinancialAssets,당기손익인식금융자산평가손실,-,제 14 기,0,제 13 기,0,3,USD,,,,,연결,제 12 기,6558
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForGainsOnEvaluationOfFairValueFinancialAssets,당기손익인식금융자산평가이익,-,제 14 기,0,제 13 기,0,4,USD,,,,,연결,제 12 기,647656
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForWritedownsOfInventories,재고자산평가손실,-,제 14 기,819560,제 13 기,18545,5,USD,,,,,연결,제 12 기,99302
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비,-,제 14 기,40016,제 13 기,183580,6,USD,,,,,연결,제 12 기,252842
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForReversalAllowanceDoubtfulAccounts,대손충당금환입,-,제 14 기,0,제 13 기,0,7,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForOtherBadDebtExpenses,기타의 대손상각비,-,제 14 기,284019,제 13 기,722809,8,USD,,,,,연결,제 12 기,599644
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForLossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법관련손익,-,제 14 기,9535987,제 13 기,1624904,9,USD,,,,,연결,제 12 기,-1487799
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsofInvestmentsInAssociates,종속기업투자처분손실,-,제 14 기,0,제 13 기,0,10,USD,,,,,연결,제 12 기,939858
+20230426000644,11011,2022,00838500,CF,현금흐름표,-표준계정코드 미사용-,관계기업투자주식처분손실,-,제 14 기,0,제 13 기,577162,11,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,CF,현금흐름표,-표준계정코드 미사용-,관계기업투자주식처분이익,-,제 14 기,0,제 13 기,-1211327,12,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForMiscellaneousLosses,잡손실,-,제 14 기,30737,제 13 기,52178,13,USD,,,,,연결,제 12 기,928
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForDepreciationExpense,감가상각비,-,제 14 기,14944856,제 13 기,14600613,14,USD,,,,,연결,제 12 기,14592176
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForLossesOnDispositionOfPropertyPlantAndEquipment,유형자산처분손실,-,제 14 기,76253,제 13 기,74454,15,USD,,,,,연결,제 12 기,703334
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOfPropertyPlantAndEquipment,유형자산손상차손,-,제 14 기,2022423,제 13 기,0,16,USD,,,,,연결,제 12 기,218241
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익,-,제 14 기,231120,제 13 기,946283,17,USD,,,,,연결,제 12 기,1010016
+20230426000644,11011,2022,00838500,CF,현금흐름표,-표준계정코드 미사용-,투자부동산감가상각비,-,제 14 기,1488261,제 13 기,73034,18,USD,,,,,연결,제 12 기,138781
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForAmortisationExpense,무형자산상각비,-,제 14 기,648023,제 13 기,738856,19,USD,,,,,연결,제 12 기,761095
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOfIntangibleAssets,무형자산손상차손,-,제 14 기,394122,제 13 기,89694,20,USD,,,,,연결,제 12 기,111959
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForLossesOnEvaluationOfDerivativeFinancialAssets,파생상품평가손실,-,제 14 기,3929755,제 13 기,0,21,USD,,,,,연결,제 12 기,4191056
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForGainsOnEvaluationOfDerivativeFinancialAssets,파생상품평가이익,-,제 14 기,0,제 13 기,1904512,22,USD,,,,,연결,제 12 기,4689794
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForLossesOnTransactionOfDerivativeFinancialAssets,파생상품거래손실,-,제 14 기,0,제 13 기,0,23,USD,,,,,연결,제 12 기,143316
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForGainsOnTransactionOfDerivativeFinancialAssets,파생상품거래이익,-,제 14 기,95834,제 13 기,0,24,USD,,,,,연결,제 12 기,17358
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForGainsOnRedemptionOfBorrowings,사채상환이익,-,제 14 기,666906,제 13 기,-52367,25,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,CF,현금흐름표,-표준계정코드 미사용-,판매보증비(환입),-,제 14 기,22926,제 13 기,-163499,26,USD,,,,,연결,제 12 기,1512283
+20230426000644,11011,2022,00838500,CF,현금흐름표,-표준계정코드 미사용-,반품충당부채전입(환입)액,-,제 14 기,-60757,제 13 기,854232,27,USD,,,,,연결,제 12 기,72943
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용,-,제 14 기,273814,제 13 기,481957,28,USD,,,,,연결,제 12 기,507500
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForShareBasedPayment,주식보상비용(환입),-,제 14 기,405842,제 13 기,309783,29,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여,-,제 14 기,0,제 13 기,0,30,USD,,,,,연결,제 12 기,-6347
+20230426000644,11011,2022,00838500,CF,현금흐름표,-표준계정코드 미사용-,판매촉진비,-,제 14 기,-63325,제 13 기,-113926,31,USD,,,,,연결,제 12 기,690628
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익,-,제 14 기,7544480,제 13 기,8285472,32,USD,,,,,연결,제 12 기,3864507
+20230426000644,11011,2022,00838500,CF,현금흐름표,-표준계정코드 미사용-,외환차익,-,제 14 기,-1447539,제 13 기,-1089490,33,USD,,,,,연결,제 12 기,-472125
+20230426000644,11011,2022,00838500,CF,현금흐름표,-표준계정코드 미사용-,배당금수익,-,제 14 기,0,제 13 기,0,34,USD,,,,,연결,제 12 기,-38955
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForLossesOnForeignExchangeTranslations,외화환산손실,-,제 14 기,3497787,제 13 기,1650687,35,USD,,,,,연결,제 12 기,6415253
+20230426000644,11011,2022,00838500,CF,현금흐름표,-표준계정코드 미사용-,외환차손,-,제 14 기,443169,제 13 기,1255847,36,USD,,,,,연결,제 12 기,1457658
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForInterestIncome,이자수익,-,제 14 기,3829801,제 13 기,9699035,37,USD,,,,,연결,제 12 기,13009009
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForInterestExpenses,이자비용,-,제 14 기,14431113,제 13 기,14859802,38,USD,,,,,연결,제 12 기,21734243
+20230426000644,11011,2022,00838500,CF,현금흐름표,-표준계정코드 미사용-,기부금,-,제 14 기,10683,제 13 기,0,39,USD,,,,,연결,제 12 기,106137
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForMiscellaneousIncome,잡이익,-,제 14 기,1470646,제 13 기,28283,40,USD,,,,,연결,제 12 기,247844
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,운전자본 변동,-,제 14 기,55461005,제 13 기,105271733,41,USD,,,,,연결,제 12 기,63053647
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInTradeAndOtherCurrentReceivables,매출채권및타채권의 감소,-,제 14 기,65198069,제 13 기,133087447,42,USD,,,,,연결,제 12 기,43827681
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInOtherCurrentAssets,기타유동자산의 증가,-,제 14 기,-5314429,제 13 기,-2393852,43,USD,,,,,연결,제 12 기,4143115
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInOtherNonCurrentNonFinancialAssets,기타비유동자산의 감소(증가),-,제 14 기,-237250,제 13 기,1164938,44,USD,,,,,연결,제 12 기,2037092
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInInventories,재고자산의 감소,-,제 14 기,-2035813,제 13 기,6563317,45,USD,,,,,연결,제 12 기,25540252
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInTradeAndOtherPayables,매입채무 및 기타채무의 감소,-,제 14 기,-1078562,제 13 기,-31174829,46,USD,,,,,연결,제 12 기,-15381567
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInOtherCurrentLiabilities,기타유동부채의 증가(감소),-,제 14 기,-545941,제 13 기,-1161936,47,USD,,,,,연결,제 12 기,3601511
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInProvisions,충당부채의 증가(감소),-,제 14 기,-525069,제 13 기,-813352,48,USD,,,,,연결,제 12 기,-714437
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 14 기,791253,제 13 기,1449377,49,USD,,,,,연결,제 12 기,3473765
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급,-,제 14 기,9132268,제 13 기,11683534,50,USD,,,,,연결,제 12 기,15564610
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취,-,제 14 기,0,제 13 기,0,51,USD,,,,,연결,제 12 기,38955
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부,-,제 14 기,453884,제 13 기,758502,52,USD,,,,,연결,제 12 기,713642
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 14 기,-70140661,제 13 기,-108941375,53,USD,,,,,연결,제 12 기,-102848848
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 순증감,-,제 14 기,311235,제 13 기,0,54,USD,,,,,연결,제 12 기,11005917
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_PurchaseOfShortTermLoansAndReceivables,단기대여금의 대여,-,제 14 기,14239000,제 13 기,7705895,55,USD,,,,,연결,제 12 기,25758517
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_CashFlowsFromLosingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,단기대여금의 회수,-,제 14 기,5015509,제 13 기,8267545,56,USD,,,,,연결,제 12 기,22626413
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_DecreaseInLoans,장기대여금의 회수,-,제 14 기,0,제 13 기,0,57,USD,,,,,연결,제 12 기,-400000
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_PurchaseOfOtherFinancialAssets,기타포괄손익인식금융자산의 취득,-,제 14 기,175250,제 13 기,44487,58,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_PurchaseOfInvestmentsInSubsidiaries,종속기업투자의 취득,-,제 14 기,0,제 13 기,0,59,USD,,,,,연결,제 12 기,36021996
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInSubsidiaries,종속기업투자의 처분,-,제 14 기,0,제 13 기,0,60,USD,,,,,연결,제 12 기,1685699
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_PurchaseOfInvestmentsInAssociates,관계기업투자의 취득,-,제 14 기,0,제 13 기,0,61,USD,,,,,연결,제 12 기,7983115
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 14 기,1488111,제 13 기,278322,62,USD,,,,,연결,제 12 기,1264728
+20230426000644,11011,2022,00838500,CF,현금흐름표,-표준계정코드 미사용-,사용권자산의 취득,-,제 14 기,-59139437,제 13 기,-112721947,63,USD,,,,,연결,제 12 기,-46737939
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 14 기,426670,제 13 기,1247495,64,USD,,,,,연결,제 12 기,2470510
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 14 기,173057,제 13 기,127060,65,USD,,,,,연결,제 12 기,364124
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,임차보증금의 감소,-,제 14 기,-56750,제 13 기,0,66,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,CF,현금흐름표,-표준계정코드 미사용-,연결범위변동에 따른 순현금흐름,-,제 14 기,0,제 13 기,2401073,67,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_CashFlowsUsedInObtainingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,종속기업의 취득에 따른 순현금흐름,-,제 14 기,0,제 13 기,-20223,68,USD,,,,,연결,제 12 기,95134
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 14 기,12143185,제 13 기,4775320,69,USD,,,,,연결,제 12 기,64852381
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 순차입,-,제 14 기,462033,제 13 기,3063803,70,USD,,,,,연결,제 12 기,26963629
+20230426000644,11011,2022,00838500,CF,현금흐름표,-표준계정코드 미사용-,유동성장기차입금의 상환,-,제 14 기,-10773809,제 13 기,-9565400,71,USD,,,,,연결,제 12 기,-8482241
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 증가,-,제 14 기,12201573,제 13 기,15295691,72,USD,,,,,연결,제 12 기,6000000
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 상환,-,제 14 기,11014638,제 13 기,95472,73,USD,,,,,연결,제 12 기,3675095
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_ProceedsFromBonds,사채의 차입,-,제 14 기,35527479,제 13 기,14407911,74,USD,,,,,연결,제 12 기,7295134
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_RepaymentsOfBonds,사채의 상환,-,제 14 기,11903187,제 13 기,13352219,75,USD,,,,,연결,제 12 기,53386487
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_ProceedsFromIssuingShares,주식의 발행,-,제 14 기,0,제 13 기,0,76,USD,,,,,연결,제 12 기,95610489
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_PaymentsFromChangesInOwnershipInterestsInSubsidiaries,종속기업의 유상증자,-,제 14 기,0,제 13 기,0,77,USD,,,,,연결,제 12 기,-110758
+20230426000644,11011,2022,00838500,CF,현금흐름표,-표준계정코드 미사용-,리스부채의 상환,-,제 14 기,-2356266,제 13 기,-4978994,78,USD,,,,,연결,제 12 기,-5583806
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,현금및현금성자산의 증가(감소),-,제 14 기,-4180008,제 13 기,-12221310,79,USD,,,,,연결,제 12 기,21244872
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초의 현금및현금성자산,-,제 14 기,17798985,제 13 기,31945949,80,USD,,,,,연결,제 12 기,10405701
+20230426000644,11011,2022,00838500,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,외화표시 현금및현금성자산에 대한 환율변동효과,-,제 14 기,-671260,제 13 기,-1925654,81,USD,,,,,연결,제 12 기,295376
+20230426000644,11011,2022,00838500,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말의 현금및현금성자산,-,제 14 기,12947716,제 13 기,17798985,82,USD,,,,,연결,제 12 기,31945949
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 14 기,365001684,제 13 기,329638115,1,USD,,,,,연결,제 12 기,281507281
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|비지배지분 [member],제 14 기,6632926,제 13 기,2424525,1,USD,,,,,연결,제 12 기,6679671
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 14 기,358368758,제 13 기,327213590,1,USD,,,,,연결,제 12 기,274827610
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 14 기,239215028,제 13 기,192879985,1,USD,,,,,연결,제 12 기,132130360
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 14 기,-517042,제 13 기,-546160,1,USD,,,,,연결,제 12 기,-546160
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 14 기,24863825,제 13 기,21087148,1,USD,,,,,연결,제 12 기,12780110
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 14 기,748,제 13 기,748,1,USD,,,,,연결,제 12 기,748
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식매수선택권,제 14 기,309783,제 13 기,0,1,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 14 기,251672994,제 13 기,205676852,1,USD,,,,,연결,제 12 기,144927227
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 14 기,3107036,제 13 기,6867950,1,USD,,,,,연결,제 12 기,2985083
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 14 기,91182869,제 13 기,106378507,1,USD,,,,,연결,제 12 기,126932057
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 14 기,-12251455,제 13 기,-12251455,1,USD,,,,,연결,제 12 기,-12251455
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),연결재무제표 [member],제 14 기,-30737576,제 13 기,-17113006,2,USD,,,,,연결,제 12 기,-20811101
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|비지배지분 [member],제 14 기,-1181223,제 13 기,-1917368,2,USD,,,,,연결,제 12 기,-257551
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 14 기,-29556353,제 13 기,-15195638,2,USD,,,,,연결,제 12 기,-20553550
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 14 기,0,제 13 기,0,2,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 14 기,,제 13 기,0,2,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 14 기,0,제 13 기,0,2,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 14 기,0,제 13 기,0,2,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식매수선택권,제 14 기,0,제 13 기,0,2,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 14 기,0,제 13 기,0,2,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 14 기,0,제 13 기,0,2,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 14 기,-29556353,제 13 기,-15195638,2,USD,,,,,연결,제 12 기,-20553550
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 14 기,0,제 13 기,0,2,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_StockDividends,주식배당,연결재무제표 [member],제 14 기,0,제 13 기,0,3,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_StockDividends,주식배당,자본 [member]|비지배지분 [member],제 14 기,0,제 13 기,0,3,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_StockDividends,주식배당,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 14 기,0,제 13 기,0,3,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_StockDividends,주식배당,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 14 기,0,제 13 기,0,3,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_StockDividends,주식배당,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 14 기,0,제 13 기,0,3,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_StockDividends,주식배당,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 14 기,0,제 13 기,0,3,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_StockDividends,주식배당,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 14 기,0,제 13 기,0,3,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_StockDividends,주식배당,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식매수선택권,제 14 기,0,제 13 기,0,3,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_StockDividends,주식배당,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 14 기,0,제 13 기,0,3,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_StockDividends,주식배당,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 14 기,0,제 13 기,0,3,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_StockDividends,주식배당,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 14 기,0,제 13 기,0,3,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_StockDividends,주식배당,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 14 기,0,제 13 기,0,3,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,연결재무제표 [member],제 14 기,-5904232,제 13 기,0,4,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|비지배지분 [member],제 14 기,0,제 13 기,0,4,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 14 기,-5904232,제 13 기,0,4,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 14 기,0,제 13 기,0,4,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 14 기,0,제 13 기,0,4,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 14 기,0,제 13 기,0,4,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 14 기,0,제 13 기,0,4,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식매수선택권,제 14 기,0,제 13 기,0,4,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 14 기,0,제 13 기,0,4,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 14 기,-5904232,제 13 기,0,4,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 14 기,0,제 13 기,0,4,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 14 기,0,제 13 기,0,4,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughCorrectionsOfErrors,지분법자본변동,연결재무제표 [member],제 14 기,-2987944,제 13 기,-3617311,5,USD,,,,,연결,제 12 기,3465575
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughCorrectionsOfErrors,지분법자본변동,자본 [member]|비지배지분 [member],제 14 기,0,제 13 기,0,5,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughCorrectionsOfErrors,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 14 기,-2987944,제 13 기,-3617311,5,USD,,,,,연결,제 12 기,3465575
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughCorrectionsOfErrors,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 14 기,0,제 13 기,0,5,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughCorrectionsOfErrors,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 14 기,0,제 13 기,0,5,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughCorrectionsOfErrors,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 14 기,0,제 13 기,0,5,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughCorrectionsOfErrors,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 14 기,0,제 13 기,0,5,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughCorrectionsOfErrors,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식매수선택권,제 14 기,0,제 13 기,0,5,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughCorrectionsOfErrors,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 14 기,0,제 13 기,0,5,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughCorrectionsOfErrors,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 14 기,-2987944,제 13 기,-3617311,5,USD,,,,,연결,제 12 기,3465575
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughCorrectionsOfErrors,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 14 기,0,제 13 기,0,5,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughCorrectionsOfErrors,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 14 기,0,제 13 기,0,5,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업장환산외환차이,연결재무제표 [member],제 14 기,-823094,제 13 기,272974,6,USD,,,,,연결,제 12 기,110758
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업장환산외환차이,자본 [member]|비지배지분 [member],제 14 기,-320895,제 13 기,103969,6,USD,,,,,연결,제 12 기,55379
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업장환산외환차이,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 14 기,-502199,제 13 기,169005,6,USD,,,,,연결,제 12 기,55379
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업장환산외환차이,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 14 기,0,제 13 기,0,6,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업장환산외환차이,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 14 기,0,제 13 기,0,6,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업장환산외환차이,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 14 기,0,제 13 기,0,6,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업장환산외환차이,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 14 기,0,제 13 기,0,6,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업장환산외환차이,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식매수선택권,제 14 기,0,제 13 기,0,6,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업장환산외환차이,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 14 기,0,제 13 기,0,6,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업장환산외환차이,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 14 기,-502199,제 13 기,169005,6,USD,,,,,연결,제 12 기,55379
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업장환산외환차이,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 14 기,0,제 13 기,0,6,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업장환산외환차이,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 14 기,0,제 13 기,0,6,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,매도가능금융자산평가손익,연결재무제표 [member],제 14 기,0,제 13 기,-312608,7,USD,,,,,연결,제 12 기,311978
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,매도가능금융자산평가손익,자본 [member]|비지배지분 [member],제 14 기,0,제 13 기,0,7,USD,,,,,연결,제 12 기,
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,매도가능금융자산평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 14 기,0,제 13 기,-312608,7,USD,,,,,연결,제 12 기,311978
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,매도가능금융자산평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 14 기,0,제 13 기,0,7,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,매도가능금융자산평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 14 기,0,제 13 기,0,7,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,매도가능금융자산평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 14 기,0,제 13 기,0,7,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,매도가능금융자산평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 14 기,0,제 13 기,0,7,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,매도가능금융자산평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식매수선택권,제 14 기,0,제 13 기,0,7,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,매도가능금융자산평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 14 기,0,제 13 기,0,7,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,매도가능금융자산평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 14 기,0,제 13 기,-312608,7,USD,,,,,연결,제 12 기,311978
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,매도가능금융자산평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 14 기,0,제 13 기,0,7,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,매도가능금융자산평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 14 기,0,제 13 기,0,7,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,전환사채 주식전환,연결재무제표 [member],제 14 기,0,제 13 기,49772819,8,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,전환사채 주식전환,자본 [member]|비지배지분 [member],제 14 기,0,제 13 기,0,8,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,전환사채 주식전환,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 14 기,0,제 13 기,49772819,8,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,전환사채 주식전환,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 14 기,0,제 13 기,45996142,8,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,전환사채 주식전환,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 14 기,0,제 13 기,0,8,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,전환사채 주식전환,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 14 기,0,제 13 기,0,8,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,전환사채 주식전환,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 14 기,0,제 13 기,0,8,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,전환사채 주식전환,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식매수선택권,제 14 기,0,제 13 기,0,8,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,전환사채 주식전환,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 14 기,0,제 13 기,45996142,8,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,전환사채 주식전환,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 14 기,0,제 13 기,0,8,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,전환사채 주식전환,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 14 기,0,제 13 기,0,8,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,전환사채 주식전환,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 14 기,0,제 13 기,3776677,8,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,주식매수선택권,연결재무제표 [member],제 14 기,405842,제 13 기,309783,9,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,주식매수선택권,자본 [member]|비지배지분 [member],제 14 기,0,제 13 기,0,9,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,주식매수선택권,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 14 기,405842,제 13 기,309783,9,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,주식매수선택권,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 14 기,405842,제 13 기,309783,9,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,주식매수선택권,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 14 기,0,제 13 기,0,9,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,주식매수선택권,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 14 기,0,제 13 기,0,9,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,주식매수선택권,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 14 기,0,제 13 기,0,9,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,주식매수선택권,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식매수선택권,제 14 기,405842,제 13 기,309783,9,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,주식매수선택권,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 14 기,0,제 13 기,0,9,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,주식매수선택권,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 14 기,0,제 13 기,0,9,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,주식매수선택권,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 14 기,0,제 13 기,0,9,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,주식매수선택권,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 14 기,0,제 13 기,0,9,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IssueOfEquity,지분의 발행,연결재무제표 [member],제 14 기,0,제 13 기,0,10,USD,,,,,연결,제 12 기,69056663
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IssueOfEquity,지분의 발행,자본 [member]|비지배지분 [member],제 14 기,0,제 13 기,0,10,USD,,,,,연결,제 12 기,
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IssueOfEquity,지분의 발행,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 14 기,0,제 13 기,0,10,USD,,,,,연결,제 12 기,69056663
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IssueOfEquity,지분의 발행,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 14 기,0,제 13 기,0,10,USD,,,,,연결,제 12 기,60749625
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IssueOfEquity,지분의 발행,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 14 기,0,제 13 기,0,10,USD,,,,,연결,제 12 기,
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IssueOfEquity,지분의 발행,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 14 기,0,제 13 기,0,10,USD,,,,,연결,제 12 기,
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IssueOfEquity,지분의 발행,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 14 기,0,제 13 기,0,10,USD,,,,,연결,제 12 기,
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IssueOfEquity,지분의 발행,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식매수선택권,제 14 기,0,제 13 기,0,10,USD,,,,,연결,제 12 기,
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IssueOfEquity,지분의 발행,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 14 기,0,제 13 기,0,10,USD,,,,,연결,제 12 기,60749625
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IssueOfEquity,지분의 발행,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 14 기,0,제 13 기,0,10,USD,,,,,연결,제 12 기,
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IssueOfEquity,지분의 발행,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 14 기,0,제 13 기,0,10,USD,,,,,연결,제 12 기,
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_IssueOfEquity,지분의 발행,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 14 기,0,제 13 기,0,10,USD,,,,,연결,제 12 기,8307038
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 유상증자,연결재무제표 [member],제 14 기,0,제 13 기,0,11,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 유상증자,자본 [member]|비지배지분 [member],제 14 기,0,제 13 기,0,11,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 유상증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 14 기,0,제 13 기,0,11,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 유상증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 14 기,0,제 13 기,0,11,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 유상증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 14 기,0,제 13 기,0,11,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 유상증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 14 기,0,제 13 기,0,11,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 유상증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 14 기,0,제 13 기,0,11,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 유상증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식매수선택권,제 14 기,0,제 13 기,0,11,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 유상증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 14 기,0,제 13 기,0,11,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 유상증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 14 기,0,제 13 기,0,11,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 유상증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 14 기,0,제 13 기,0,11,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 유상증자,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 14 기,0,제 13 기,0,11,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 취득,연결재무제표 [member],제 14 기,0,제 13 기,6050919,12,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 취득,자본 [member]|비지배지분 [member],제 14 기,96876,제 13 기,6021801,12,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 14 기,-96876,제 13 기,29118,12,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 14 기,-96876,제 13 기,29118,12,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 14 기,-96876,제 13 기,29118,12,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 14 기,0,제 13 기,0,12,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 14 기,0,제 13 기,0,12,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식매수선택권,제 14 기,0,제 13 기,0,12,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 14 기,0,제 13 기,0,12,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 14 기,0,제 13 기,0,12,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 14 기,0,제 13 기,0,12,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 14 기,0,제 13 기,0,12,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 처분,연결재무제표 [member],제 14 기,0,제 13 기,0,13,USD,,,,,연결,제 12 기,-4003039
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 처분,자본 [member]|비지배지분 [member],제 14 기,0,제 13 기,0,13,USD,,,,,연결,제 12 기,-4052974
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 14 기,0,제 13 기,0,13,USD,,,,,연결,제 12 기,49935
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 14 기,0,제 13 기,0,13,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 14 기,0,제 13 기,0,13,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 14 기,0,제 13 기,0,13,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 14 기,0,제 13 기,0,13,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식매수선택권,제 14 기,0,제 13 기,0,13,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 14 기,0,제 13 기,0,13,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 14 기,0,제 13 기,0,13,USD,,,,,연결,제 12 기,49935
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 14 기,0,제 13 기,0,13,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,-표준계정코드 미사용-,종속기업의 처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 14 기,0,제 13 기,0,13,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_Equity,기말자본,연결재무제표 [member],제 14 기,324954679,제 13 기,365001684,14,USD,,,,,연결,제 12 기,329638115
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|비지배지분 [member],제 14 기,5227684,제 13 기,6632926,14,USD,,,,,연결,제 12 기,2424525
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 14 기,319726995,제 13 기,358368758,14,USD,,,,,연결,제 12 기,327213590
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 14 기,239523994,제 13 기,239215028,14,USD,,,,,연결,제 12 기,192879985
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 14 기,-613918,제 13 기,-517042,14,USD,,,,,연결,제 12 기,-546160
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 14 기,-12251455,제 13 기,-12251455,14,USD,,,,,연결,제 12 기,-12251455
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 14 기,748,제 13 기,748,14,USD,,,,,연결,제 12 기,748
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식매수선택권,제 14 기,715625,제 13 기,309783,14,USD,,,,,연결,제 12 기,0
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 14 기,251672994,제 13 기,251672994,14,USD,,,,,연결,제 12 기,205676852
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 14 기,-6287339,제 13 기,3107036,14,USD,,,,,연결,제 12 기,6867950
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 14 기,61626515,제 13 기,91182869,14,USD,,,,,연결,제 12 기,106378507
+20230426000644,11011,2022,00838500,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 14 기,24863825,제 13 기,24863825,14,USD,,,,,연결,제 12 기,21087148

@@ -1,0 +1,176 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분,bfefrmtrm_nm,bfefrmtrm_amount
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 6 기,690019275269,제 5 기,530447175595,1,KRW,,,,,연결,제 4 기,328492278966
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 6 기,90544679057,제 5 기,159407514909,2,KRW,,,,,연결,제 4 기,64114656140
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,단기금융상품,-,제 6 기,110900000000,제 5 기,92700000000,3,KRW,,,,,연결,제 4 기,82600000000
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_CurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition,당기손익-공정가치금융자산,-,제 6 기,70115075141,제 5 기,0,4,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_ShortTermTradeReceivable,매출채권,-,제 6 기,407689542786,제 5 기,272169364301,5,KRW,,,,,연결,제 4 기,175649216244
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_ShortTermOtherReceivables,미수금,-,제 6 기,6036268552,제 5 기,2536380882,6,KRW,,,,,연결,제 4 기,2714296704
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_CurrentFinanceLeaseReceivables,리스채권,-,제 6 기,1273505232,제 5 기,1244413411,7,KRW,,,,,연결,제 4 기,1215992709
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_ShortTermAccruedIncome,미수수익,-,제 6 기,1117301955,제 5 기,413167409,8,KRW,,,,,연결,제 4 기,377360098
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_ShortTermAdvancePayments,선급금,-,제 6 기,392155485,제 5 기,343340743,9,KRW,,,,,연결,제 4 기,369475526
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_ShortTermPrepaidExpenses,선급비용,-,제 6 기,234611214,제 5 기,223380912,10,KRW,,,,,연결,제 4 기,208494401
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 6 기,1716135847,제 5 기,1409613028,11,KRW,,,,,연결,제 4 기,1242787144
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 6 기,377595757766,제 5 기,374044590197,12,KRW,,,,,연결,제 4 기,371165885868
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition,당기손익-공정가치금융자산,-,제 6 기,1553524975,제 5 기,1193524975,13,KRW,,,,,연결,제 4 기,833114975
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치금융자산,-,제 6 기,11731720707,제 5 기,12067492500,14,KRW,,,,,연결,제 4 기,9890611500
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_InvestmentsInAssociates,관계기업투자,-,제 6 기,1679288338,제 5 기,1699442665,15,KRW,,,,,연결,제 4 기,1028250000
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_NoncurrentFinanceLeaseReceivable,장기리스채권,-,제 6 기,10014455357,제 5 기,11287960589,16,KRW,,,,,연결,제 4 기,12532374000
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 6 기,324572993464,제 5 기,323495397573,17,KRW,,,,,연결,제 4 기,322122497676
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_RightofuseAssets,사용권자산,-,제 6 기,12223859854,제 5 기,13049151876,18,KRW,,,,,연결,제 4 기,13177774221
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,-,제 6 기,8240661739,제 5 기,8808189665,19,KRW,,,,,연결,제 4 기,9687655496
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_InvestedAssetForPostemploymentBenefit,순확정급여자산,-,제 6 기,6240145332,제 5 기,322872354,20,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_LongTermDepositsProvidedGross,보증금,-,제 6 기,1339108000,제 5 기,2120558000,21,KRW,,,,,연결,제 4 기,1893608000
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 6 기,1067615033035,제 5 기,904491765792,22,KRW,,,,,연결,제 4 기,699658164834
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 6 기,598220338526,제 5 기,451736777214,24,KRW,,,,,연결,제 4 기,260556646662
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_ShortTermTradePayables,매입채무,-,제 6 기,550108012559,제 5 기,402501523443,25,KRW,,,,,연결,제 4 기,211721665589
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_ShortTermOtherPayables,미지급금,-,제 6 기,15900930080,제 5 기,15057326490,26,KRW,,,,,연결,제 4 기,14217582560
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_ShortTermAccruedExpenses,미지급비용,-,제 6 기,918504971,제 5 기,921473530,27,KRW,,,,,연결,제 4 기,869850367
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_ShortTermWithholdings,예수금,-,제 6 기,20300053267,제 5 기,22650544708,28,KRW,,,,,연결,제 4 기,22346450973
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_PaymentsOfIncomeTaxesPayable,미지급법인세,-,제 6 기,4813223603,제 5 기,4225800828,29,KRW,,,,,연결,제 4 기,5161636650
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_CurentPortionOfFinanceLeaseLiabilities,금융리스부채,-,제 6 기,1142780525,제 5 기,1119565381,30,KRW,,,,,연결,제 4 기,1078854069
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_CurrentPortionOfLongtermBorrowings,유동성장기부채,-,제 6 기,909100238,제 5 기,1231668374,31,KRW,,,,,연결,제 4 기,1317869122
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_DeferredIncomeClassifiedAsCurrent,유동성이연수익,-,제 6 기,4127733283,제 5 기,4028874460,32,KRW,,,,,연결,제 4 기,3842737332
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 6 기,74405997708,제 5 기,77338501752,33,KRW,,,,,연결,제 4 기,82423827260
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_LongTermBorrowingsGross,장기차입금,-,제 6 기,5680561439,제 5 기,6937975090,34,KRW,,,,,연결,제 4 기,7802649754
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_PostemploymentBenefitObligations,확정급여부채,-,제 6 기,0,제 5 기,0,35,KRW,,,,,연결,제 4 기,597936442
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_LongTermOtherPayablesGross,장기미지급금,-,제 6 기,1846240076,제 5 기,1998940128,36,KRW,,,,,연결,제 4 기,2109392099
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_NonCurrentFinanceLeaseLiabilities,장기금융리스부채,-,제 6 기,11900115492,제 5 기,12571377042,37,KRW,,,,,연결,제 4 기,12523092542
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_DeferredIncomeClassifiedAsNoncurrent,이연수익,-,제 6 기,45123015200,제 5 기,42227510499,38,KRW,,,,,연결,제 4 기,41222632345
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 6 기,9767065501,제 5 기,13601698993,39,KRW,,,,,연결,제 4 기,18168124078
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_LongTermGuaranteeDepositRentGross,임대보증금,-,제 6 기,89000000,제 5 기,1000000,40,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 6 기,672626336234,제 5 기,529075278966,41,KRW,,,,,연결,제 4 기,342980473922
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업 소유주지분,-,제 6 기,394700663835,제 5 기,375145093537,43,KRW,,,,,연결,제 4 기,356432292711
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 6 기,14738515000,제 5 기,14738515000,44,KRW,,,,,연결,제 4 기,14738515000
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_IssuedCapitalOfCommonStock,보통주자본금,-,제 6 기,14738515000,제 5 기,14738515000,45,KRW,,,,,연결,제 4 기,14738515000
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 6 기,260563806168,제 5 기,260563806168,46,KRW,,,,,연결,제 4 기,260563806168
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_SharePremium,주식발행초과금,-,제 6 기,259584247435,제 5 기,259584247435,47,KRW,,,,,연결,제 4 기,259584247435
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_OtherCapitalSurplus,기타자본잉여금,-,제 6 기,979558733,제 5 기,979558733,48,KRW,,,,,연결,제 4 기,979558733
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금,-,제 6 기,116561760215,제 5 기,96131651637,49,KRW,,,,,연결,제 4 기,79089740690
+20230314001158,11011,2022,01208885,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타자본구성요소,-,제 6 기,2836582452,제 5 기,3711120732,50,KRW,,,,,연결,제 4 기,2040230853
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 6 기,288032966,제 5 기,271393289,51,KRW,,,,,연결,제 4 기,245398201
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 6 기,394988696801,제 5 기,375416486826,52,KRW,,,,,연결,제 4 기,356677690912
+20230314001158,11011,2022,01208885,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 6 기,1067615033035,제 5 기,904491765792,53,KRW,,,,,연결,제 4 기,699658164834
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_Revenue,매출액,-,제 6 기,2304945009655,제 5 기,1457154328305,0,KRW,,,,,연결,제 4 기,1086830627542
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,dart_RevenueFromSaleOfGoodsMerchandise,상품매출,-,제 6 기,2297050236710,제 5 기,1449391525769,1,KRW,,,,,연결,제 4 기,1079890766819
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,dart_RevenueFromRenderingOfServicesRental,배관임대매출,-,제 6 기,2983828071,제 5 기,2983828071,2,KRW,,,,,연결,제 4 기,2294520044
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,dart_RevenueFromServices,용역매출액,-,제 6 기,656869578,제 5 기,768395280,3,KRW,,,,,연결,제 4 기,807225922
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,dart_RevenueContributionToConstruction,공사부담금수익,-,제 6 기,4254075296,제 5 기,4010579185,4,KRW,,,,,연결,제 4 기,3838114757
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 6 기,2189300671646,제 5 기,1343265056179,5,KRW,,,,,연결,제 4 기,983457538184
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,dart_CostOfSalesFromSaleOfGoodsMerchandises,상품매출원가,-,제 6 기,2188570554783,제 5 기,1342663501134,6,KRW,,,,,연결,제 4 기,983035157600
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,dart_CostOfSalesFromRenderingOfServicesRental,배관임대매출원가,-,제 6 기,730116863,제 5 기,601555045,7,KRW,,,,,연결,제 4 기,422380584
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 6 기,115644338009,제 5 기,113889272126,8,KRW,,,,,연결,제 4 기,103373089358
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 6 기,90373070265,제 5 기,86757291862,9,KRW,,,,,연결,제 4 기,85237694344
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익,-,제 6 기,25271267744,제 5 기,27131980264,10,KRW,,,,,연결,제 4 기,18135395014
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,dart_OtherGains,기타수익,-,제 6 기,3363674387,제 5 기,1188595293,11,KRW,,,,,연결,제 4 기,5577458915
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,dart_OtherLosses,기타비용,-,제 6 기,636297947,제 5 기,467546266,12,KRW,,,,,연결,제 4 기,752722593
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 6 기,3977671109,제 5 기,2817742827,13,KRW,,,,,연결,제 4 기,2892402946
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융비용,-,제 6 기,864897851,제 5 기,846292693,14,KRW,,,,,연결,제 4 기,988044083
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,-표준계정코드 미사용-,지분법손익,-,제 6 기,-77125441,제 5 기,-123491051,15,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익,-,제 6 기,31034292001,제 5 기,29700988374,16,KRW,,,,,연결,제 4 기,24864490199
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,-,제 6 기,6833291656,제 5 기,7549730836,17,KRW,,,,,연결,제 4 기,5847420992
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익,-,제 6 기,24201000345,제 5 기,22151257538,18,KRW,,,,,연결,제 4 기,19017069207
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주,-,제 6 기,24182860668,제 5 기,22123762450,20,KRW,,,,,연결,제 4 기,18991370553
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,-,제 6 기,18139677,제 5 기,27495088,21,KRW,,,,,연결,제 4 기,25698654
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,세후기타포괄손익,-,제 6 기,526833255,제 5 기,1743162001,22,KRW,,,,,연결,제 4 기,3507202501
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는 항목,-,제 6 기,526833255,제 5 기,1748470492,23,KRW,,,,,연결,제 4 기,3507202501
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-금융자산평가손익,-,제 6 기,-874538280,제 5 기,1676198370,24,KRW,,,,,연결,제 4 기,2217747347
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여부채의 재측정요소,-,제 6 기,1401371535,제 5 기,72272122,25,KRW,,,,,연결,제 4 기,1289455154
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류될 수 있는 항목,-,제 6 기,0,제 5 기,-5308491,26,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업 기타포괄손익 중 지분해당,-,제 6 기,0,제 5 기,-5308491,27,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,당기총포괄손익,-,제 6 기,24727833600,제 5 기,23894419539,28,KRW,,,,,연결,제 4 기,22524271708
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유주,-,제 6 기,24709693923,제 5 기,23866924451,30,KRW,,,,,연결,제 4 기,22498573054
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,-,제 6 기,18139677,제 5 기,27495088,31,KRW,,,,,연결,제 4 기,25698654
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당순이익,-,제 6 기,4105,제 5 기,3756,33,KRW,,,,,연결,제 4 기,3224
+20230314001158,11011,2022,01208885,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,희석주당순이익,-,제 6 기,4105,제 5 기,3756,34,KRW,,,,,연결,제 4 기,3224
+20230314001158,11011,2022,01208885,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 6 기,52602626183,제 5 기,138736972988,0,KRW,,,,,연결,제 4 기,314378385
+20230314001158,11011,2022,01208885,CF,현금흐름표,dart_NetCashflowsFromUsedInOperations,영업으로부터 창출된 현금흐름,-,제 6 기,60911373936,제 5 기,150784959369,1,KRW,,,,,연결,제 4 기,6431124611
+20230314001158,11011,2022,01208885,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,-,제 6 기,2146575728,제 5 기,1910555256,2,KRW,,,,,연결,제 4 기,2560308167
+20230314001158,11011,2022,01208885,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,-,제 6 기,796012031,제 5 기,772192487,3,KRW,,,,,연결,제 4 기,802178820
+20230314001158,11011,2022,01208885,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금의 수령,-,제 6 기,578556700,제 5 기,387913000,4,KRW,,,,,연결,제 4 기,1375000
+20230314001158,11011,2022,01208885,CF,현금흐름표,dart_IncomeTaxesPaidClassifiedAsOperatingActivities,법인세의 납부,-,제 6 기,10237868150,제 5 기,13574262150,5,KRW,,,,,연결,제 4 기,7876250573
+20230314001158,11011,2022,01208885,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 6 기,-114095681177,제 5 기,-36585133368,6,KRW,,,,,연결,제 4 기,-24924820853
+20230314001158,11011,2022,01208885,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,-,제 6 기,88225739903,제 5 기,72200000000,7,KRW,,,,,연결,제 4 기,48900000000
+20230314001158,11011,2022,01208885,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 6 기,315558878,제 5 기,41237876,8,KRW,,,,,연결,제 4 기,1975118475
+20230314001158,11011,2022,01208885,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 6 기,0,제 5 기,0,9,KRW,,,,,연결,제 4 기,330000000
+20230314001158,11011,2022,01208885,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 증가,-,제 6 기,104400000000,제 5 기,82300000000,10,KRW,,,,,연결,제 4 기,43950000000
+20230314001158,11011,2022,01208885,CF,현금흐름표,dart_PurchaseOfNonCurrentAvailableForSaleFinancialAssets,당기손익-공정가치금융자산의 취득,-,제 6 기,70360000000,제 5 기,360000000,11,KRW,,,,,연결,제 4 기,360000000
+20230314001158,11011,2022,01208885,CF,현금흐름표,dart_PurchaseOfAvailableForSaleFinancialAssets,기타포괄손익-금융자산의 취득,-,제 6 기,0,제 5 기,0,12,KRW,,,,,연결,제 4 기,7010420140
+20230314001158,11011,2022,01208885,CF,현금흐름표,dart_PurchaseOfInvestmentsAccountedForUsingEquityMethod,관계기업투자주식의 취득,-,제 6 기,600000000,제 5 기,799992207,13,KRW,,,,,연결,제 4 기,1028250000
+20230314001158,11011,2022,01208885,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 6 기,27051409958,제 5 기,24852476037,14,KRW,,,,,연결,제 4 기,22353709188
+20230314001158,11011,2022,01208885,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 6 기,225570000,제 5 기,317403000,15,KRW,,,,,연결,제 4 기,1318560000
+20230314001158,11011,2022,01208885,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 6 기,0,제 5 기,196500000,16,KRW,,,,,연결,제 4 기,109000000
+20230314001158,11011,2022,01208885,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 6 기,-7369780858,제 5 기,-6858980851,17,KRW,,,,,연결,제 4 기,-9978208802
+20230314001158,11011,2022,01208885,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 차입,-,제 6 기,465000000,제 5 기,318000000,18,KRW,,,,,연결,제 4 기,1051000000
+20230314001158,11011,2022,01208885,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 증가,-,제 6 기,89000000,제 5 기,1000000,19,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,유동성장기부채의 상환,-,제 6 기,2033661116,제 5 기,1326213888,20,KRW,,,,,연결,제 4 기,4866640559
+20230314001158,11011,2022,01208885,CF,현금흐름표,dart_DecreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 감소,-,제 6 기,1000000,제 5 기,0,21,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,CF,현금흐름표,dart_AcquisitionOfTreasuryShares,자기주식의 취득,-,제 6 기,0,제 5 기,0,22,KRW,,,,,연결,제 4 기,27836152
+20230314001158,11011,2022,01208885,CF,현금흐름표,ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 6 기,733496117,제 5 기,696143338,23,KRW,,,,,연결,제 4 기,676108466
+20230314001158,11011,2022,01208885,CF,현금흐름표,ifrs-full_PaymentsFromChangesInOwnershipInterestsInSubsidiaries,비지배지분의 감소,-,제 6 기,0,제 5 기,0,24,KRW,,,,,연결,제 4 기,300000000
+20230314001158,11011,2022,01208885,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,-,제 6 기,5155623625,제 5 기,5155623625,25,KRW,,,,,연결,제 4 기,5158623625
+20230314001158,11011,2022,01208885,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 증감,-,제 6 기,-68862835852,제 5 기,95292858769,26,KRW,,,,,연결,제 4 기,-34588651270
+20230314001158,11011,2022,01208885,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 6 기,159407514909,제 5 기,64114656140,27,KRW,,,,,연결,제 4 기,98703307410
+20230314001158,11011,2022,01208885,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 6 기,90544679057,제 5 기,159407514909,28,KRW,,,,,연결,제 4 기,64114656140
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 6 기,375416486826,제 5 기,356677690912,1,KRW,,,,,연결,제 4 기,339612042829
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 6 기,14738515000,제 5 기,14738515000,1,KRW,,,,,연결,제 4 기,14738515000
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 6 기,96131651637,제 5 기,79089740690,1,KRW,,,,,연결,제 4 기,63963038608
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 6 기,3711120732,제 5 기,2040230853,1,KRW,,,,,연결,제 4 기,-177516494
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 6 기,375145093537,제 5 기,356432292711,1,KRW,,,,,연결,제 4 기,339206594041
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|비지배지분 [member],제 6 기,271393289,제 5 기,245398201,1,KRW,,,,,연결,제 4 기,405448788
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 6 기,260563806168,제 5 기,260563806168,1,KRW,,,,,연결,제 4 기,260682556927
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 6 기,0,제 5 기,0,2,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익,연결재무제표 [member],제 6 기,24201000345,제 5 기,22151257538,2,KRW,,,,,연결,제 4 기,19017069207
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익,자본 [member]|비지배지분 [member],제 6 기,18139677,제 5 기,27495088,2,KRW,,,,,연결,제 4 기,25698654
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 6 기,24182860668,제 5 기,22123762450,2,KRW,,,,,연결,제 4 기,18991370553
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 6 기,0,제 5 기,0,2,KRW,,,,,연결,제 4 기,
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 6 기,24182860668,제 5 기,22123762450,2,KRW,,,,,연결,제 4 기,18991370553
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 6 기,0,제 5 기,0,2,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-금융자산평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 6 기,-874538280,제 5 기,1676198370,3,KRW,,,,,연결,제 4 기,2217747347
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-금융자산평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 6 기,-874538280,제 5 기,1676198370,3,KRW,,,,,연결,제 4 기,2217747347
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-금융자산평가손익,연결재무제표 [member],제 6 기,-874538280,제 5 기,1676198370,3,KRW,,,,,연결,제 4 기,2217747347
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-금융자산평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 6 기,0,제 5 기,0,3,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-금융자산평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 6 기,0,제 5 기,0,3,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-금융자산평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 6 기,0,제 5 기,0,3,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-금융자산평가손익,자본 [member]|비지배지분 [member],제 6 기,0,제 5 기,0,3,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,순확정급여부채의 재측정요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 6 기,1401371535,제 5 기,72272122,4,KRW,,,,,연결,제 4 기,1289455154
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,순확정급여부채의 재측정요소,자본 [member]|비지배지분 [member],제 6 기,0,제 5 기,0,4,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,순확정급여부채의 재측정요소,연결재무제표 [member],제 6 기,1401371535,제 5 기,72272122,4,KRW,,,,,연결,제 4 기,1289455154
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,순확정급여부채의 재측정요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 6 기,0,제 5 기,0,4,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,순확정급여부채의 재측정요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 6 기,0,제 5 기,0,4,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,순확정급여부채의 재측정요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 6 기,0,제 5 기,0,4,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,순확정급여부채의 재측정요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 6 기,1401371535,제 5 기,72272122,4,KRW,,,,,연결,제 4 기,1289455154
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업의 지분변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 6 기,0,제 5 기,0,5,KRW,,,,,연결,제 4 기,-118750759
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업의 지분변동,자본 [member]|비지배지분 [member],제 6 기,0,제 5 기,0,5,KRW,,,,,연결,제 4 기,-181249241
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업의 지분변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 6 기,0,제 5 기,0,5,KRW,,,,,연결,제 4 기,-118750759
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업의 지분변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 6 기,0,제 5 기,0,5,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업의 지분변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 6 기,0,제 5 기,0,5,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업의 지분변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 6 기,0,제 5 기,0,5,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업의 지분변동,연결재무제표 [member],제 6 기,0,제 5 기,0,5,KRW,,,,,연결,제 4 기,-300000000
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,관계기업 기타포괄손익 중 지분해당액,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 6 기,0,제 5 기,0,6,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,관계기업 기타포괄손익 중 지분해당액,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 6 기,0,제 5 기,0,6,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,관계기업 기타포괄손익 중 지분해당액,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 6 기,0,제 5 기,0,6,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,관계기업 기타포괄손익 중 지분해당액,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 6 기,0,제 5 기,-5308491,6,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,관계기업 기타포괄손익 중 지분해당액,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 6 기,0,제 5 기,-5308491,6,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,관계기업 기타포괄손익 중 지분해당액,연결재무제표 [member],제 6 기,0,제 5 기,-5308491,6,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,관계기업 기타포괄손익 중 지분해당액,자본 [member]|비지배지분 [member],제 6 기,0,제 5 기,0,6,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_DividendsPaid,배당금의 지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 6 기,0,제 5 기,0,7,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_DividendsPaid,배당금의 지급,연결재무제표 [member],제 6 기,5155623625,제 5 기,5155623625,7,KRW,,,,,연결,제 4 기,5158623625
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_DividendsPaid,배당금의 지급,자본 [member]|비지배지분 [member],제 6 기,1500000,제 5 기,1500000,7,KRW,,,,,연결,제 4 기,4500000
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_DividendsPaid,배당금의 지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 6 기,5154123625,제 5 기,5154123625,7,KRW,,,,,연결,제 4 기,5154123625
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_DividendsPaid,배당금의 지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 6 기,0,제 5 기,0,7,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_DividendsPaid,배당금의 지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 6 기,5154123625,제 5 기,5154123625,7,KRW,,,,,연결,제 4 기,5154123625
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_DividendsPaid,배당금의 지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 6 기,0,제 5 기,0,7,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,연결재무제표 [member],제 6 기,19572209975,제 5 기,18738795914,8,KRW,,,,,연결,제 4 기,17065648083
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [member]|비지배지분 [member],제 6 기,16639677,제 5 기,25995088,8,KRW,,,,,연결,제 4 기,-160050587
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 6 기,19555570298,제 5 기,18712800826,8,KRW,,,,,연결,제 4 기,17225698670
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 6 기,-874538280,제 5 기,1670889879,8,KRW,,,,,연결,제 4 기,2217747347
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 6 기,20430108578,제 5 기,17041910947,8,KRW,,,,,연결,제 4 기,15126702082
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 6 기,0,제 5 기,0,8,KRW,,,,,연결,제 4 기,0
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 6 기,0,제 5 기,0,8,KRW,,,,,연결,제 4 기,-118750759
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_Equity,기말자본,연결재무제표 [member],제 6 기,394988696801,제 5 기,375416486826,9,KRW,,,,,연결,제 4 기,356677690912
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|비지배지분 [member],제 6 기,288032966,제 5 기,271393289,9,KRW,,,,,연결,제 4 기,245398201
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 6 기,394700663835,제 5 기,375145093537,9,KRW,,,,,연결,제 4 기,356432292711
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 6 기,2836582452,제 5 기,3711120732,9,KRW,,,,,연결,제 4 기,2040230853
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 6 기,116561760215,제 5 기,96131651637,9,KRW,,,,,연결,제 4 기,79089740690
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 6 기,14738515000,제 5 기,14738515000,9,KRW,,,,,연결,제 4 기,14738515000
+20230314001158,11011,2022,01208885,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본잉여금 [member],제 6 기,260563806168,제 5 기,260563806168,9,KRW,,,,,연결,제 4 기,260563806168
