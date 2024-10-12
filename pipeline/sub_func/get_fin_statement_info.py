@@ -1,10 +1,23 @@
 import os
 import pandas as pd
 
-def fin_statement_info(ticker, year, quarter):
+quarter_map = {
+    'Q1': ['Q1', '01', '02', '03'],
+    'Q2': ['Q2', '04', '05', '06'],
+    'Q3': ['Q3', '07', '08', '09'],
+    'Q4': ['Q4', '10', '11', '12']
+}
+
+def fin_statement_info(ticker:str, year:str, quarter:str) -> pd.DataFrame:
+    '''
+    종목 코드, 연도, 분기를 입력하면 df 형태로 요청한 재무제표 반환
+    단, quarter를 '01', '02', ... 처럼 월별로 입력한다면 해당하는 분기의 재무제표 반환
+    ex. fin_statement_info('005930', '2019', 'Q1')
+    '''
     try:
         current_dir = os.path.dirname(os.path.abspath(__file__))
         fin_statement_path = f'../../store_data/raw/opendart/store_financial_statement/{ticker}'
+        fin_statement_path = os.path.join(current_dir, fin_statement_path)
 
         path_to_verify = []
         path_list = os.listdir(fin_statement_path)
@@ -23,19 +36,19 @@ def fin_statement_info(ticker, year, quarter):
             reprt_code = verify_row['reprt_code']
             bsns_year = verify_row['bsns_year']
             
-            if quarter == 'Q1':
+            if quarter == 'Q1' or str(quarter) in quarter_map['Q1']:
                 if str(bsns_year) == str(year) and str(reprt_code) == str('11013'):
                     month_date = path
                 
-            elif quarter == 'Q2':
+            elif quarter == 'Q2' or str(quarter) in quarter_map['Q2']:
                 if str(bsns_year) == str(year) and str(reprt_code) == str('11012'):
                     month_date = path
 
-            elif quarter == 'Q3':
+            elif quarter == 'Q3' or str(quarter) in quarter_map['Q3']:
                 if str(bsns_year) == str(year) and str(reprt_code) == str('11014'):
                     month_date = path
 
-            elif quarter == 'Q4':
+            elif quarter == 'Q4' or str(quarter) in quarter_map['Q4']:
                 if str(bsns_year) == str(year) and str(reprt_code) == str('11011'):
                     month_date = path
 

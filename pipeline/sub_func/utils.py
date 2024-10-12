@@ -12,6 +12,7 @@ price_data_path = os.path.join(current_dir, '../../store_data/raw/market_data/pr
 corp_in_index_path = os.path.join(current_dir, '../../store_data/raw/market_data')
 index_OHLCV_path = os.path.join(current_dir, '../../store_data/raw/market_data')
 interest_rate_data_path = os.path.join(current_dir, '../../store_data/raw/market_data/interest_rate_data')
+fin_report_path = os.path.join(current_dir, '../../store_data/raw/opendart/store_reports')
 
 quarter_map = {
     'Q1': [1, 2, 3],
@@ -198,3 +199,4 @@ def get_bond(year, quarter) -> pd.DataFrame:
         except Exception as e:
             print(f'get_bond에서 오류 발생: {e}')
             return None
+    

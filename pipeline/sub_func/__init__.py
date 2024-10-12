@@ -1,1 +1,1 @@
-from .get_fin_statement_info import get_fin_statement
+from .get_fin_statement_info import fin_statement_info
