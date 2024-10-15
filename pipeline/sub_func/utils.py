@@ -9,8 +9,8 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 
 # 데이터 경로 설정
 price_data_path = os.path.join(current_dir, '../../store_data/raw/market_data/price')
-corp_in_index_path = os.path.join(current_dir, '../../store_data/raw/market_data')
-index_OHLCV_path = os.path.join(current_dir, '../../store_data/raw/market_data')
+corp_in_index_path = os.path.join(current_dir, '../../store_data/raw/market_data/sector')
+index_OHLCV_path = os.path.join(current_dir, '../../store_data/raw/market_data/sector')
 interest_rate_data_path = os.path.join(current_dir, '../../store_data/raw/market_data/interest_rate_data')
 fin_report_path = os.path.join(current_dir, '../../store_data/raw/opendart/store_reports')
 
