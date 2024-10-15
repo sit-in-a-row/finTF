@@ -1,1 +1,3 @@
 from .get_fin_statement_info import fin_statement_info
+from .get_report_info import reports_info
+from .get_corp_rel_news_info import corp_rel_news_info
