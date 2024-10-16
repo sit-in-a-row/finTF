@@ -85,12 +85,13 @@ def get_sector_indicators():
     '''
     for ticker in tickers_sector:
         if ticker not in ['.DS_Store', 'temptext']:
-            time_list_path = os.path.join(raw_price_path_parent, ticker)
+            time_list_path = os.path.join(raw_index_path_parent, ticker)
             time_list = os.listdir(time_list_path)
 
             df_list = []
             for time in time_list:
                 try:
+                    print(time)
                     # 각 시점별 가격 데이터 파일 경로 생성
                     price_df_path = os.path.join(time_list_path, time, f'{time}_{ticker}.csv')
                     
