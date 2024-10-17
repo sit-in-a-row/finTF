@@ -6,7 +6,7 @@ path = os.path.join(current_dir, '../../store_data/process/market_data/sector/')
 
 available_sector_list = os.listdir(path)
 OHLCV_df_columns = [
-    'Open', 'High', 'Low', 'Close', 'Volume', 'Transaction_Val', 'Market_Cap', 'Date',
+    'Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Transaction_Val', 'Market_Cap', 
     'MA_20', 'RSI_14', 'BBL_20_2.0', 'BBM_20_2.0', 'BBU_20_2.0', 'BBB_20_2.0', 'BBP_20_2.0'
 ]
 
@@ -26,16 +26,25 @@ def index_price_info(sector: str, start_date: str, end_date: str) -> pd.DataFram
 
         # CSV 파일 읽기
         df = pd.read_csv(csv_path, index_col=0)
-        df.columns = OHLCV_df_columns  # 컬럼 이름 재설정
 
-        # 인덱스를 datetime 형식으로 변환
-        df.index = pd.to_datetime(df.index)
+        # 컬럼 이름 재설정
+        df.columns = OHLCV_df_columns  
 
-        # start_date와 end_date를 datetime으로 변환
-        start_date = pd.to_datetime(start_date)
-        end_date = pd.to_datetime(end_date)
+        # 날짜 컬럼을 datetime으로 변환 후 인덱스로 설정
+        df['Date'] = pd.to_datetime(df['Date']).dt.date  # 날짜만 남기기
+        df.set_index('Date', inplace=True)
+        df = df.sort_index()  # 인덱스를 날짜순으로 정렬
 
-        # 시작일과 종료일 사이 데이터 필터링
+        # start_date와 end_date를 날짜 형식으로 변환
+        start_date = pd.to_datetime(start_date).date()
+        end_date = pd.to_datetime(end_date).date()
+
+        # 시작일과 종료일이 데이터 범위 내에 있는지 확인
+        if start_date < df.index.min() or end_date > df.index.max():
+            print(f"Error: 날짜 범위가 데이터 범위를 벗어났습니다. 데이터 범위: {df.index.min()} ~ {df.index.max()}")
+            return None
+
+        # 범위 내 데이터 필터링
         return_df = df.loc[start_date:end_date]
 
         return return_df

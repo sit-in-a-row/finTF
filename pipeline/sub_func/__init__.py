@@ -5,3 +5,4 @@ from .get_intl_news_info import intl_news_info
 from .get_macro_econ_info import macro_econ_info
 from .get_stock_price_info import stock_price_info
 from .get_index_price_info import index_price_info
+from .get_pattern_info import pattern_info

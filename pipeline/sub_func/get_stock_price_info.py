@@ -10,9 +10,6 @@ OHLCV_df_columns = [
     'RSI_14', 'BBL_20_2.0', 'BBM_20_2.0', 'BBU_20_2.0', 'BBB_20_2.0', 'BBP_20_2.0'
 ]
 
-import os
-import pandas as pd
-
 def stock_price_info(ticker: str, start_date: str, end_date: str) -> pd.DataFrame:
     '''
     종목코드, 시작일, 종료일을 파라미터로 입력하면

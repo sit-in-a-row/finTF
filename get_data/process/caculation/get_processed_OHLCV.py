@@ -121,7 +121,7 @@ def get_sector_indicators():
             try:
                 calculated_df = calculate_indicators(merged_df)
 
-                store_path_final = os.path.join(store_price_path_parent, ticker)
+                store_path_final = os.path.join(store_index_path_parent, ticker)
                 os.makedirs(store_path_final, exist_ok=True)
 
                 # 인덱스 포함하여 CSV로 저장
