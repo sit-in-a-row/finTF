@@ -6,6 +6,7 @@ from .regression import get_carhart_regression
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 ticker_path = os.path.join(current_dir, '../../../../../store_data/raw/market_data/price')
+index_path = os.path.join(current_dir, '../../../../../store_data/raw/market_data/sector')
 
 def get_carhart_analysis(year:str, markets:list):
     '''
@@ -14,12 +15,12 @@ def get_carhart_analysis(year:str, markets:list):
 
     ex. get_carhart_analysis('2019', ['코스피'])
     '''
-    tickers = os.listdir(ticker_path)
+    tickers = os.listdir(ticker_path) + os.listdir(index_path)
     quarters = ['Q1', 'Q2', 'Q3', 'Q4']
 
     for quarter in quarters:
         # 결과 저장을 위한 경로 생성
-        save_path = f'../index_analysis/{year}/{quarter}'
+        save_path = os.path.join(current_dir, f'../../../../../store_data/process/analysis/index_analysis/{year}/{quarter}')
         if not os.path.exists(save_path):
             os.makedirs(save_path)
 

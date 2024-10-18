@@ -35,7 +35,7 @@ def get_market_cap(year):
         df_list = []
 
         for i in range(len(tickers)):
-            print(i+1, '/', len(tickers))
+            print(quarter, i+1, '/', len(tickers))
 
             ticker = tickers[i]
             df = stock.get_market_cap(start_date, end_date, ticker)

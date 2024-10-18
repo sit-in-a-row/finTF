@@ -2,6 +2,8 @@ import pandas as pd
 import os
 from .load_data import calculate_cumulative_returns
 
+current_dir = os.path.dirname(os.path.abspath(__file__))
+
 def get_SMB(year, quarter):
     """
     year와 quarter를 입력받아 코스피 소형주와 대형주 데이터를 필터링하여 반환 후 SMB df반환
@@ -15,7 +17,7 @@ def get_SMB(year, quarter):
     - big_df (pd.DataFrame): 필터링된 대형주 데이터프레임
     - SMB_df (pd.DataFrame): small_df - big_df으로 ['SMB'] 컬럼만 반환
     """
-    save_path = f'./factor_data/SMB/{year}'
+    save_path = os.path.join(current_dir, f'./factor_data/SMB/{year}')
 
     try:
         df_path = os.path.join(save_path, f'{quarter}_SMB.csv')
@@ -24,8 +26,9 @@ def get_SMB(year, quarter):
         return df
 
     except:
-        small_df = pd.read_csv(f'../store_data/raw/market_data/코스피 소형주/{year}/{year}_코스피 소형주.csv')
-        big_df = pd.read_csv(f'../store_data/raw/market_data/코스피 대형주/{year}/{year}_코스피 대형주.csv')
+        # print('SMB임')
+        small_df = pd.read_csv(os.path.join(current_dir, f'../../../../../store_data/raw/market_data/sector/코스피 소형주/{year}/{year}_코스피 소형주.csv'))
+        big_df =  pd.read_csv(os.path.join(current_dir, f'../../../../../store_data/raw/market_data/sector/코스피 대형주/{year}/{year}_코스피 대형주.csv'))
 
         # 각 분기별 시작 날짜와 종료 날짜 설정
         if quarter == 'Q1':

@@ -4,6 +4,7 @@ import numpy as np
 import statsmodels.api as sm
 import re
 from pykrx import stock
+import json
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
@@ -199,3 +200,203 @@ def get_bond(year, quarter) -> pd.DataFrame:
         except Exception as e:
             print(f'get_bond에서 오류 발생: {e}')
             return None
+
+# OLS 회귀 model.summary를 추후 재가공을 위해 dict형식으로 변경
+def get_model_summary_dict(model_summary):
+    ols_dict = {}
+    # ols_result_list = model_summary.split('\n')    
+    ols_result_list = model_summary
+    r_squared_match = re.search(r'R-squared:\s+([\d.]+)', ols_result_list[2])
+
+    try:
+        if r_squared_match:
+            ols_dict['R-squared'] = float(r_squared_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(R_squared): {e}')
+
+    adj_r_squared_match = re.search(r'Adj. R-squared:\s+([\d.]+)', ols_result_list[3])
+    try:
+        if adj_r_squared_match:
+            ols_dict['Adj. R-squared'] = float(adj_r_squared_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(adj_R_squared): {e}')
+
+    f_statistic_match = re.search(r'F-statistic:\s+([\d.]+)', ols_result_list[4])
+    try:
+        if f_statistic_match:
+            ols_dict['F-statistic'] = float(f_statistic_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(f_statistic): {e}')
+
+    prob_f_statistic_match = re.search(r'Prob \(F-statistic\):\s+([\d.]+)', ols_result_list[5])
+    try:
+        if prob_f_statistic_match:
+            ols_dict['Prob (F-statistic)'] = float(prob_f_statistic_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(prob_f_statistic): {e}')
+
+    log_likelihood_match = re.search(r'Log-Likelihood:\s+([\d.]+)', ols_result_list[6])
+    try:
+        if log_likelihood_match:
+            ols_dict['Log-Likelihood'] = float(log_likelihood_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(log_likelihood): {e}')
+
+    num_observations_match = re.search(r'No. Observations:\s+(\d+)', ols_result_list[7])
+    try:
+        if num_observations_match:
+            ols_dict['No. Observations'] = int(num_observations_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(no. observation): {e}')
+
+    aic_match = re.search(r'AIC:\s+([-\d.]+)', ols_result_list[7])
+    try:
+        if aic_match:
+            ols_dict['AIC'] = float(aic_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(aic): {e}')
+
+    bic_match = re.search(r'BIC:\s+([-\d.]+)', ols_result_list[8])
+    try:
+        if bic_match:
+            ols_dict['BIC'] = float(bic_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(bic): {e}')
+
+    const_numbers_raw = re.findall(r'-?\d+\.\d+', ols_result_list[14])
+    try:
+        if const_numbers_raw:
+            const_number = [float(num) for num in const_numbers_raw]
+            temp_dict = {}
+            temp_dict['const_coef'] = const_number[0]
+            temp_dict['const_std_err'] = const_number[1]
+            temp_dict['const_t'] = const_number[2]
+            temp_dict['const_P_t'] = const_number[3]
+            temp_dict['const_confid_interval'] = [const_number[4], const_number[5]]
+
+            ols_dict['const_result'] = temp_dict
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(const_num): {e}')
+
+    R_m_minus_R_f_numbers_raw = re.findall(r'-?\d+\.\d+', ols_result_list[15])
+    try:
+        if R_m_minus_R_f_numbers_raw:
+            R_m_minus_R_f_number = [float(num) for num in R_m_minus_R_f_numbers_raw]
+            temp_dict = {}
+            temp_dict['R_m_minus_R_f_coef'] = R_m_minus_R_f_number[0]
+            temp_dict['R_m_minus_R_f_std_err'] = R_m_minus_R_f_number[1]
+            temp_dict['R_m_minus_R_f_t'] = R_m_minus_R_f_number[2]
+            temp_dict['R_m_minus_R_f_P_t'] = R_m_minus_R_f_number[3]
+            temp_dict['R_m_minus_R_f_confid_interval'] = [R_m_minus_R_f_number[4], R_m_minus_R_f_number[5]]
+
+            ols_dict['R_m_minus_R_f_result'] = temp_dict
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(R_m_minus_R_f_num): {e}')
+
+    SMB_numbers_raw = re.findall(r'-?\d+\.\d+', ols_result_list[16])
+    try:
+        if SMB_numbers_raw:
+            SMB_number = [float(num) for num in SMB_numbers_raw]
+            temp_dict = {}
+            temp_dict['SMB_coef'] = SMB_number[0]
+            temp_dict['SMB_std_err'] = SMB_number[1]
+            temp_dict['SMB_t'] = SMB_number[2]
+            temp_dict['SMB_P_t'] = SMB_number[3]
+            temp_dict['SMB_confid_interval'] = [SMB_number[4], SMB_number[5]]
+
+            ols_dict['SMB_result'] = temp_dict
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(SMB_num): {e}')
+
+    HML_numbers_raw = re.findall(r'-?\d+\.\d+', ols_result_list[17])
+    try:
+        if HML_numbers_raw:
+            HML_number = [float(num) for num in HML_numbers_raw]
+            temp_dict = {}
+            temp_dict['HML_coef'] = HML_number[0]
+            temp_dict['HML_std_err'] = HML_number[1]
+            temp_dict['HML_t'] = HML_number[2]
+            temp_dict['HML_P_t'] = HML_number[3]
+            temp_dict['HML_confid_interval'] = [HML_number[4], HML_number[5]]
+
+            ols_dict['HML_result'] = temp_dict
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(HML_num): {e}')
+
+    MOM_numbers_raw = re.findall(r'-?\d+\.\d+', ols_result_list[18])
+    try:
+        if MOM_numbers_raw:
+            MOM_number = [float(num) for num in MOM_numbers_raw]
+            temp_dict = {}
+            temp_dict['MOM_coef'] = MOM_number[0]
+            temp_dict['MOM_std_err'] = MOM_number[1]
+            temp_dict['MOM_t'] = MOM_number[2]
+            temp_dict['MOM_P_t'] = MOM_number[3]
+            temp_dict['MOM_confid_interval'] = [MOM_number[4], MOM_number[5]]
+
+            ols_dict['MOM_result'] = temp_dict
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(MOM_num): {e}')
+
+    omnibus_match = re.search(r'Omnibus:\s+([-\d.]+)', ols_result_list[20])
+    try:
+        if omnibus_match:
+            ols_dict['Omnibus'] = float(omnibus_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(omnibus): {e}')
+
+    durbin_watson_match = re.search(r'Durbin-Watson:\s+([-\d.]+)', ols_result_list[20])
+    try:
+        if durbin_watson_match:
+            ols_dict['Durbin-Watson'] = float(durbin_watson_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(durbin_watson): {e}')
+
+    prob_omnibus_match = re.search(r'Prob(Omnibus):\s+([-\d.]+)', ols_result_list[21])
+    try:
+        if prob_omnibus_match:
+            ols_dict['Prob(Omnibus)'] = float(prob_omnibus_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(prob_omnibus): {e}')
+
+    jarque_bera_match = re.search(r'Jarque-Bera:\s+([-\d.]+)', ols_result_list[21])
+    try:
+        if jarque_bera_match:
+            ols_dict['Jarque-Bera'] = float(jarque_bera_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(jarque_bera): {e}')
+
+    skew_match = re.search(r'Skew:\s+([-\d.]+)', ols_result_list[22])
+    try:
+        if skew_match:
+            ols_dict['Skew'] = float(skew_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(skew): {e}')
+
+    prob_JB_match = re.search(r'Prob\(JB\):\s+([-\d.eE]+)', ols_result_list[22])
+    try:
+        if prob_JB_match:
+            ols_dict['Prob(JB)'] = float(prob_JB_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(prob_JB): {e}')
+
+    kurtosis_match = re.search(r'Kurtosis:\s+([-\d.]+)', ols_result_list[23])
+    try:
+        if kurtosis_match:
+            ols_dict['Kurtosis'] = float(kurtosis_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(kurtosis): {e}')
+
+    cond_num_match = re.search(r'Cond. No.\s+([-\d.]+)', ols_result_list[23])
+    try:
+        if cond_num_match:
+            ols_dict['Cond. No.'] = float(cond_num_match.group(1))
+    except Exception as e:
+        print(f'model.summary()를 dict로 변환하는 과정에서 오류 발생(cond_num): {e}')
+
+    return ols_dict
+
+def load_json(path):
+    with open(path, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+    return data

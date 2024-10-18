@@ -2,6 +2,8 @@ from .load_data import get_corp_OHLCV, get_index_OHLCV
 import pandas as pd
 import os
 
+current_dir = os.path.dirname(os.path.abspath(__file__))
+
 def get_target_timespan(year, quarter):
     year = int(year)
     if quarter == 'Q1':
@@ -170,7 +172,7 @@ def filter_by_quarter(df, year, quarter):
 
 # 모멘텀 팩터를 추가하는 함수
 def get_MOM(ticker, year, quarter):
-    save_path = f'./factor_data/MOM/{year}/{quarter}/{ticker}'
+    save_path = os.path.join(current_dir, f'./factor_data/MOM/{year}/{quarter}/{ticker}')
     df_name = f'{quarter}_{ticker}_MOM.csv'
 
     try:

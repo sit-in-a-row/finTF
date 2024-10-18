@@ -6,11 +6,13 @@ no_fin_statement_list = []
 no_csv_list = []
 no_market_cap_list = []
 
+current_dir = os.path.dirname(os.path.abspath(__file__))
+
 # 파일 경로 및 분기별 월 설정
 def get_financial_statement_path(base_path, ticker, year, quarter):
     """분기에 따라 파일 경로를 생성"""    
     existing_statement_list = os.listdir(os.path.join(base_path, ticker))
-    print("existing_statement_list: ", existing_statement_list)
+    # print("existing_statement_list: ", existing_statement_list)
     
     target_year_list = []
     for existing_statement in existing_statement_list:
@@ -24,26 +26,33 @@ def get_financial_statement_path(base_path, ticker, year, quarter):
         temp_df = pd.read_csv(temp_df_path)
         test_row = temp_df.iloc[0]
 
+        # print('reprt_code: ', test_row['reprt_code'])
+        # print('bsns_year: ', test_row['bsns_year'])
+
         if quarter == 'Q1':
             if str(test_row['reprt_code']) == '11013' and str(test_row['bsns_year']) == year:
+                # print('Q1 경로 정상 출력 완료')
                 return temp_df_path
             # else:
             #     print(f'{quarter}에 맞는 재무제표를 찾을 수 없습니다. reprt_code: {test_row["reprt_code"]} | bsns_year: {test_row["bsns_year"]}')
 
         elif quarter == 'Q2':
             if str(test_row['reprt_code']) == '11012' and str(test_row['bsns_year']) == year:
+                # print('Q2 경로 정상 출력 완료')
                 return temp_df_path
             # else:
             #     print(f'{quarter}에 맞는 재무제표를 찾을 수 없습니다. reprt_code: {test_row["reprt_code"]} | bsns_year: {test_row["bsns_year"]}')
 
         elif quarter == 'Q3':
             if str(test_row['reprt_code']) == '11014' and str(test_row['bsns_year']) == year:
+                # print('Q3 경로 정상 출력 완료')
                 return temp_df_path
             # else:
             #     print(f'{quarter}에 맞는 재무제표를 찾을 수 없습니다. reprt_code: {test_row["reprt_code"]} | bsns_year: {test_row["bsns_year"]}')
 
         elif quarter == 'Q4':
             if str(test_row['reprt_code']) == '11011' and str(test_row['bsns_year']) == year:
+                # print('Q4 경로 정상 출력 완료')
                 return temp_df_path
             # else:
             #     print(f'{quarter}에 맞는 재무제표를 찾을 수 없습니다. reprt_code: {test_row["reprt_code"]} | bsns_year: {test_row["bsns_year"]}')
@@ -75,6 +84,8 @@ def collect_assets(base_path, tickers, year, quarter):
     
     for ticker in tickers:
         df_path = get_financial_statement_path(base_path, ticker, year, quarter)
+        # print('df_path: ', df_path)
+        # print('df_path 검증: ' , df_path == None)
 
         try:
             if df_path:
@@ -100,7 +111,7 @@ def collect_assets(base_path, tickers, year, quarter):
     return asset_dict
 
 def load_stock_market_cap(ticker, year, quarter):
-    base_path = f'../store_data/raw/market_data/market_cap/{year}/{ticker}/{quarter}_{ticker}_market_cap.csv'
+    base_path = os.path.join(current_dir, f'../../../../../store_data/raw/market_data/market_cap/{year}/{ticker}/{quarter}_{ticker}_market_cap.csv')
     df = pd.read_csv(base_path)
 
     df_columns = ['Date', 'Market_Cap', 'Volume', 'Transaction_Val', 'Num_Stock']
@@ -124,7 +135,7 @@ def get_BM_ratio(ticker, year, quarter, asset_dict):
         return None
     
 def get_HML(year, quarter):
-    save_path = f'./factor_data/HML/{year}'
+    save_path = os.path.join(current_dir, f'./factor_data/HML/{year}')
 
     try:
         df_path = os.path.join(save_path, f'{quarter}_HML.csv')
@@ -134,10 +145,10 @@ def get_HML(year, quarter):
 
     except:
         print(f'{year}_{quarter}에 대한 HML파일이 없습니다. 해당 데이터를 생성합니다...')
-        base_path = f'../store_data/raw/opendart/store_financial_statement'
-        market_cap_path = f'../store_data/raw/market_data/market_cap/{year}'
-        tickers = os.listdir(base_path)
-        market_cap_tickers = os.listdir(market_cap_path)
+        base_path = os.path.join(current_dir, f'../../../../../store_data/raw/opendart/store_financial_statement')
+        market_cap_path = os.path.join(current_dir, f'../../../../../store_data/raw/market_data/market_cap/{year}')
+        tickers = [file for file in os.listdir(base_path) if file != '.DS_Store' and file != 'temptext']
+        market_cap_tickers = [file for file in os.listdir(market_cap_path) if file != '.DS_Store' and file != 'temptext']
 
         asset_dict = collect_assets(base_path, tickers, year, quarter)
         BM_data = []
@@ -226,8 +237,8 @@ def get_HML(year, quarter):
 
 def get_HML_tickers(year, quarter):
 
-    base_path = f'../store_data/raw/opendart/store_financial_statement'
-    market_cap_path = f'../store_data/raw/market_data/market_cap/{year}'
+    base_path = os.path.join(current_dir, f'../../../../../store_data/raw/opendart/store_financial_statement')
+    market_cap_path = os.path.join(current_dir, f'../../../../../store_data/raw/market_data/market_cap/{year}')
     tickers = os.listdir(base_path)
     market_cap_tickers = os.listdir(market_cap_path)
 

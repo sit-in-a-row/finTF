@@ -37,7 +37,7 @@ def get_carhart_regression(ticker, market, year, quarter):
     만약 ticker가 숫자형태로 들어오면 개별 종목에 대해, 문자열 형태로 들어오면 index에 대해 분석
     '''
     try:
-        int(ticker)
+        int(ticker[:4])
         stock_df = get_corp_OHLCV(ticker, year, quarter)
     except:
         stock_df = get_index_OHLCV(ticker, year, quarter)

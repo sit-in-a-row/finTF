@@ -1,0 +1,30 @@
+{
+    'transaction_type': 'buy',
+    'target': [
+        {
+            'ticker': 005930,
+            'quantity': 5,
+            'buy_price': 53000
+        }
+        ...
+
+    ],
+    'time': '2019-01-01_12:30:00'
+}
+
+{
+    'portfolio': [
+        {
+            'ticker': 005930,
+            'quantity': 10,
+            'portfolio_price': 51000,
+        },
+        {
+            'ticker': 123456
+            'quantity': 100
+            'buy_price': 5300
+        },
+        ...
+    ],
+}
+    
