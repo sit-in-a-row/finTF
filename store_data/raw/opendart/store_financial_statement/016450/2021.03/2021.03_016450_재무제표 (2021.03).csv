@@ -1,0 +1,163 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분,bfefrmtrm_nm,bfefrmtrm_amount
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 39 기,1046492434700,제 38 기,994303227429,1,KRW,,,,,연결,제 37 기,1075291990100
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 39 기,152581010216,제 38 기,102988769712,2,KRW,,,,,연결,제 37 기,63695676916
+20210322000964,11011,2020,00161976,BS,재무상태표,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,단기금융상품,-,제 39 기,9153900037,제 38 기,6693357110,3,KRW,,,,,연결,제 37 기,5241944738
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_TradeAndOtherCurrentReceivables,매출채권 및 기타채권,-,제 39 기,283684619520,제 38 기,286123442128,4,KRW,,,,,연결,제 37 기,294985282433
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_CurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition,당기손익-공정가치금융자산,-,제 39 기,78465383489,제 38 기,160009484665,5,KRW,,,,,연결,제 37 기,207847349561
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_CurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,유동성기타포괄손익-공정가치금융자산,-,제 39 기,80704575442,제 38 기,,6,KRW,,,,,연결,제 37 기,70307964359
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_OtherCurrentFinancialAssets,유동성 관계기업투자,-,제 39 기,10167000000,제 38 기,,7,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 39 기,390336149291,제 38 기,407615876008,8,KRW,,,,,연결,제 37 기,401129760319
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_CurrentTaxAssets,당기법인세자산,-,제 39 기,1295792377,제 38 기,18150688,9,KRW,,,,,연결,제 37 기,214512422
+20210322000964,11011,2020,00161976,BS,재무상태표,dart_OtherCurrentAssets,기타유동자산,-,제 39 기,40104004328,제 38 기,30854147118,10,KRW,,,,,연결,제 37 기,31869499352
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 39 기,793520300635,제 38 기,737127049915,11,KRW,,,,,연결,제 37 기,603024396649
+20210322000964,11011,2020,00161976,BS,재무상태표,dart_LongTermDepositsNotClassifiedAsCashEquivalents,장기금융상품,-,제 39 기,3000000,제 38 기,3000000,12,KRW,,,,,연결,제 37 기,39000000
+20210322000964,11011,2020,00161976,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,장기매출채권 및 기타비유동채권,-,제 39 기,18745086579,제 38 기,21459988443,13,KRW,,,,,연결,제 37 기,17698391433
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition,비유동 당기손익-공정가치 측정 지정 금융자산,-,제 39 기,65800149648,제 38 기,24164377372,14,KRW,,,,,연결,제 37 기,10212649601
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치금융자산,-,제 39 기,208034868202,제 38 기,170956589662,15,KRW,,,,,연결,제 37 기,90796215946
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_InvestmentsInAssociates,관계기업투자,-,제 39 기,1959033770,제 38 기,,16,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 39 기,305031550861,제 38 기,311559773387,17,KRW,,,,,연결,제 37 기,303122911097
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 39 기,23911976314,제 38 기,21389455244,18,KRW,,,,,연결,제 37 기,21686206643
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_RightofuseAssets,사용권자산,-,제 39 기,68412422614,제 38 기,73766366408,19,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,-,제 39 기,66310049303,제 38 기,76147415252,20,KRW,,,,,연결,제 37 기,100764508148
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 39 기,29353762430,제 38 기,28989466879,21,KRW,,,,,연결,제 37 기,27477918653
+20210322000964,11011,2020,00161976,BS,재무상태표,dart_OtherNonCurrentAssets,기타비유동자산,-,제 39 기,5958400914,제 38 기,8690617268,22,KRW,,,,,연결,제 37 기,31226595128
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 39 기,1840012735335,제 38 기,1731430277344,23,KRW,,,,,연결,제 37 기,1678316386749
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 39 기,880102733709,제 38 기,946918113210,25,KRW,,,,,연결,제 37 기,903560057321
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayables,매입채무 및 기타유동채무,-,제 39 기,189006990091,제 38 기,227109244753,26,KRW,,,,,연결,제 37 기,195767851431
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_ShorttermBorrowings,단기차입금,-,제 39 기,542819511980,제 38 기,576646379456,27,KRW,,,,,연결,제 37 기,597675612767
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_CurrentLeaseLiabilities,유동리스부채,-,제 39 기,21154000441,제 38 기,21117491329,28,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_OtherCurrentFinancialLiabilities,기타유동금융부채,-,제 39 기,23696870,제 38 기,23120020,29,KRW,,,,,연결,제 37 기,22769960
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 39 기,13326561246,제 38 기,21334506386,30,KRW,,,,,연결,제 37 기,14890154242
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_CurrentContractLiabilities,유동계약부채,-,제 39 기,55843317045,제 38 기,49800505164,31,KRW,,,,,연결,제 37 기,49056780593
+20210322000964,11011,2020,00161976,BS,재무상태표,dart_OtherCurrentLiabilities,기타유동부채,-,제 39 기,57928656036,제 38 기,50886866102,32,KRW,,,,,연결,제 37 기,46146888328
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 39 기,214125421955,제 38 기,188606289027,33,KRW,,,,,연결,제 37 기,157019035186
+20210322000964,11011,2020,00161976,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentPayables,장기매입채무 및 기타비유동채무,-,제 39 기,6965040219,제 38 기,8950583355,34,KRW,,,,,연결,제 37 기,10553672100
+20210322000964,11011,2020,00161976,BS,재무상태표,dart_LongTermBorrowingsGross,장기차입금,-,제 39 기,113631654415,제 38 기,82380812435,35,KRW,,,,,연결,제 37 기,75970890223
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_NoncurrentLeaseLiabilities,장기리스부채,-,제 39 기,21277362188,제 38 기,30483746805,36,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,BS,재무상태표,dart_PostemploymentBenefitObligations,순확정급여부채,-,제 39 기,61534932111,제 38 기,59801566117,37,KRW,,,,,연결,제 37 기,58246183187
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 39 기,9938350139,제 38 기,5062626891,38,KRW,,,,,연결,제 37 기,12248289676
+20210322000964,11011,2020,00161976,BS,재무상태표,dart_OtherNonCurrentLiabilities,기타비유동부채,-,제 39 기,778082883,제 38 기,1926953424,39,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 39 기,1094228155664,제 38 기,1135524402237,40,KRW,,,,,연결,제 37 기,1060579092507
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,-,제 39 기,368335075413,제 38 기,271459784232,42,KRW,,,,,연결,제 37 기,260426060401
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 39 기,20000000000,제 38 기,20000000000,43,KRW,,,,,연결,제 37 기,20000000000
+20210322000964,11011,2020,00161976,BS,재무상태표,dart_CapitalSurplus,기타불입자본,-,제 39 기,2916166003,제 38 기,2655888105,44,KRW,,,,,연결,제 37 기,1262175016
+20210322000964,11011,2020,00161976,BS,재무상태표,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타 자본구성,-,제 39 기,33926659262,제 38 기,-4846525154,45,KRW,,,,,연결,제 37 기,-3985480460
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금(결손금),-,제 39 기,311492250148,제 38 기,253650421281,46,KRW,,,,,연결,제 37 기,243149365845
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 39 기,377449504258,제 38 기,324446090875,47,KRW,,,,,연결,제 37 기,357311233841
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 39 기,745784579671,제 38 기,595905875107,48,KRW,,,,,연결,제 37 기,617737294242
+20210322000964,11011,2020,00161976,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 39 기,1840012735335,제 38 기,1731430277344,49,KRW,,,,,연결,제 37 기,1678316386749
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_Revenue,수익(매출액),-,제 39 기,2797947074453,제 38 기,2736673074979,0,KRW,,,,,연결,제 37 기,2521499428907
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 39 기,2205129096177,제 38 기,2058539966986,1,KRW,,,,,연결,제 37 기,1883506212918
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 39 기,592817978276,제 38 기,678133107993,2,KRW,,,,,연결,제 37 기,637993215989
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 39 기,511166947876,제 38 기,580134617270,3,KRW,,,,,연결,제 37 기,581512341686
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익(손실),-,제 39 기,81651030400,제 38 기,97998490723,4,KRW,,,,,연결,제 37 기,56480874303
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,dart_OtherGains,기타이익,-,제 39 기,86151083264,제 38 기,47354335106,5,KRW,,,,,연결,제 37 기,43548302216
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,dart_OtherLosses,기타손실,-,제 39 기,85914213137,제 38 기,107916051776,6,KRW,,,,,연결,제 37 기,124888288540
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 39 기,6141267534,제 38 기,8962173679,7,KRW,,,,,연결,제 37 기,8409807815
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융원가,-,제 39 기,19675273300,제 38 기,25571911213,8,KRW,,,,,연결,제 37 기,20160278210
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-,제 39 기,68353894761,제 38 기,20827036519,9,KRW,,,,,연결,제 37 기,-36609582416
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),-,제 39 기,-3123866783,제 38 기,17373330260,10,KRW,,,,,연결,제 37 기,8795162357
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_ProfitLossFromContinuingOperations,계속영업당기순이익(손실),-,제 39 기,71477761544,제 38 기,3453706259,11,KRW,,,,,연결,제 37 기,-45404744773
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업이익(손실),-,제 39 기,-993729974,제 38 기,-305323368,12,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 39 기,70484031570,제 38 기,3148382891,13,KRW,,,,,연결,제 37 기,-45404744773
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 39 기,103485127674,제 38 기,-2220013141,14,KRW,,,,,연결,제 37 기,-2233643827
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는항목(세후기타포괄손익),-,제 39 기,102747657826,제 38 기,-1352308454,15,KRW,,,,,연결,제 37 기,-3781781529
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,-,제 39 기,-2667919280,제 38 기,-745968318,16,KRW,,,,,연결,제 37 기,-2731209308
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,기타포괄손익-공정가치 금융자산 평가손익,-,제 39 기,105415577106,제 38 기,-606340136,17,KRW,,,,,연결,제 37 기,-1050572221
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류될 수 있는 항목(세후기타포괄손익),-,제 39 기,737469848,제 38 기,-867704687,18,KRW,,,,,연결,제 37 기,1548137702
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,기타포괄손익-공정가치 측정 금융자산 평가손익,-,제 39 기,-52940578,제 38 기,691913555,19,KRW,,,,,연결,제 37 기,-707945169
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,-,제 39 기,790410426,제 38 기,-1559618242,20,KRW,,,,,연결,제 37 기,2256082871
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 39 기,173969159244,제 38 기,928369750,21,KRW,,,,,연결,제 37 기,-47638388600
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 당기순이익(손실),-,제 39 기,54361298693,제 38 기,20150664392,23,KRW,,,,,연결,제 37 기,-15918551070
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분에 귀속되는 당기순이익(손실),-,제 39 기,16122732877,제 38 기,-17002281501,24,KRW,,,,,연결,제 37 기,-29486193703
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"총 포괄손익, 지배기업의 소유주에게 귀속되는 지분",-,제 39 기,106430460033,제 38 기,18277603882,26,KRW,,,,,연결,제 37 기,-17101222335
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,"총 포괄손익, 비지배지분",-,제 39 기,67538699211,제 38 기,-17349234132,27,KRW,,,,,연결,제 37 기,-30537166265
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,계속영업기본및희석주당이익(손실),-,제 39 기,1393,제 38 기,516,30,KRW,,,,,연결,제 37 기,-405
+20210322000964,11011,2020,00161976,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,중단영업기본및희석주당이익(손실),-,제 39 기,-8,제 38 기,-3,31,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 39 기,110130221840,제 38 기,144915231409,0,KRW,,,,,연결,제 37 기,14516765870
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsOperatingActivities,영업으로부터 창출된 현금흐름,-,제 39 기,155300155787,제 38 기,178137674114,1,KRW,,,,,연결,제 37 기,29809776711
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 39 기,6532541294,제 38 기,9577973439,2,KRW,,,,,연결,제 37 기,9249460691
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급,-,제 39 기,21640491112,제 38 기,25850004153,3,KRW,,,,,연결,제 37 기,19951417296
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부(환급),-,제 39 기,31119909009,제 38 기,17876620976,4,KRW,,,,,연결,제 37 기,5572387671
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취(영업),-,제 39 기,1057924880,제 38 기,926208985,5,KRW,,,,,연결,제 37 기,981333435
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 39 기,-35734217466,제 38 기,-56393274057,6,KRW,,,,,연결,제 37 기,-27603382788
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 처분,-,제 39 기,6582721460,제 38 기,50726176962,7,KRW,,,,,연결,제 37 기,92003726640
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermLoansAndReceivables,단기대여금및수취채권의 처분,-,제 39 기,9908909206,제 38 기,13941808803,8,KRW,,,,,연결,제 37 기,23276515851
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_ProceedsFromSalesOfLongTermLoansAndReceivables,장기대여금및기타채권의 처분,-,제 39 기,471780000,제 38 기,960635194,9,KRW,,,,,연결,제 37 기,438874942
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_ProceedsFromSalesOfOtherFinancialAssets,기타포괄손익-공정가치금융자산의 처분,-,제 39 기,29422726286,제 38 기,70000000000,10,KRW,,,,,연결,제 37 기,60000000000
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_ProceedsFromSalesOfFairValueFinancialAsset,당기손익-공정가치금융자산의 처분,-,제 39 기,150428526257,제 38 기,315412315327,11,KRW,,,,,연결,제 37 기,378921442955
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_ProceedsFromSalesOfNonCurrentFairValueFinancialAsset,비유동 당기손익-공정가치금융자산의 처분,-,제 39 기,,제 38 기,257142857,12,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities,사업양도에 의한 현금유입,-,제 39 기,,제 38 기,379073732,13,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 39 기,2252414732,제 38 기,1311904726,14,KRW,,,,,연결,제 37 기,1169988030
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 39 기,1415782675,제 38 기,1973611,15,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentProperty,투자부동산의 처분,-,제 39 기,,제 38 기,31142394,16,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_ProceedsFromSalesOfNonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,매각예정분류자산의 처분,-,제 39 기,,제 38 기,,17,KRW,,,,,연결,제 37 기,10800000000
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 취득,-,제 39 기,9043264387,제 38 기,52079189334,18,KRW,,,,,연결,제 37 기,94272410201
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_PurchaseOfShortTermLoansAndReceivables,단기대여금및기타채권의 취득,-,제 39 기,19030929449,제 38 기,22621125051,19,KRW,,,,,연결,제 37 기,23915748046
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_PurchaseOfLongTermLoansAndReceivables,장기대여금및기타채권의 취득,-,제 39 기,2902273744,제 38 기,1115905127,20,KRW,,,,,연결,제 37 기,8919800894
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_PurchaseOfOtherFinancialAssets,기타포괄손익-공정가치금융자산의 취득,-,제 39 기,31183764174,제 38 기,80475556601,21,KRW,,,,,연결,제 37 기,70369557377
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_PurchaseOfFairValueFinancialAsset,당기손익-공정가치금융자산의 취득,-,제 39 기,65289953610,제 38 기,267107949550,22,KRW,,,,,연결,제 37 기,335699788271
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_PurchaseOfNonCurrentFairValueFinancialAsset,비유동 당기손익-공정가치금융자산의 취득,-,제 39 기,44404914173,제 38 기,11800000000,23,KRW,,,,,연결,제 37 기,3500000000
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_PurchaseOfInvestmentsInAssociates,관계기업투자의 취득,-,제 39 기,10000000000,제 38 기,,24,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 39 기,46207213320,제 38 기,60458924755,25,KRW,,,,,연결,제 37 기,38318255446
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 39 기,8154765225,제 38 기,13756797245,26,KRW,,,,,연결,제 37 기,13703261650
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_PurchaseOfInvestmentProperty,투자부동산의 취득,-,제 39 기,,제 38 기,,27,KRW,,,,,연결,제 37 기,269441556
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_CashFlowsUsedInObtainingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,사업결합으로 인한 현금유출,-,제 39 기,,제 38 기,,28,KRW,,,,,연결,제 37 기,2869937351
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_PurchaseOfLand,신규법인의 토지취득,-,제 39 기,,제 38 기,,29,KRW,,,,,연결,제 37 기,2375730414
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 39 기,-23892526356,제 38 기,-49440809215,30,KRW,,,,,연결,제 37 기,-4106171456
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의 차입,-,제 39 기,1408864689562,제 38 기,1438677263115,31,KRW,,,,,연결,제 37 기,1519054328973
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_ProceedsFromBonds,사채의 발행,-,제 39 기,83710271689,제 38 기,,32,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,-,제 39 기,1468255930623,제 38 기,1445689822441,33,KRW,,,,,연결,제 37 기,1487312287190
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금지급,-,제 39 기,22691082750,제 38 기,20697922940,34,KRW,,,,,연결,제 37 기,21060367540
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_PaymentForConsolidatedCapitalTransactions,비지배지분의 추가취득,-,제 39 기,1399371930,제 38 기,2061865945,35,KRW,,,,,연결,제 37 기,13631011989
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_AcquisitionOfTreasuryShares,자기주식의 취득,-,제 39 기,,제 38 기,,36,KRW,,,,,연결,제 37 기,1156833710
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 39 기,24121102304,제 38 기,19668461004,37,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,환율변동효과 반영전 현금및현금성자산의 순증가(감소),-,제 39 기,50503478018,제 38 기,39081148137,38,KRW,,,,,연결,제 37 기,-17192788374
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 39 기,-911237514,제 38 기,211944659,39,KRW,,,,,연결,제 37 기,539305623
+20210322000964,11011,2020,00161976,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 39 기,49592240504,제 38 기,39293092796,40,KRW,,,,,연결,제 37 기,-16653482751
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 39 기,102988769712,제 38 기,63695676916,41,KRW,,,,,연결,제 37 기,80349159667
+20210322000964,11011,2020,00161976,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 39 기,152581010216,제 38 기,102988769712,42,KRW,,,,,연결,제 37 기,63695676916
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 39 기,595905875107,제 38 기,617737294242,1,KRW,,,,,연결,제 37 기,701223896081
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 39 기,20000000000,제 38 기,20000000000,1,KRW,,,,,연결,제 37 기,20000000000
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 39 기,253650421281,제 38 기,243149365845,1,KRW,,,,,연결,제 37 기,263535393289
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 39 기,2655888105,제 38 기,1262175016,1,KRW,,,,,연결,제 37 기,380543678
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타 자본구성,제 39 기,-4846525154,제 38 기,-3985480460,1,KRW,,,,,연결,제 37 기,1397058171
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 39 기,271459784232,제 38 기,260426060401,1,KRW,,,,,연결,제 37 기,285312995138
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|비지배지분 [member],제 39 기,324446090875,제 38 기,357311233841,1,KRW,,,,,연결,제 37 기,415910900943
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책의 변경효과,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타 자본구성,제 39 기,,제 38 기,,2,KRW,,,,,연결,제 37 기,-5620344004
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책의 변경효과,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 39 기,,제 38 기,,2,KRW,,,,,연결,제 37 기,5620344004
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|비지배지분 [member],제 39 기,16122732877,제 38 기,-17002281501,3,KRW,,,,,연결,제 37 기,-29486193703
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 39 기,54361298693,제 38 기,20150664392,3,KRW,,,,,연결,제 37 기,-15918551070
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),연결재무제표 [member],제 39 기,70484031570,제 38 기,3148382891,3,KRW,,,,,연결,제 37 기,-45404744773
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 39 기,54361298693,제 38 기,20150664392,3,KRW,,,,,연결,제 37 기,-15918551070
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 39 기,52694920492,제 38 기,-61368281,4,KRW,,,,,연결,제 37 기,-784700119
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|비지배지분 [member],제 39 기,52667716036,제 38 기,146941700,4,KRW,,,,,연결,제 37 기,-973817271
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,연결재무제표 [member],제 39 기,105362636528,제 38 기,85573419,4,KRW,,,,,연결,제 37 기,-1758517390
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 39 기,14350759321,제 38 기,,4,KRW,,,,,연결,제 37 기,
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타 자본구성,제 39 기,38344161171,제 38 기,-61368281,4,KRW,,,,,연결,제 37 기,-784700119
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_OtherTransactions,순확정급여부채의 재측정요소,연결재무제표 [member],제 39 기,-2667919280,제 38 기,-745968318,5,KRW,,,,,연결,제 37 기,-2731209308
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_OtherTransactions,순확정급여부채의 재측정요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 39 기,-1054782397,제 38 기,-1012015816,5,KRW,,,,,연결,제 37 기,-1420476638
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_OtherTransactions,순확정급여부채의 재측정요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 39 기,-1054782397,제 38 기,-1012015816,5,KRW,,,,,연결,제 37 기,-1420476638
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_OtherTransactions,순확정급여부채의 재측정요소,자본 [member]|비지배지분 [member],제 39 기,-1613136883,제 38 기,266047498,5,KRW,,,,,연결,제 37 기,-1310732670
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타 자본구성,제 39 기,429023245,제 38 기,-799676413,6,KRW,,,,,연결,제 37 기,1022505492
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 39 기,429023245,제 38 기,-799676413,6,KRW,,,,,연결,제 37 기,1022505492
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,연결재무제표 [member],제 39 기,790410426,제 38 기,-1559618242,6,KRW,,,,,연결,제 37 기,2256082871
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [member]|비지배지분 [member],제 39 기,361387181,제 38 기,-759941829,6,KRW,,,,,연결,제 37 기,1233577379
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 39 기,9815446750,제 38 기,8637593140,7,KRW,,,,,연결,제 37 기,8667343740
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 39 기,9815446750,제 38 기,8637593140,7,KRW,,,,,연결,제 37 기,8667343740
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,연결재무제표 [member],제 39 기,22691082750,제 38 기,20697922940,7,KRW,,,,,연결,제 37 기,21060367540
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,자본 [member]|비지배지분 [member],제 39 기,12875636000,제 38 기,12060329800,7,KRW,,,,,연결,제 37 기,12393023800
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식취득,연결재무제표 [member],제 39 기,,제 38 기,,8,KRW,,,,,연결,제 37 기,-1156833710
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 39 기,,제 38 기,,8,KRW,,,,,연결,제 37 기,-1156833710
+20210322000964,11011,2020,00161976,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식취득,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 39 기,,제 38 기,,8,KRW,,,,,연결,제 37 기,-1156833710
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,비지배지분의 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 39 기,260277898,제 38 기,1393713089,9,KRW,,,,,연결,제 37 기,2038465048
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,비지배지분의 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 39 기,260277898,제 38 기,1393713089,9,KRW,,,,,연결,제 37 기,2038465048
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,비지배지분의 변동,자본 [member]|비지배지분 [member],제 39 기,-1659649828,제 38 기,-3455579034,9,KRW,,,,,연결,제 37 기,-15669477037
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,비지배지분의 변동,연결재무제표 [member],제 39 기,-1399371930,제 38 기,-2061865945,9,KRW,,,,,연결,제 37 기,-13631011989
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 39 기,311492250148,제 38 기,253650421281,10,KRW,,,,,연결,제 37 기,243149365845
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타 자본구성,제 39 기,33926659262,제 38 기,-4846525154,10,KRW,,,,,연결,제 37 기,-3985480460
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 39 기,2916166003,제 38 기,2655888105,10,KRW,,,,,연결,제 37 기,1262175016
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_Equity,기말자본,연결재무제표 [member],제 39 기,745784579671,제 38 기,595905875107,10,KRW,,,,,연결,제 37 기,617737294242
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|비지배지분 [member],제 39 기,377449504258,제 38 기,324446090875,10,KRW,,,,,연결,제 37 기,357311233841
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 39 기,368335075413,제 38 기,271459784232,10,KRW,,,,,연결,제 37 기,260426060401
+20210322000964,11011,2020,00161976,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 39 기,20000000000,제 38 기,20000000000,10,KRW,,,,,연결,제 37 기,20000000000

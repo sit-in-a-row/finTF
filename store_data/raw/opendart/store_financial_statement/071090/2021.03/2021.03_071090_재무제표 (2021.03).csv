@@ -1,0 +1,148 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분,bfefrmtrm_nm,bfefrmtrm_amount
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 18 기,86466302440,제 17 기,83236116154,1,KRW,,,,,연결,제 16 기,80649515049
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 18 기,18280683621,제 17 기,19292330438,2,KRW,,,,,연결,제 16 기,18051777042
+20210308000603,11011,2020,00435312,BS,재무상태표,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,단기금융자산,-,제 18 기,3200000000,제 17 기,5000000000,3,KRW,,,,,연결,제 16 기,10020687918
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_TradeAndOtherCurrentReceivables,매출채권 및 기타채권,-,제 18 기,27563316236,제 17 기,24169038117,4,KRW,,,,,연결,제 16 기,18217971077
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_CurrentTaxAssets,당기법인세자산,-,제 18 기,418772784,제 17 기,85457216,5,KRW,,,,,연결,제 16 기,75294637
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_CurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition,당기손익-공정가치금융자산,-,제 18 기,8339572070,제 17 기,5286889708,6,KRW,,,,,연결,제 16 기,2151268154
+20210308000603,11011,2020,00435312,BS,재무상태표,dart_CurrentDerivativeAsset,파생상품자산,-,제 18 기,0,제 17 기,280532799,7,KRW,,,,,연결,제 16 기,516039
+20210308000603,11011,2020,00435312,BS,재무상태표,dart_OtherCurrentAssets,기타유동자산,-,제 18 기,448720535,제 17 기,82673565,8,KRW,,,,,연결,제 16 기,397644999
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 18 기,28215237194,제 17 기,29039194311,9,KRW,,,,,연결,제 16 기,31734355183
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 18 기,153192032209,제 17 기,151086317985,10,KRW,,,,,연결,제 16 기,152340660048
+20210308000603,11011,2020,00435312,BS,재무상태표,dart_LongTermDepositsNotClassifiedAsCashEquivalents,장기금융자산,-,제 18 기,13000000,제 17 기,13000000,11,KRW,,,,,연결,제 16 기,13000000
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition,당기손익-공정가치금융자산,-,제 18 기,1294268347,제 17 기,2515300000,12,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 18 기,145815152245,제 17 기,143887864133,13,KRW,,,,,연결,제 16 기,147672320299
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,-,제 18 기,898304566,제 17 기,456304566,14,KRW,,,,,연결,제 16 기,505304566
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_RightofuseAssets,사용권자산,-,제 18 기,231707156,제 17 기,223287945,15,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates,관계기업투자,-,제 18 기,2798924967,제 17 기,2640812850,16,KRW,,,,,연결,제 16 기,3129106748
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치금융자산,-,제 18 기,909856320,제 17 기,388045380,17,KRW,,,,,연결,제 16 기,380601760
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_OtherNoncurrentFinancialAssets,기타금융자산,-,제 18 기,1167575601,제 17 기,889566786,18,KRW,,,,,연결,제 16 기,552053808
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 18 기,63243007,제 17 기,72136325,19,KRW,,,,,연결,제 16 기,88272867
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 18 기,239658334649,제 17 기,234322434139,20,KRW,,,,,연결,제 16 기,232990175097
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 18 기,84869119311,제 17 기,59161158443,22,KRW,,,,,연결,제 16 기,57950463794
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayables,매입채무 및 기타채무,-,제 18 기,16458672587,제 17 기,15092578035,23,KRW,,,,,연결,제 16 기,19139523162
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_ShorttermBorrowings,단기차입금,-,제 18 기,41000000000,제 17 기,41350000000,24,KRW,,,,,연결,제 16 기,35398100000
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_CurrentPortionOfLongtermBorrowings,유동성장기부채,-,제 18 기,3509600000,제 17 기,1720000000,25,KRW,,,,,연결,제 16 기,2060000000
+20210308000603,11011,2020,00435312,BS,재무상태표,dart_CurrentPortionOfBonds,유동성사채,-,제 18 기,21634528740,제 17 기,0,26,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_OtherCurrentFinancialLiabilities,파생상품금융부채,-,제 18 기,1118865751,제 17 기,0,27,KRW,,,,,연결,제 16 기,418664284
+20210308000603,11011,2020,00435312,BS,재무상태표,dart_OtherCurrentLiabilities,기타부채,-,제 18 기,470121285,제 17 기,469154619,28,KRW,,,,,연결,제 16 기,593152213
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_CurrentLeaseLiabilities,유동리스부채,-,제 18 기,131648074,제 17 기,94318721,29,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_CurrentContractLiabilities,계약부채,-,제 18 기,545682874,제 17 기,435107068,30,KRW,,,,,연결,제 16 기,341024135
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 18 기,28744271032,제 17 기,47499321805,31,KRW,,,,,연결,제 16 기,46650533836
+20210308000603,11011,2020,00435312,BS,재무상태표,dart_LongTermBorrowingsGross,장기차입금,-,제 18 기,12174400000,제 17 기,8684000000,32,KRW,,,,,연결,제 16 기,8804000000
+20210308000603,11011,2020,00435312,BS,재무상태표,dart_BondsIssued,사채,-,제 18 기,0,제 17 기,22890093033,33,KRW,,,,,연결,제 16 기,21956041030
+20210308000603,11011,2020,00435312,BS,재무상태표,dart_PostemploymentBenefitObligations,순확정급여부채,-,제 18 기,2074485759,제 17 기,1757789623,34,KRW,,,,,연결,제 16 기,1735309360
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_NoncurrentLeaseLiabilities,비유동리스부채,-,제 18 기,100059082,제 17 기,128969222,35,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 18 기,14395326191,제 17 기,14038469927,36,KRW,,,,,연결,제 16 기,14155183446
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 18 기,113613390343,제 17 기,106660480248,37,KRW,,,,,연결,제 16 기,104600997630
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,-,제 18 기,126044944306,제 17 기,127661953891,39,KRW,,,,,연결,제 16 기,128389177467
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 18 기,9999720000,제 17 기,9999720000,40,KRW,,,,,연결,제 16 기,9999720000
+20210308000603,11011,2020,00435312,BS,재무상태표,-표준계정코드 미사용-,기타불입자본,-,제 18 기,47291286856,제 17 기,47291286856,41,KRW,,,,,연결,제 16 기,47291286856
+20210308000603,11011,2020,00435312,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타자본구성요소,-,제 18 기,406358093,제 17 기,568363041,42,KRW,,,,,연결,제 16 기,1006125279
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금(결손금),-,제 18 기,68347579357,제 17 기,69802583994,43,KRW,,,,,연결,제 16 기,70092045332
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 18 기,126044944306,제 17 기,127661953891,44,KRW,,,,,연결,제 16 기,128389177467
+20210308000603,11011,2020,00435312,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 18 기,239658334649,제 17 기,234322434139,45,KRW,,,,,연결,제 16 기,232990175097
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,ifrs-full_Revenue,매출액,-,제 18 기,161686462860,제 17 기,214251803457,0,KRW,,,,,연결,제 16 기,170541409656
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 18 기,150533219146,제 17 기,202210526465,1,KRW,,,,,연결,제 16 기,166237469132
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 18 기,11153243714,제 17 기,12041276992,2,KRW,,,,,연결,제 16 기,4303940524
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 18 기,10862600371,제 17 기,10932440268,3,KRW,,,,,연결,제 16 기,9510818468
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익(손실),-,제 18 기,290643343,제 17 기,1108836724,4,KRW,,,,,연결,제 16 기,-5206877944
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,dart_OtherGains,기타영업외수익,-,제 18 기,1094224987,제 17 기,2142304022,5,KRW,,,,,연결,제 16 기,1086868606
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,dart_OtherLosses,기타영업외비용,-,제 18 기,1072614737,제 17 기,798338030,6,KRW,,,,,연결,제 16 기,780832509
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,-표준계정코드 미사용-,관계기업의 손익에 대한 지분,-,제 18 기,141871958,제 17 기,-175350182,7,KRW,,,,,연결,제 16 기,-697788269
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 18 기,2519990558,제 17 기,1701136880,8,KRW,,,,,연결,제 16 기,1189470602
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융비용,-,제 18 기,4187665508,제 17 기,3629072730,9,KRW,,,,,연결,제 16 기,3521482302
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-,제 18 기,-1213549399,제 17 기,349516684,10,KRW,,,,,연결,제 16 기,-7930641816
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),-,제 18 기,45453891,제 17 기,317978647,11,KRW,,,,,연결,제 16 기,-769656496
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 18 기,-1259003290,제 17 기,31538037,12,KRW,,,,,연결,제 16 기,-7160985320
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 18 기,-158091095,제 17 기,-758761613,13,KRW,,,,,연결,제 16 기,240130217
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는항목(세후기타포괄손익),-,제 18 기,-38776023,제 17 기,-315184720,14,KRW,,,,,연결,제 16 기,-360352800
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,-표준계정코드 미사용-,기타포괄손익-공정가치금융자산평가손익,-,제 18 기,-42689876,제 17 기,5814655,15,KRW,,,,,연결,제 16 기,-88762700
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정손익,-,제 18 기,3913853,제 17 기,-320999375,16,KRW,,,,,연결,제 16 기,-271590100
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류될 수 있는 항목,-,제 18 기,-119315072,제 17 기,-443576893,17,KRW,,,,,연결,제 16 기,600483017
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익,-,제 18 기,16240159,제 17 기,-312943716,18,KRW,,,,,연결,제 16 기,584475224
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업환산손익,-,제 18 기,-135555231,제 17 기,-130633177,19,KRW,,,,,연결,제 16 기,16007793
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 18 기,-1417094385,제 17 기,-727223576,20,KRW,,,,,연결,제 16 기,-6920855103
+20210308000603,11011,2020,00435312,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),-,제 18 기,-630,제 17 기,16,22,KRW,,,,,연결,제 16 기,-3582
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동으로 인한 현금흐름,-,제 18 기,2826514226,제 17 기,-2424925469,0,KRW,,,,,연결,제 16 기,13120122124
+20210308000603,11011,2020,00435312,CF,현금흐름표,dart_ProfitLossForStatementOfCashFlows,당기순이익(손실),-,제 18 기,-1259003290,제 17 기,31538037,1,KRW,,,,,연결,제 16 기,-7160985320
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,손익조정,-,제 18 기,6886521836,제 17 기,8193500212,2,KRW,,,,,연결,제 16 기,9183861668
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsOperatingActivities,운전자본의 증감,-,제 18 기,-1227890708,제 17 기,-8203959290,3,KRW,,,,,연결,제 16 기,13945175913
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금의 수취,-,제 18 기,1072500,제 17 기,1092500,4,KRW,,,,,연결,제 16 기,6137500
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취(영업),-,제 18 기,622728033,제 17 기,492224545,5,KRW,,,,,연결,제 16 기,490042637
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급(영업),-,제 18 기,2194482095,제 17 기,2599501524,6,KRW,,,,,연결,제 16 기,2709219167
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부(환급),-,제 18 기,2432050,제 17 기,339819949,7,KRW,,,,,연결,제 16 기,634891107
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동으로 인한 현금흐름,-,제 18 기,-7882299042,제 17 기,-1380435762,8,KRW,,,,,연결,제 16 기,-621102490
+20210308000603,11011,2020,00435312,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 처분,-,제 18 기,1800000000,제 17 기,5020687918,9,KRW,,,,,연결,제 16 기,4020143423
+20210308000603,11011,2020,00435312,CF,현금흐름표,dart_ProceedsFromSalesOfFairValueFinancialAsset,당기손익-공정가치금융자산의 감소(증가),-,제 18 기,-2021057905,제 17 기,-5715899826,10,KRW,,,,,연결,제 16 기,-2124136000
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,파생상품자산(부채)의 감소(증가),-,제 18 기,-112313675,제 17 기,-441105350,11,KRW,,,,,연결,제 16 기,-254974680
+20210308000603,11011,2020,00435312,CF,현금흐름표,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,기타포괄-공정가치금융자산의 처분,-,제 18 기,49350,제 17 기,11066,12,KRW,,,,,연결,제 16 기,25800000
+20210308000603,11011,2020,00435312,CF,현금흐름표,dart_PurchaseOfAvailableForSaleFinancialAssets,기타포괄-공정가치금융자산의 취득,-,제 18 기,576590900,제 17 기,0,13,KRW,,,,,연결,제 16 기,34663970
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 18 기,0,제 17 기,14578328,14,KRW,,,,,연결,제 16 기,73660000
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 18 기,6706013262,제 17 기,1140918598,15,KRW,,,,,연결,제 16 기,2591880623
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 18 기,491000000,제 17 기,0,16,KRW,,,,,연결,제 16 기,245000000
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동으로 인한 현금흐름,-,제 18 기,4408943938,제 17 기,5180401451,17,KRW,,,,,연결,제 16 기,-7899926631
+20210308000603,11011,2020,00435312,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 증가,-,제 18 기,-350000000,제 17 기,5951900000,18,KRW,,,,,연결,제 16 기,-21853300000
+20210308000603,11011,2020,00435312,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 증가,-,제 18 기,7000000000,제 17 기,1600000000,19,KRW,,,,,연결,제 16 기,-5946000000
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금및사채의 상환,-,제 18 기,1720000000,제 17 기,2060000000,20,KRW,,,,,연결,제 16 기,1600000000
+20210308000603,11011,2020,00435312,CF,현금흐름표,dart_ProceedsFromBonds,사채의 증가,-,제 18 기,0,제 17 기,0,21,KRW,,,,,연결,제 16 기,22199076569
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 지급,-,제 18 기,321140862,제 17 기,311498549,22,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금지급,-,제 18 기,199915200,제 17 기,0,23,KRW,,,,,연결,제 16 기,699703200
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 18 기,-364805939,제 17 기,-134486824,24,KRW,,,,,연결,제 16 기,-99966846
+20210308000603,11011,2020,00435312,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 18 기,-1011646817,제 17 기,1240553396,25,KRW,,,,,연결,제 16 기,4499126157
+20210308000603,11011,2020,00435312,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 18 기,19292330438,제 17 기,18051777042,26,KRW,,,,,연결,제 16 기,13552650885
+20210308000603,11011,2020,00435312,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 18 기,18280683621,제 17 기,19292330438,27,KRW,,,,,연결,제 16 기,18051777042
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 18 기,9999720000,제 17 기,9999720000,1,KRW,,,,,연결,제 16 기,9999720000
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 18 기,127661953891,제 17 기,128389177467,1,KRW,,,,,연결,제 16 기,136109761518
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 18 기,127661953891,제 17 기,128389177467,1,KRW,,,,,연결,제 16 기,136109761518
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 18 기,47291286856,제 17 기,47291286856,1,KRW,,,,,연결,제 16 기,47291286856
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 18 기,69802583994,제 17 기,70092045332,1,KRW,,,,,연결,제 16 기,78245017866
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 18 기,568363041,제 17 기,1006125279,1,KRW,,,,,연결,제 16 기,573736796
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경누적효과,연결재무제표 [member],제 18 기,0,제 17 기,0,2,KRW,,,,,연결,제 16 기,-100025748
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경누적효과,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 18 기,0,제 17 기,0,2,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경누적효과,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 18 기,0,제 17 기,0,2,KRW,,,,,연결,제 16 기,-79331834
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경누적효과,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 18 기,0,제 17 기,0,2,KRW,,,,,연결,제 16 기,-20693914
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경누적효과,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 18 기,0,제 17 기,0,2,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책변경누적효과,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 18 기,0,제 17 기,0,2,KRW,,,,,연결,제 16 기,-100025748
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 18 기,0,제 17 기,0,3,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 18 기,199915200,제 17 기,0,3,KRW,,,,,연결,제 16 기,699703200
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 18 기,0,제 17 기,0,3,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 18 기,0,제 17 기,0,3,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 18 기,199915200,제 17 기,0,3,KRW,,,,,연결,제 16 기,699703200
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_DividendsPaid,배당금지급,연결재무제표 [member],제 18 기,199915200,제 17 기,0,3,KRW,,,,,연결,제 16 기,699703200
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 18 기,-1259003290,제 17 기,31538037,4,KRW,,,,,연결,제 16 기,-7160985320
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 18 기,0,제 17 기,0,4,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 18 기,0,제 17 기,0,4,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 18 기,0,제 17 기,0,4,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 18 기,-1259003290,제 17 기,31538037,4,KRW,,,,,연결,제 16 기,-7160985320
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),연결재무제표 [member],제 18 기,-1259003290,제 17 기,31538037,4,KRW,,,,,연결,제 16 기,-7160985320
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치금융자산 평가손익,연결재무제표 [member],제 18 기,-42689876,제 17 기,5814655,5,KRW,,,,,연결,제 16 기,-88762700
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 18 기,-42689876,제 17 기,5814655,5,KRW,,,,,연결,제 16 기,-88762700
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 18 기,0,제 17 기,0,5,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 18 기,-42689876,제 17 기,5814655,5,KRW,,,,,연결,제 16 기,-88762700
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 18 기,0,제 17 기,0,5,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치금융자산 평가손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 18 기,0,제 17 기,0,5,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,관계기업 기타포괄손익 지분해당액,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 18 기,0,제 17 기,0,6,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,관계기업 기타포괄손익 지분해당액,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 18 기,0,제 17 기,0,6,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,관계기업 기타포괄손익 지분해당액,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 18 기,16240159,제 17 기,312943716,6,KRW,,,,,연결,제 16 기,584475224
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,관계기업 기타포괄손익 지분해당액,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 18 기,0,제 17 기,0,6,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,관계기업 기타포괄손익 지분해당액,연결재무제표 [member],제 18 기,16240159,제 17 기,312943716,6,KRW,,,,,연결,제 16 기,584475224
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,관계기업 기타포괄손익 지분해당액,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 18 기,16240159,제 17 기,312943716,6,KRW,,,,,연결,제 16 기,584475224
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 18 기,-135555231,제 17 기,130633177,7,KRW,,,,,연결,제 16 기,16007793
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 18 기,0,제 17 기,0,7,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 18 기,-135555231,제 17 기,130633177,7,KRW,,,,,연결,제 16 기,16007793
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 18 기,0,제 17 기,0,7,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업환산손익,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 18 기,0,제 17 기,0,7,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,해외사업환산손익,연결재무제표 [member],제 18 기,-135555231,제 17 기,130633177,7,KRW,,,,,연결,제 16 기,16007793
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_OtherTransactions,순확정급여부채의 재측정 요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 18 기,3913853,제 17 기,320999375,8,KRW,,,,,연결,제 16 기,-271590100
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_OtherTransactions,순확정급여부채의 재측정 요소,연결재무제표 [member],제 18 기,3913853,제 17 기,320999375,8,KRW,,,,,연결,제 16 기,-271590100
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_OtherTransactions,순확정급여부채의 재측정 요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 18 기,0,제 17 기,0,8,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_OtherTransactions,순확정급여부채의 재측정 요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 18 기,0,제 17 기,0,8,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_OtherTransactions,순확정급여부채의 재측정 요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 18 기,3913853,제 17 기,320999375,8,KRW,,,,,연결,제 16 기,-271590100
+20210308000603,11011,2020,00435312,SCE,자본변동표,dart_OtherTransactions,순확정급여부채의 재측정 요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 18 기,0,제 17 기,0,8,KRW,,,,,연결,제 16 기,0
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_Equity,기말자본,연결재무제표 [member],제 18 기,126044944306,제 17 기,127661953891,9,KRW,,,,,연결,제 16 기,128389177467
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 18 기,126044944306,제 17 기,127661953891,9,KRW,,,,,연결,제 16 기,128389177467
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 18 기,47291286856,제 17 기,47291286856,9,KRW,,,,,연결,제 16 기,47291286856
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 18 기,406358093,제 17 기,568363041,9,KRW,,,,,연결,제 16 기,1006125279
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 18 기,68347579357,제 17 기,69802583994,9,KRW,,,,,연결,제 16 기,70092045332
+20210308000603,11011,2020,00435312,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 18 기,9999720000,제 17 기,9999720000,9,KRW,,,,,연결,제 16 기,9999720000

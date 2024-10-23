@@ -1,0 +1,257 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분,bfefrmtrm_nm,bfefrmtrm_amount
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 48 기,2501226776943,제 47 기,3528391047116,1,KRW,,,,,연결,제 46 기,2790791907071
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 48 기,313894634469,제 47 기,505636585955,2,KRW,,,,,연결,제 46 기,331208946460
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_TradeAndOtherCurrentReceivables,매출채권 및 기타유동채권,-,제 48 기,445852739250,제 47 기,1177762485693,3,KRW,,,,,연결,제 46 기,702058991419
+20210311001176,11011,2020,00153861,BS,재무상태표,dart_ShortTermDueFromCustomersForContractWork,미청구공사,-,제 48 기,318315058457,제 47 기,449356951608,4,KRW,,,,,연결,제 46 기,464851196969
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_CurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition,유동당기손익-공정가치측정금융자산,-,제 48 기,18680961,제 47 기,25552002407,5,KRW,,,,,연결,제 46 기,25001379351
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_CurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,유동기타포괄손익-공정가치측정금융자산,-,제 48 기,750409465,제 47 기,152347280,6,KRW,,,,,연결,제 46 기,232485360
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_CurrentFinancialAssetsAtAmortisedCost,유동상각후원가측정유가증권,-,제 48 기,,제 47 기,15451199441,7,KRW,,,,,연결,제 46 기,13132462401
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 48 기,1254520791259,제 47 기,985473829755,8,KRW,,,,,연결,제 46 기,943870012023
+20210311001176,11011,2020,00153861,BS,재무상태표,dart_CurrentNoncashAssetsPledgedAsCollateralForWhichTransfereeHasRightByContractOrCustomToSellOrRepledgeCollateral,방송컨텐츠자산,-,제 48 기,,제 47 기,,9,KRW,,,,,연결,제 46 기,5162391
+20210311001176,11011,2020,00153861,BS,재무상태표,dart_OtherCurrentAssets,기타유동자산,-,제 48 기,167687701554,제 47 기,361714976953,10,KRW,,,,,연결,제 46 기,309981856416
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_CurrentTaxAssets,당기법인세자산,-,제 48 기,186761528,제 47 기,7290668024,11,KRW,,,,,연결,제 46 기,449414281
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 48 기,1297044153310,제 47 기,2387744596360,12,KRW,,,,,연결,제 46 기,2167779910388
+20210311001176,11011,2020,00153861,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,비유동매출채권 및 기타채권,-,제 48 기,174068679906,제 47 기,190943981516,13,KRW,,,,,연결,제 46 기,183548624915
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition,비유동당기손익-공정가치측정금융자산,-,제 48 기,59131556650,제 47 기,84584105459,14,KRW,,,,,연결,제 46 기,93508000479
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,비유동기타포괄손익-공정가치측정금융자산,-,제 48 기,155721094538,제 47 기,104199392456,15,KRW,,,,,연결,제 46 기,131762031921
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsAtAmortisedCost,비유동상각후원가측정유가증권,-,제 48 기,,제 47 기,665512000,16,KRW,,,,,연결,제 46 기,6233650000
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_InvestmentAccountedForUsingEquityMethod,"관계,공동기업투자",-,제 48 기,30618208200,제 47 기,270164981309,17,KRW,,,,,연결,제 46 기,258377502771
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 48 기,299921827916,제 47 기,1064464437346,18,KRW,,,,,연결,제 46 기,1034947708013
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 48 기,433006407779,제 47 기,412815634851,19,KRW,,,,,연결,제 46 기,271938433228
+20210311001176,11011,2020,00153861,BS,재무상태표,dart_GoodwillGross,무형자산,-,제 48 기,38379710802,제 47 기,166403139949,20,KRW,,,,,연결,제 46 기,121968988296
+20210311001176,11011,2020,00153861,BS,재무상태표,dart_OtherNonCurrentAssets,기타비유동자산,-,제 48 기,2801179982,제 47 기,14589309502,21,KRW,,,,,연결,제 46 기,13350905406
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 48 기,103395487537,제 47 기,78914101972,22,KRW,,,,,연결,제 46 기,52144065359
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 48 기,3798270930253,제 47 기,5916135643476,23,KRW,,,,,연결,제 46 기,4958571817459
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 48 기,1934746899006,제 47 기,2638231953733,25,KRW,,,,,연결,제 46 기,1886520732542
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayables,매입채무 및 기타유동채무,-,제 48 기,505651624195,제 47 기,707368708706,26,KRW,,,,,연결,제 46 기,636199216966
+20210311001176,11011,2020,00153861,BS,재무상태표,dart_ShortTermDueToCustomersForContractWork,초과청구공사,-,제 48 기,105910359292,제 47 기,82387786810,27,KRW,,,,,연결,제 46 기,41208475275
+20210311001176,11011,2020,00153861,BS,재무상태표,dart_CurrentPortionOfBonds,유동차입금 및 사채,-,제 48 기,754810425691,제 47 기,1198271324134,28,KRW,,,,,연결,제 46 기,545792468283
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_OtherCurrentFinancialLiabilities,기타유동금융부채,-,제 48 기,27266569198,제 47 기,230038011379,29,KRW,,,,,연결,제 46 기,231267784505
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_CurrentProvisions,유동충당부채,-,제 48 기,80133192533,제 47 기,86406915577,30,KRW,,,,,연결,제 46 기,69556466560
+20210311001176,11011,2020,00153861,BS,재무상태표,dart_OtherCurrentLiabilities,기타유동부채,-,제 48 기,426015102982,제 47 기,256578677113,31,KRW,,,,,연결,제 46 기,264432101627
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 48 기,34959625115,제 47 기,77180530014,32,KRW,,,,,연결,제 46 기,98064219326
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 48 기,1216710533483,제 47 기,1706457236077,33,KRW,,,,,연결,제 46 기,1589762819319
+20210311001176,11011,2020,00153861,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentPayables,비유동차입금 및 사채,-,제 48 기,888202611829,제 47 기,1107658214166,34,KRW,,,,,연결,제 46 기,1182882116255
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_OtherNoncurrentFinancialLiabilities,기타비유동금융부채,-,제 48 기,232534053659,제 47 기,273458071013,35,KRW,,,,,연결,제 46 기,136929813804
+20210311001176,11011,2020,00153861,BS,재무상태표,dart_PostemploymentBenefitObligations,순확정급여부채,-,제 48 기,3469187511,제 47 기,17608064360,36,KRW,,,,,연결,제 46 기,21950118406
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_NoncurrentProvisions,비유동충당부채,-,제 48 기,85228814681,제 47 기,160513122938,37,KRW,,,,,연결,제 46 기,83774852777
+20210311001176,11011,2020,00153861,BS,재무상태표,dart_OtherNonCurrentLiabilities,기타비유동부채,-,제 48 기,1457590198,제 47 기,77099460520,38,KRW,,,,,연결,제 46 기,101700367208
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 48 기,3270821523,제 47 기,66455063636,39,KRW,,,,,연결,제 46 기,58022583785
+20210311001176,11011,2020,00153861,BS,재무상태표,-표준계정코드 미사용-,장기법인세부채,-,제 48 기,2547454082,제 47 기,3665239444,40,KRW,,,,,연결,제 46 기,4502967084
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 48 기,3151457432489,제 47 기,4344689189810,41,KRW,,,,,연결,제 46 기,3476283551861
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,-,제 48 기,642168186589,제 47 기,1155175388507,43,KRW,,,,,연결,제 46 기,1014371675799
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 48 기,20100620000,제 47 기,39478740000,44,KRW,,,,,연결,제 46 기,39478740000
+20210311001176,11011,2020,00153861,BS,재무상태표,dart_CapitalSurplus,기타불입자본,-,제 48 기,-952954394625,제 47 기,93539323093,45,KRW,,,,,연결,제 46 기,40208447810
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금(결손금),-,제 48 기,1549820013352,제 47 기,1006823328765,46,KRW,,,,,연결,제 46 기,919338278951
+20210311001176,11011,2020,00153861,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타자본구성요소,-,제 48 기,25201947862,제 47 기,15333996649,47,KRW,,,,,연결,제 46 기,15346209038
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 48 기,4645311175,제 47 기,416271065159,48,KRW,,,,,연결,제 46 기,467916589799
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 48 기,646813497764,제 47 기,1571446453666,49,KRW,,,,,연결,제 46 기,1482288265598
+20210311001176,11011,2020,00153861,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 48 기,3798270930253,제 47 기,5916135643476,50,KRW,,,,,연결,제 46 기,4958571817459
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_Revenue,수익(매출액),-,제 48 기,2281511661052,제 47 기,2967115888637,0,KRW,,,,,연결,제 46 기,2888269553670
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_CostOfSales,매출원가,-,제 48 기,1860422953162,제 47 기,2521619877248,1,KRW,,,,,연결,제 46 기,2383151608265
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 48 기,421088707890,제 47 기,445496011389,2,KRW,,,,,연결,제 46 기,505117945405
+20210311001176,11011,2020,00153861,IS,손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 48 기,170163248094,제 47 기,169141844838,3,KRW,,,,,연결,제 46 기,139391028615
+20210311001176,11011,2020,00153861,IS,손익계산서,dart_MiscellaneousExpenses,일반판매비와관리비,-,제 48 기,167472372536,제 47 기,155219340143,4,KRW,,,,,연결,제 46 기,129097601863
+20210311001176,11011,2020,00153861,IS,손익계산서,dart_BadDebtExpenses,대손상각비(대손충당금환입),-,제 48 기,2690875558,제 47 기,13922504695,5,KRW,,,,,연결,제 46 기,10293426752
+20210311001176,11011,2020,00153861,IS,손익계산서,dart_OperatingIncomeLoss,영업이익(손실),-,제 48 기,250925459796,제 47 기,276354166551,6,KRW,,,,,연결,제 46 기,365726916790
+20210311001176,11011,2020,00153861,IS,손익계산서,dart_OtherGains,기타영업외수익,-,제 48 기,31457883610,제 47 기,13657877122,7,KRW,,,,,연결,제 46 기,9744462146
+20210311001176,11011,2020,00153861,IS,손익계산서,dart_OtherLosses,기타영업외비용,-,제 48 기,40034061153,제 47 기,126009871787,8,KRW,,,,,연결,제 46 기,82863189461
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_FinanceIncome,금융수익-유효이자율법에 의한 이자수익,-,제 48 기,5454383813,제 47 기,5470791133,9,KRW,,,,,연결,제 46 기,4169259826
+20210311001176,11011,2020,00153861,IS,손익계산서,-표준계정코드 미사용-,금융수익-기타,-,제 48 기,5438466265,제 47 기,2738082589,10,KRW,,,,,연결,제 46 기,3929124335
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_FinanceCosts,금융비용,-,제 48 기,44445940362,제 47 기,28872766467,11,KRW,,,,,연결,제 46 기,25141633818
+20210311001176,11011,2020,00153861,IS,손익계산서,-표준계정코드 미사용-,관계.공동기업투자손익,-,제 48 기,-4351659545,제 47 기,-2230519930,12,KRW,,,,,연결,제 46 기,5531027135
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-,제 48 기,204444532424,제 47 기,141107759211,13,KRW,,,,,연결,제 46 기,281095966953
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,-,제 48 기,44694155009,제 47 기,58160332484,14,KRW,,,,,연결,제 46 기,98724734506
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_ProfitLossFromContinuingOperations,계속영업이익(손실),-,제 48 기,159750377415,제 47 기,82947426727,15,KRW,,,,,연결,제 46 기,182371232447
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업이익(손실),-,제 48 기,372766273695,제 47 기,16556348164,16,KRW,,,,,연결,제 46 기,61768951068
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 48 기,532516651110,제 47 기,99503774891,17,KRW,,,,,연결,제 46 기,244140183515
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업 소유주지분,-,제 48 기,556835635288,제 47 기,90922484253,19,KRW,,,,,연결,제 46 기,189358510831
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,-,제 48 기,-24318984177,제 47 기,8581290638,20,KRW,,,,,연결,제 46 기,54781672684
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,계속영업과중단영업기본주당이익(손실),-,제 48 기,9514,제 47 기,1326,23,KRW,,,,,연결,제 46 기,2770
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,계속영업기본주당이익(손실),-,제 48 기,2784,제 47 기,1046,24,KRW,,,,,연결,제 46 기,2671
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,계속영업과중단영업희석주당이익(손실),-,제 48 기,9514,제 47 기,1326,26,KRW,,,,,연결,제 46 기,2770
+20210311001176,11011,2020,00153861,IS,손익계산서,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,계속영업희석주당이익(손실),-,제 48 기,2784,제 47 기,1046,27,KRW,,,,,연결,제 46 기,2671
+20210311001176,11011,2020,00153861,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 48 기,532516651110,제 47 기,99503774891,0,KRW,,,,,연결,제 46 기,244140183515
+20210311001176,11011,2020,00153861,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 48 기,20506369121,제 47 기,5484267237,1,KRW,,,,,연결,제 46 기,-40628354595
+20210311001176,11011,2020,00153861,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,후속적으로 당기손익으로 재분류될 수 있는 항목,-,제 48 기,2468957243,제 47 기,6451969057,2,KRW,,,,,연결,제 46 기,-255870463
+20210311001176,11011,2020,00153861,CIS,포괄손익계산서,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,-,제 48 기,1216217920,제 47 기,2696146463,3,KRW,,,,,연결,제 46 기,-474411145
+20210311001176,11011,2020,00153861,CIS,포괄손익계산서,ifrs-full_GainsLossesOnChangeInValueOfForeignCurrencyBasisSpreadsNetOfTax,외화환산적립금,-,제 48 기,1252739323,제 47 기,3755822594,4,KRW,,,,,연결,제 46 기,218540682
+20210311001176,11011,2020,00153861,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,후속적으로 당기손익으로 재분류되지 않는 항목,-,제 48 기,18037411878,제 47 기,-967701820,5,KRW,,,,,연결,제 46 기,-40372484132
+20210311001176,11011,2020,00153861,CIS,포괄손익계산서,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,기타포괄손익-공정가치측정금융자산평가손익,-,제 48 기,31170452035,제 47 기,8538935801,6,KRW,,,,,연결,제 46 기,-41523148528
+20210311001176,11011,2020,00153861,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,-,제 48 기,-5058538016,제 47 기,-7007798596,7,KRW,,,,,연결,제 46 기,-8770304338
+20210311001176,11011,2020,00153861,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,지분법이익잉여금변동,-,제 48 기,-1487758733,제 47 기,-2500040784,8,KRW,,,,,연결,제 46 기,-2732950657
+20210311001176,11011,2020,00153861,CIS,포괄손익계산서,-표준계정코드 미사용-,법인세효과,-,제 48 기,-6586743408,제 47 기,1201759,9,KRW,,,,,연결,제 46 기,12653919391
+20210311001176,11011,2020,00153861,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 48 기,553023020231,제 47 기,104988042128,10,KRW,,,,,연결,제 46 기,203511828920
+20210311001176,11011,2020,00153861,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"총 포괄손익, 지배기업의 소유주에게 귀속되는 지분",-,제 48 기,578771024087,제 47 기,96615646858,12,KRW,,,,,연결,제 46 기,150378333201
+20210311001176,11011,2020,00153861,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,"총 포괄손익, 비지배지분",-,제 48 기,-25748003856,제 47 기,8372395270,13,KRW,,,,,연결,제 46 기,53133495719
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 48 기,950765121135,제 47 기,35913747206,0,KRW,,,,,연결,제 46 기,114992213667
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_ProfitLossForStatementOfCashFlows,당기순이익(손실),-,제 48 기,532516651110,제 47 기,99503774891,1,KRW,,,,,연결,제 46 기,244140183515
+20210311001176,11011,2020,00153861,CF,현금흐름표,-표준계정코드 미사용-,수익·비용 조정,-,제 48 기,-107324986348,제 47 기,468393079408,2,KRW,,,,,연결,제 46 기,342564036117
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,운전자본의 변동,-,제 48 기,628912590606,제 47 기,-354919318082,3,KRW,,,,,연결,제 46 기,-369412120059
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세환급(납부)액,-,제 48 기,103339134233,제 47 기,177063789011,4,KRW,,,,,연결,제 46 기,102299885906
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 48 기,-376020655100,제 47 기,-283634758176,5,KRW,,,,,연결,제 46 기,-138556724626
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsInvestingActivities,이자수익의 수취,-,제 48 기,5909074319,제 47 기,10042014797,6,KRW,,,,,연결,제 46 기,8062438946
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsInvestingActivities,배당수익의 수취,-,제 48 기,8361620933,제 47 기,5647726870,7,KRW,,,,,연결,제 46 기,12379198969
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_ProceedsFromSalesOfOtherCurrentFinancialAssets,유동성매출채권및기타채권의 감소,-,제 48 기,118694377794,제 47 기,122914797073,8,KRW,,,,,연결,제 46 기,116599300060
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_ProceedsFromSalesOfCurrentFairValueFinancialAsset,유동당기손익-공정가치측정금융자산의 처분,-,제 48 기,31724687990,제 47 기,6319221033,9,KRW,,,,,연결,제 46 기,12748085569
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_ProceedsFromSalesOfCurrentAvailableForSaleFinancialAssets,유동기타포괄손익-공정가치측정금융자산의 처분,-,제 48 기,3680000,제 47 기,2027205869,10,KRW,,,,,연결,제 46 기,4688811219
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_ProceedsFromSalesOfCurrentFinancialAssetsHeldToMaturity,유동상각후원가측정유가증권의 처분,-,제 48 기,25047664289,제 47 기,95086641455,11,KRW,,,,,연결,제 46 기,82740923449
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_ProceedsFromSalesOfOtherNonCurrentFinancialAssets,비유동매출채권및기타채권의 감소,-,제 48 기,25693856229,제 47 기,17287976717,12,KRW,,,,,연결,제 46 기,10242169019
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_ProceedsFromSalesOfNonCurrentFairValueFinancialAsset,비유동당기손익-공정가치측정금융자산의 처분,-,제 48 기,8300111360,제 47 기,7329938663,13,KRW,,,,,연결,제 46 기,10715369529
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_ProceedsFromSalesOfNonCurrentAvailableForSaleFinancialAssets,비유동기타포괄손익-공정가치측정금융자산의 처분,-,제 48 기,10896280300,제 47 기,30028898256,14,KRW,,,,,연결,제 46 기,69879411318
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_ProceedsFromSalesOfNonCurrentFinancialAssetsHeldToMaturity,비유동상각후원가측정유가증권의 처분,-,제 48 기,24110000,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_OtherCashReceiptsFromSalesOfEquityOrDebtInstrumentsOfOtherEntitiesClassifiedAsInvestingActivities,관계기업투자주식의 처분,-,제 48 기,1000000000,제 47 기,145000000,16,KRW,,,,,연결,제 46 기,283907171
+20210311001176,11011,2020,00153861,CF,현금흐름표,-표준계정코드 미사용-,연결범위변동에 의한 현금유입,-,제 48 기,7224337234,제 47 기,43476650207,17,KRW,,,,,연결,제 46 기,340990343
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 48 기,3298916692,제 47 기,7904477768,18,KRW,,,,,연결,제 46 기,6069223134
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentProperty,투자부동산의 처분,-,제 48 기,96124144,제 47 기,237644430,19,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_ProceedsFromSalesOfOtherFinancialAssets,파생상품의 처분,-,제 48 기,,제 47 기,345324265,20,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 48 기,,제 47 기,266000000,21,KRW,,,,,연결,제 46 기,40900990
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities,기타투자활동으로 인한 현금유입액,-,제 48 기,320182840,제 47 기,,22,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_PurchaseOfOtherCurrentFinancialAssets,유동성매출채권및기타채권의 증가,-,제 48 기,157491416053,제 47 기,132870174392,23,KRW,,,,,연결,제 46 기,160700068398
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_PurchaseOfCurrentFairValueFinancialAsset,유동당기손익-공정가치측정금융자산의 취득,-,제 48 기,33294241500,제 47 기,11857964014,24,KRW,,,,,연결,제 46 기,12215680554
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_PurchaseOfCurrentAvailableForSaleFinancialAssets,유동기타포괄손익-공정가치측정금융자산의 취득,-,제 48 기,686210000,제 47 기,1767935000,25,KRW,,,,,연결,제 46 기,3919835000
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_PurchaseOfCurrentFinancialAssetsHeldToMaturity,유동상각후원가측정유가증권의 취득,-,제 48 기,18997676222,제 47 기,91299630230,26,KRW,,,,,연결,제 46 기,70217543967
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_PurchaseOfOtherNonCurrentFinancialAssets,비유동매출채권및기타채권의 증가,-,제 48 기,86540814407,제 47 기,58466437273,27,KRW,,,,,연결,제 46 기,52478531711
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_PurchaseOfNonCurrentFairValueFinancialAsset,비유동당기손익-공정가치측정금융자산의 취득,-,제 48 기,33427302715,제 47 기,7480240000,28,KRW,,,,,연결,제 46 기,22801209120
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_PurchaseOfNonCurrentAvailableForSaleFinancialAssets,비유동기타포괄손익-공정가치측정금융자산의 취득,-,제 48 기,29999973972,제 47 기,27990000,29,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_PurchaseOfNonCurrentFinancialAssetsHeldToMaturity,비유동상각후원가측정유가증권의 취득,-,제 48 기,,제 47 기,105407000,30,KRW,,,,,연결,제 46 기,1961545000
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_OtherCashPaymentsToAcquireEquityOrDebtInstrumentsOfOtherEntitiesClassifiedAsInvestingActivities,관계기업투자주식의 취득,-,제 48 기,22135010000,제 47 기,9129593600,31,KRW,,,,,연결,제 46 기,700000000
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_CashFlowsUsedInObtainingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,종속기업투자주식의 취득,-,제 48 기,2917487511,제 47 기,92648936200,32,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 48 기,136517276114,제 47 기,79532845225,33,KRW,,,,,연결,제 46 기,40107309422
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 48 기,34828721227,제 47 기,5628736693,34,KRW,,,,,연결,제 46 기,3466288274
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_PurchaseOfInvestmentProperty,투자부동산의 취득,-,제 48 기,64504890661,제 47 기,141479391744,35,KRW,,,,,연결,제 46 기,104779442896
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_PurchaseOfOtherFinancialAssets,파생상품의 취득,-,제 48 기,1199154842,제 47 기,,36,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_PurchaseOfOtherLongtermAssetsClassifiedAsInvestingActivities,기타비유동자산의 취득,-,제 48 기,75504000,제 47 기,,37,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_CashPaymentsForDiscontinuedOperations,분할로 인한 현금유출,-,제 48 기,,제 47 기,398994208,38,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 48 기,-766961511590,제 47 기,422109637871,39,KRW,,,,,연결,제 46 기,-21308788640
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,유동성차입금및사채의 차입,-,제 48 기,1539128436095,제 47 기,1854525532175,40,KRW,,,,,연결,제 46 기,960030793649
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,비유동성차입금및사채의 차입,-,제 48 기,779518730000,제 47 기,790191260934,41,KRW,,,,,연결,제 46 기,871455857348
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,기타유동금융부채의 증가,-,제 48 기,230560600,제 47 기,288963905,42,KRW,,,,,연결,제 46 기,630337582
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_ProceedsFromIssuingOtherEquityInstruments,기타비유동금융부채의 증가,-,제 48 기,972681900,제 47 기,1111760000,43,KRW,,,,,연결,제 46 기,1241117205
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_ProceedsFromChangesInOwnershipInterestsInSubsidiaries,종속기업의 유상증자,-,제 48 기,4865000000,제 47 기,6336615020,44,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_ProceedsFromConsolidatedCapitalTransactions,비지배주주와의 자본거래로 인한 현금유입,-,제 48 기,2450000000,제 47 기,,45,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsFinancingActivities,사업결합,-,제 48 기,,제 47 기,1450003870,46,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsFinancingActivities,이자비용 지급,-,제 48 기,61358574191,제 47 기,70317804620,47,KRW,,,,,연결,제 46 기,74379092721
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금지급,-,제 48 기,36451396153,제 47 기,9211913093,48,KRW,,,,,연결,제 46 기,6747694400
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,유동성차입금및사채의 상환,-,제 48 기,2578633957522,제 47 기,1979040782014,49,KRW,,,,,연결,제 46 기,1237893154424
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,비유동성차입금및사채의 상환,-,제 48 기,33200000000,제 47 기,114917887423,50,KRW,,,,,연결,제 46 기,409244485629
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 감소,-,제 48 기,8425018885,제 47 기,7231515456,51,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_DecreaseInGuaranteeDepositsAsFinancialActivities,기타유동금융부채의 감소,-,제 48 기,2209663760,제 47 기,2943765566,52,KRW,,,,,연결,제 46 기,1321792250
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_PaymentsOfOtherEquityInstruments,기타비유동금융부채의 감소,-,제 48 기,136214999,제 47 기,1232189110,53,KRW,,,,,연결,제 46 기,81300000
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_AcquisitionOfTreasuryShares,자기주식의 취득,-,제 48 기,99573304,제 47 기,,54,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_PaymentForConsolidatedCapitalTransactions,비지배주주와의 자본거래로 인한 현금유출,-,제 48 기,13781120185,제 47 기,46898640751,55,KRW,,,,,연결,제 46 기,124999375000
+20210311001176,11011,2020,00153861,CF,현금흐름표,-표준계정코드 미사용-,주식발행초과금의 감소,-,제 48 기,62772000,제 47 기,,56,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,-표준계정코드 미사용-,인적분할로 인한 현금유출,-,제 48 기,359768629186,제 47 기,,57,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,외화표시 현금 및 현금성자산의 환율변동효과,-,제 48 기,475094069,제 47 기,39012594,58,KRW,,,,,연결,제 46 기,254594393
+20210311001176,11011,2020,00153861,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 48 기,-191741951486,제 47 기,174427639495,59,KRW,,,,,연결,제 46 기,-44618705206
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 48 기,505636585955,제 47 기,331208946460,60,KRW,,,,,연결,제 46 기,375827651666
+20210311001176,11011,2020,00153861,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 48 기,313894634469,제 47 기,505636585955,61,KRW,,,,,연결,제 46 기,331208946460
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 48 기,93539323093,제 47 기,40208447810,1,KRW,,,,,연결,제 46 기,112261289483
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 48 기,1006823328765,제 47 기,919338278951,1,KRW,,,,,연결,제 46 기,730501804859
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|지분법자본변동,제 48 기,16601594339,제 47 기,14922915529,1,KRW,,,,,연결,제 46 기,15213329659
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|외화환산적립금,제 48 기,1860136102,제 47 기,-1655438749,1,KRW,,,,,연결,제 46 기,-1625592985
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|매도가능금융자산평가손익,제 48 기,,제 47 기,,1,KRW,,,,,연결,제 46 기,61112271201
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|기타포괄손익-공정가치측정 금융자산평가손익,제 48 기,-3127733792,제 47 기,2078732258,1,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 48 기,15333996649,제 47 기,15346209038,1,KRW,,,,,연결,제 46 기,74700007875
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 48 기,1571446453666,제 47 기,1482288265598,1,KRW,,,,,연결,제 46 기,1435399027549
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|비지배지분 [member],제 48 기,416271065159,제 47 기,467916589799,1,KRW,,,,,연결,제 46 기,478457185332
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 48 기,1155175388507,제 47 기,1014371675799,1,KRW,,,,,연결,제 46 기,956941842217
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 48 기,39478740000,제 47 기,39478740000,1,KRW,,,,,연결,제 46 기,39478740000
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 48 기,23795446387,제 47 기,-29535428896,1,KRW,,,,,연결,제 46 기,42517412777
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 48 기,-31457324447,제 47 기,-31457324447,1,KRW,,,,,연결,제 46 기,-31457324447
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 48 기,23323477696,제 47 기,23323477696,1,KRW,,,,,연결,제 46 기,23323477696
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 48 기,77877723457,제 47 기,77877723457,1,KRW,,,,,연결,제 46 기,77877723457
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책의 변경효과,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 48 기,,제 47 기,,2,KRW,,,,,연결,제 46 기,-11522653420
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책의 변경효과,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|매도가능금융자산평가손익,제 48 기,,제 47 기,,2,KRW,,,,,연결,제 46 기,-61112271201
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책의 변경효과,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|기타포괄손익-공정가치측정 금융자산평가손익,제 48 기,,제 47 기,,2,KRW,,,,,연결,제 46 기,58127427275
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책의 변경효과,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 48 기,,제 47 기,,2,KRW,,,,,연결,제 46 기,-2984843926
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책의 변경효과,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 48 기,,제 47 기,,2,KRW,,,,,연결,제 46 기,-14507497346
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책의 변경효과,자본 [member]|비지배지분 [member],제 48 기,,제 47 기,,2,KRW,,,,,연결,제 46 기,-10385901750
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책의 변경효과,연결재무제표 [member],제 48 기,,제 47 기,,2,KRW,,,,,연결,제 46 기,-24893399096
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_StockDividends,연차배당(지배기업),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 48 기,-10638409400,제 47 기,-8867472400,3,KRW,,,,,연결,제 46 기,-6388160600
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_StockDividends,연차배당(지배기업),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 48 기,-10638409400,제 47 기,-8867472400,3,KRW,,,,,연결,제 46 기,-6388160600
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_StockDividends,연차배당(지배기업),연결재무제표 [member],제 48 기,-10638409400,제 47 기,-8867472400,3,KRW,,,,,연결,제 46 기,-6388160600
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),연결재무제표 [member],제 48 기,532516651110,제 47 기,99503774891,4,KRW,,,,,연결,제 46 기,244140183515
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|비지배지분 [member],제 48 기,-24318984177,제 47 기,8581290638,4,KRW,,,,,연결,제 46 기,54781672684
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 48 기,556835635288,제 47 기,90922484253,4,KRW,,,,,연결,제 46 기,189358510831
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 48 기,556835635288,제 47 기,90922484253,4,KRW,,,,,연결,제 46 기,189358510831
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ReclassificationAdjustments,기타포괄손익 공정가치측정 금융자산 평가,연결재무제표 [member],제 48 기,23627202643,제 47 기,6472513337,5,KRW,,,,,연결,제 46 기,-31587814780
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ReclassificationAdjustments,기타포괄손익 공정가치측정 금융자산 평가,자본 [member]|비지배지분 [member],제 48 기,,제 47 기,,5,KRW,,,,,연결,제 46 기,-462182364
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ReclassificationAdjustments,기타포괄손익 공정가치측정 금융자산 평가,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 48 기,23627202643,제 47 기,6472513337,5,KRW,,,,,연결,제 46 기,-31125632416
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ReclassificationAdjustments,기타포괄손익 공정가치측정 금융자산 평가,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 48 기,23627202643,제 47 기,6472513337,5,KRW,,,,,연결,제 46 기,-31125632416
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ReclassificationAdjustments,기타포괄손익 공정가치측정 금융자산 평가,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|기타포괄손익-공정가치측정 금융자산평가손익,제 48 기,23627202643,제 47 기,6472513337,5,KRW,,,,,연결,제 46 기,-31125632416
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익 공정가치측정 금융자산 처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 48 기,-882408039,제 47 기,-11661740101,6,KRW,,,,,연결,제 46 기,-24923062601
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익 공정가치측정 금융자산 처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|기타포괄손익-공정가치측정 금융자산평가손익,제 48 기,-882408039,제 47 기,-11661740101,6,KRW,,,,,연결,제 46 기,-24923062601
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익 공정가치측정 금융자산 처분,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 48 기,882408039,제 47 기,11661740101,6,KRW,,,,,연결,제 46 기,24923062601
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,순확정급여부채의 재측정요소,연결재무제표 [member],제 48 기,-4102032032,제 47 기,-5137126167,7,KRW,,,,,연결,제 46 기,-6710698678
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,순확정급여부채의 재측정요소,자본 [member]|비지배지분 [member],제 48 기,-1555957107,제 47 기,-571256916,7,KRW,,,,,연결,제 46 기,-411381304
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,순확정급여부채의 재측정요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 48 기,-2546074925,제 47 기,-4565869251,7,KRW,,,,,연결,제 46 기,-6299317374
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,순확정급여부채의 재측정요소,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 48 기,-2546074925,제 47 기,-4565869251,7,KRW,,,,,연결,제 46 기,-6299317374
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ChangesInForeignExchangeRates,외화환산적립금,연결재무제표 [member],제 48 기,1252739323,제 47 기,3755822594,8,KRW,,,,,연결,제 46 기,218540682
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ChangesInForeignExchangeRates,외화환산적립금,자본 [member]|비지배지분 [member],제 48 기,243625627,제 47 기,240262834,8,KRW,,,,,연결,제 46 기,248386446
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ChangesInForeignExchangeRates,외화환산적립금,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 48 기,1009113696,제 47 기,3515559760,8,KRW,,,,,연결,제 46 기,-29845764
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ChangesInForeignExchangeRates,외화환산적립금,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 48 기,1009113696,제 47 기,3515559760,8,KRW,,,,,연결,제 46 기,-29845764
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ChangesInForeignExchangeRates,외화환산적립금,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|외화환산적립금,제 48 기,1009113696,제 47 기,3515559760,8,KRW,,,,,연결,제 46 기,-29845764
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,지분법자본변동,연결재무제표 [member],제 48 기,1216217920,제 47 기,2696146463,9,KRW,,,,,연결,제 46 기,-474411145
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,지분법자본변동,자본 [member]|비지배지분 [member],제 48 기,-21727611,제 47 기,1046613313,9,KRW,,,,,연결,제 46 기,-183997015
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 48 기,1237945531,제 47 기,1649533150,9,KRW,,,,,연결,제 46 기,-290414130
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 48 기,1237945531,제 47 기,1649533150,9,KRW,,,,,연결,제 46 기,-290414130
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesFromInvestmentsInEquityInstruments,지분법자본변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|지분법자본변동,제 48 기,1237945531,제 47 기,1649533150,9,KRW,,,,,연결,제 46 기,-290414130
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_DividendsPaid,배당금의 지급,연결재무제표 [member],제 48 기,12099718500,제 47 기,300000000,10,KRW,,,,,연결,제 46 기,360000000
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_DividendsPaid,배당금의 지급,자본 [member]|비지배지분 [member],제 48 기,12099718500,제 47 기,300000000,10,KRW,,,,,연결,제 46 기,360000000
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_AppropriationTransferReservationOfRetainedEarnings,지분법이익잉여금의 변동,연결재무제표 [member],제 48 기,-1487758733,제 47 기,-2303088989,11,KRW,,,,,연결,제 46 기,-2073970674
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_AppropriationTransferReservationOfRetainedEarnings,지분법이익잉여금의 변동,자본 [member]|비지배지분 [member],제 48 기,-94960588,제 47 기,-924514599,11,KRW,,,,,연결,제 46 기,-839002728
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_AppropriationTransferReservationOfRetainedEarnings,지분법이익잉여금의 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 48 기,-1392798145,제 47 기,-1378574390,11,KRW,,,,,연결,제 46 기,-1234967946
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_AppropriationTransferReservationOfRetainedEarnings,지분법이익잉여금의 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 48 기,-1392798145,제 47 기,-1378574390,11,KRW,,,,,연결,제 46 기,-1234967946
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_OtherTransactions,기타,연결재무제표 [member],제 48 기,,제 47 기,,12,KRW,,,,,연결,제 46 기,-124999375000
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_OtherTransactions,기타,자본 [member]|비지배지분 [member],제 48 기,,제 47 기,,12,KRW,,,,,연결,제 46 기,-52979409572
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_OtherTransactions,기타,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 48 기,,제 47 기,,12,KRW,,,,,연결,제 46 기,-72019965428
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_OtherTransactions,기타,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 48 기,,제 47 기,,12,KRW,,,,,연결,제 46 기,-72019965428
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_OtherTransactions,기타,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 48 기,,제 47 기,,12,KRW,,,,,연결,제 46 기,-72019965428
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 사업결합,연결재무제표 [member],제 48 기,2863538762,제 47 기,108712112848,13,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 사업결합,자본 [member]|비지배지분 [member],제 48 기,5207425719,제 47 기,69428067035,13,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 사업결합,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 48 기,-2343886957,제 47 기,39284045813,13,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 사업결합,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 48 기,-2343886957,제 47 기,39284045813,13,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 사업결합,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 48 기,-2343886957,제 47 기,39284045813,13,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,종속기업의 처분,연결재무제표 [member],제 48 기,,제 47 기,-56264701259,14,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_PurchaseDispostionOfAssociatesOrJointVenture,종속기업의 처분,자본 [member]|비지배지분 [member],제 48 기,,제 47 기,-56264701259,14,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_SpinoffOrDropdown,인적분할로 인한 변동,연결재무제표 [member],제 48 기,-1440943943203,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_SpinoffOrDropdown,인적분할로 인한 변동,자본 [member]|비지배지분 [member],제 48 기,-347301955319,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_SpinoffOrDropdown,인적분할로 인한 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 48 기,-1093641987884,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_SpinoffOrDropdown,인적분할로 인한 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 48 기,-1058977492912,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_SpinoffOrDropdown,인적분할로 인한 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|감자차손,제 48 기,-1053257081195,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_SpinoffOrDropdown,인적분할로 인한 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 48 기,32605403207,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_SpinoffOrDropdown,인적분할로 인한 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 48 기,31357751143,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_SpinoffOrDropdown,인적분할로 인한 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 48 기,-31457324447,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_SpinoffOrDropdown,인적분할로 인한 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 48 기,-38226241620,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_SpinoffOrDropdown,인적분할로 인한 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 48 기,-15142298702,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_SpinoffOrDropdown,인적분할로 인한 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|기타포괄손익-공정가치측정 금융자산평가손익,제 48 기,2448466974,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_SpinoffOrDropdown,인적분할로 인한 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|외화환산적립금,제 48 기,-727481738,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_SpinoffOrDropdown,인적분할로 인한 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|지분법자본변동,제 48 기,-16863283938,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_SpinoffOrDropdown,인적분할로 인한 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 48 기,-144076270,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,dart_SpinoffOrDropdown,인적분할로 인한 변동,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 48 기,-19378120000,제 47 기,,15,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타,연결재무제표 [member],제 48 기,-16837443793,제 47 기,-59109793250,16,KRW,,,,,연결,제 46 기,18343825
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타,자본 [member]|비지배지분 [member],제 48 기,-31683502028,제 47 기,-72881285686,16,KRW,,,,,연결,제 46 기,51220070
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 48 기,14846058235,제 47 기,13771492436,16,KRW,,,,,연결,제 46 기,-32876245
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 48 기,14827662151,제 47 기,14046829470,16,KRW,,,,,연결,제 46 기,-32876245
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 48 기,14827662151,제 47 기,14046829470,16,KRW,,,,,연결,제 46 기,-32876245
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 48 기,18396084,제 47 기,11921465,16,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|기타포괄손익-공정가치측정 금융자산평가손익,제 48 기,-14555535,제 47 기,-17239286,16,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|외화환산적립금,제 48 기,35736601,제 47 기,15091,16,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|지분법자본변동,제 48 기,-2784982,제 47 기,29145660,16,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 48 기,,제 47 기,-287258499,16,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_Equity,기말자본,연결재무제표 [member],제 48 기,646813497764,제 47 기,1571446453666,17,KRW,,,,,연결,제 46 기,1482288265598
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|비지배지분 [member],제 48 기,4645311175,제 47 기,416271065159,17,KRW,,,,,연결,제 46 기,467916589799
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member],제 48 기,642168186589,제 47 기,1155175388507,17,KRW,,,,,연결,제 46 기,1014371675799
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본,제 48 기,-952954394625,제 47 기,93539323093,17,KRW,,,,,연결,제 46 기,40208447810
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|감자차손,제 48 기,-1053257081195,제 47 기,,17,KRW,,,,,연결,제 46 기,
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|기타자본잉여금,제 48 기,68884624788,제 47 기,23795446387,17,KRW,,,,,연결,제 46 기,-29535428896
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식,제 48 기,-99573304,제 47 기,-31457324447,17,KRW,,,,,연결,제 46 기,-31457324447
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|자기주식처분이익,제 48 기,-8133846751,제 47 기,23323477696,17,KRW,,,,,연결,제 46 기,23323477696
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타불입자본|주식발행초과금,제 48 기,39651481837,제 47 기,77877723457,17,KRW,,,,,연결,제 46 기,77877723457
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member],제 48 기,25201947862,제 47 기,15333996649,17,KRW,,,,,연결,제 46 기,15346209038
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|기타포괄손익-공정가치측정 금융자산평가손익,제 48 기,22050972251,제 47 기,-3127733792,17,KRW,,,,,연결,제 46 기,2078732258
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|외화환산적립금,제 48 기,2177504661,제 47 기,1860136102,17,KRW,,,,,연결,제 46 기,-1655438749
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|기타자본구성요소 [member]|지분법자본변동,제 48 기,973470950,제 47 기,16601594339,17,KRW,,,,,연결,제 46 기,14922915529
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|이익잉여금 [member],제 48 기,1549820013352,제 47 기,1006823328765,17,KRW,,,,,연결,제 46 기,919338278951
+20210311001176,11011,2020,00153861,SCE,자본변동표,ifrs-full_Equity,기말자본,자본 [member]|지배기업의 소유주에게 귀속되는 자본 [member]|자본금 [member],제 48 기,20100620000,제 47 기,39478740000,17,KRW,,,,,연결,제 46 기,39478740000

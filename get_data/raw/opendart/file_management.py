@@ -51,45 +51,42 @@ def save_sub_reports(stock_code, target_business_year):
         # 저장 경로 부모 디렉토리의 절대 경로 생성
         store_path_parent = os.path.join(current_dir, f'../../../store_data/raw/opendart/store_reports/{stock_code}')
         
-        # 연도별 하위 폴더 확인 (1월부터 12월까지)
-        folder_exists = False
-        for month in range(1, 13):
+        # 연도별 하위 폴더 확인 (3, 6, 9, 12월만)
+        for month in [3, 6, 9, 12]:
             month_str = f'{target_business_year}.{str(month).zfill(2)}'  # YYYY.MM 형식
             month_folder_path = os.path.join(store_path_parent, month_str)
 
-            if os.path.exists(month_folder_path):
-                folder_exists = True
-                print(f'{month_folder_path} 폴더가 존재합니다. 보고서 저장을 건너뜁니다.')
-                break  # 하나라도 폴더가 존재하면 더 이상 확인할 필요 없음
+            # 해당 월의 폴더가 없으면 그 월의 보고서를 다운로드
+            if not os.path.exists(month_folder_path):
+                print(f'{month_folder_path} 폴더가 존재하지 않습니다. 해당 월의 보고서를 다운로드합니다.')
+                
+                # get_sub_report를 호출하여 보고서 다운로드
+                sub_report_dict = get_sub_report(stock_code, target_business_year)
+                sub_report_dict_keys_list = list(sub_report_dict.keys())
 
-        # 하위 폴더가 하나도 없으면 보고서 다운로드
-        if not folder_exists:
-            print(f'{store_path_parent}/{target_business_year}에 해당하는 폴더가 없습니다. 보고서를 다운로드합니다.')
-            
-            # get_sub_report를 호출하여 보고서 다운로드
-            sub_report_dict = get_sub_report(stock_code, target_business_year)
-            sub_report_dict_keys_list = list(sub_report_dict.keys())
+                for report_title in sub_report_dict_keys_list:
+                    report_date = report_title.split(' ')[1][1:-1]
+                    
+                    # 보고서 날짜가 해당 월인 경우에만 저장
+                    if report_date.startswith(f'{target_business_year}.{str(month).zfill(2)}'):
+                        store_path = os.path.join(store_path_parent, f'{report_date}', f'{stock_code}_{report_title}.csv')
 
-            for report_title in sub_report_dict_keys_list:
-                report_date = report_title.split(' ')[1][1:-1]
-                store_path = os.path.join(store_path_parent, f'{report_date}', f'{stock_code}_{report_title}.csv')
-
-                # 파일이 존재하는지 확인
-                if not os.path.exists(store_path):
-                    os.makedirs(os.path.dirname(store_path), exist_ok=True)
-                    temp_df = pd.DataFrame(
-                        {'text': [sub_report_dict[report_title]]},
-                        index=[report_title]
-                    )
-                    temp_df.to_csv(store_path, index=False)
-                    print(f'{store_path} 저장에 성공했습니다.')
-                else:
-                    print(f'{store_path} 파일이 이미 존재합니다. 저장을 건너뜁니다.')
-        else:
-            print(f'{store_path_parent} 경로에 이미 저장된 보고서 폴더가 있습니다. 저장을 건너뜁니다.')
+                        # 파일이 존재하는지 확인
+                        if not os.path.exists(store_path):
+                            os.makedirs(os.path.dirname(store_path), exist_ok=True)
+                            temp_df = pd.DataFrame(
+                                {'text': [sub_report_dict[report_title]]},
+                                index=[report_title]
+                            )
+                            temp_df.to_csv(store_path, index=False)
+                            print(f'{store_path} 저장에 성공했습니다.')
+                        else:
+                            print(f'{store_path} 파일이 이미 존재합니다. 저장을 건너뜁니다.')
+            else:
+                print(f'{month_folder_path} 폴더가 이미 존재합니다. 보고서 저장을 건너뜁니다.')
 
     except Exception as e:
-        print(f'보고서 저장에 실패했습니다: {str(e)}')
+        print(f'에러가 발생했습니다: {e}')
 
 def save_financial_statement(stock_code, target_business_year):
     '''

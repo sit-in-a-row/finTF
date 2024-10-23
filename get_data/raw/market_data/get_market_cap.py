@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 from pykrx import stock
+import time
 
 def get_market_cap(year):
     '''
@@ -36,6 +37,7 @@ def get_market_cap(year):
 
         for i in range(len(tickers)):
             print(quarter, i+1, '/', len(tickers))
+            time.sleep(0.5)
 
             ticker = tickers[i]
             df = stock.get_market_cap(start_date, end_date, ticker)
