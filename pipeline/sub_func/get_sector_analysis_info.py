@@ -2,6 +2,13 @@ import os
 import json
 from .utils import get_model_summary_dict, load_json
 
+quarter_map = {
+    'Q1': ['Q1', '01', '02', '03'],
+    'Q2': ['Q2', '04', '05', '06'],
+    'Q3': ['Q3', '07', '08', '09'],
+    'Q4': ['Q4', '10', '11', '12']
+}
+
 def sector_analysis_info(sector, year, quarter):
     '''
     산업군, 연도, 분기를 입력하면 해당하는 Carhart 4 factor 분석 정보를 반환

@@ -32,31 +32,43 @@ def get_raw_fin_statement_info(ticker:str, year:str, quarter:str) -> pd.DataFram
 
         month_date = ''
 
+        # 월별 재무제표 경로 탐색
         for path in path_to_verify:
             target_path_to_verify = os.path.join(fin_statement_path, path, f'{path}_{ticker}_재무제표 ({path}).csv')
-            df = pd.read_csv(target_path_to_verify)
-            verify_row = df.iloc[0]
-            reprt_code = verify_row['reprt_code']
-            bsns_year = verify_row['bsns_year']
             
-            if quarter == 'Q1' or str(quarter) in quarter_map['Q1']:
-                if str(bsns_year) == str(year) and str(reprt_code) == str('11013'):
-                    month_date = path
-                
-            elif quarter == 'Q2' or str(quarter) in quarter_map['Q2']:
-                if str(bsns_year) == str(year) and str(reprt_code) == str('11012'):
-                    month_date = path
+            try:
+                df = pd.read_csv(target_path_to_verify)
+                verify_row = df.iloc[0]
+                reprt_code = verify_row['reprt_code']
+                bsns_year = verify_row['bsns_year']
 
-            elif quarter == 'Q3' or str(quarter) in quarter_map['Q3']:
-                if str(bsns_year) == str(year) and str(reprt_code) == str('11014'):
-                    month_date = path
+                # print(f"Checking file: {target_path_to_verify} | reprt_code: {reprt_code}, bsns_year: {bsns_year}")
 
-            elif quarter == 'Q4' or str(quarter) in quarter_map['Q4']:
-                if str(bsns_year) == str(year) and str(reprt_code) == str('11011'):
-                    month_date = path
+                # 각 분기에 대한 조건 확인 및 month_date 값 저장
+                if quarter == 'Q1' or str(quarter) in quarter_map['Q1']:
+                    if str(bsns_year) == str(year) and str(reprt_code) == '11013':
+                        month_date = path
 
-            else:
-                print(f'유효하지 않은 quarter입니다. | quarter: {quarter}')
+                elif quarter == 'Q2' or str(quarter) in quarter_map['Q2']:
+                    if str(bsns_year) == str(year) and str(reprt_code) == '11012':
+                        month_date = path
+
+                elif quarter == 'Q3' or str(quarter) in quarter_map['Q3']:
+                    if str(bsns_year) == str(year) and str(reprt_code) == '11014':
+                        month_date = path
+
+                elif quarter == 'Q4' or str(quarter) in quarter_map['Q4']:
+                    if str(bsns_year) == str(year) and str(reprt_code) == '11011':
+                        month_date = path
+
+                # if month_date:
+                #     print(f"Selected month_date final!: {month_date}")
+                # else:
+                #     print(f"No matching report for path: {path}")
+
+            except FileNotFoundError as e:
+                print(f"File not found: {target_path_to_verify} | Error: {e}")
+
 
         final_path = os.path.join(fin_statement_path, month_date, f'{month_date}_{ticker}_재무제표 ({month_date}).csv')
         statement_df = pd.read_csv(final_path)
@@ -172,15 +184,15 @@ def extract_shares_outstanding(ticker: str, year: str, quarter: str) -> int:
     if quarter in quarter_map['Q1']:
         quarter = '03'
     elif quarter in quarter_map['Q2']:
-        quarter == '06'
+        quarter = '06'
     elif quarter in quarter_map['Q3']:
-        quarter == '09'
+        quarter = '09'
     elif quarter in quarter_map['Q4']:
-        quarter == '12'
+        quarter = '12'
     else:
         print(f'유효하지 않은 quarter입니다. | {quarter}')
         return None
-
+    
     # 금융 보고서 경로 리스트 가져오기 함수
     def get_financial_reports_path_list(ticker: str, year: str, quarter: str) -> list:
         report_path = os.path.join(fin_report_path, ticker, f'{year}.{quarter}')
@@ -267,10 +279,13 @@ def fin_statement_info(ticker:str, year:str, quarter:str) -> pd.DataFrame:
     # 이전 년도 재무 데이터를 읽고 비어 있는지 확인
     try:
         prev_year = str(int(year)-1)
-        previous_financial_data = get_raw_fin_statement_info(ticker, prev_year, quarter)
-        if previous_financial_data.empty:
-            print(f"{ticker}의 이전 년도 재무 데이터가 비어 있습니다.")
-            return None
+        try:
+            previous_financial_data = get_raw_fin_statement_info(ticker, prev_year, quarter)
+            if previous_financial_data.empty:
+                print(f"{ticker}의 이전 년도 재무 데이터가 비어 있습니다.")
+                return None
+        except:
+            print(f'{ticker}의 이전 년도 재무 데이터를 불러올 수 없습니다.')
     except pd.errors.EmptyDataError:
         print(f"{ticker}의 이전 년도 재무 데이터 파일이 비어 있습니다.")
         return None
@@ -279,13 +294,17 @@ def fin_statement_info(ticker:str, year:str, quarter:str) -> pd.DataFrame:
         return None
 
     # 이전 년도 순이익 데이터 확인
-    previous_net_income = previous_financial_data.loc[previous_financial_data['account_id'] == 'ifrs-full_ProfitLoss', 'thstrm_amount']
-    if previous_net_income.empty:
-        # 국제회계기준 적용하여 ifrs-full_ProfitLoss 컬럼으로 변경되기 이전인 경우를 체크
-        previous_net_income = previous_financial_data.loc[previous_financial_data['account_id'] == 'ifrs_ProfitLoss', 'thstrm_amount']
+    try:
+        previous_net_income = previous_financial_data.loc[previous_financial_data['account_id'] == 'ifrs-full_ProfitLoss', 'thstrm_amount']
         if previous_net_income.empty:
-            print(f"{ticker}의 이전 년도 순이익 데이터를 찾을 수 없습니다.")
-            return None
+            # 국제회계기준 적용하여 ifrs-full_ProfitLoss 컬럼으로 변경되기 이전인 경우를 체크
+            previous_net_income = previous_financial_data.loc[previous_financial_data['account_id'] == 'ifrs_ProfitLoss', 'thstrm_amount']
+            if previous_net_income.empty:
+                print(f"{ticker}의 이전 년도 순이익 데이터를 찾을 수 없습니다.")
+                return None
+    except Exception as e:
+        print(f'{ticker}의 fin_statement_info 정보를 확인할 수 없습니다.')
+        return None
     
     previous_net_income = previous_net_income.values[0]
 
