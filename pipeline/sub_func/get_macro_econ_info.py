@@ -30,12 +30,12 @@ def macro_econ_info(year:str, start_date:str, end_date:str) -> dict:
 
     df_dict = {}
 
-    country_list = os.listdir(path)
+    country_list = [item for item in os.listdir(path) if item != '.DS_Store']
 
     for country in country_list:
         df_dict[country] = {}
         sub_path = os.path.join(path, country)
-        econ_items_list = os.listdir(sub_path)
+        econ_items_list = [econ_item for econ_item in os.listdir(sub_path) if econ_item != '.DS_Store']
         for econ_items in econ_items_list:
             csv_path = os.path.join(sub_path, econ_items, year, f'{year}_{econ_items}.csv')
             df = pd.read_csv(csv_path)

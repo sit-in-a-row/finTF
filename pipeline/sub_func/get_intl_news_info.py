@@ -34,7 +34,7 @@ def intl_news_info(year:str, start_date:str, end_date:str) -> pd.DataFrame:
         target_news_path = os.path.join(intl_news_path, item, year)
 
         # 월별 폴더 가져오기
-        month_list = os.listdir(target_news_path)
+        month_list = [month for month in os.listdir(target_news_path) if month != '.DS_Store']
 
         # 각 월별 폴더의 첫 번째 CSV 읽기
         for month in month_list:
