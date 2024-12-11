@@ -29,7 +29,7 @@ def reports_info(ticker:str, year:str, quarter:str) -> pd.DataFrame:
     for path in os.listdir(df_path_list):
         df = pd.read_csv(os.path.join(df_path_list, path))
         df_name = path.split('|')[-1]
-        store_dfs_dict[df_name] = list(df['text'])
+        store_dfs_dict[df_name.strip()] = list(df['text'])
 
     return_df = pd.DataFrame(store_dfs_dict)
 

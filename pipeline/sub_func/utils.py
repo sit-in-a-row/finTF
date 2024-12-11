@@ -5,6 +5,7 @@ import statsmodels.api as sm
 import re
 from pykrx import stock
 import json
+from datetime import datetime
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
@@ -400,3 +401,41 @@ def load_json(path):
     with open(path, 'r', encoding='utf-8') as file:
         data = json.load(file)
     return data
+
+def preprocess_financial_text(text: str) -> dict:
+    """
+    금융 도메인 텍스트 데이터를 전처리하는 함수
+    """
+    # 1. 불필요한 공백 및 특수문자 제거
+    cleaned_text = re.sub(r'\s+', ' ', text)  # 여러 개 공백 제거
+    cleaned_text = re.sub(r'[ㆍ▲▶▣-]', '', cleaned_text)  # 특수문자 제거
+    cleaned_text = cleaned_text.replace('\xa0', ' ')
+    
+    # 2. 키-값 추출 패턴 정의
+    patterns = {
+        'directors': re.findall(r'(이름|직위|보수총액)\s+(.*?)\s', cleaned_text),
+        'board_decisions': re.findall(r'(의안내용|가결여부|찬반여부)\s+(.*?)\s', cleaned_text),
+        'approval_amounts': re.findall(r'(주주총회 승인금액|보수총액|평균보수액)\s+(\d+)', cleaned_text),
+        'dates': re.findall(r'(\d{4}[-\.]\d{1,2}[-\.]\d{1,2})', cleaned_text),
+    }
+    
+    # 3. 날짜 변환
+    parsed_dates = []
+    for date in patterns['dates']:
+        try:
+            parsed_date = datetime.strptime(date.replace('.', '-'), '%Y-%m-%d').date()
+            parsed_dates.append(str(parsed_date))
+        except ValueError:
+            pass
+    patterns['dates'] = parsed_dates
+    
+    # 4. 표 형식 데이터 추출
+    table_sections = re.findall(r'(구 분.*?)\(단위 : 백만원\)(.*?)(?=\n\n|\Z)', cleaned_text, re.DOTALL)
+    tables = {header.strip(): content.strip() for header, content in table_sections}
+    
+    # 5. 결과 반환
+    return {
+        "cleaned_text": cleaned_text,
+        "extracted_data": patterns,
+        "tables": tables,
+    }
