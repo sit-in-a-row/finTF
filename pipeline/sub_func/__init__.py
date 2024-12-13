@@ -8,6 +8,8 @@ from .get_index_price_info import index_price_info
 from .get_pattern_info import pattern_info
 from .get_sector_analysis_info import sector_analysis_info
 
+from .get_index_price_info import get_index_list
+
 from .to_gpt import to_GPT
 
 from .utils import *

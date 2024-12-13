@@ -10,6 +10,12 @@ OHLCV_df_columns = [
     'MA_20', 'RSI_14', 'BBL_20_2.0', 'BBM_20_2.0', 'BBU_20_2.0', 'BBB_20_2.0', 'BBP_20_2.0'
 ]
 
+def get_index_list():
+    """
+    인덱스 종류 반환하는 함수
+    """
+    return available_sector_list
+
 def index_price_info(sector: str, start_date: str, end_date: str) -> pd.DataFrame:
     '''
     인덱스명, 시작일, 종료일을 파라미터로 입력하면
@@ -19,6 +25,7 @@ def index_price_info(sector: str, start_date: str, end_date: str) -> pd.DataFram
 
     다음 컬럼에 해당하는 정보를 반환함.
     '''
+
     if sector in available_sector_list:
         # 경로 설정
         df_path = os.path.join(path, sector)
