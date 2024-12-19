@@ -8,15 +8,22 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 ticker_path = os.path.join(current_dir, '../../../../../store_data/raw/market_data/price')
 index_path = os.path.join(current_dir, '../../../../../store_data/raw/market_data/sector')
 
-def get_carhart_analysis(year:str, markets:list):
+def get_carhart_analysis(year:str, markets:list, target_quarter:str = None):
     '''
     year와 markets를 입력하면 해당 연도와 시장에 대해 분석결과를 ./sector_analysis/index_analysis에 저장
     단, 이때 markets는 list 형태로 전달해야 함
 
     ex. get_carhart_analysis('2019', ['코스피'])
+
+    만약 특정 분기에 한정해서 보고싶다면 quarters에 값 입력
+    ex. get_carhart_analysis('2019', ['코스피'], 'Q1')
     '''
-    tickers = os.listdir(ticker_path) + os.listdir(index_path)
-    quarters = ['Q1', 'Q2', 'Q3', 'Q4']
+    tickers = [t for t in os.listdir(ticker_path) if t != '.DS_Store'] + [i for i in os.listdir(index_path) if i != '.DS_Store']
+
+    if target_quarter:
+        quarters = [target_quarter]
+    else:
+        quarters = ['Q1', 'Q2', 'Q3', 'Q4']
 
     for quarter in quarters:
         # 결과 저장을 위한 경로 생성
@@ -39,6 +46,9 @@ def get_carhart_analysis(year:str, markets:list):
                 try:
                     # Carhart 4 Factor 모델 회귀 분석 수행
                     result = get_carhart_regression(ticker, market, year, quarter)
+                    print('='*50)
+                    print(result)
+                    print('='*50)
                     
                     # 회귀 결과를 문자열로 변환 후 리스트로 저장
                     result_str = str(result.summary()).split('\n')
