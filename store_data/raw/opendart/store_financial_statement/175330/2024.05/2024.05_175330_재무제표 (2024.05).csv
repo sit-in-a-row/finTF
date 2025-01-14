@@ -1,0 +1,251 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분
+20240516002307,11013,2024,00980122,BS,재무상태표,dart_CashAndDuefromBanks,현금및예치금,-,제 12 기 1분기말,1580897000000,제 11 기말,1902775000000,7,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,dart_LeasedAssets,리스자산,-,제 12 기 1분기말,859923000000,제 11 기말,948428000000,8,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,dart_LoansAtAmortisedCost,상각후원가측정대출채권,-,제 12 기 1분기말,50085914000000,제 11 기말,49266405000000,9,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,dart_SecuritiesAtAmortisedCost,상각후원가측정유가증권,-,제 12 기 1분기말,3542313000000,제 11 기말,3525113000000,10,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 12 기 1분기말,64316818000000,제 11 기말,63403970000000,11,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 12 기 1분기말,46619000000,제 11 기말,55184000000,12,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_DerivativeFinancialAssetsHeldForHedging,위험회피목적파생상품자산,-,제 12 기 1분기말,2037000000,제 11 기말,1410000000,13,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산,-,제 12 기 1분기말,3718497000000,제 11 기말,3670873000000,14,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융자산,-,제 12 기 1분기말,2385931000000,제 11 기말,1864678000000,15,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_IntangibleAssetsAndGoodwill,무형자산,-,제 12 기 1분기말,199020000000,제 11 기말,196822000000,16,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 12 기 1분기말,46721000000,제 11 기말,47974000000,17,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates,"종속기업, 공동기업과 관계기업에 대한 투자자산",-,제 12 기 1분기말,173234000000,제 11 기말,160793000000,18,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_OtherNonfinancialAssets,기타자산,-,제 12 기 1분기말,790171000000,제 11 기말,890130000000,19,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 12 기 1분기말,756787000000,제 11 기말,744845000000,20,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_RecognisedAssetsDefinedBenefitPlan,순확정급여자산,-,제 12 기 1분기말,86058000000,제 11 기말,86184000000,21,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_RightofuseAssets,사용권자산,-,제 12 기 1분기말,42696000000,제 11 기말,42356000000,22,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 12 기 1분기말,5159331000000,제 11 기말,5115950000000,25,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배주주지분,-,제 12 기 1분기말,5038217000000,제 11 기말,5002763000000,26,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,dart_CapitalAdjustments,자본조정,-,제 12 기 1분기말,-30251000000,제 11 기말,-46098000000,27,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 12 기 1분기말,704366000000,제 11 기말,704368000000,28,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,dart_HybridBonds,신종자본증권,-,제 12 기 1분기말,405000000000,제 11 기말,405000000000,29,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_AccumulatedOtherComprehensiveIncome,기타포괄손익누계액,-,제 12 기 1분기말,-20813000000,제 11 기말,-28654000000,30,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 12 기 1분기말,984914000000,제 11 기말,984914000000,31,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금,-,제 12 기 1분기말,2995001000000,제 11 기말,2983233000000,32,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 12 기 1분기말,121114000000,제 11 기말,113187000000,33,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 12 기 1분기말,64316818000000,제 11 기말,63403970000000,34,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_BondsIssued,사채,-,제 12 기 1분기말,10574796000000,제 11 기말,10616595000000,36,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_Borrowings,차입부채,-,제 12 기 1분기말,2765389000000,제 11 기말,2747637000000,37,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 12 기 1분기말,127313000000,제 11 기말,88370000000,38,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_DepositsFromCustomers,예수부채,-,제 12 기 1분기말,43895033000000,제 11 기말,42958124000000,39,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_DerivativeFinancialLiabilitiesHeldForHedging,위험회피목적파생상품부채,-,제 12 기 1분기말,1430000000,제 11 기말,2161000000,40,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_FinancialLiabilitiesAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융부채,-,제 12 기 1분기말,1209000000,제 11 기말,18569000000,41,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 12 기 1분기말,59157487000000,제 11 기말,58288020000000,42,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_OtherNonfinancialLiabilities,기타부채,-,제 12 기 1분기말,1733535000000,제 11 기말,1760348000000,43,KRW,,,,,연결
+20240516002307,11013,2024,00980122,BS,재무상태표,ifrs-full_Provisions,충당부채,-,제 12 기 1분기말,58782000000,제 11 기말,96216000000,44,KRW,,,,,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융상품관련손익,-,제 12 기 1분기,4755000000,,,6,KRW,4755000000,제 11 기 1분기,1636000000,1636000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융상품관련손익,-,제 12 기 1분기,26758000000,,,7,KRW,26758000000,제 11 기 1분기,22303000000,22303000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,dart_NetLeaseProfitLoss,순리스손익,-,제 12 기 1분기,12736000000,,,8,KRW,12736000000,제 11 기 1분기,14948000000,14948000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,dart_LeaseExpense,리스비용,-,제 12 기 1분기,62498000000,,,9,KRW,62498000000,제 11 기 1분기,52776000000,52776000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,dart_LeaseIncome,리스수익,-,제 12 기 1분기,75234000000,,,10,KRW,75234000000,제 11 기 1분기,67724000000,67724000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,dart_NonOperatingProfitLoss,영업외손익,-,제 12 기 1분기,3485000000,,,11,KRW,3485000000,제 11 기 1분기,-88000000,-88000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets,신용손실충당금 전입액,-,제 12 기 1분기,105634000000,,,12,KRW,105634000000,제 11 기 1분기,89764000000,89764000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 12 기 1분기,188981000000,,,13,KRW,188981000000,제 11 기 1분기,208453000000,208453000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분에 귀속되는 총포괄손익,-,제 12 기 1분기,7927000000,,,15,KRW,7927000000,제 11 기 1분기,6852000000,6852000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 총포괄손익,-,제 12 기 1분기,181054000000,,,16,KRW,181054000000,제 11 기 1분기,201601000000,201601000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,보통주기본주당이익(손실),-,제 12 기 1분기,879,,,18,KRW,879,제 11 기 1분기,817,817,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,보통주희석주당이익(손실),-,제 12 기 1분기,879,,,19,KRW,879,제 11 기 1분기,817,817,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_FeeAndCommissionIncomeExpense,순수수료손익,-,제 12 기 1분기,27950000000,,,20,KRW,27950000000,제 11 기 1분기,22969000000,22969000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_FeeAndCommissionExpense,수수료비용,-,제 12 기 1분기,26516000000,,,21,KRW,26516000000,제 11 기 1분기,25856000000,25856000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_FeeAndCommissionIncome,수수료수익,-,제 12 기 1분기,54466000000,,,22,KRW,54466000000,제 11 기 1분기,48825000000,48825000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,-,제 12 기 1분기,55407000000,,,23,KRW,55407000000,제 11 기 1분기,55847000000,55847000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_InterestRevenueExpense,순이자손익,-,제 12 기 1분기,496567000000,,,24,KRW,496567000000,제 11 기 1분기,469127000000,469127000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_InterestExpense,이자비용,-,제 12 기 1분기,420228000000,,,25,KRW,420228000000,제 11 기 1분기,337576000000,337576000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_RevenueFromInterest,이자수익,-,제 12 기 1분기,916795000000,,,26,KRW,916795000000,제 11 기 1분기,806703000000,806703000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod,유효이자율적용이자수익,-,제 12 기 1분기,916795000000,,,27,KRW,916795000000,제 11 기 1분기,806703000000,806703000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 12 기 1분기,12940000000,,,28,KRW,12940000000,제 11 기 1분기,41159000000,41159000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,-,제 12 기 1분기,1044000000,,,30,KRW,1044000000,제 11 기 1분기,-2226000000,-2226000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,-,제 12 기 1분기,16924000000,,,31,KRW,16924000000,제 11 기 1분기,10623000000,10623000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산관련손익,-,제 12 기 1분기,477000000,,,32,KRW,477000000,제 11 기 1분기,33016000000,33016000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동 - 후속적으로 재분류 되는 항목,-,제 12 기 1분기,-13000000,,,33,KRW,-13000000,제 11 기 1분기,45000000,45000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치측정지분상품평가손익,-,제 12 기 1분기,-4175000000,,,35,KRW,-4175000000,제 11 기 1분기,914000000,914000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,-,제 12 기 1분기,-1317000000,,,36,KRW,-1317000000,제 11 기 1분기,-1213000000,-1213000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_OtherOperatingIncomeExpense,기타영업손익,-,제 12 기 1분기,-36591000000,,,37,KRW,-36591000000,제 11 기 1분기,-26471000000,-26471000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 12 기 1분기,176041000000,,,38,KRW,176041000000,제 11 기 1분기,167294000000,167294000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분에 귀속되는 당기순이익(손실),-,제 12 기 1분기,2828000000,,,40,KRW,2828000000,제 11 기 1분기,3931000000,3931000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 당기순이익(손실),-,제 12 기 1분기,173213000000,,,41,KRW,173213000000,제 11 기 1분기,163363000000,163363000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세차감전순이익,-,제 12 기 1분기,231448000000,,,42,KRW,231448000000,제 11 기 1분기,223141000000,223141000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_ProfitLossFromOperatingActivities,영업이익(손실),-,제 12 기 1분기,227963000000,,,43,KRW,227963000000,제 11 기 1분기,223229000000,223229000000,연결
+20240516002307,11013,2024,00980122,CIS,포괄손익계산서,ifrs-full_SellingGeneralAndAdministrativeExpense,판매비와관리비,-,제 12 기 1분기,198578000000,,,44,KRW,198578000000,제 11 기 1분기,191519000000,191519000000,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 12 기 1분기,1777596000000,,,2,KRW,,제 11 기 1분기,1859669000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_CashAndCashEquivalents,기말현금및현금성자산,-,제 12 기 1분기,1452102000000,,,7,KRW,,제 11 기 1분기,2295923000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동순현금흐름,-,제 12 기 1분기,-30827000000,,,9,KRW,,제 11 기 1분기,225902000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,dart_CashInflowFromIssuanceOfHybridBond,신종자본증권의 발행,-,제 12 기 1분기,0,,,10,KRW,,제 11 기 1분기,150000000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,dart_DecreaseInOtherLiabilities,기타부채의 감소 - 재무활동,-,제 12 기 1분기,2673000000,,,11,KRW,,제 11 기 1분기,2287000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,dart_DividendsPaidToHybridBond,신종자본증권의 배당,-,제 12 기 1분기,4821000000,,,12,KRW,,제 11 기 1분기,4681000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,dart_IncreaseInOtherLiabilitiesFinancingActivities,기타부채의 증가 - 재무활동,-,제 12 기 1분기,465000000,,,13,KRW,,제 11 기 1분기,515000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_DividendsPaidToNoncontrollingInterestsClassifiedAsFinancingActivities,비지배지분에 지급된 배당금,-,제 12 기 1분기,0,,,14,KRW,,제 11 기 1분기,1300000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 지급,-,제 12 기 1분기,3618000000,,,15,KRW,,제 11 기 1분기,3477000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의 증가,-,제 12 기 1분기,2599787000000,,,16,KRW,,제 11 기 1분기,1102879000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures,"담보·무담보부사채, 어음의 발행",-,제 12 기 1분기,1148715000000,,,17,KRW,,제 11 기 1분기,1049357000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_ProceedsFromSaleOrIssueOfTreasuryShares,자기주식의 소각,-,제 12 기 1분기,-2000000,,,18,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_RepaymentsOfBondsNotesAndDebentures,"담보·무담보부사채, 어음의 상환",-,제 12 기 1분기,1192000000000,,,19,KRW,,제 11 기 1분기,1270000000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 감소,-,제 12 기 1분기,2576680000000,,,20,KRW,,제 11 기 1분기,795104000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동순현금흐름,-,제 12 기 1분기,-103319000000,,,22,KRW,,제 11 기 1분기,-19975000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,dart_ProceedsFromSaleOfInvestmentFinancialInstruments,투자금융상품의처분,-,제 12 기 1분기,1437305000000,,,23,KRW,,제 11 기 1분기,1429955000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,dart_PurchaseOfInvestmentFinancialInstruments,투자금융상품의취득,-,제 12 기 1분기,1502778000000,,,24,KRW,,제 11 기 1분기,1430389000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities,기타의순증감,-,제 12 기 1분기,-204000000,,,25,KRW,,제 11 기 1분기,103000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 12 기 1분기,0,,,26,KRW,,제 11 기 1분기,307000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInterestsInAssociates,관계기업투자자산의 처분,-,제 12 기 1분기,1180000000,,,27,KRW,,제 11 기 1분기,55000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 12 기 1분기,756000000,,,28,KRW,,제 11 기 1분기,37000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 12 기 1분기,7806000000,,,29,KRW,,제 11 기 1분기,11704000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_PurchaseOfInterestsInAssociates,관계기업투자자산의 취득,-,제 12 기 1분기,13220000000,,,30,KRW,,제 11 기 1분기,5557000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_PurchaseOfInvestmentProperty,투자부동산의 취득,-,제 12 기 1분기,107000000,,,31,KRW,,제 11 기 1분기,16000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 12 기 1분기,18445000000,,,32,KRW,,제 11 기 1분기,2766000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동순현금흐름,-,제 12 기 1분기,-215226000000,,,34,KRW,,제 11 기 1분기,209721000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperations,영업에서 창출된 현금흐름,-,제 12 기 1분기,-707152000000,,,35,KRW,,제 11 기 1분기,-338290000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산 부채의 변동,-,제 12 기 1분기,-577312000000,,,36,KRW,,제 11 기 1분기,-225699000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감 합계,-,제 12 기 1분기,-305881000000,,,37,KRW,,제 11 기 1분기,-279885000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 12 기 1분기,176041000000,,,38,KRW,,제 11 기 1분기,167294000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취,-,제 12 기 1분기,6050000000,,,39,KRW,,제 11 기 1분기,1461000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부(환급),-,제 12 기 1분기,8096000000,,,40,KRW,,제 11 기 1분기,5773000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급,-,제 12 기 1분기,409491000000,,,41,KRW,,제 11 기 1분기,261790000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 12 기 1분기,903463000000,,,42,KRW,,제 11 기 1분기,814113000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 12 기 1분기,23878000000,,,44,KRW,,제 11 기 1분기,20606000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 12 기 1분기,-325494000000,,,45,KRW,,제 11 기 1분기,436254000000,,연결
+20240516002307,11013,2024,00980122,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,환율변동효과 반영전 현금및현금성자산의 순증가(감소),-,제 12 기 1분기,-349372000000,,,46,KRW,,제 11 기 1분기,415648000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 12 기 1분기,5115950000000,,,3,KRW,,제 11 기 1분기,4763013000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,113187000000,,,3,KRW,,제 11 기 1분기,185947000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,5002763000000,,,3,KRW,,제 11 기 1분기,4577066000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,-28654000000,,,3,KRW,,제 11 기 1분기,-82768000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,405000000000,,,3,KRW,,제 11 기 1분기,403000000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,2983233000000,,,3,KRW,,제 11 기 1분기,2583338000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,984914000000,,,3,KRW,,제 11 기 1분기,984914000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,704368000000,,,3,KRW,,제 11 기 1분기,704916000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,-46098000000,,,3,KRW,,제 11 기 1분기,-16334000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,연결재무제표 [member],제 12 기 1분기,140777000000,,,6,KRW,,제 11 기 1분기,138956000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,0,,,6,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,140777000000,,,6,KRW,,제 11 기 1분기,138956000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,0,,,6,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,0,,,6,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,140777000000,,,6,KRW,,제 11 기 1분기,138956000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,0,,,6,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,0,,,6,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,0,,,6,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_DividendToHybridBond,신종자본증권배당,연결재무제표 [member],제 12 기 1분기,4821000000,,,7,KRW,,제 11 기 1분기,4681000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_DividendToHybridBond,신종자본증권배당,자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,0,,,7,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_DividendToHybridBond,신종자본증권배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,4821000000,,,7,KRW,,제 11 기 1분기,4681000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_DividendToHybridBond,신종자본증권배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,0,,,7,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_DividendToHybridBond,신종자본증권배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,0,,,7,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_DividendToHybridBond,신종자본증권배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,4821000000,,,7,KRW,,제 11 기 1분기,4681000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_DividendToHybridBond,신종자본증권배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,0,,,7,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_DividendToHybridBond,신종자본증권배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,0,,,7,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_DividendToHybridBond,신종자본증권배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,0,,,7,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식 소각,연결재무제표 [member],제 12 기 1분기,-2000000,,,9,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식 소각,자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,0,,,9,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식 소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,-2000000,,,9,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식 소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,0,,,9,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식 소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,0,,,9,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식 소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,-15712000000,,,9,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식 소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,0,,,9,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식 소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,-2000000,,,9,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식 소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,15712000000,,,9,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_IssueOfHybridBond,신종자본증권발행,연결재무제표 [member],제 12 기 1분기,0,,,10,KRW,,제 11 기 1분기,149487000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_IssueOfHybridBond,신종자본증권발행,자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,0,,,10,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_IssueOfHybridBond,신종자본증권발행,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,0,,,10,KRW,,제 11 기 1분기,149487000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_IssueOfHybridBond,신종자본증권발행,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,0,,,10,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_IssueOfHybridBond,신종자본증권발행,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,0,,,10,KRW,,제 11 기 1분기,150000000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_IssueOfHybridBond,신종자본증권발행,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,0,,,10,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_IssueOfHybridBond,신종자본증권발행,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,0,,,10,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_IssueOfHybridBond,신종자본증권발행,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,0,,,10,KRW,,제 11 기 1분기,-513000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_IssueOfHybridBond,신종자본증권발행,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,0,,,10,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_DividendsRecognisedAsDistributionsToNoncontrollingInterests,비지배지분에 대한 배당금,연결재무제표 [member],제 12 기 1분기,0,,,11,KRW,,제 11 기 1분기,1300000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_DividendsRecognisedAsDistributionsToNoncontrollingInterests,비지배지분에 대한 배당금,자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,0,,,11,KRW,,제 11 기 1분기,1300000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_DividendsRecognisedAsDistributionsToNoncontrollingInterests,비지배지분에 대한 배당금,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,0,,,11,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_DividendsRecognisedAsDistributionsToNoncontrollingInterests,비지배지분에 대한 배당금,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,0,,,11,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_DividendsRecognisedAsDistributionsToNoncontrollingInterests,비지배지분에 대한 배당금,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,0,,,11,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_DividendsRecognisedAsDistributionsToNoncontrollingInterests,비지배지분에 대한 배당금,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,0,,,11,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_DividendsRecognisedAsDistributionsToNoncontrollingInterests,비지배지분에 대한 배당금,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,0,,,11,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_DividendsRecognisedAsDistributionsToNoncontrollingInterests,비지배지분에 대한 배당금,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,0,,,11,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_DividendsRecognisedAsDistributionsToNoncontrollingInterests,비지배지분에 대한 배당금,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,0,,,11,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,연결재무제표 [member],제 12 기 1분기,0,,,13,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,0,,,13,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,0,,,13,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,0,,,13,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,0,,,13,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,-135000000,,,13,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,0,,,13,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,0,,,13,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,135000000,,,13,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,연결재무제표 [member],제 12 기 1분기,477000000,,,17,KRW,,제 11 기 1분기,33016000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,0,,,17,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,477000000,,,17,KRW,,제 11 기 1분기,33016000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,477000000,,,17,KRW,,제 11 기 1분기,33016000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,0,,,17,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,0,,,17,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,0,,,17,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,0,,,17,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,0,,,17,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,연결재무제표 [member],제 12 기 1분기,0,,,18,KRW,,제 11 기 1분기,-29000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,0,,,18,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,0,,,18,KRW,,제 11 기 1분기,-29000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,0,,,18,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,0,,,18,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,0,,,18,KRW,,제 11 기 1분기,-29000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,0,,,18,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,0,,,18,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,0,,,18,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments,기타포괄손익-공정가치측정지분증권평가손익,연결재무제표 [member],제 12 기 1분기,-4175000000,,,20,KRW,,제 11 기 1분기,914000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments,기타포괄손익-공정가치측정지분증권평가손익,자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,0,,,20,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments,기타포괄손익-공정가치측정지분증권평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,-4175000000,,,20,KRW,,제 11 기 1분기,914000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments,기타포괄손익-공정가치측정지분증권평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,-4175000000,,,20,KRW,,제 11 기 1분기,914000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments,기타포괄손익-공정가치측정지분증권평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,0,,,20,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments,기타포괄손익-공정가치측정지분증권평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,0,,,20,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments,기타포괄손익-공정가치측정지분증권평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,0,,,20,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments,기타포괄손익-공정가치측정지분증권평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,0,,,20,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfInvestmentsInEquityInstruments,기타포괄손익-공정가치측정지분증권평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,0,,,20,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,연결재무제표 [member],제 12 기 1분기,1044000000,,,21,KRW,,제 11 기 1분기,-2226000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,0,,,21,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,1044000000,,,21,KRW,,제 11 기 1분기,-2226000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,1044000000,,,21,KRW,,제 11 기 1분기,-2226000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,0,,,21,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,0,,,21,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,0,,,21,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,0,,,21,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,0,,,21,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,연결재무제표 [member],제 12 기 1분기,16924000000,,,22,KRW,,제 11 기 1분기,10623000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,5099000000,,,22,KRW,,제 11 기 1분기,2921000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,11826000000,,,22,KRW,,제 11 기 1분기,7703000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,11825000000,,,22,KRW,,제 11 기 1분기,7703000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,0,,,22,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,0,,,22,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,0,,,22,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,0,,,22,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,0,,,22,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,연결재무제표 [member],제 12 기 1분기,-1317000000,,,23,KRW,,제 11 기 1분기,-1213000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,0,,,23,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,-1317000000,,,23,KRW,,제 11 기 1분기,-1213000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,-1317000000,,,23,KRW,,제 11 기 1분기,-1213000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,0,,,23,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,0,,,23,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,0,,,23,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,0,,,23,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,0,,,23,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,연결재무제표 [member],제 12 기 1분기,-13000000,,,25,KRW,,제 11 기 1분기,45000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,0,,,25,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,-13000000,,,25,KRW,,제 11 기 1분기,45000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,-13000000,,,25,KRW,,제 11 기 1분기,45000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,0,,,25,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,0,,,25,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,0,,,25,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,0,,,25,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,0,,,25,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),연결재무제표 [member],제 12 기 1분기,176041000000,,,26,KRW,,제 11 기 1분기,167294000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,2828000000,,,26,KRW,,제 11 기 1분기,3931000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,173213000000,,,26,KRW,,제 11 기 1분기,163363000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,0,,,26,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,0,,,26,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,173213000000,,,26,KRW,,제 11 기 1분기,163363000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,0,,,26,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,0,,,26,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,0,,,26,KRW,,제 11 기 1분기,0,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 12 기 1분기,5159331000000,,5115950000000,27,KRW,,제 11 기 1분기,4975988000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|비지배지분 [구성요소],제 12 기 1분기,121114000000,,,27,KRW,,제 11 기 1분기,191499000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 12 기 1분기,5038217000000,,,27,KRW,,제 11 기 1분기,4784489000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 12 기 1분기,-20813000000,,,27,KRW,,제 11 기 1분기,-44529000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 12 기 1분기,405000000000,,,27,KRW,,제 11 기 1분기,553000000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 12 기 1분기,2995001000000,,,27,KRW,,제 11 기 1분기,2603035000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 12 기 1분기,984914000000,,,27,KRW,,제 11 기 1분기,984914000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 12 기 1분기,704366000000,,,27,KRW,,제 11 기 1분기,704403000000,,연결
+20240516002307,11013,2024,00980122,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 12 기 1분기,-30251000000,,,27,KRW,,제 11 기 1분기,-16334000000,,연결

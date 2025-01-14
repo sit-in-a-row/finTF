@@ -65,7 +65,7 @@ def update_all_raw_info(start_date:str, end_date:str):
         ### === get_financial_info() 업데이트 ===
         stock_size = len(stock_code_list)
         # stock_code_list
-        for j in range(0, stock_size):
+        for j in range(294, stock_size):
             stock_code = stock_code_list[j];
             print("" + str(j+1) + " / " + str(stock_size));
             print(f'=== {quarter_keys[i]}의 {stock_code}에 대해 정보 수집 시작 ({stock_code_list.index(stock_code) + 1}/{len(stock_code_list)}) ===')
@@ -87,16 +87,16 @@ def update_all_raw_info(start_date:str, end_date:str):
                 print(f'=== {stock_code}에 대한 {target_business_year} 재무 데이터 저장 완료 ===')
                 is_fin_info_updated[stock_code] = True
 
-            # # 인자로 연도를 받고, 한번만 실행해도 모든 연도에 대한 값이 들어오기 때문에 1번만 실행 (플래그를 활용하여 False일 때만 진행)
-            # if is_fin_info_updated == False:
-            #     print(f'=== {stock_code}에 대한 {target_business_year} 재무 데이터 저장 중... ===')
-            #     get_financial_info(stock_code, target_business_year)
-            #     print(f'=== {stock_code}에 대한 {target_business_year} 재무 데이터 저장 완료 ===')
+            # 인자로 연도를 받고, 한번만 실행해도 모든 연도에 대한 값이 들어오기 때문에 1번만 실행 (플래그를 활용하여 False일 때만 진행)
+            if is_fin_info_updated == False:
+                print(f'=== {stock_code}에 대한 {target_business_year} 재무 데이터 저장 중... ===')
+                get_financial_info(stock_code, target_business_year)
+                print(f'=== {stock_code}에 대한 {target_business_year} 재무 데이터 저장 완료 ===')
 
-            #     is_fin_info_updated = True
-            # else:
-            #     print(f'=== 이미 업데이트된 {stock_code}에 대한 {target_business_year} 재무 데이터입니다. ===')
-            #     continue
+                is_fin_info_updated = True
+            else:
+                print(f'=== 이미 업데이트된 {stock_code}에 대한 {target_business_year} 재무 데이터입니다. ===')
+                continue
 
         ### === get_index_csvs() 업데이트 ===
         # 인자로 연도를 받고, 한번만 실행해도 모든 연도에 대한 값이 들어오기 때문에 1번만 실행 (플래그를 활용하여 False일 때만 진행)
@@ -123,18 +123,18 @@ def update_all_raw_info(start_date:str, end_date:str):
             crawl_sedaily_news(search_keyword, target_quarter_start_date, target_quarter_end_date)
             print(f'=== {search_keyword}에 대한 {target_quarter_start_date}에서 {target_quarter_end_date}까지의 뉴스 헤드라인 데이터 저장 완료 ===')
 
-    # ### === crawl_ir_pdfs() 업데이트 ===
-    # # 한 번 실행 시 모든 정보를 다 가져오므로 분기별로 나누어 실행할 필요 없음
-    # print('=== IR 자료 저장 중... ===')
-    # crawl_ir_pdfs()
-    # print('=== IR 자료 저장 완료 ===')
+    ### === crawl_ir_pdfs() 업데이트 ===
+    # 한 번 실행 시 모든 정보를 다 가져오므로 분기별로 나누어 실행할 필요 없음
+    print('=== IR 자료 저장 중... ===')
+    crawl_ir_pdfs()
+    print('=== IR 자료 저장 완료 ===')
 
-    # ### === get_global_info() 업데이트 ===
-    # # start_date와 end_date에 대해 한 번에 받아와도 되는 함수
-    # # FRED api로 가져오기 때문에 정보를 금방 가져오기도 하고, 분기별로 나누어 실행할 필요가 없음
-    # # 국내 주식장이 아니라 해외 경제 지표들에 대한 함수이기 때문
-    # print('=== 글로벌 경제 지표 저장 중... ===')
-    # get_global_info(start_date, end_date)
-    # print('=== 글로벌 경제 지표 저장 완료 ===')
+    ### === get_global_info() 업데이트 ===
+    # start_date와 end_date에 대해 한 번에 받아와도 되는 함수
+    # FRED api로 가져오기 때문에 정보를 금방 가져오기도 하고, 분기별로 나누어 실행할 필요가 없음
+    # 국내 주식장이 아니라 해외 경제 지표들에 대한 함수이기 때문
+    print('=== 글로벌 경제 지표 저장 중... ===')
+    get_global_info(start_date, end_date)
+    print('=== 글로벌 경제 지표 저장 완료 ===')
 
     print(f'{start_date}에서 {end_date}까지의 정보를 모두 업데이트 하였습니다!')

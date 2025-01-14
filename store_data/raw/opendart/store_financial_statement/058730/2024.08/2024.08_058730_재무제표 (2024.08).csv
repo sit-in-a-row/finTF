@@ -1,0 +1,240 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 29 기 반기말,310880192789,제 28 기말,320034640962,7,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 29 기 반기말,193131051585,제 28 기말,201852697062,8,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_CurrentBiologicalAssetsGross,선급금,-,제 29 기 반기말,6288350609,제 28 기말,4723243731,9,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 29 기 반기말,44809687311,제 28 기말,46504589501,10,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 29 기 반기말,24786538870,제 28 기말,30654728344,11,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,매각예정자산,-,제 29 기 반기말,,제 28 기말,146240000,12,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_OtherCurrentAssets,선급비용,-,제 29 기 반기말,500786794,제 28 기말,311588679,13,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_OtherCurrentFinancialAssets,기타유동금융자산,-,제 29 기 반기말,27441431861,제 28 기말,16859247144,14,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_CurrentAvailableForSaleFinancialAssets,단기대여금,-,제 29 기 반기말,17443157760,제 28 기말,7428000000,15,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_CurrentDerivativeAsset,파생금융자산(유동),-,제 29 기 반기말,12055,제 28 기말,80064824,16,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_CurrentFinancialAssetDesignationAsAtFairValueThroughProfitOrLoss,"대손충당금, 단기대여금",-,제 29 기 반기말,-25500000,제 28 기말,-25500000,17,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_CurrentFinancialAssetHeldForTrading,임차보증금(유동),-,제 29 기 반기말,2524721440,제 28 기말,1353026240,18,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_CurrentFinancialAssetsHeldToMaturity,미수수익,-,제 29 기 반기말,513562472,제 28 기말,286561953,19,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_CurrentFinancialAssetsAtAmortisedCost,상각후원가측정금융자산,-,제 29 기 반기말,200000000,제 28 기말,200000000,20,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_CurrentFinancialAssetsAtFairValueThroughProfitOrLossMandatorilyMeasuredAtFairValue,금융리스채권(유동),-,제 29 기 반기말,73219897,제 28 기말,42803435,21,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_CurrentInvestmentsInEquityInstrumentsDesignatedAtFairValueThroughOtherComprehensiveIncome,당기손익공정가치금융자산,-,제 29 기 반기말,6712258237,제 28 기말,7494290692,22,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_TradeAndOtherCurrentReceivables,매출채권 및 기타채권,-,제 29 기 반기말,89304256140,제 28 기말,102653059663,23,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_AllowanceForDoubtfulAcccountShortTermTradeReceivable,"대손충당금, 매출채권",-,제 29 기 반기말,1814238437,제 28 기말,1675018512,24,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_ShortTermOtherReceivables,미수금,-,제 29 기 반기말,404947181,제 28 기말,813504515,25,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_ShortTermTradeReceivable,매출채권,-,제 29 기 반기말,90713547396,제 28 기말,103514573660,26,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 29 기 반기말,117749141204,제 28 기말,118181943900,27,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_LongTermPrepaidExpenses,장기선급비용,-,제 29 기 반기말,109822850,제 28 기말,132385000,28,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_AllowanceForDoubtfulAcccountLongTermTradeReceivablesGross,"대손충당금, 장기매출채권",-,제 29 기 반기말,2337241746,제 28 기말,2355854146,30,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_LongTermTradeReceivablesGross,장기매출채권,-,제 29 기 반기말,2337241746,제 28 기말,2355854146,31,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_NonCurrentFinancialAssetsHeldToMaturity,확정급여자산,-,제 29 기 반기말,,제 28 기말,933143940,32,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 29 기 반기말,4304681420,제 28 기말,4386450715,33,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,-,제 29 기 반기말,5169269991,제 28 기말,5300354051,34,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 29 기 반기말,4395663957,제 28 기말,3734006157,35,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_InvestmentsInAssociates,관계기업투자,-,제 29 기 반기말,2455803739,제 28 기말,2386076995,36,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_OtherNoncurrentFinancialAssets,기타비유동금융자산,-,제 29 기 반기말,24902945112,제 28 기말,24815982813,37,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_NonCurrentFirmCommitmentAsset,보증금,-,제 29 기 반기말,6386883477,제 28 기말,6704645776,38,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_NoncurrentDerivativeFinancialAssets,금융리스채권(비유동),-,제 29 기 반기말,2541090313,제 28 기말,2541090313,39,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsAtAmortisedCost,상각후원가측정금융자산,-,제 29 기 반기말,850000000,제 28 기말,850000000,40,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsAtFairValueThroughProfitOrLossMandatorilyMeasuredAtFairValue,당기손익공정가치금융자산,-,제 29 기 반기말,15124971322,제 28 기말,14720246724,41,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 29 기 반기말,72649018333,제 28 기말,72307919081,42,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_RightofuseAssets,사용권자산,-,제 29 기 반기말,3761935802,제 28 기말,4185625148,43,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 29 기 반기말,150054864911,제 28 기말,154105447193,45,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,-,제 29 기 반기말,145268967550,제 28 기말,150019500205,46,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 29 기 반기말,40418214467,제 28 기말,40413388467,47,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타자본,-,제 29 기 반기말,1070712781,제 28 기말,-1947382479,48,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 29 기 반기말,9998470500,제 28 기말,9998470500,49,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금(결손금),-,제 29 기 반기말,93781569802,제 28 기말,101555023717,50,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 29 기 반기말,4785897361,제 28 기말,4085946988,51,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 29 기 반기말,310880192789,제 28 기말,320034640962,52,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 29 기 반기말,130217747220,제 28 기말,136257253955,54,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_CurrentDerivativeLiabilities,유동파생상품부채,-,제 29 기 반기말,3683118639,제 28 기말,4186341803,55,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_CurrentPortionOfBonds,유동성사채,-,제 29 기 반기말,,제 28 기말,19919366816,56,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_CurrentPortionOfConvertibleBonds,유동성전환사채,-,제 29 기 반기말,14058356897,제 28 기말,13665239089,57,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_PaymentsOfIncomeTaxesPayable,단기차입금,-,제 29 기 반기말,45378000000,제 28 기말,45544000000,58,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_CurrentLeaseLiabilities,유동 리스부채,-,제 29 기 반기말,317545885,제 28 기말,367242080,59,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_OtherCurrentFinancialLiabilities,기타유동부채,-,제 29 기 반기말,16330913565,제 28 기말,15575492398,60,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_CurrentFinancialLiabilitiesDesignationAsAtFairValueThroughProfitOrLoss,선수금,-,제 29 기 반기말,14137555552,제 28 기말,12358639694,61,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_CurrentFinancialLiabilitiesHeldForTrading,미지급비용,-,제 29 기 반기말,1243545161,제 28 기말,1646733556,62,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_CurrentFinancialLiabilitiesAtAmortisedCost,유동충당부채,-,제 29 기 반기말,18000000,제 28 기말,255000000,63,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_CurrentFinancialLiabilitiesAtFairValueThroughProfitOrLossClassifiedAsHeldForTrading,예수금,-,제 29 기 반기말,426093112,제 28 기말,682943166,64,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_CurrentFinancialLiabilitiesAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition,당기법인세부채,-,제 29 기 반기말,505719740,제 28 기말,632175982,65,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_ShorttermBorrowings,유동성장기차입금,-,제 29 기 반기말,8561981264,제 28 기말,4150091740,66,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayables,매입채무 및 기타채무,-,제 29 기 반기말,41887830970,제 28 기말,32849480029,67,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_ShortTermOtherPayables,미지급금,-,제 29 기 반기말,19366543200,제 28 기말,15846063421,68,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_ShortTermTradePayables,매입채무,-,제 29 기 반기말,22521287770,제 28 기말,17003416608,69,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 29 기 반기말,160825327878,제 28 기말,165929193769,70,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 29 기 반기말,30607580658,제 28 기말,29671939814,71,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_BondsIssuedNominalValue,사채,-,제 29 기 반기말,9854081260,제 28 기말,9795005895,72,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_LongTermBorrowingsGross,장기차입금,-,제 29 기 반기말,14641666670,제 28 기말,14050000000,73,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentPayables,기타비유동채무,-,제 29 기 반기말,1742492990,제 28 기말,1746956291,74,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_LongTermGuaranteeDepositRentGross,장기임대보증금,-,제 29 기 반기말,125000000,제 28 기말,135000000,75,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_LongTermOtherPayablesGross,장기미지급금,-,제 29 기 반기말,35492990,제 28 기말,34956291,76,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_NoncurrentContractLiabilities,기타의충당부채,-,제 29 기 반기말,1582000000,제 28 기말,1577000000,77,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,dart_PresentValueOfDefinedBenefitObligation,확정급여부채,-,제 29 기 반기말,700914120,제 28 기말,,78,KRW,,,,,연결
+20240814002869,11012,2024,00353878,BS,재무상태표,ifrs-full_NoncurrentLeaseLiabilities,비유동 리스부채,-,제 29 기 반기말,3668425618,제 28 기말,4079977628,79,KRW,,,,,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익(손실),-,제 29 기 반기,3602938224,,,6,KRW,358845233,제 28 기 반기,11987246443,15540502119,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,dart_OtherGains,영업외손익,-,제 29 기 반기,-188709054,,,7,KRW,-1619651149,제 28 기 반기,-599147696,-2404779161,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,dart_GainsOnDisposalsOfIntangibleAssets,기타비용,-,제 29 기 반기,-272017508,,,8,KRW,-955900622,제 28 기 반기,-470431375,-1730769186,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,dart_GainsOnValuationOfLongTermFinancialInstruments,금융수익,-,제 29 기 반기,936002756,,,9,KRW,1803661660,제 28 기 반기,1146115027,2309029036,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법평가손익,-,제 29 기 반기,118535479,,,10,KRW,24726744,제 28 기 반기,-96119272,-209154789,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,dart_ReversalsOfPropertyPlantAndEquipment,기타수익,-,제 29 기 반기,599712237,,,11,KRW,1378872083,제 28 기 반기,750018873,1476382226,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_GainsOnDisposalsOfPropertyPlantAndEquipment,금융비용,-,제 29 기 반기,-1570942018,,,12,KRW,-3871011014,제 28 기 반기,-1928730949,-4250266448,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 29 기 반기,6777427515,,,13,KRW,18686756235,제 28 기 반기,7314982147,15479459937,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 29 기 반기,2247744498,,,14,KRW,-2145119542,제 28 기 반기,8437000242,9770957015,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,"포괄손익, 비지배지분",-,제 29 기 반기,579667656,,,16,KRW,757950373,제 28 기 반기,112452438,37479318,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"포괄손익, 지배기업의 소유주에게 귀속되는 지분",-,제 29 기 반기,1668076842,,,17,KRW,-2903069915,제 28 기 반기,8324547804,9733477697,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 29 기 반기,74215348962,,,18,KRW,138207435577,제 28 기 반기,90510045866,174260827575,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),-,제 29 기 반기,139,,,20,KRW,-113,제 28 기 반기,466,541,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,희석주당이익(손실),-,제 29 기 반기,124,,,21,KRW,-113,제 28 기 반기,397,469,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 29 기 반기,10380365739,,,22,KRW,19045601468,제 28 기 반기,19302228590,31019962056,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,-,제 29 기 반기,311783727,,,23,KRW,29612681,제 28 기 반기,2529633176,2943300614,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 29 기 반기,-854700945,,,24,KRW,-854700945,제 28 기 반기,-421465329,-421465329,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는항목(세후기타포괄손익),-,제 29 기 반기,-854700945,,,25,KRW,-854700945,제 28 기 반기,-421465329,-421465329,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정손익(세후기타포괄손익),-,제 29 기 반기,-854700945,,,26,KRW,-854700945,제 28 기 반기,-421465329,-421465329,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 29 기 반기,3102445443,,,27,KRW,-1290418597,제 28 기 반기,8858465571,10192422344,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분에 귀속되는 당기순이익(손실),-,제 29 기 반기,579667656,,,29,KRW,757950373,제 28 기 반기,112452438,37479318,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 당기순이익(손실),-,제 29 기 반기,2522777787,,,30,KRW,-2048368970,제 28 기 반기,8746013133,10154943026,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-,제 29 기 반기,3414229170,,,31,KRW,-1260805916,제 28 기 반기,11388098747,13135722958,연결
+20240814002869,11012,2024,00353878,CIS,포괄손익계산서,ifrs-full_Revenue,매출액,-,제 29 기 반기,84595714701,,,32,KRW,157253037045,제 28 기 반기,109812274456,205280789631,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 29 기 반기,46504589501,,,2,KRW,,제 28 기 반기,53944538972,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 29 기 반기,44809687311,,,3,KRW,,제 28 기 반기,42538329080,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,-표준계정코드 미사용-,영업활동으로 인한 현금흐름,-,제 29 기 반기,26121299260,,,8,KRW,,제 28 기 반기,16086603717,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,-표준계정코드 미사용-,외화표시 현금및현금성자산의 환율변동효과,-,제 29 기 반기,65158728,,,9,KRW,,제 28 기 반기,-60304997,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,-표준계정코드 미사용-,연결실체의 변동,-,제 29 기 반기,177000,,,10,KRW,,제 28 기 반기,12703324,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 29 기 반기,-17518219902,,,11,KRW,,제 28 기 반기,-12282739734,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AcquisitionOfTreasuryShares,자기주식의 취득,-,제 29 기 반기,,,,12,KRW,,제 28 기 반기,743569680,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_DecreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 감소,-,제 29 기 반기,10000000,,,13,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_PaymentForBondIssueExpenses,장기미지급금의 증가,-,제 29 기 반기,,,,14,KRW,,제 28 기 반기,-110012,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 29 기 반기,149038096,,,15,KRW,,제 28 기 반기,147256268,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 증가,-,제 29 기 반기,7500000000,,,16,KRW,,제 28 기 반기,2000000000,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 증가,-,제 29 기 반기,,,,17,KRW,,제 28 기 반기,3434610787,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_RepaymentOfConvertibleBonds,유동성장기차입금의 상환,-,제 29 기 반기,2496443806,,,18,KRW,,제 28 기 반기,3141503798,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_RepaymentsOfBonds,사채의 상환,-,제 29 기 반기,20300000000,,,19,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 상환,-,제 29 기 반기,,,,20,KRW,,제 28 기 반기,2209520000,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 29 기 반기,166000000,,,21,KRW,,제 28 기 반기,11300610787,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금지급,-,제 29 기 반기,1876124000,,,22,KRW,,제 28 기 반기,200000000,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_ProceedsFromIssuingShares,주식의 발행,-,제 29 기 반기,-20614000,,,23,KRW,,제 28 기 반기,25000000,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 29 기 반기,-8326426000,,,24,KRW,,제 28 기 반기,-11923916188,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금의 감소,-,제 29 기 반기,838864684,,,25,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_DecreaseInLoans,단기대여금의 감소,-,제 29 기 반기,310642240,,,26,KRW,,제 28 기 반기,3240000000,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 29 기 반기,1692797585,,,27,KRW,,제 28 기 반기,729908536,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_IncreaseInLoans,단기대여금의 증가,-,제 29 기 반기,4402700000,,,28,KRW,,제 28 기 반기,4040000000,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_ProceedsFromSalesOfCurrentFairValueFinancialAsset,당기손익-공정가치측정금융자산(유동) 처분,-,제 29 기 반기,868736737,,,29,KRW,,제 28 기 반기,1866364753,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_ProceedsFromSalesOfNonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,매각예정자산의 처분,-,제 29 기 반기,147220500,,,30,KRW,,제 28 기 반기,480000000,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_ProceedsFromSalesOfNonCurrentFairValueFinancialAsset,비유동당기손익인식금융자산의 처분,-,제 29 기 반기,,,,31,KRW,,제 28 기 반기,76360239,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_PurchaseOfCurrentFairValueFinancialAsset,당기손익-공정가치측정금융자산(유동) 취득,-,제 29 기 반기,96202132,,,32,KRW,,제 28 기 반기,9587848219,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_PurchaseOfInvestmentsInSubsidiaries,종속기업에 대한 투자자산의 취득,-,제 29 기 반기,1485000000,,,33,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_PurchaseOfInvestmentsInSubsidiariesJointVenturesAndAssociates,관계기업에 대한 투자자산의 취득,-,제 29 기 반기,45000000,,,34,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_PurchaseOfNonCurrentFairValueFinancialAsset,당기손익-공정가치측정금융자산(비유동) 취득,-,제 29 기 반기,873779535,,,35,KRW,,제 28 기 반기,1883577466,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_OtherCashReceiptsFromSalesOfEquityOrDebtInstrumentsOfOtherEntitiesClassifiedAsInvestingActivities,상각후원가측정금융자산(유동) 처분,-,제 29 기 반기,,,,36,KRW,,제 28 기 반기,72570000,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 29 기 반기,90888323,,,37,KRW,,제 28 기 반기,158254980,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 29 기 반기,75000000,,,38,KRW,,제 28 기 반기,69080000,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_PurchaseOfInvestmentProperty,투자부동산의 취득,-,제 29 기 반기,87128370,,,39,KRW,,제 28 기 반기,7008010,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 29 기 반기,1825170862,,,40,KRW,,제 28 기 반기,1500043929,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 29 기 반기,24084407984,,,41,KRW,,제 28 기 반기,12848047703,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산 부채의 변동,-,제 29 기 반기,21546118922,,,42,KRW,,제 28 기 반기,-3625291567,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInWorkoutReceivable,퇴직금의 지급,-,제 29 기 반기,-100443700,,,43,KRW,,제 28 기 반기,-52970500,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInAdvancePayments,선급금의 감소(증가),-,제 29 기 반기,-1674899218,,,44,KRW,,제 28 기 반기,-653697396,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInLongTermOtherReceivables,퇴직연금운용자산의 증가(감소),-,제 29 기 반기,604800,,,45,KRW,,제 28 기 반기,-2503628800,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInLongTermTradeReceivable,장기매출채권의 감소(증가),-,제 29 기 반기,32000000,,,46,KRW,,제 28 기 반기,317500000,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInMerchandise,관계회사 전출입,-,제 29 기 반기,36008000,,,47,KRW,,제 28 기 반기,127140400,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInOtherReceivables,미수금의 감소(증가),-,제 29 기 반기,416643205,,,48,KRW,,제 28 기 반기,1755501102,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAccruedExpenses,미지급비용의 증가(감소),-,제 29 기 반기,523374702,,,49,KRW,,제 28 기 반기,803717947,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAdvancesCustomers,선수금의 증가(감소),-,제 29 기 반기,3405367986,,,50,KRW,,제 28 기 반기,6174581819,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInOtherPayables,미지급금의 증가(감소),-,제 29 기 반기,2770504390,,,51,KRW,,제 28 기 반기,-7461808205,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInPostemploymentBenefitObligations,퇴직급여채무의 증가(감소),-,제 29 기 반기,-4379800,,,52,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInWithholdingsBanks,예수금의 증가(감소),-,제 29 기 반기,-40701518,,,53,KRW,,제 28 기 반기,183613357,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInInventories,재고자산의 감소(증가),-,제 29 기 반기,5869589745,,,54,KRW,,제 28 기 반기,-2545653725,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInPrepaidExpenses,선급비용의 감소 (증가),-,제 29 기 반기,-166226650,,,55,KRW,,제 28 기 반기,-34306330,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAccountReceivable,매출채권의 감소(증가),-,제 29 기 반기,5851833123,,,56,KRW,,제 28 기 반기,2089193311,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAccountPayable,매입채무의 증가(감소),-,제 29 기 반기,4626843857,,,57,KRW,,제 28 기 반기,-1824474547,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,비현금항목의 조정,-,제 29 기 반기,5865598935,,,58,KRW,,제 28 기 반기,9519472940,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비,-,제 29 기 반기,120607525,,,59,KRW,,제 28 기 반기,-381524298,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익,-,제 29 기 반기,3631898,,,60,KRW,,제 28 기 반기,4993000,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익,-,제 29 기 반기,315479988,,,61,KRW,,제 28 기 반기,217168197,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfFinancialAssets,통화스왑평가이익,-,제 29 기 반기,,,,62,KRW,,제 28 기 반기,247338438,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfLongTermInvestments,당기손익측정금융자산처분이익,-,제 29 기 반기,7823575,,,63,KRW,,제 28 기 반기,97888953,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForGainsOnEvaluationOfDerivativeFinancialLiabilities,파생금융부채평가이익,-,제 29 기 반기,475643909,,,64,KRW,,제 28 기 반기,560279705,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForGainsOnEvaluationOfFairValueFinancialAssets,당기손익측정금융자산평가이익,-,제 29 기 반기,255358594,,,65,KRW,,제 28 기 반기,495339967,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForGainsOnRedemptionOfBorrowings,사채상환이익,-,제 29 기 반기,35333123,,,66,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOfIntangibleAssets,무형자산손상차손,-,제 29 기 반기,10864925,,,67,KRW,,제 28 기 반기,28642303,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForInterestExpenses,이자비용,-,제 29 기 반기,3055134348,,,68,KRW,,제 28 기 반기,3280995967,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForLossesFromDiscontinuedOperations,기부금,-,제 29 기 반기,,,,69,KRW,,제 28 기 반기,276599944,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForLossesFromInventoryShrinkage,비금융자산손상차손,-,제 29 기 반기,-9331000,,,70,KRW,,제 28 기 반기,20951000,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForLossesFromRedemptionOfBorrowings,리스부채상환손실,-,제 29 기 반기,1317894,,,71,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForLossesOnAbandonmentOfPropertyPlantAndEquipment,유형자산폐기손실,-,제 29 기 반기,12000,,,72,KRW,,제 28 기 반기,1083000,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForLossesOnAdjustmentOfDebts,리스부채상환이익,-,제 29 기 반기,-944324,,,73,KRW,,제 28 기 반기,-67356471,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsOfBiologicalAssets,배당금 수익,-,제 29 기 반기,-90314947,,,74,KRW,,제 28 기 반기,-69243832,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsOfFinancialAssets,당기손익측정금융자산처분손실,-,제 29 기 반기,,,,75,KRW,,제 28 기 반기,29209100,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsOfInvestmentProperty,투자부동산 감가상각비,-,제 29 기 반기,26231953,,,76,KRW,,제 28 기 반기,19419251,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForLossesOnDispositionOfPropertyPlantAndEquipment,유형자산처분손실,-,제 29 기 반기,3407459,,,77,KRW,,제 28 기 반기,552941671,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForLossesOnEvaluationOfBiologicalAssets,수선비,-,제 29 기 반기,,,,78,KRW,,제 28 기 반기,9564238,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForLossesOnEvaluationOfDerivativeFinancialLiabilities,파생금융부채평가손실,-,제 29 기 반기,80052769,,,79,KRW,,제 28 기 반기,205540919,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForLossesOnEvaluationOfFairValueFinancialAssets,당기손익측정금융자산평가손실,-,제 29 기 반기,734260296,,,80,KRW,,제 28 기 반기,259772348,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForLossesOnForeignExchangeTranslations,외화환산손실,-,제 29 기 반기,361307777,,,81,KRW,,제 28 기 반기,549086569,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForMiscellaneousIncome,잡이익,-,제 29 기 반기,150594550,,,82,KRW,,제 28 기 반기,369748623,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForMiscellaneousLosses,잡손실,-,제 29 기 반기,,,,83,KRW,,제 28 기 반기,171294,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForOtherBadDebtExpenses,기타의 대손상각비,-,제 29 기 반기,,,,84,KRW,,제 28 기 반기,-288779880,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForOtherReversalsOfProvisions,기타충당부채,-,제 29 기 반기,,,,85,KRW,,제 28 기 반기,240993111,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법손익,-,제 29 기 반기,24726744,,,86,KRW,,제 28 기 반기,-209154789,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여,-,제 29 기 반기,621736592,,,87,KRW,,제 28 기 반기,554239134,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForShareBasedPayment,주식보상비용,-,제 29 기 반기,20341231,,,88,KRW,,제 28 기 반기,183081302,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForWarrantyExpenses,하자보수비,-,제 29 기 반기,-232000000,,,89,KRW,,제 28 기 반기,107000000,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,dart_AdjustmentsForWritedownsOfInventories,재고자산평가손실,-,제 29 기 반기,-25735159,,,90,KRW,,제 28 기 반기,391233769,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_AdjustmentsForAmortisationExpense,무형자산상각비,-,제 29 기 반기,215415060,,,91,KRW,,제 28 기 반기,421384310,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationExpense,감가상각비,-,제 29 기 반기,3175367936,,,92,KRW,,제 28 기 반기,3228431395,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용,-,제 29 기 반기,29612681,,,93,KRW,,제 28 기 반기,2943300614,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익,-,제 29 기 반기,963153700,,,94,KRW,,제 28 기 반기,711675502,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수입,-,제 29 기 반기,90314947,,,95,KRW,,제 28 기 반기,69243832,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세환급(납부),-,제 29 기 반기,-304181432,,,96,KRW,,제 28 기 반기,747367391,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급,-,제 29 기 반기,3194240885,,,97,KRW,,제 28 기 반기,3162452573,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 29 기 반기,762853230,,,98,KRW,,제 28 기 반기,602020118,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 29 기 반기,3102445443,,,99,KRW,,제 28 기 반기,8858465571,,연결
+20240814002869,11012,2024,00353878,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 29 기 반기,-1760237918,,,100,KRW,,제 28 기 반기,-11358608219,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,연결재무제표 [member],제 29 기 반기,,,,3,KRW,,제 28 기 반기,-3642303,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [구성요소]|비지배지분 [구성요소],제 29 기 반기,,,,3,KRW,,제 28 기 반기,-3642303,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|비지배지분 [구성요소],제 29 기 반기,4085946988,,,4,KRW,,제 28 기 반기,3922924904,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 29 기 반기,40413388467,,,4,KRW,,제 28 기 반기,40082668467,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 29 기 반기,101555023717,,,4,KRW,,제 28 기 반기,88076704810,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 29 기 반기,9998470500,,,4,KRW,,제 28 기 반기,9998470500,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 29 기 반기,-1947382479,,,4,KRW,,제 28 기 반기,1145151425,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 29 기 반기,150019500205,,,4,KRW,,제 28 기 반기,139302995202,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 29 기 반기,154105447193,,,4,KRW,,제 28 기 반기,143225920106,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_IncreaseDecreaseThroughCorrectionsOfErrors,총포괄이익,자본 [구성요소]|비지배지분 [구성요소],제 29 기 반기,757950373,,,5,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_IncreaseDecreaseThroughCorrectionsOfErrors,총포괄이익,연결재무제표 [member],제 29 기 반기,-2145119542,,,5,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_IncreaseDecreaseThroughCorrectionsOfErrors,총포괄이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 29 기 반기,-2903069915,,,5,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_IncreaseDecreaseThroughCorrectionsOfErrors,총포괄이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 29 기 반기,-2903069915,,,5,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_OtherTransactions,조기상환권 행사,연결재무제표 [member],제 29 기 반기,-29065971,,,6,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_OtherTransactions,조기상환권 행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 29 기 반기,-29065971,,,6,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_OtherTransactions,조기상환권 행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 29 기 반기,-29065971,,,6,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_StockDividends,연차배당,연결재무제표 [member],제 29 기 반기,-1876124000,,,7,KRW,,제 28 기 반기,-84000000,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_StockDividends,연차배당,자본 [구성요소]|비지배지분 [구성요소],제 29 기 반기,-58000000,,,7,KRW,,제 28 기 반기,-84000000,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_StockDividends,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 29 기 반기,-1818124000,,,7,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_StockDividends,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 29 기 반기,-1818124000,,,7,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식의 취득,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 29 기 반기,,,,8,KRW,,제 28 기 반기,-743569680,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식의 취득,연결재무제표 [member],제 29 기 반기,,,,8,KRW,,제 28 기 반기,-743569680,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식의 취득,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 29 기 반기,,,,8,KRW,,제 28 기 반기,-743569680,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 29 기 반기,145268967550,,,9,KRW,,제 28 기 반기,148475984521,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|비지배지분 [구성요소],제 29 기 반기,4785897361,,,9,KRW,,제 28 기 반기,3922761919,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 29 기 반기,150054864911,,154105447193,9,KRW,,제 28 기 반기,152398746440,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 29 기 반기,40418214467,,,9,KRW,,제 28 기 반기,40413388467,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 29 기 반기,1070712781,,,9,KRW,,제 28 기 반기,253943047,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 29 기 반기,93781569802,,,9,KRW,,제 28 기 반기,97810182507,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 29 기 반기,9998470500,,,9,KRW,,제 28 기 반기,9998470500,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식보상비용,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 29 기 반기,25440000,,,10,KRW,,제 28 기 반기,330720000,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식보상비용,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 29 기 반기,20341231,,,10,KRW,,제 28 기 반기,183081302,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식보상비용,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 29 기 반기,-5098769,,,10,KRW,,제 28 기 반기,-147638698,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식보상비용,연결재무제표 [member],제 29 기 반기,20341231,,,10,KRW,,제 28 기 반기,183081302,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자기주식의 소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 29 기 반기,-3052260000,,,11,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자기주식의 소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 29 기 반기,3052260000,,,11,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 29 기 반기,-20614000,,,12,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 29 기 반기,-20614000,,,12,KRW,,제 28 기 반기,,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,자본 [구성요소]|비지배지분 [구성요소],제 29 기 반기,,,,12,KRW,,제 28 기 반기,50000000,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,연결재무제표 [member],제 29 기 반기,-20614000,,,12,KRW,,제 28 기 반기,50000000,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_OtherComprehensiveIncome,기타포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 29 기 반기,-854700945,,,13,KRW,,제 28 기 반기,-421465329,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_OtherComprehensiveIncome,기타포괄손익,연결재무제표 [member],제 29 기 반기,-854700945,,,13,KRW,,제 28 기 반기,-421465329,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_OtherComprehensiveIncome,기타포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 29 기 반기,-854700945,,,13,KRW,,제 28 기 반기,-421465329,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 29 기 반기,-854700945,,,14,KRW,,제 28 기 반기,-421465329,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도의 재측정요소,연결재무제표 [member],제 29 기 반기,-854700945,,,14,KRW,,제 28 기 반기,-421465329,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 29 기 반기,-854700945,,,14,KRW,,제 28 기 반기,-421465329,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),연결재무제표 [member],제 29 기 반기,3102445443,,,15,KRW,,제 28 기 반기,8858465571,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|비지배지분 [구성요소],제 29 기 반기,757950373,,,15,KRW,,제 28 기 반기,37479318,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 29 기 반기,-2048368970,,,15,KRW,,제 28 기 반기,10154943026,,연결
+20240814002869,11012,2024,00353878,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 29 기 반기,-2048368970,,,15,KRW,,제 28 기 반기,10154943026,,연결
