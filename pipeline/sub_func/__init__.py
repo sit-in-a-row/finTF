@@ -17,4 +17,6 @@ from .SA_news import *
 
 from .to_gpt import to_GPT
 
+from .notion_api import *
+
 # from .utils import *
