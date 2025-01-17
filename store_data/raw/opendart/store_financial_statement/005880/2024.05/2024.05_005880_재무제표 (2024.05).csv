@@ -1,0 +1,174 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,bfefrmtrm_nm,bfefrmtrm_amount,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 58 기 1분기말,4814175351722,제 57 기말,4727803814347,7,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 58 기 1분기말,609417630550,제 57 기말,655634038156,8,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,dart_CurrentFinancialAssetDesignationAsAtFairValueThroughProfitOrLoss,유동당기손익인식지정금융자산,-,제 58 기 1분기말,48563901114,제 57 기말,60414927187,9,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 58 기 1분기말,108407638136,제 57 기말,109773639676,10,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_CurrentFinanceLeaseReceivables,단기금융리스채권,-,제 58 기 1분기말,31546357760,제 57 기말,43023035835,11,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_Inventories,유동재고자산,-,제 58 기 1분기말,130183419355,제 57 기말,205990893450,12,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_OtherCurrentAssets,기타유동자산,-,제 58 기 1분기말,71846193317,제 57 기말,55453611909,13,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_OtherCurrentFinancialAssets,기타유동금융자산,-,제 58 기 1분기말,45698000129,제 57 기말,18470812501,14,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_TradeAndOtherCurrentReceivables,매출채권 및 기타유동채권,-,제 58 기 1분기말,173172120739,제 57 기말,162507117598,15,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 58 기 1분기말,4204757721172,제 57 기말,4072169776191,16,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,장기매출채권 및 기타비유동채권,-,제 58 기 1분기말,26495130118,제 57 기말,25133467346,17,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,dart_NonCurrentFairValueFinancialAsset,비유동당기손익인식금융자산,-,제 58 기 1분기말,2040663367,제 57 기말,1965154548,18,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 58 기 1분기말,132845435,제 57 기말,104406246,19,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_IntangibleAssetsAndGoodwill,무형자산,-,제 58 기 1분기말,8841907733,제 57 기말,8778568916,20,KRW,제 56 기,9501413000,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_InvestmentAccountedForUsingEquityMethod,지분법적용 투자지분,-,제 58 기 1분기말,86631673288,제 57 기말,81745328186,21,KRW,제 56 기,78610568000,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 58 기 1분기말,129675717202,제 57 기말,129854701004,22,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_NoncurrentFinanceLeaseReceivables,장기금융리스채권,-,제 58 기 1분기말,675348429055,제 57 기말,642082046595,23,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 비유동금융자산,-,제 58 기 1분기말,13961108975,제 57 기말,13451820280,24,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_NoncurrentRecognisedAssetsDefinedBenefitPlan,비유동 순확정급여자산,-,제 58 기 1분기말,855238041,제 57 기말,1384781559,25,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_OtherNoncurrentAssets,기타비유동자산,-,제 58 기 1분기말,1504553660,제 57 기말,1292270810,26,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_OtherNoncurrentFinancialAssets,기타비유동금융자산,-,제 58 기 1분기말,35565188159,제 57 기말,45430633678,27,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 58 기 1분기말,3219962314501,제 57 기말,3118082108015,28,KRW,제 56 기,2847669869000,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_RightofuseAssets,사용권자산,-,제 58 기 1분기말,3742951638,제 57 기말,2864489008,29,KRW,제 56 기,3688493000,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 58 기 1분기말,2024295692685,제 57 기말,1846814654142,31,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,-,제 58 기 1분기말,1775679107941,제 57 기말,1609161939921,32,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 58 기 1분기말,195258181427,제 57 기말,187780086839,33,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타자본구성요소,-,제 58 기 1분기말,461825832282,제 57 기말,383299764136,34,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 58 기 1분기말,159588730000,제 57 기말,159588730000,35,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금(결손금),-,제 58 기 1분기말,959006364232,제 57 기말,878493358946,36,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 58 기 1분기말,248616584744,제 57 기말,237652714221,37,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 58 기 1분기말,4814175351722,제 57 기말,4727803814347,38,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 58 기 1분기말,1201828897811,제 57 기말,1192523164554,40,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_CurrentLeaseLiabilities,유동 리스부채,-,제 58 기 1분기말,1520840393,제 57 기말,4067040511,41,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived,유동성장기차입금,-,제 58 기 1분기말,901307191278,제 57 기말,801642947899,42,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_OtherCurrentFinancialLiabilities,기타유동금융부채,-,제 58 기 1분기말,96183957655,제 57 기말,183778140472,43,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_OtherCurrentLiabilities,기타 유동부채,-,제 58 기 1분기말,64424849536,제 57 기말,62816427133,44,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayables,매입채무 및 기타유동채무,-,제 58 기 1분기말,138392058949,제 57 기말,140218608539,45,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 58 기 1분기말,2789879659037,제 57 기말,2880989160205,46,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 58 기 1분기말,1588050761226,제 57 기말,1688465995651,47,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentPayables,장기매입채무 및 기타비유동채무,-,제 58 기 1분기말,20094336363,제 57 기말,19432447972,48,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 58 기 1분기말,865371562,제 57 기말,968145497,49,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_NoncurrentLeaseLiabilities,비유동 리스부채,-,제 58 기 1분기말,2410119362,제 57 기말,1875207326,50,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_NoncurrentPortionOfNoncurrentLoansReceived,장기차입금,-,제 58 기 1분기말,1539605035287,제 57 기말,1641575587119,51,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_NoncurrentProvisions,비유동충당부채,-,제 58 기 1분기말,15249480527,제 57 기말,15266994936,52,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_NoncurrentRecognisedLiabilitiesDefinedBenefitPlan,비유동 순확정급여부채,-,제 58 기 1분기말,6620898125,제 57 기말,6113521401,53,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_OtherNoncurrentFinancialLiabilities,기타비유동금융부채,-,제 58 기 1분기말,157900000,제 57 기말,157900000,54,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,BS,재무상태표,ifrs-full_OtherNoncurrentLiabilities,기타 비유동 부채,-,제 58 기 1분기말,3047620000,제 57 기말,3076191400,55,KRW,,,,,,,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,dart_LossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법손실,-,제 58 기 1분기,1694218945,,,6,KRW,,,1694218945,제 57 기 1분기,66558404,66558404,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익(손실),-,제 58 기 1분기,126747423672,,,7,KRW,,,126747423672,제 57 기 1분기,59875388554,59875388554,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,dart_OtherGains,기타수익,-,제 58 기 1분기,1058224750,,,8,KRW,,,1058224750,제 57 기 1분기,611383751,611383751,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,dart_OtherLosses,기타비용,-,제 58 기 1분기,1033554737,,,9,KRW,,,1033554737,제 57 기 1분기,1797771672,1797771672,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법이익,-,제 58 기 1분기,4157983705,,,10,KRW,,,4157983705,제 57 기 1분기,4137717319,4137717319,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,dart_SeparateAccountGainFromForeignExchangeAndTranslation,외환손익,-,제 58 기 1분기,22704327245,,,11,KRW,,,22704327245,제 57 기 1분기,13024466859,13024466859,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 58 기 1분기,18382907919,,,12,KRW,,,18382907919,제 57 기 1분기,20372816613,20372816613,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 58 기 1분기,155175316705,,,13,KRW,,,155175316705,제 57 기 1분기,84256426291,84256426291,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,"포괄손익, 비지배지분",-,제 58 기 1분기,10963870523,,,15,KRW,,,10963870523,제 57 기 1분기,8531949088,8531949088,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"포괄손익, 지배기업의 소유주에게 귀속되는 지분",-,제 58 기 1분기,144211446182,,,16,KRW,,,144211446182,제 57 기 1분기,75724477203,75724477203,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 58 기 1분기,370082494552,,,17,KRW,,,370082494552,제 57 기 1분기,274477984755,274477984755,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),-,제 58 기 1분기,252,,,19,KRW,,,252,제 57 기 1분기,120,120,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,희석주당이익(손실),-,제 58 기 1분기,252,,,20,KRW,,,252,제 57 기 1분기,120,120,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융원가,-,제 58 기 1분기,57589015465,,,21,KRW,,,57589015465,제 57 기 1분기,39531753734,39531753734,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 58 기 1분기,4994340651,,,22,KRW,,,4994340651,제 57 기 1분기,7413585074,7413585074,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 58 기 1분기,145130331591,,,23,KRW,,,145130331591,제 57 기 1분기,80248205167,80248205167,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,-,제 58 기 1분기,16952598938,,,24,KRW,,,16952598938,제 57 기 1분기,3470208030,3470208030,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄이익(손실),-,제 58 기 1분기,72782404767,,,25,KRW,,,72782404767,제 57 기 1분기,44060176574,44060176574,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,분기손익으로 재분류되는 세후기타포괄손익,-,제 58 기 1분기,-178568490,,,26,KRW,,,-178568490,제 57 기 1분기,2137190995,2137190995,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,-,제 58 기 1분기,-652812838,,,27,KRW,,,-652812838,제 57 기 1분기,1885084150,1885084150,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,-,제 58 기 1분기,474244348,,,28,KRW,,,474244348,제 57 기 1분기,252106845,252106845,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,분기손익으로 재분류되지 않는 세후기타포괄손익,-,제 58 기 1분기,72960973257,,,29,KRW,,,72960973257,제 57 기 1분기,41922985579,41922985579,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslationOtherThanTranslationOfForeignOperations,표시통화환산손익,-,제 58 기 1분기,73279689705,,,30,KRW,,,73279689705,제 57 기 1분기,44576853674,44576853674,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치측정금융자산평가,-,제 58 기 1분기,1106521002,,,31,KRW,,,1106521002,제 57 기 1분기,-2669035409,-2669035409,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채 재측정요소,-,제 58 기 1분기,-1425237450,,,32,KRW,,,-1425237450,제 57 기 1분기,15167314,15167314,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_ProfitLoss,분기순이익(손실),-,제 58 기 1분기,82392911938,,,33,KRW,,,82392911938,제 57 기 1분기,40196249717,40196249717,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분에 귀속되는 분기순이익(손실),-,제 58 기 1분기,1879906652,,,35,KRW,,,1879906652,제 57 기 1분기,3009814248,3009814248,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 분기순이익(손실),-,제 58 기 1분기,80513005286,,,36,KRW,,,80513005286,제 57 기 1분기,37186435469,37186435469,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세차감전이익,-,제 58 기 1분기,99345510876,,,37,KRW,,,99345510876,제 57 기 1분기,43666457747,43666457747,연결
+20240516002013,11013,2024,00113535,CIS,포괄손익계산서,ifrs-full_Revenue,매출액,-,제 58 기 1분기,515212826143,,,38,KRW,,,515212826143,제 57 기 1분기,354726189922,354726189922,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 58 기 1분기,109773639676,,,2,KRW,,,,제 57 기 1분기,95351877937,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 58 기 1분기,108407638136,,,3,KRW,,,,제 57 기 1분기,101386218525,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 58 기 1분기,-118003262154,,,8,KRW,,,,제 57 기 1분기,-79259682865,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,dart_DispositionOfTreasuryShares,자기주식의 처분,-,제 58 기 1분기,22305721838,,,9,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,dart_ProceedsFromBonds,사채의 증가,-,제 58 기 1분기,0,,,10,KRW,,,,제 57 기 1분기,10000000000,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 증가,-,제 58 기 1분기,2533000000,,,11,KRW,,,,제 57 기 1분기,7222020000,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 증가,-,제 58 기 1분기,22466737168,,,12,KRW,,,,제 57 기 1분기,140865958988,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,dart_RepaymentsOfBonds,사채의 상환,-,제 58 기 1분기,11000000000,,,13,KRW,,,,제 57 기 1분기,1200000000,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 상환,-,제 58 기 1분기,0,,,14,KRW,,,,제 57 기 1분기,360000000,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 58 기 1분기,28000000000,,,15,KRW,,,,제 57 기 1분기,166852651001,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,-표준계정코드 미사용-,유동성장기미지급금의 차입,-,제 58 기 1분기,0,,,16,KRW,,,,제 57 기 1분기,2777980000,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,-표준계정코드 미사용-,파생상품의 유입,-,제 58 기 1분기,818487157,,,17,KRW,,,,제 57 기 1분기,356645886,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,-표준계정코드 미사용-,유동성장기차입금의 상환,-,제 58 기 1분기,-49134065465,,,18,KRW,,,,제 57 기 1분기,-10251306911,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,-표준계정코드 미사용-,유동성장기미지급금의 상환,-,제 58 기 1분기,-40523229193,,,19,KRW,,,,제 57 기 1분기,-31843908668,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsFinancingActivities,이자지급,-,제 58 기 1분기,34248647790,,,20,KRW,,,,제 57 기 1분기,24746618592,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 지급,-,제 58 기 1분기,3221265869,,,21,KRW,,,,제 57 기 1분기,5227802567,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 58 기 1분기,-22509787058,,,22,KRW,,,,제 57 기 1분기,-6575913389,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,임차보증금의 감소,-,제 58 기 1분기,193567633,,,23,KRW,,,,제 57 기 1분기,930900000,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,dart_ProceedsFromSalesOfLoansAndReceivables,대여금및수취채권의 처분,-,제 58 기 1분기,400000000,,,24,KRW,,,,제 57 기 1분기,20500000000,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,dart_ProceedsFromSalesOfOtherFinancialAssets,기타금융자산의 처분,-,제 58 기 1분기,-2172564311,,,25,KRW,,,,제 57 기 1분기,1049904041,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산의취득,-,제 58 기 1분기,20000,,,26,KRW,,,,제 57 기 1분기,60000,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,dart_PurchaseOfLoansAndReceivables,대여금및수취채권의 취득,-,제 58 기 1분기,9400000000,,,27,KRW,,,,제 57 기 1분기,21000000000,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,dart_PurchaseOfOtherFinancialAssets,기타금융자산의 취득,-,제 58 기 1분기,12991532352,,,28,KRW,,,,제 57 기 1분기,741233897,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,-표준계정코드 미사용-,금융리스채권의 감소,-,제 58 기 1분기,5815796635,,,29,KRW,,,,제 57 기 1분기,4978299590,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,-표준계정코드 미사용-,임대보증금의 감소,-,제 58 기 1분기,-3338616000,,,30,KRW,,,,제 57 기 1분기,-974270000,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsInvestingActivities,배당금수취,-,제 58 기 1분기,2149939465,,,31,KRW,,,,제 57 기 1분기,473279922,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsInvestingActivities,이자수취,-,제 58 기 1분기,1955815130,,,32,KRW,,,,제 57 기 1분기,1804472126,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 58 기 1분기,52364801,,,33,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 58 기 1분기,97580000,,,34,KRW,,,,제 57 기 1분기,96247000,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 58 기 1분기,5076958059,,,35,KRW,,,,제 57 기 1분기,13500958171,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 58 기 1분기,138367588882,,,36,KRW,,,,제 57 기 1분기,92050652295,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperations,영업에서 창출된 현금흐름,-,제 58 기 1분기,140465488654,,,37,KRW,,,,제 57 기 1분기,92669366299,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세환급(납부),-,제 58 기 1분기,2097899772,,,38,KRW,,,,제 57 기 1분기,618714004,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 58 기 1분기,779458790,,,39,KRW,,,,제 57 기 1분기,-180715453,,연결
+20240516002013,11013,2024,00113535,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 58 기 1분기,-1366001540,,,40,KRW,,,,제 57 기 1분기,6034340588,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|자본금 [구성요소],제 58 기 1분기,159588730000,,,3,KRW,,,,제 57 기 1분기,159588730000,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|이익잉여금 [구성요소],제 58 기 1분기,878493358946,,,3,KRW,,,,제 57 기 1분기,810214509888,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|비지배지분 [구성요소],제 58 기 1분기,237652714221,,,3,KRW,,,,제 57 기 1분기,257504837783,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|기타자본구성요소 [구성요소],제 58 기 1분기,383299764136,,,3,KRW,,,,제 57 기 1분기,369033842255,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 58 기 1분기,1846814654142,,,3,KRW,,,,제 57 기 1분기,1784122006765,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|자본잉여금 [구성요소],제 58 기 1분기,187780086839,,,3,KRW,,,,제 57 기 1분기,187780086839,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_ComprehensiveIncome,총포괄손익,연결재무제표 [member],제 58 기 1분기,155175316705,,,4,KRW,,,,제 57 기 1분기,84256426291,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,연결재무제표 [member],제 58 기 1분기,-652812838,,,5,KRW,,,,제 57 기 1분기,1885084150,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,자본 [구성요소]|기타자본구성요소 [구성요소],제 58 기 1분기,-652812838,,,5,KRW,,,,제 57 기 1분기,1885084150,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,자본 [구성요소]|비지배지분 [구성요소],제 58 기 1분기,0,,,5,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,자본 [구성요소]|이익잉여금 [구성요소],제 58 기 1분기,0,,,5,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,자본 [구성요소]|자본금 [구성요소],제 58 기 1분기,0,,,5,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,자본 [구성요소]|자본잉여금 [구성요소],제 58 기 1분기,0,,,5,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslationOtherThanTranslationOfForeignOperations,표시통화환산손익,자본 [구성요소]|자본잉여금 [구성요소],제 58 기 1분기,0,,,6,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslationOtherThanTranslationOfForeignOperations,표시통화환산손익,자본 [구성요소]|자본금 [구성요소],제 58 기 1분기,0,,,6,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslationOtherThanTranslationOfForeignOperations,표시통화환산손익,자본 [구성요소]|이익잉여금 [구성요소],제 58 기 1분기,0,,,6,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslationOtherThanTranslationOfForeignOperations,표시통화환산손익,자본 [구성요소]|비지배지분 [구성요소],제 58 기 1분기,9146023642,,,6,KRW,,,,제 57 기 1분기,5640489353,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslationOtherThanTranslationOfForeignOperations,표시통화환산손익,자본 [구성요소]|기타자본구성요소 [구성요소],제 58 기 1분기,64133666063,,,6,KRW,,,,제 57 기 1분기,38936364321,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslationOtherThanTranslationOfForeignOperations,표시통화환산손익,연결재무제표 [member],제 58 기 1분기,73279689705,,,6,KRW,,,,제 57 기 1분기,44576853674,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치측정금융자산평가,연결재무제표 [member],제 58 기 1분기,1106521002,,,7,KRW,,,,제 57 기 1분기,-2669035409,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치측정금융자산평가,자본 [구성요소]|기타자본구성요소 [구성요소],제 58 기 1분기,1118936907,,,7,KRW,,,,제 57 기 1분기,-2655221753,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치측정금융자산평가,자본 [구성요소]|비지배지분 [구성요소],제 58 기 1분기,-12415905,,,7,KRW,,,,제 57 기 1분기,-13813656,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치측정금융자산평가,자본 [구성요소]|이익잉여금 [구성요소],제 58 기 1분기,0,,,7,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치측정금융자산평가,자본 [구성요소]|자본금 [구성요소],제 58 기 1분기,0,,,7,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치측정금융자산평가,자본 [구성요소]|자본잉여금 [구성요소],제 58 기 1분기,0,,,7,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채 재측정요소,연결재무제표 [member],제 58 기 1분기,-1425237450,,,8,KRW,,,,제 57 기 1분기,15167314,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채 재측정요소,자본 [구성요소]|기타자본구성요소 [구성요소],제 58 기 1분기,-1421630882,,,8,KRW,,,,제 57 기 1분기,21419384,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채 재측정요소,자본 [구성요소]|비지배지분 [구성요소],제 58 기 1분기,-3606568,,,8,KRW,,,,제 57 기 1분기,-6252070,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채 재측정요소,자본 [구성요소]|이익잉여금 [구성요소],제 58 기 1분기,0,,,8,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채 재측정요소,자본 [구성요소]|자본금 [구성요소],제 58 기 1분기,0,,,8,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채 재측정요소,자본 [구성요소]|자본잉여금 [구성요소],제 58 기 1분기,0,,,8,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),연결재무제표 [member],제 58 기 1분기,82392911938,,,9,KRW,,,,제 57 기 1분기,40196249717,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|기타자본구성요소 [구성요소],제 58 기 1분기,0,,,9,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|비지배지분 [구성요소],제 58 기 1분기,1879906652,,,9,KRW,,,,제 57 기 1분기,3009814248,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|이익잉여금 [구성요소],제 58 기 1분기,80513005286,,,9,KRW,,,,제 57 기 1분기,37186435469,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|자본잉여금 [구성요소],제 58 기 1분기,0,,,9,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|자본금 [구성요소],제 58 기 1분기,0,,,9,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,자본 [구성요소]|자본금 [구성요소],제 58 기 1분기,0,,,10,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,자본 [구성요소]|이익잉여금 [구성요소],제 58 기 1분기,0,,,10,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,자본 [구성요소]|비지배지분 [구성요소],제 58 기 1분기,-46037298,,,10,KRW,,,,제 57 기 1분기,-98288787,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,자본 [구성요소]|기타자본구성요소 [구성요소],제 58 기 1분기,520281646,,,10,KRW,,,,제 57 기 1분기,350395632,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,연결재무제표 [member],제 58 기 1분기,474244348,,,10,KRW,,,,제 57 기 1분기,252106845,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,자본 [구성요소]|자본잉여금 [구성요소],제 58 기 1분기,0,,,10,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|기타자본구성요소 [구성요소],제 58 기 1분기,461825832282,,,11,KRW,,,,제 57 기 1분기,407571883989,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 58 기 1분기,2024295692685,,1846814654142,11,KRW,,,,제 57 기 1분기,1868378433056,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|비지배지분 [구성요소],제 58 기 1분기,248616584744,,,11,KRW,,,,제 57 기 1분기,266036786871,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|이익잉여금 [구성요소],제 58 기 1분기,959006364232,,,11,KRW,,,,제 57 기 1분기,847400945357,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|자본금 [구성요소],제 58 기 1분기,159588730000,,,11,KRW,,,,제 57 기 1분기,159588730000,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|자본잉여금 [구성요소],제 58 기 1분기,195258181427,,,11,KRW,,,,제 57 기 1분기,187780086839,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식처분이익,자본 [구성요소]|기타자본구성요소 [구성요소],제 58 기 1분기,0,,,13,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식처분이익,자본 [구성요소]|비지배지분 [구성요소],제 58 기 1분기,0,,,13,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식처분이익,자본 [구성요소]|이익잉여금 [구성요소],제 58 기 1분기,0,,,13,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식처분이익,자본 [구성요소]|자본금 [구성요소],제 58 기 1분기,0,,,13,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식처분이익,자본 [구성요소]|자본잉여금 [구성요소],제 58 기 1분기,7478094588,,,13,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식처분이익,연결재무제표 [member],제 58 기 1분기,7478094588,,,13,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분 및 발행,자본 [구성요소]|자본금 [구성요소],제 58 기 1분기,0,,,14,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분 및 발행,자본 [구성요소]|이익잉여금 [구성요소],제 58 기 1분기,0,,,14,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분 및 발행,자본 [구성요소]|비지배지분 [구성요소],제 58 기 1분기,0,,,14,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분 및 발행,자본 [구성요소]|기타자본구성요소 [구성요소],제 58 기 1분기,14827627250,,,14,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분 및 발행,연결재무제표 [member],제 58 기 1분기,14827627250,,,14,KRW,,,,제 57 기 1분기,0,,연결
+20240516002013,11013,2024,00113535,SCE,자본변동표,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분 및 발행,자본 [구성요소]|자본잉여금 [구성요소],제 58 기 1분기,0,,,14,KRW,,,,제 57 기 1분기,0,,연결

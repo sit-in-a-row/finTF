@@ -1,0 +1,236 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분
+20240628000463,11013,2024,00878915,BS,재무상태표,dart_CashAndDuefromBanks,현금및예치금,-,제 14 기 1분기말,5246907050545,제 13 기말,4713787143153,7,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,dart_LoansAtAmortisedCost,상각후원가측정대출채권,-,제 14 기 1분기말,63274641495690,제 13 기말,62383691427696,8,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,dart_SecuritiesAtAmortisedCost,상각후원가측정유가증권,-,제 14 기 1분기말,4463620631690,제 13 기말,4354862225646,9,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 14 기 1분기말,96276729732566,제 13 기말,93359783776425,10,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_CurrentTaxAssets,당기법인세자산,-,제 14 기 1분기말,68143442652,제 13 기말,57179321021,11,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 14 기 1분기말,149772836211,제 13 기말,123842437690,12,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_DerivativeFinancialAssets,파생상품자산,-,제 14 기 1분기말,91494591416,제 13 기말,88904891578,13,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산,-,제 14 기 1분기말,7594672473281,제 13 기말,7356552239817,14,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융자산,-,제 14 기 1분기말,11344262446355,제 13 기말,11092085468258,15,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_IntangibleAssetsAndGoodwill,무형자산,-,제 14 기 1분기말,292376507117,제 13 기말,274997720675,16,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_InvestmentAccountedForUsingEquityMethod,관계기업투자,-,제 14 기 1분기말,120585091293,제 13 기말,142892884345,17,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 14 기 1분기말,157875483551,제 13 기말,158446008228,18,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_OtherAssets,기타자산,-,제 14 기 1분기말,2544292581326,제 13 기말,1675267582232,19,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 14 기 1분기말,807881435873,제 13 기말,813539620630,20,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_RecognisedAssetsDefinedBenefitPlan,확정급여자산,-,제 14 기 1분기말,114850762177,제 13 기말,116817572215,21,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_ReinsuranceContractsHeldThatAreAssets,재보험계약자산,-,제 14 기 1분기말,5352903389,제 13 기말,6917233241,22,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 14 기 1분기말,6202635275648,제 13 기말,6283554118124,25,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배주주지분,-,제 14 기 1분기말,5869392885197,제 13 기말,5948770414919,26,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,dart_CapitalAdjustments,자본조정,-,제 14 기 1분기말,-19978872780,제 13 기말,-20577892780,27,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 14 기 1분기말,1562451185572,제 13 기말,1562451185572,28,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,dart_HybridBonds,신종자본증권,-,제 14 기 1분기말,613764871000,제 13 기말,613764871000,29,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_AccumulatedOtherComprehensiveIncome,기타포괄손익누계액,-,제 14 기 1분기말,-435508730022,제 13 기말,-341693536583,30,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 14 기 1분기말,845729165000,제 13 기말,845729165000,31,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금,-,제 14 기 1분기말,3302935266427,제 13 기말,3289096622710,32,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 14 기 1분기말,333242390451,제 13 기말,334783703205,33,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_EquityAndLiabilities,부채및자본총계,-,제 14 기 1분기말,96276729732566,제 13 기말,93359783776425,34,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_BondsIssued,사채,-,제 14 기 1분기말,8418651358996,제 13 기말,8242523074905,36,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_Borrowings,차입부채,-,제 14 기 1분기말,12835904597922,제 13 기말,12034131749610,37,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 14 기 1분기말,34570405437,제 13 기말,25070154743,38,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 14 기 1분기말,21502859916,제 13 기말,4287644788,39,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_DepositsFromCustomers,예수부채,-,제 14 기 1분기말,57682299090431,제 13 기말,57288479208590,40,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_DerivativeFinancialLiabilities,파생상품부채,-,제 14 기 1분기말,146624295240,제 13 기말,139128330556,41,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_FinancialLiabilitiesAtFairValueThroughProfitOrLossClassifiedAsHeldForTrading,당기손익-공정가치측정금융부채,-,제 14 기 1분기말,651792906675,제 13 기말,527775467310,42,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_FinancialLiabilitiesAtFairValueThroughProfitOrLossDesignatedAsUponInitialRecognition,당기손익-공정가치지정금융부채,-,제 14 기 1분기말,595155352589,제 13 기말,706511683622,43,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_InsuranceContractsIssuedThatAreLiabilities,보험계약부채,-,제 14 기 1분기말,5471766112432,제 13 기말,5363737755315,44,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 14 기 1분기말,90074094456918,제 13 기말,87076229658301,45,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_OtherLiabilities,기타부채,-,제 14 기 1분기말,4137743506617,제 13 기말,2615992391680,46,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_Provisions,충당부채,-,제 14 기 1분기말,66598656208,제 13 기말,114692479215,47,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan,순확정급여부채,-,제 14 기 1분기말,2972119571,제 13 기말,3020532423,48,KRW,,,,,연결
+20240628000463,11013,2024,00878915,BS,재무상태표,ifrs-full_ReinsuranceContractsHeldThatAreLiabilities,재보험계약부채,-,제 14 기 1분기말,8513194884,제 13 기말,10879185544,49,KRW,,,,,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정 금융상품 관련 순이익(손실),-,제 14 기 1분기,7208273788,,,6,KRW,7208273788,제 13 기 1분기,17264043521,17264043521,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정 금융상품관련 순이익(손실),-,제 14 기 1분기,124150127663,,,7,KRW,124150127663,제 13 기 1분기,190948283346,190948283346,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,dart_InsuranceRevenueExpense,순보험이익(손실),-,제 14 기 1분기,23523020710,,,8,KRW,23523020710,제 13 기 1분기,20060144581,20060144581,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,dart_OperatingExpenseInsurance,보험비용,-,제 14 기 1분기,45333772913,,,9,KRW,45333772913,제 13 기 1분기,47380619755,47380619755,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,dart_OperatingIncomeInsurance,보험수익,-,제 14 기 1분기,68856793623,,,10,KRW,68856793623,제 13 기 1분기,67440764336,67440764336,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,dart_NonOperatingProfitLoss,영업외순이익(손실),-,제 14 기 1분기,-3614283094,,,11,KRW,-3614283094,제 13 기 1분기,-4257358617,-4257358617,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,-표준계정코드 미사용-,당기손익-공정가치지정 금융상품관련 순이익(손실),-,제 14 기 1분기,-4227662928,,,12,KRW,-4227662928,제 13 기 1분기,-61301545148,-61301545148,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets,신용손실충당금 전입액,-,제 14 기 1분기,159426357461,,,13,KRW,159426357461,제 13 기 1분기,110019453159,110019453159,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 14 기 1분기,19109967444,,,14,KRW,19109967444,제 13 기 1분기,248072970121,248072970121,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배주주지분포괄이익(손실),-,제 14 기 1분기,1209620587,,,16,KRW,1209620587,제 13 기 1분기,10093892814,10093892814,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배주주지분포괄이익(손실),-,제 14 기 1분기,17900346857,,,17,KRW,17900346857,제 13 기 1분기,237979077307,237979077307,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,보통주기본주당이익(손실),-,제 14 기 1분기,632,,,19,KRW,632,제 13 기 1분기,966,966,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,보통주희석주당이익(손실),-,제 14 기 1분기,632,,,20,KRW,632,제 13 기 1분기,966,966,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_FeeAndCommissionIncomeExpense,순수수료손익,-,제 14 기 1분기,51241268911,,,21,KRW,51241268911,제 13 기 1분기,67354341401,67354341401,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_FeeAndCommissionExpense,수수료비용,-,제 14 기 1분기,24552864042,,,22,KRW,24552864042,제 13 기 1분기,23663871917,23663871917,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_FeeAndCommissionIncome,수수료수익,-,제 14 기 1분기,75794132953,,,23,KRW,75794132953,제 13 기 1분기,91018213318,91018213318,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),-,제 14 기 1분기,41940997232,,,24,KRW,41940997232,제 13 기 1분기,47390310120,47390310120,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_InsuranceFinanceIncomeExpenses,보험및재보험 금융이익(손실),-,제 14 기 1분기,-65035603510,,,25,KRW,-65035603510,제 13 기 1분기,-32766623941,-32766623941,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss,보험및재보험 금융비용,-,제 14 기 1분기,65866933672,,,26,KRW,65866933672,제 13 기 1분기,32820776624,32820776624,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss,보험및재보험 금융수익,-,제 14 기 1분기,831330162,,,27,KRW,831330162,제 13 기 1분기,54152683,54152683,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_InterestRevenueExpense,순이자손익,-,제 14 기 1분기,424932485246,,,28,KRW,424932485246,제 13 기 1분기,388088773994,388088773994,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_InterestExpense,이자비용,-,제 14 기 1분기,636865929303,,,29,KRW,636865929303,제 13 기 1분기,577049085543,577049085543,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,-표준계정코드 미사용-,금융상품 관련 이자비용,-,제 14 기 1분기,591391514264,,,30,KRW,591391514264,제 13 기 1분기,530323424078,530323424078,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,-표준계정코드 미사용-,보험및재보험 관련 이자비용,-,제 14 기 1분기,45474415039,,,31,KRW,45474415039,제 13 기 1분기,46725661465,46725661465,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_RevenueFromInterest,이자수익,-,제 14 기 1분기,1061798414549,,,32,KRW,1061798414549,제 13 기 1분기,965137859537,965137859537,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,-표준계정코드 미사용-,보험및재보험 관련 이자수익,-,제 14 기 1분기,4295825623,,,33,KRW,4295825623,제 13 기 1분기,3277120693,3277120693,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost,상각후원가 측정 금융상품 관련 이자수익,-,제 14 기 1분기,934046461559,,,34,KRW,934046461559,제 13 기 1분기,854017219415,854017219415,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss,당기손익-공정가치 측정 금융상품 관련 이자수익,-,제 14 기 1분기,70859261554,,,35,KRW,70859261554,제 13 기 1분기,63831321709,63831321709,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융상품 관련 이자수익,-,제 14 기 1분기,52596865813,,,36,KRW,52596865813,제 13 기 1분기,44012197720,44012197720,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_NetForeignExchangeGain,외환거래순이익,-,제 14 기 1분기,48527917971,,,37,KRW,48527917971,제 13 기 1분기,52733667660,52733667660,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 14 기 1분기,-93844382402,,,38,KRW,-93844382402,제 13 기 1분기,70423562649,70423562649,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피평가손익,-,제 14 기 1분기,-374305394,,,40,KRW,-374305394,제 13 기 1분기,298286195,298286195,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장 외화환산손익,-,제 14 기 1분기,24769637283,,,41,KRW,24769637283,제 13 기 1분기,15743060548,15743060548,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss,재보험계약 관련 금융손익,-,제 14 기 1분기,-1255727117,,,42,KRW,-1255727117,제 13 기 1분기,-928909824,-928909824,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정채무상품관련손익,-,제 14 기 1분기,-89343470784,,,43,KRW,-89343470784,제 13 기 1분기,140067348350,140067348350,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations,해외사업장순투자위험회피평가손익,-,제 14 기 1분기,-18867133374,,,44,KRW,-18867133374,제 13 기 1분기,-11546544997,-11546544997,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss,보험계약 관련 금융손익,-,제 14 기 1분기,-5498995916,,,45,KRW,-5498995916,제 13 기 1분기,-74588197816,-74588197816,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치측정지분상품관련손익,-,제 14 기 1분기,-3116501753,,,47,KRW,-3116501753,제 13 기 1분기,1550634357,1550634357,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,-,제 14 기 1분기,-157885347,,,48,KRW,-157885347,제 13 기 1분기,-172114164,-172114164,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_OtherOperatingIncomeExpense,기타영업순이익(손실),-,제 14 기 1분기,-58929510019,,,49,KRW,-58929510019,제 13 기 1분기,-60604511868,-60604511868,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_ProfitLoss,분기순이익,-,제 14 기 1분기,112954349846,,,50,KRW,112954349846,제 13 기 1분기,177649407472,177649407472,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분순이익,-,제 14 기 1분기,1238809550,,,52,KRW,1238809550,제 13 기 1분기,9650893290,9650893290,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배주주지분순이익,-,제 14 기 1분기,111715540296,,,53,KRW,111715540296,제 13 기 1분기,167998514182,167998514182,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세차감전순이익(손실),-,제 14 기 1분기,154895347078,,,54,KRW,154895347078,제 13 기 1분기,225039717592,225039717592,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_ProfitLossFromOperatingActivities,영업이익(손실),-,제 14 기 1분기,158509630172,,,55,KRW,158509630172,제 13 기 1분기,229297076209,229297076209,연결
+20240628000463,11013,2024,00878915,CIS,포괄손익계산서,ifrs-full_SellingGeneralAndAdministrativeExpense,일반관리비,-,제 14 기 1분기,233454330199,,,56,KRW,233454330199,제 13 기 1분기,242460044178,242460044178,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 14 기 1분기,4006474436832,,,2,KRW,,제 13 기 1분기,3559299887796,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_CashAndCashEquivalents,기말 현금및현금성자산,-,제 14 기 1분기,4411279980231,,,7,KRW,,제 13 기 1분기,3496509777547,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동으로 인한 현금흐름,-,제 14 기 1분기,826533040673,,,9,KRW,,제 13 기 1분기,-184497783345,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForIncreaseInFundAccountPayables,기금계정미지급금의 증가,-,제 14 기 1분기,-4834281370,,,10,KRW,,제 13 기 1분기,4376998760,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForIncreaseInTrustAccountLiabilities,신탁계정미지급금의 증가,-,제 14 기 1분기,323403604293,,,11,KRW,,제 13 기 1분기,104220598683,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_CashInflowFromIssuanceOfHybridBond,신종자본증권의 발행,-,제 14 기 1분기,0,,,12,KRW,,제 13 기 1분기,115573871000,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_CashOutflowForRepaymentOfHybridBond,신종자본증권의 상환,-,제 14 기 1분기,0,,,13,KRW,,제 13 기 1분기,150000000000,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_DecreaseInNoncontrollingInterests,비지배지분의 감소,-,제 14 기 1분기,2032499998,,,14,KRW,,제 13 기 1분기,8319386666,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_DividendsPaidToHybridBond,신종자본증권 이익분배금의 지급,-,제 14 기 1분기,6556099999,,,15,KRW,,제 13 기 1분기,4581250000,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,연차배당금의지급,-,제 14 기 1분기,9001850,,,16,KRW,,제 13 기 1분기,1966727650,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsFinancingActivities,기타,-,제 14 기 1분기,550000000,,,17,KRW,,제 13 기 1분기,620000000,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 지급,-,제 14 기 1분기,7922448182,,,18,KRW,,제 13 기 1분기,8040405681,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입부채의 증가,-,제 14 기 1분기,1013412609000,,,19,KRW,,제 13 기 1분기,855926412426,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_ProceedsFromChangesInOwnershipInterestsInSubsidiaries,종속회사에 대한 지분변동,-,제 14 기 1분기,-3212571251,,,20,KRW,,제 13 기 1분기,0,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures,사채의 발행,-,제 14 기 1분기,855187186310,,,21,KRW,,제 13 기 1분기,662866963600,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_RepaymentsOfBondsNotesAndDebentures,사채의 상환,-,제 14 기 1분기,680587753425,,,22,KRW,,제 13 기 1분기,330000000000,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입부채의 감소,-,제 14 기 1분기,660865702855,,,23,KRW,,제 13 기 1분기,1425174857817,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동으로 인한 현금흐름,-,제 14 기 1분기,-325296805265,,,25,KRW,,제 13 기 1분기,-338557785000,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금의 감소,-,제 14 기 1분기,706837217,,,26,KRW,,제 13 기 1분기,0,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 14 기 1분기,568372933,,,27,KRW,,제 13 기 1분기,474414232,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_ProceedsFromSalesOfFairValueFinancialAsset,당기손익-공정가치측정금융자산의처분,-,제 14 기 1분기,527926345967,,,28,KRW,,제 13 기 1분기,494820459648,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities,상각후원가측정금융자산의처분,-,제 14 기 1분기,367891704088,,,29,KRW,,제 13 기 1분기,456297309655,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산의처분,-,제 14 기 1분기,920513238436,,,30,KRW,,제 13 기 1분기,729711242051,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_PurchaseOfFairValueFinancialAsset,당기손익-공정가치측정금융자산의취득,-,제 14 기 1분기,387505177037,,,31,KRW,,제 13 기 1분기,916608509529,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities,상각후원가측정금융자산의취득,-,제 14 기 1분기,469232294437,,,32,KRW,,제 13 기 1분기,601431645521,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산의취득,-,제 14 기 1분기,1221557680172,,,33,KRW,,제 13 기 1분기,481386384905,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_CashFlowsFromLosingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,종속기업투자주식의 처분,-,제 14 기 1분기,17295654,,,34,KRW,,제 13 기 1분기,0,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_CashFlowsUsedInObtainingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,종속기업투자주식의 취득,-,제 14 기 1분기,12672941749,,,35,KRW,,제 13 기 1분기,0,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,위험회피활동으로 인한 현금지급,-,제 14 기 1분기,16281702826,,,36,KRW,,제 13 기 1분기,0,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,위험회피활동으로 인한 현금유입,-,제 14 기 1분기,0,,,37,KRW,,제 13 기 1분기,3922526953,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 14 기 1분기,600000000,,,38,KRW,,제 13 기 1분기,42500000,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInterestsInAssociates,관계기업투자자산의 처분,-,제 14 기 1분기,1349611522,,,39,KRW,,제 13 기 1분기,339925951,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 14 기 1분기,278241000,,,40,KRW,,제 13 기 1분기,329594243,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 14 기 1분기,32154387921,,,41,KRW,,제 13 기 1분기,17660711937,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_PurchaseOfInterestsInAssociates,관계기업투자자산의 취득,-,제 14 기 1분기,2577058251,,,42,KRW,,제 13 기 1분기,2000000000,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_PurchaseOfInvestmentProperty,투자부동산의 취득,-,제 14 기 1분기,23901431,,,43,KRW,,제 13 기 1분기,246863538,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 14 기 1분기,2006562392,,,44,KRW,,제 13 기 1분기,4212813839,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동으로 인한 현금흐름,-,제 14 기 1분기,-110219233839,,,46,KRW,,제 13 기 1분기,447378984604,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperations,영업에서 창출된 현금흐름,-,제 14 기 1분기,-456142910988,,,47,KRW,,제 13 기 1분기,-75690499305,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산 부채의 변동,-,제 14 기 1분기,-320816653493,,,48,KRW,,제 13 기 1분기,9414546838,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInDerivativeAssets,파생상품자산의 감소(증가),-,제 14 기 1분기,91287080354,,,49,KRW,,제 13 기 1분기,216285273972,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInDuefromBanks,예치금의 감소(증가),-,제 14 기 1분기,-124451293510,,,50,KRW,,제 13 기 1분기,-743244807192,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities,당기손익-공정가치측정 금융자산의 감소(증가),-,제 14 기 1분기,-251058315003,,,51,KRW,,제 13 기 1분기,-176931743981,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInFinancialLiabilitiesAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities,당기손익-공정가치측정금융부채의 증가(감소),-,제 14 기 1분기,111928512228,,,52,KRW,,제 13 기 1분기,529916876158,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities,당기손익-공정가치인식지정금융부채의 증가(감소),-,제 14 기 1분기,-116439682763,,,53,KRW,,제 13 기 1분기,-18315942382,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInInsuranceContractsIssuedThatAreLiabilities,보험계약부채의 증가(감소),-,제 14 기 1분기,14612457757,,,54,KRW,,제 13 기 1분기,-48195143160,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInProvisions,충당부채의 증가(감소),-,제 14 기 1분기,-40111734711,,,55,KRW,,제 13 기 1분기,-121144395,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_IncreaseInRepurchaseAgreements,환매조건부채권매도의 증가,-,제 14 기 1분기,356432488061,,,56,KRW,,제 13 기 1분기,90159318493,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,-표준계정코드 미사용-,재보험계약부채의 감소,-,제 14 기 1분기,2715249673,,,57,KRW,,제 13 기 1분기,2129685337,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,-표준계정코드 미사용-,상각후원가측정 대출채권의 증가,-,제 14 기 1분기,-980742124852,,,58,KRW,,제 13 기 1분기,946971115895,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInOtherAssets,기타자산의 감소(증가),-,제 14 기 1분기,-802459439015,,,59,KRW,,제 13 기 1분기,-953807790270,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInDepositsFromCustomers,예수부채,-,제 14 기 1분기,370972260156,,,60,KRW,,제 13 기 1분기,-817306867804,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInDerivativeFinancialLiabilities,파생상품부채의 증가(감소),-,제 14 기 1분기,-100419229993,,,61,KRW,,제 13 기 1분기,-233368147278,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInEmployeeBenefitLiabilities,순확정급여부채 증가(감소),-,제 14 기 1분기,-7590023742,,,62,KRW,,제 13 기 1분기,-560488875,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInOtherLiabilities,기타부채의 증가(감소),-,제 14 기 1분기,1154507141867,,,63,KRW,,제 13 기 1분기,1215804352320,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,손익조정사항,-,제 14 기 1분기,-248280607341,,,64,KRW,,제 13 기 1분기,-262754453615,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets,신용손실충당금 전입액,-,제 14 기 1분기,159426357461,,,65,KRW,,제 13 기 1분기,109978857006,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForExpenseOfProvisions,충당부채전입액,-,제 14 기 1분기,104559363,,,66,KRW,,제 13 기 1분기,386153401,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForGainLossOnForeignExchangeTranslations,외화환산손익,-,제 14 기 1분기,-37122205440,,,67,KRW,,제 13 기 1분기,-7244157573,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForInterestExpenses,이자비용,-,제 14 기 1분기,636865929303,,,68,KRW,,제 13 기 1분기,577049085543,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForNonOperatingIncomeExpense,영업외손익,-,제 14 기 1분기,-502895331,,,69,KRW,,제 13 기 1분기,621173672,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForOtherOperatingIncomeExpense,기타영업손익,-,제 14 기 1분기,-2846816710,,,70,KRW,,제 13 기 1분기,-1666121231,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여,-,제 14 기 1분기,8335300267,,,71,KRW,,제 13 기 1분기,8391799587,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_GainsLossesOnChangeInFairValueOfFinancialInstrumentsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융상품평가손익,-,제 14 기 1분기,-94071526433,,,72,KRW,,제 13 기 1분기,-95165222052,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,dart_GainsLossesOnChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss,당기손익-공정가치인식지정금융부채평가손익,-,제 14 기 1분기,5865502754,,,73,KRW,,제 13 기 1분기,47707550713,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,-표준계정코드 미사용-,보험관련손익,-,제 14 기 1분기,41512582800,,,74,KRW,,제 13 기 1분기,12706479360,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,-표준계정코드 미사용-,기타포괄손익-공정가치측정 금융자산 관련손익,-,제 14 기 1분기,-5327479901,,,75,KRW,,제 13 기 1분기,-53505370616,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,-표준계정코드 미사용-,유무형자산기타순손익,-,제 14 기 1분기,-24460684,,,76,KRW,,제 13 기 1분기,-193650566,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationAndAmortisationExpense,감가상각비 및 무형자산상각비,-,제 14 기 1분기,34050855006,,,77,KRW,,제 13 기 1분기,35310431249,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_AdjustmentsForDividendIncome,배당수익,-,제 14 기 1분기,1481628877,,,78,KRW,,제 13 기 1분기,359889297,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_AdjustmentsForGainLossOnDisposalOfInvestmentsInSubsidiariesJointVenturesAndAssociates,지분법 관련손익,-,제 14 기 1분기,-1927578413,,,79,KRW,,제 13 기 1분기,496125996,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_AdjustmentsForGainsLossesOnChangeInFairValueOfDerivatives,파생상품평가손익,-,제 14 기 1분기,28720314811,,,80,KRW,,제 13 기 1분기,20479850610,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용,-,제 14 기 1분기,41940997232,,,81,KRW,,제 13 기 1분기,47390310120,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익,-,제 14 기 1분기,1061798414549,,,82,KRW,,제 13 기 1분기,965137859537,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_ProfitLoss,분기순이익,-,제 14 기 1분기,112954349846,,,83,KRW,,제 13 기 1분기,177649407472,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취,-,제 14 기 1분기,3704372799,,,84,KRW,,제 13 기 1분기,4085075329,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부(환급),-,제 14 기 1분기,24371754970,,,85,KRW,,제 13 기 1분기,27815607802,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급,-,제 14 기 1분기,666188595925,,,86,KRW,,제 13 기 1분기,418622365080,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 14 기 1분기,1032779655245,,,87,KRW,,제 13 기 1분기,965422381462,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 14 기 1분기,13788541830,,,89,KRW,,제 13 기 1분기,12886473492,,연결
+20240628000463,11013,2024,00878915,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 14 기 1분기,391017001569,,,90,KRW,,제 13 기 1분기,-75676583741,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 14 기 1분기,-341693536583,,,3,KRW,,제 13 기 1분기,-359717846948,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 14 기 1분기,5948770414919,,,3,KRW,,제 13 기 1분기,5578021580309,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 14 기 1분기,-20577892780,,,3,KRW,,제 13 기 1분기,-9980,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 14 기 1분기,1562451185572,,,3,KRW,,제 13 기 1분기,1562451185572,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|비지배지분 [구성요소],제 14 기 1분기,334783703205,,,3,KRW,,제 13 기 1분기,829706416582,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 14 기 1분기,3289096622710,,,3,KRW,,제 13 기 1분기,3031461486665,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 14 기 1분기,613764871000,,,3,KRW,,제 13 기 1분기,498097600000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 14 기 1분기,6283554118124,,,3,KRW,,제 13 기 1분기,6407727996891,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 14 기 1분기,845729165000,,,3,KRW,,제 13 기 1분기,845729165000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 14 기 1분기,91516057600,,,6,KRW,,제 13 기 1분기,109944790800,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,연결재무제표 [member],제 14 기 1분기,91516057600,,,6,KRW,,제 13 기 1분기,109944790800,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 14 기 1분기,91516057600,,,6,KRW,,제 13 기 1분기,109944790800,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_DividendToHybridBond,신종자본증권 이익분배금,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 14 기 1분기,6556099999,,,7,KRW,,제 13 기 1분기,4581250000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_DividendToHybridBond,신종자본증권 이익분배금,자본 [구성요소]|비지배지분 [구성요소],제 14 기 1분기,2032499998,,,7,KRW,,제 13 기 1분기,8036866666,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_DividendToHybridBond,신종자본증권 이익분배금,연결재무제표 [member],제 14 기 1분기,8588599997,,,7,KRW,,제 13 기 1분기,12618116666,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_DividendToHybridBond,신종자본증권 이익분배금,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 14 기 1분기,6556099999,,,7,KRW,,제 13 기 1분기,4581250000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_IssueOfHybridBond,신종자본증권발행,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 14 기 1분기,,,,8,KRW,,제 13 기 1분기,115573871000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_IssueOfHybridBond,신종자본증권발행,연결재무제표 [member],제 14 기 1분기,0,,,8,KRW,,제 13 기 1분기,215291351000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_IssueOfHybridBond,신종자본증권발행,자본 [구성요소]|비지배지분 [구성요소],제 14 기 1분기,0,,,8,KRW,,제 13 기 1분기,99717480000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_IssueOfHybridBond,신종자본증권발행,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 14 기 1분기,0,,,8,KRW,,제 13 기 1분기,115573871000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_RepaymentOfHybridBond,신종자본증권상환,자본 [구성요소]|비지배지분 [구성요소],제 14 기 1분기,,,,9,KRW,,제 13 기 1분기,100000000000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_RepaymentOfHybridBond,신종자본증권상환,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 14 기 1분기,-599020000,,,9,KRW,,제 13 기 1분기,599020000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_RepaymentOfHybridBond,신종자본증권상환,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 14 기 1분기,599020000,,,9,KRW,,제 13 기 1분기,,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_RepaymentOfHybridBond,신종자본증권상환,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 14 기 1분기,,,,9,KRW,,제 13 기 1분기,149400980000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_RepaymentOfHybridBond,신종자본증권상환,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 14 기 1분기,0,,,9,KRW,,제 13 기 1분기,150000000000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_RepaymentOfHybridBond,신종자본증권상환,연결재무제표 [member],제 14 기 1분기,0,,,9,KRW,,제 13 기 1분기,250000000000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 14 기 1분기,794281020,,,11,KRW,,제 13 기 1분기,799854000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 14 기 1분기,794281020,,,11,KRW,,제 13 기 1분기,799854000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동 합계,자본 [구성요소]|비지배지분 [구성요소],제 14 기 1분기,-718433343,,,11,KRW,,제 13 기 1분기,-717751859,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동 합계,연결재무제표 [member],제 14 기 1분기,75847677,,,11,KRW,,제 13 기 1분기,82102141,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|비지배지분 [구성요소],제 14 기 1분기,-24159531,,,15,KRW,,제 13 기 1분기,400732118,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,연결재무제표 [member],제 14 기 1분기,-92832818001,,,15,KRW,,제 13 기 1분기,141477254045,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 14 기 1분기,-92808658470,,,15,KRW,,제 13 기 1분기,141076521927,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 14 기 1분기,-92808658470,,,15,KRW,,제 13 기 1분기,141076521927,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,-표준계정코드 미사용-,기타포괄손익-공정가치측정 금융자산의 기대신용손실,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 14 기 1분기,371833646,,,16,KRW,,제 13 기 1분기,140258018,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,-표준계정코드 미사용-,기타포괄손익-공정가치측정 금융자산의 기대신용손실,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 14 기 1분기,371833646,,,16,KRW,,제 13 기 1분기,140258018,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,-표준계정코드 미사용-,기타포괄손익-공정가치측정 금융자산의 기대신용손실,연결재무제표 [member],제 14 기 1분기,372845464,,,16,KRW,,제 13 기 1분기,140728662,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,-표준계정코드 미사용-,기타포괄손익-공정가치측정 금융자산의 기대신용손실,자본 [구성요소]|비지배지분 [구성요소],제 14 기 1분기,1011818,,,16,KRW,,제 13 기 1분기,470644,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,-표준계정코드 미사용-,보험계약자산(부채)의 순금융손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 14 기 1분기,-6754723033,,,17,KRW,,제 13 기 1분기,-75517107640,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,-표준계정코드 미사용-,보험계약자산(부채)의 순금융손익,연결재무제표 [member],제 14 기 1분기,-6754723033,,,17,KRW,,제 13 기 1분기,-75517107640,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,-표준계정코드 미사용-,보험계약자산(부채)의 순금융손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 14 기 1분기,-6754723033,,,17,KRW,,제 13 기 1분기,-75517107640,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 14 기 1분기,-374305394,,,18,KRW,,제 13 기 1분기,298286195,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 14 기 1분기,-374305394,,,18,KRW,,제 13 기 1분기,298286195,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피평가손익,연결재무제표 [member],제 14 기 1분기,-374305394,,,18,KRW,,제 13 기 1분기,298286195,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장 외화환산손익,연결재무제표 [member],제 14 기 1분기,24769637283,,,19,KRW,,제 13 기 1분기,15743060548,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장 외화환산손익,자본 [구성요소]|비지배지분 [구성요소],제 14 기 1분기,13037605,,,19,KRW,,제 13 기 1분기,59291125,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장 외화환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 14 기 1분기,24756599678,,,19,KRW,,제 13 기 1분기,15683769423,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장 외화환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 14 기 1분기,24756599678,,,19,KRW,,제 13 기 1분기,15683769423,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 14 기 1분기,-138806492,,,20,KRW,,제 13 기 1분기,-154619801,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,자본 [구성요소]|비지배지분 [구성요소],제 14 기 1분기,-19078855,,,20,KRW,,제 13 기 1분기,-17494363,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,연결재무제표 [member],제 14 기 1분기,-157885347,,,20,KRW,,제 13 기 1분기,-172114164,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 14 기 1분기,-138806492,,,20,KRW,,제 13 기 1분기,-154619801,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations,해외사업장순투자위험회피평가손익,연결재무제표 [member],제 14 기 1분기,-18867133374,,,21,KRW,,제 13 기 1분기,-11546544997,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations,해외사업장순투자위험회피평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 14 기 1분기,-18867133374,,,21,KRW,,제 13 기 1분기,-11546544997,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations,해외사업장순투자위험회피평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 14 기 1분기,-18867133374,,,21,KRW,,제 13 기 1분기,-11546544997,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 14 기 1분기,111715540296,,,22,KRW,,제 13 기 1분기,167998514182,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 14 기 1분기,111715540296,,,22,KRW,,제 13 기 1분기,167998514182,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익,자본 [구성요소]|비지배지분 [구성요소],제 14 기 1분기,1238809550,,,22,KRW,,제 13 기 1분기,9650893290,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익,연결재무제표 [member],제 14 기 1분기,112954349846,,,22,KRW,,제 13 기 1분기,177649407472,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|신종자본증권 [구성요소],제 14 기 1분기,613764871000,,,23,KRW,,제 13 기 1분기,464270491000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 14 기 1분기,3302935266427,,,23,KRW,,제 13 기 1분기,3085733814047,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 14 기 1분기,845729165000,,,23,KRW,,제 13 기 1분기,845729165000,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 14 기 1분기,1562451185572,,,23,KRW,,제 13 기 1분기,1562451185572,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 14 기 1분기,-435508730022,,,23,KRW,,제 13 기 1분기,-289737283823,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 14 기 1분기,-19978872780,,,23,KRW,,제 13 기 1분기,-599029980,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|비지배지분 [구성요소],제 14 기 1분기,333242390451,,,23,KRW,,제 13 기 1분기,830763170871,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 14 기 1분기,6202635275648,,6283554118124,23,KRW,,제 13 기 1분기,6498611512687,,연결
+20240628000463,11013,2024,00878915,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 14 기 1분기,5869392885197,,,23,KRW,,제 13 기 1분기,5667848341816,,연결

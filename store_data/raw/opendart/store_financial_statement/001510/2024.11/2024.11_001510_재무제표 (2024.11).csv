@@ -1,0 +1,202 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분
+20241114001359,11014,2024,00131850,BS,재무상태표,dart_CashAndDuefromBanks,현금및예치금,-,제 71 기 3분기말,512657658397,제 70 기말,426379899624,7,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,dart_DebtSecuritiesAtAmortisedCost,상각후원가측정금융자산,-,제 71 기 3분기말,42610000,제 70 기말,19998210000,8,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,dart_LoansAtAmortisedCost,대출채권,-,제 71 기 3분기말,1063945083554,제 70 기말,1208147072236,9,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 71 기 3분기말,6470054359578,제 70 기말,6449093771600,10,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_CurrentTaxAssets,당기법인세자산,-,제 71 기 3분기말,13503755947,제 70 기말,14701977643,11,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 71 기 3분기말,253761297,제 70 기말,152341897,12,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_DerivativeFinancialAssetsHeldForTrading,파생상품자산,-,제 71 기 3분기말,68724679493,제 70 기말,48160103782,13,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_FinanceLeaseReceivables,리스자산,-,제 71 기 3분기말,19795313619,제 70 기말,20257321508,14,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산,-,제 71 기 3분기말,160277826191,제 70 기말,167240703818,15,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융자산,-,제 71 기 3분기말,3614567228106,제 70 기말,3665816267309,16,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_IntangibleAssetsAndGoodwill,무형자산,-,제 71 기 3분기말,34862833056,제 70 기말,39489957646,17,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_InvestmentAccountedForUsingEquityMethod,관계기업투자지분,-,제 71 기 3분기말,222925045278,제 70 기말,232441824439,18,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 71 기 3분기말,3019311012,제 70 기말,6800332150,19,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_OtherFinancialAssets,기타금융자산,-,제 71 기 3분기말,625666822138,제 70 기말,468119012468,20,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_OtherNonfinancialAssets,기타비금융자산,-,제 71 기 3분기말,29412866356,제 70 기말,23216386761,21,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 71 기 3분기말,31558663099,제 70 기말,31578576120,22,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_RightofuseAssets,사용권자산,-,제 71 기 3분기말,68840902035,제 70 기말,76593784199,23,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 71 기 3분기말,587401903985,제 70 기말,647238478234,26,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배주주지분,-,제 71 기 3분기말,577399396924,제 70 기말,636324143459,27,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 71 기 3분기말,70336007457,제 70 기말,70336007457,28,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타자본항목,-,제 71 기 3분기말,-35504960266,제 70 기말,-35448808767,29,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_AccumulatedOtherComprehensiveIncome,기타포괄손익누계액,-,제 71 기 3분기말,109785405148,제 70 기말,116429908383,30,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 71 기 3분기말,238251342500,제 70 기말,238251342500,31,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금,-,제 71 기 3분기말,194531602085,제 70 기말,246755693886,32,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,dart_RegulatoryReserveForCreditLoss,(대손준비금 적립액),-,제 71 기 3분기말,23420451968,제 70 기말,8679921686,33,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,dart_RegulatoryReserveForCreditLossToBeAddedReversed,(대손준비금 전입(환입) 예정액),-,제 71 기 3분기말,-295543721,제 70 기말,14740530282,34,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 71 기 3분기말,10002507061,제 70 기말,10914334775,35,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 71 기 3분기말,6470054359578,제 70 기말,6449093771600,36,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_Borrowings,차입부채,-,제 71 기 3분기말,3031060444615,제 70 기말,3111834437973,38,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 71 기 3분기말,968187331,제 70 기말,908648985,39,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 71 기 3분기말,2062822910,제 70 기말,19682367999,40,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_DepositsFromCustomers,예수부채,-,제 71 기 3분기말,966453598402,제 70 기말,1037579483729,41,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_DerivativeFinancialLiabilities,파생상품부채,-,제 71 기 3분기말,109019043097,제 70 기말,107907736938,42,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_FinancialLiabilitiesAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융부채,-,제 71 기 3분기말,1088868076753,제 70 기말,952836038800,43,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_LeaseLiabilities,리스부채,-,제 71 기 3분기말,75214581315,제 70 기말,83751091598,44,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 71 기 3분기말,5882652455593,제 70 기말,5801855293366,45,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_OtherFinancialLiabilities,기타금융부채,-,제 71 기 3분기말,550687800357,제 70 기말,424718990435,46,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_OtherNonfinancialLiabilities,기타비금융부채,-,제 71 기 3분기말,44174448122,제 70 기말,52477397092,47,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_Provisions,충당부채,-,제 71 기 3분기말,7134785494,제 70 기말,10159099817,48,KRW,,,,,연결
+20241114001359,11014,2024,00131850,BS,재무상태표,ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan,순확정급여부채,-,제 71 기 3분기말,7008667197,제 70 기말,0,49,KRW,,,,,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,dart_GainLossFromFinancialInstruments,금융상품관련순손익,-,제 71 기 3분기,-7529143129,,,6,KRW,-17175838701,제 70 기 3분기,12774417628,67936531889,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,dart_GainFromFinancialInstruments,금융상품관련수익,-,제 71 기 3분기,95243271724,,,7,KRW,439449439477,제 70 기 3분기,217578580463,569166006071,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,dart_GainFromFinancialInstrumentsAtAmortisedCost,상각후원가측정금융상품관련이익,-,제 71 기 3분기,2054035208,,,8,KRW,857870274,제 70 기 3분기,1644137244,2729190769,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융상품관련이익,-,제 71 기 3분기,93189236516,,,9,KRW,438591569203,제 70 기 3분기,215934443219,566436815302,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,dart_LossFromFinancialInstruments,금융상품관련비용,-,제 71 기 3분기,102772414853,,,10,KRW,456625278178,제 70 기 3분기,204804162835,501229474182,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,dart_LossFromFinancialInstrumentsAtAmortisedCost,상각후원가측정금융상품관련손실,-,제 71 기 3분기,3038363637,,,11,KRW,5804287654,제 70 기 3분기,0,340370598,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융상품관련손실,-,제 71 기 3분기,99734051216,,,12,KRW,450820990524,제 70 기 3분기,204804162835,500889103584,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,dart_NonOperatingExpense,영업외비용,-,제 71 기 3분기,5498514473,,,13,KRW,11014717155,제 70 기 3분기,5005156231,31181406859,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,dart_NonOperatingIncome,영업외수익,-,제 71 기 3분기,8778673027,,,14,KRW,20094795858,제 70 기 3분기,7146136169,23115806627,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,-표준계정코드 미사용-,순영업손익,-,제 71 기 3분기,62387100906,,,15,KRW,113146746319,제 70 기 3분기,63105237537,208161529607,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets,신용손실충당금 전입액,-,제 71 기 3분기,743181954,,,16,KRW,53280600854,제 70 기 3분기,4406484961,23151426100,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 71 기 3분기,-3594318904,,,17,KRW,-59186084165,제 70 기 3분기,2499154749,25622196401,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분총포괄이익,-,제 71 기 3분기,-399311901,,,18,KRW,-757491491,제 70 기 3분기,-384671994,89810254,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업소유지분총포괄이익,-,제 71 기 3분기,-3195007003,,,19,KRW,-58428592674,제 70 기 3분기,2883826743,25532386147,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),-,제 71 기 3분기,3.09,,,21,KRW,-125.11,제 70 기 3분기,14.87,53.7,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,희석주당이익(손실),-,제 71 기 3분기,3.09,,,22,KRW,-125.11,제 70 기 3분기,14.86,53.66,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_FeeAndCommissionIncomeExpense,순수수료손익,-,제 71 기 3분기,39724497730,,,23,KRW,117058138380,제 70 기 3분기,43629704972,132118749958,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_FeeAndCommissionExpense,수수료비용,-,제 71 기 3분기,2226997811,,,24,KRW,6506887442,제 70 기 3분기,3009544497,8352137220,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_FeeAndCommissionIncome,수수료수익,-,제 71 기 3분기,41951495541,,,25,KRW,123565025822,제 70 기 3분기,46639249469,140470887178,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),-,제 71 기 3분기,1035111045,,,26,KRW,-14788698166,제 70 기 3분기,17917526,6413991422,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_InterestRevenueExpense,순이자손익,-,제 71 기 3분기,16127443974,,,27,KRW,41796687253,제 70 기 3분기,11140184316,27592661144,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_InterestExpense,이자비용,-,제 71 기 3분기,37783566623,,,28,KRW,118773617844,제 70 기 3분기,42328145732,125562035478,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_RevenueFromInterest,이자수익,-,제 71 기 3분기,53911010597,,,29,KRW,160570305097,제 70 기 3분기,53468330048,153154696622,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss,당기손익-공정가치측정 금융자산 이자수익,-,제 71 기 3분기,23933426184,,,30,KRW,73578206550,제 70 기 3분기,21243283292,60257319872,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod,유효이자율적용이자수익,-,제 71 기 3분기,29977584413,,,31,KRW,86992098547,제 70 기 3분기,32225046756,92897376750,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 71 기 3분기,-4564700693,,,32,KRW,-6644503235,제 70 기 3분기,-3360946710,3065929241,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,-,제 71 기 3분기,-1144737148,,,34,KRW,-246650994,제 70 기 3분기,303777387,722545528,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,-,제 71 기 3분기,-106855101,,,35,KRW,-126728938,제 70 기 3분기,23509655,27702401,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability,당기손익-공정가치측정지정금융부채 신용위험변동,-,제 71 기 3분기,912154792,,,37,KRW,177373263,제 70 기 3분기,609030249,-735503111,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치측정지분상품평가손익,-,제 71 기 3분기,-5415031198,,,38,KRW,-5354452895,제 70 기 3분기,-5264198395,4548493701,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,-,제 71 기 3분기,1189767962,,,39,KRW,-1094043671,제 70 기 3분기,966934394,-1497309278,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_OtherOperatingIncomeExpense,기타영업손익,-,제 71 기 3분기,7837157759,,,40,KRW,8515612238,제 70 기 3분기,-1513403583,-6215297578,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,dart_OtherOperatingExpense,기타영업비용,-,제 71 기 3분기,2922383079,,,41,KRW,11802628011,제 70 기 3분기,14737048143,33427129704,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_ForeignExchangeLoss,외화거래손실,-,제 71 기 3분기,2789672619,,,42,KRW,10508820240,제 70 기 3분기,4790252968,20200342153,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_MiscellaneousOtherOperatingExpense,기타영업비용,-,제 71 기 3분기,132710460,,,43,KRW,1293807771,제 70 기 3분기,9946795175,13226787551,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,dart_OtherOperatingIncome,기타영업수익,-,제 71 기 3분기,10759540838,,,44,KRW,20318240249,제 70 기 3분기,13223644560,27211832126,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_ForeignExchangeGain,외화거래이익,-,제 71 기 3분기,4282667564,,,45,KRW,11289142991,제 70 기 3분기,5191841699,20332079967,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_MiscellaneousOtherOperatingIncome,기타영업수익,-,제 71 기 3분기,6476873274,,,46,KRW,9029097258,제 70 기 3분기,8031802861,6879752159,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 71 기 3분기,970381789,,,47,KRW,-52541580930,제 70 기 3분기,5860101459,22556267160,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분에 귀속되는 당기순이익(손실),-,제 71 기 3분기,-399311901,,,48,KRW,-757491491,제 70 기 3분기,-384671994,89810254,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 당기순이익(손실),-,제 71 기 3분기,1369693690,,,49,KRW,-51784089439,제 70 기 3분기,6244773453,22466456906,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세차감전순이익,-,제 71 기 3분기,2005492834,,,50,KRW,-67330279096,제 70 기 3분기,5878018985,28970258582,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_ProfitLossFromOperatingActivities,영업이익(손실),-,제 71 기 3분기,-1274665720,,,51,KRW,-76410357799,제 70 기 3분기,3737039047,37035858814,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_RevenueFromDividends,배당수익,-,제 71 기 3분기,4480363770,,,52,KRW,16232748003,제 70 기 3분기,1450339229,9880310294,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets,신용손실충당금 환입액,-,제 71 기 3분기,2489962756,,,53,KRW,0,제 70 기 3분기,30479936,0,연결
+20241114001359,11014,2024,00131850,CIS,포괄손익계산서,ifrs-full_SellingGeneralAndAdministrativeExpense,판매비와관리비,-,제 71 기 3분기,63661766626,,,54,KRW,189557104118,제 70 기 3분기,59368198490,171125670793,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 71 기 3분기,182814970715,,,2,KRW,,제 70 기 3분기,235561865963,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_CashAndCashEquivalents,기말현금및현금성자산,-,제 71 기 3분기,229681453843,,,7,KRW,,제 70 기 3분기,286433318818,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동순현금흐름,-,제 71 기 3분기,-84701693684,,,9,KRW,,제 70 기 3분기,-124757144132,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 증가,-,제 71 기 3분기,171703384,,,10,KRW,,제 70 기 3분기,0,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,-표준계정코드 미사용-,환매조건부매도 순증감,-,제 71 기 3분기,19798064306,,,11,KRW,,제 70 기 3분기,-93559546015,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금지급,-,제 71 기 3분기,855253110,,,12,KRW,,제 70 기 3분기,2108625130,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 71 기 3분기,8299482235,,,13,KRW,,제 70 기 3분기,8196118047,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의 증가,-,제 71 기 3분기,2107209229632,,,14,KRW,,제 70 기 3분기,2384084390745,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures,사채발행,-,제 71 기 3분기,18000000000,,,15,KRW,,제 70 기 3분기,0,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_RepaymentsOfBondsNotesAndDebentures,사채상환,-,제 71 기 3분기,0,,,16,KRW,,제 70 기 3분기,7000000000,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 감소,-,제 71 기 3분기,2220725955661,,,17,KRW,,제 70 기 3분기,2397977245685,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동순현금흐름,-,제 71 기 3분기,13585340173,,,19,KRW,,제 70 기 3분기,-15431754107,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 71 기 3분기,2104646678,,,20,KRW,,제 70 기 3분기,344873930,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_PaymentsForRestoration,복구비의지출,-,제 71 기 3분기,31806170,,,21,KRW,,제 70 기 3분기,0,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,-표준계정코드 미사용-,보증금의 회수,-,제 71 기 3분기,1789000000,,,22,KRW,,제 70 기 3분기,121107944,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 71 기 3분기,2699000000,,,23,KRW,,제 70 기 3분기,1848109510,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInterestsInAssociates,관계기업투자자산의 처분,-,제 71 기 3분기,26009299637,,,24,KRW,,제 70 기 3분기,17343631503,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInvestmentProperty,투자부동산의 처분,-,제 71 기 3분기,3864529530,,,25,KRW,,제 70 기 3분기,0,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 71 기 3분기,6888299,,,26,KRW,,제 70 기 3분기,0,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 71 기 3분기,1577961327,,,27,KRW,,제 70 기 3분기,5157150118,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_PurchaseOfInterestsInAssociates,관계기업투자자산의 취득,-,제 71 기 3분기,13572802505,,,28,KRW,,제 70 기 3분기,27955539150,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_PurchaseOfInvestmentProperty,투자부동산의 취득,-,제 71 기 3분기,31069824,,,29,KRW,,제 70 기 3분기,0,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 71 기 3분기,3465090789,,,30,KRW,,제 70 기 3분기,1287039866,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동순현금흐름,-,제 71 기 3분기,118061543454,,,32,KRW,,제 70 기 3분기,190930826614,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperations,영업에서 창출된 현금흐름,-,제 71 기 3분기,64017294090,,,33,KRW,,제 70 기 3분기,147542200565,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산 부채의 변동,-,제 71 기 3분기,104811969063,,,34,KRW,,제 70 기 3분기,164316899897,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInDuefromBanks,예치금의 감소(증가),-,제 71 기 3분기,-39516073954,,,35,KRW,,제 70 기 3분기,-7744022934,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtAmortisedCostClassifiedAsOperatingActivities,상각후원가측정금융자산의 감소(증가),-,제 71 기 3분기,19955600000,,,36,KRW,,제 70 기 3분기,-29967900000,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities,당기손익-공정가치측정금융자산의 감소(증가),-,제 71 기 3분기,47827367264,,,37,KRW,,제 70 기 3분기,232688232975,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInLoans,대출채권의 감소(증가),-,제 71 기 3분기,128319855890,,,38,KRW,,제 70 기 3분기,-60194849630,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInFinancialLiabilitiesAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities,당기손익-공정가치측정금융부채의 증가(감소),-,제 71 기 3분기,118632009932,,,39,KRW,,제 70 기 3분기,138561345959,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,-표준계정코드 미사용-,리스자산의 감소(증가),-,제 71 기 3분기,-2983467089,,,40,KRW,,제 70 기 3분기,-4279753536,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInDerivativeFinancialAssets,파생상품자산의 감소(증가),-,제 71 기 3분기,4386699471,,,41,KRW,,제 70 기 3분기,31736283894,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInOtherAssets,기타자산의 감소(증가),-,제 71 기 3분기,-155723288307,,,42,KRW,,제 70 기 3분기,-300500103498,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInDepositsFromCustomers,예수부채의 증가(감소),-,제 71 기 3분기,-71048738934,,,43,KRW,,제 70 기 3분기,-32694213402,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInDerivativeFinancialLiabilities,파생상품부채의 증가(감소),-,제 71 기 3분기,-19223582715,,,44,KRW,,제 70 기 3분기,-26868341485,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInEmployeeBenefitLiabilities,순확정급여부채 증가(감소),-,제 71 기 3분기,-3056842832,,,45,KRW,,제 70 기 3분기,-404038492,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInOtherLiabilities,기타부채의 증가(감소),-,제 71 기 3분기,77242430337,,,46,KRW,,제 70 기 3분기,223984260046,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForDividendIncome,배당금수익,-,제 71 기 3분기,16232748003,,,47,KRW,,제 70 기 3분기,9880310294,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용(수익),-,제 71 기 3분기,-14788698166,,,48,KRW,,제 70 기 3분기,6413991422,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForInterestExpense,이자비용,-,제 71 기 3분기,118773617844,,,49,KRW,,제 70 기 3분기,125562035478,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익,-,제 71 기 3분기,160570305097,,,50,KRW,,제 70 기 3분기,153154696622,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감 합계,-,제 71 기 3분기,84565039379,,,51,KRW,,제 70 기 3분기,-8271986476,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비,-,제 71 기 3분기,53180547512,,,52,KRW,,제 70 기 3분기,21902557236,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_AdjustmentsForGainLossOnDisposalOfInvestmentsInAssociates,관계기업투자자산처분손익,-,제 71 기 3분기,1044063978,,,53,KRW,,제 70 기 3분기,1068370787,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_AdjustmentsForGainLossOnDisposalsOfIntangibleAssets,무형자산처분손익,-,제 71 기 3분기,1278451795,,,54,KRW,,제 70 기 3분기,599584870,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_AdjustmentsForGainLossOnDisposalsOfInvestmentProperty,투자부동산처분손익,-,제 71 기 3분기,-106643712,,,55,KRW,,제 70 기 3분기,0,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_AdjustmentsForGainLossOnForeignExchangeTranslations,외화환산손익,-,제 71 기 3분기,1179858847,,,56,KRW,,제 70 기 3분기,2279163449,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_AdjustmentsForOtherBadDebtExpenses,기타대손상각비,-,제 71 기 3분기,100053342,,,57,KRW,,제 70 기 3분기,1248868864,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_AdjustmentsForOtherOperatingIncomeExpense,기타,-,제 71 기 3분기,-76229526,,,58,KRW,,제 70 기 3분기,1072747904,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여,-,제 71 기 3분기,6971950787,,,59,KRW,,제 70 기 3분기,7415144640,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,dart_AdjustmentsForReversalOfImpairmentLossInInvestmentsInAssociates,종속기업및관계기업투자지분손상차손환입,-,제 71 기 3분기,3971529224,,,60,KRW,,제 70 기 3분기,0,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,-표준계정코드 미사용-,당기손익-공정가치측정금융자산평가손익,-,제 71 기 3분기,3634257623,,,61,KRW,,제 70 기 3분기,-41519331506,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,-표준계정코드 미사용-,탄소배출권평가손익,-,제 71 기 3분기,-1166700321,,,62,KRW,,제 70 기 3분기,-3925664486,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,-표준계정코드 미사용-,당기손익-공정가치측정금융부채평가손익,-,제 71 기 3분기,17630682460,,,63,KRW,,제 70 기 3분기,15162928185,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,-표준계정코드 미사용-,대출채권평가손익,-,제 71 기 3분기,-2040278,,,64,KRW,,제 70 기 3분기,-1411259560,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,-표준계정코드 미사용-,사용권자산손상차손,-,제 71 기 3분기,0,,,65,KRW,,제 70 기 3분기,978314598,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,-표준계정코드 미사용-,리스처분손익,-,제 71 기 3분기,-255324992,,,66,KRW,,제 70 기 3분기,-33125237,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForAmortisationExpense,무형자산상각비,-,제 71 기 3분기,4784537712,,,67,KRW,,제 70 기 3분기,5261333970,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationExpense,감가상각비,-,제 71 기 3분기,13930119743,,,68,KRW,,제 70 기 3분기,14234298202,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForGainLossOnDisposalsPropertyPlantAndEquipment,유형자산처분손익,-,제 71 기 3분기,6888300,,,69,KRW,,제 70 기 3분기,-47000,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForGainsLossesOnChangeInFairValueOfDerivatives,파생상품평가손익,-,제 71 기 3분기,4616386308,,,70,KRW,,제 70 기 3분기,17631716865,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForProvisions,충당부채전입(환입)액,-,제 71 기 3분기,-4392371413,,,71,KRW,,제 70 기 3분기,5572425407,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_AdjustmentsForUndistributedProfitsOfInvestmentsAccountedForUsingEquityMethod,지분법손익,-,제 71 기 3분기,-2063632418,,,72,KRW,,제 70 기 3분기,10506939914,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 71 기 3분기,970381789,,,73,KRW,,제 70 기 3분기,5860101459,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취,-,제 71 기 3분기,16056833820,,,74,KRW,,제 70 기 3분기,9924209154,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세환급(납부),-,제 71 기 3분기,385033370,,,75,KRW,,제 70 기 3분기,-7204328164,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급,-,제 71 기 3분기,114428276141,,,76,KRW,,제 70 기 3분기,123646860590,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 71 기 3분기,152800725055,,,77,KRW,,제 70 기 3분기,149906949321,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 71 기 3분기,-78706815,,,79,KRW,,제 70 기 3분기,129524480,,연결
+20241114001359,11014,2024,00131850,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,환율변동효과 반영전 현금및현금성자산의 순증가(감소),-,제 71 기 3분기,46945189943,,,80,KRW,,제 70 기 3분기,50741928375,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|비지배지분 [구성요소],제 71 기 3분기,10914334775,,,3,KRW,,제 70 기 3분기,10206505539,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 71 기 3분기,70336007457,,,3,KRW,,제 70 기 3분기,70307527673,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 71 기 3분기,238251342500,,,3,KRW,,제 70 기 3분기,238251342500,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 71 기 3분기,246755693886,,,3,KRW,,제 70 기 3분기,246094994310,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 3분기,116429908383,,,3,KRW,,제 70 기 3분기,111921715268,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 71 기 3분기,647238478234,,,3,KRW,,제 70 기 3분기,641333326971,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 3분기,636324143459,,,3,KRW,,제 70 기 3분기,631126821432,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 71 기 3분기,-35448808767,,,3,KRW,,제 70 기 3분기,-35448758319,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 71 기 3분기,855200004,,,6,KRW,,제 70 기 3분기,2108656155,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 3분기,855200004,,,6,KRW,,제 70 기 3분기,2108656155,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,연결재무제표 [member],제 71 기 3분기,855200004,,,6,KRW,,제 70 기 3분기,2108656155,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,비지배지분의 변동,자본 [구성요소]|비지배지분 [구성요소],제 71 기 3분기,-154336223,,,7,KRW,,제 70 기 3분기,14690252,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,비지배지분의 변동,연결재무제표 [member],제 71 기 3분기,-154336223,,,7,KRW,,제 70 기 3분기,14690252,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 3분기,-5354452895,,,10,KRW,,제 70 기 3분기,4548493701,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,연결재무제표 [member],제 71 기 3분기,-5354452895,,,10,KRW,,제 70 기 3분기,4548493701,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 3분기,-5354452895,,,10,KRW,,제 70 기 3분기,4548493701,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss,당기손익-공정가치인식 지정 금융부채 신용위험변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 3분기,177373263,,,11,KRW,,제 70 기 3분기,-735503111,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss,당기손익-공정가치인식 지정 금융부채 신용위험변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 3분기,177373263,,,11,KRW,,제 70 기 3분기,-735503111,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss,당기손익-공정가치인식 지정 금융부채 신용위험변동,연결재무제표 [member],제 71 기 3분기,177373263,,,11,KRW,,제 70 기 3분기,-735503111,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,연결재무제표 [member],제 71 기 3분기,-1144737148,,,12,KRW,,제 70 기 3분기,303777387,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 3분기,-246650994,,,12,KRW,,제 70 기 3분기,722545528,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 3분기,-246650994,,,12,KRW,,제 70 기 3분기,722545528,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,연결재무제표 [member],제 71 기 3분기,1189767962,,,13,KRW,,제 70 기 3분기,966934394,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 3분기,-1094043671,,,13,KRW,,제 70 기 3분기,-1497309278,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 3분기,-1094043671,,,13,KRW,,제 70 기 3분기,-1497309278,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 3분기,-126728938,,,14,KRW,,제 70 기 3분기,27702401,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 3분기,-126728938,,,14,KRW,,제 70 기 3분기,27702401,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,연결재무제표 [member],제 71 기 3분기,-106855101,,,14,KRW,,제 70 기 3분기,23509655,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|비지배지분 [구성요소],제 71 기 3분기,-757491491,,,15,KRW,,제 70 기 3분기,89810254,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 3분기,-51784089439,,,15,KRW,,제 70 기 3분기,22466456906,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 71 기 3분기,-51784089439,,,15,KRW,,제 70 기 3분기,22466456906,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),연결재무제표 [member],제 71 기 3분기,970381789,,,15,KRW,,제 70 기 3분기,5860101459,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 71 기 3분기,415197642,,,16,KRW,,제 70 기 3분기,339495996,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 3분기,359046143,,,16,KRW,,제 70 기 3분기,343458155,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,연결재무제표 [member],제 71 기 3분기,359046143,,,16,KRW,,제 70 기 3분기,343458155,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 71 기 3분기,-56151499,,,16,KRW,,제 70 기 3분기,3962159,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 71 기 3분기,238251342500,,,17,KRW,,제 70 기 3분기,238251342500,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 71 기 3분기,194531602085,,,17,KRW,,제 70 기 3분기,266792291057,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 3분기,109785405148,,,17,KRW,,제 70 기 3분기,114987644509,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 71 기 3분기,-35504960266,,,17,KRW,,제 70 기 3분기,-35444796160,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 3분기,577399396924,,,17,KRW,,제 70 기 3분기,654894009579,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|비지배지분 [구성요소],제 71 기 3분기,10002507061,,,17,KRW,,제 70 기 3분기,10311006045,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 71 기 3분기,587401903985,,647238478234,17,KRW,,제 70 기 3분기,665205015624,,연결
+20241114001359,11014,2024,00131850,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 71 기 3분기,70336007457,,,17,KRW,,제 70 기 3분기,70307527673,,연결
