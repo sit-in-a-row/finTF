@@ -2,6 +2,9 @@ import pandas as pd
 import numpy as np
 import yfinance as yf
 import matplotlib.pyplot as plt
+import csv
+from datetime import datetime
+import json
 
 def fetch_data(stocks, start_date, end_date):
     """Fetch historical adjusted closing prices for given stocks."""
@@ -47,21 +50,99 @@ def cb(portfolio_returns, market_index):
     market_var = market_index.var();
     p_cov = np.cov(portfolio_returns, market_index)[0][1];
 
-    return p_cov / market_var;
+    return p_cov / market_var
 
-def analyze_portfolio():
-    # Define your portfolio
-    stocks = ['035720.KS', '005930.KS', 'GOOGL', 'AMZN']  # List of ticker symbols
-    weights = np.array([0.25, 0.3, 0.2, 0.25])  # Corresponding weights (must sum to 1)
+def get_common_date(stocks):
+    
+    start_year = 2017
+    stop_year = datetime.now().year-1
+    months = ['01', '02', '03', '04', '05','06','07','08', '09', '10', '11', '12']
+
+    answer = []
+    ans_year = 2017
+    ans_month = 0
+    flag_found = False
+    for i in stocks:
+        flag_found = False
+        for j in range(start_year, stop_year):
+            for k in range(0,12):
+                file_name = str(j) + '.' + months[k] + "_" + i + '.csv'
+                file_path = './store_data/raw/market_data/price/' + i + '/' + str(j) + '.' + months[k] + "/" + file_name
+                try:
+                    csvfile = open(file_path, newline='')
+                    csvfile.close()
+                    flag_found = True
+                    if (ans_year < j):
+                        ans_year = j
+                        ans_month = k
+                    elif (ans_year == j):
+                        ans_year = j
+                        ans_month = max(k, ans_month)
+                    break
+                except:
+                    continue
+            if flag_found == True:
+                break
+
+    answer.append(ans_year)
+    answer.append(ans_month)
+    return answer
+
+def get_data(stocks, cd):
+
+    start_year = cd[0] #get_common_date(stocks)
+    stop_year = datetime.now().year-1
+    months = ['01', '02', '03', '04', '05','06','07','08', '09', '10', '11', '12']
+    initial = cd[1]
+    data_dict = {}
+    list_date = []
+    date_flag = False
+    for i in stocks:
+        list_closed = []
+        initial = cd[1]
+        for j in range(start_year, stop_year):
+            for k in range(initial, 12):
+                file_name = str(j) + '.' + months[k] + "_" + i + '.csv'
+                file_path = './store_data/raw/market_data/price/' + i + '/' + str(j) + '.' + months[k] + "/" + file_name
+                try:
+                    csvfile = open(file_path, newline='')
+                    stockreader = csv.reader(csvfile)
+                    for z in stockreader:
+                        if (z[4].isnumeric()):
+                            if (date_flag == False):
+                                datetime_obj = datetime.strptime(z[0], '%Y-%m-%d').date()
+                                list_date.append(datetime_obj)
+                            list_closed.append(int(z[4]))
+                    csvfile.close()
+                except:
+                    print("NO FILE: " + file_path)
+                    continue
+            initial = 0
+        date_flag = True
+        data_dict[i] = list_closed
+
+
+    df = pd.DataFrame(data=data_dict, index=list_date)
+    return df
+
+
+def analyze_portfolio(stocks, weights):
+    months = ['01', '02', '03', '04', '05','06','07','08', '09', '10', '11', '12']
+    cd = get_common_date(stocks)
+    if (len(cd) == 0):
+        print("STOCK DOESN'T EXIST")
+        return
 
     # Fetch historical adjusted closing prices
-    data = fetch_data(stocks, start_date='2020-01-01', end_date='2024-01-01')
-    market_index = yf.download('^GSPC', start="2020-01-01", end="2024-01-01")['Adj Close'].pct_change().dropna()
-    data.index = data.index.date
+    data = get_data(stocks, cd) 
+    #data = fetch_data(stocks, start_date='2017-01-01', end_date='2024-01-01')
+    # print(data)
+    # print(type(data.index[0]))
+    start_string = str(cd[0]) + '-' + months[cd[1]] + '-01'
+    market_index = yf.download('^KS11', start=start_string, end="2024-01-01")['Adj Close'].pct_change().dropna()
     market_index.index = market_index.index.date
     # Calculate daily returns
     returns = data.pct_change().dropna()
-
     common_dates = data.index.intersection(market_index.index);
     returns = returns.loc[common_dates]
     market_index = market_index.loc[common_dates]
@@ -108,5 +189,13 @@ def analyze_portfolio():
     print(f"Portfolio VaR (95% confidence): {VaR:.2%}")
     print(f"Portfolio Expected Shortfall (ES): {ES:.2%}")
 
+    result_dict = {"Expected Annual Return": portfolio_return, "Annual Volatility": portfolio_volatility, "Sharpe Ratio": sharpe_ratio, "Beta": portfolio_beta, "VaR(0.95 confidence)": VaR, "ES": ES}
+    with open("result.json", "w") as jfile:
+        json.dump(result_dict, jfile)
+    
 if __name__ == "__main__":
-    analyze_portfolio()
+        # Define your portfolio
+    stocks = ['035720', '005930', '091810', '294870', '298020']  # List of ticker symbols
+    weights = np.array([0.2, 0.2, 0.2, 0.2, 0.2])  # Corresponding weights (must sum to 1)
+
+    analyze_portfolio(stocks, weights)
