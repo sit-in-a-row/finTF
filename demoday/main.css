@@ -29,12 +29,12 @@ body {
     --color-borderGrey: #D9D9D9;
     --color-warmGrey: #ECECEC;
 
-    --font-size-h1: 2.8rem;
-    --font-size-h3: 1.4rem;
-    --font-size-h5: 1.2rem;
+    --font-size-h1: 2.5rem;
+    --font-size-h3: 1.2rem;
+    --font-size-h5: .825rem;
 
     --font-spacing-h1: -0.1rem;
-    --font-spacing-h3: -0.1rem;
+    --font-spacing-h3: -0.05rem;
 
     --font-weight-extraThin: 100;
     --font-weight-medium: 300;

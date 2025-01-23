@@ -29,7 +29,8 @@
     align-self: flex-start;
 }
 .stock_forecast_PI_logo {
-    margin-top: 2vw;
+    margin-top: 5vw;
+    width: 25vw;
 }
 
 .stock_forecast_carousel {
@@ -42,31 +43,64 @@
 .carousel_track {
     display: flex;
     will-change: transform;
-    
+    margin-top: 10vh;
 }
 
 .carousel_img {
-    width: 15vw;
+    width: 12vw;
     height: auto;
     flex-shrink: 0;
     margin-right: 2vw; 
 }
 
 textarea {
-    width: 90%;
+    width: 73vw;
     border: 1px solid var(--color-borderGrey);
     background-color: var(--color-warmGrey) !important;
     border-radius: 1.5vw;
-    padding: 1vw;
+    
+    padding-left: 1.5vw;
+    padding-top: 1.2vw;
 
     font-size: var(--font-size-h5);
     font-weight: var(--font-weight-extraThin);
     letter-spacing: var(--font-spacing-h3);
+    resize: none;
 }
 
 /* Placeholder 스타일 */
 #stock_forecast_chat_input::placeholder {
-    text-align: center; /* Placeholder 텍스트 수평 정렬 */
-    color: #aaa; /* Placeholder 텍스트 색상 */
-    font-size: 16px; /* Placeholder 텍스트 크기 */
+}
+
+#stock_forecast_chat_input:focus {
+    outline: none; /* 포커스 상태에서 테두리 제거 */
+}
+
+.stock_forecast_chat_wrapper {
+    width: 75vw;
+    height: 80%;
+    overflow: auto;
+    border: 1px solid;
+    flex-direction: column;
+}
+
+.user_chat {
+    align-self: flex-end;
+    background-color: var(--color-warmGrey);
+    border: 1px solid var(--color-borderGrey);
+    padding: 0.8rem 1.2rem;
+    border-radius: 0.5rem;
+}
+
+.answer_chat {
+    display: flex;
+    gap: 1vw;
+}
+.answer_chat_text {
+    background-color: var(--color-warmGrey);
+    border: 1px solid var(--color-borderGrey);
+    padding: 0.8rem 1.2rem;
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: center;
 }
