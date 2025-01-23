@@ -1,0 +1,72 @@
+.stock_forecast_container {
+    background-color: var(--color-white);
+    width: 80vw;
+    height: 100vh;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.stock_forecast_container * {
+    background-color: var(--color-white);
+}
+
+.stock_forecast_wrapper {
+    width: 95%;
+    height: 100%;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+    overflow: hidden;
+    position: relative;
+}
+.stock_forecast_top_title {
+    align-self: flex-start;
+}
+.stock_forecast_PI_logo {
+    margin-top: 2vw;
+}
+
+.stock_forecast_carousel {
+    display: flex;
+    overflow: hidden; 
+    width: 100%;
+    position: relative;
+}
+
+.carousel_track {
+    display: flex;
+    will-change: transform;
+    
+}
+
+.carousel_img {
+    width: 15vw;
+    height: auto;
+    flex-shrink: 0;
+    margin-right: 2vw; 
+}
+
+textarea {
+    width: 90%;
+    border: 1px solid var(--color-borderGrey);
+    background-color: var(--color-warmGrey) !important;
+    border-radius: 1.5vw;
+    padding: 1vw;
+
+    font-size: var(--font-size-h5);
+    font-weight: var(--font-weight-extraThin);
+    letter-spacing: var(--font-spacing-h3);
+}
+
+/* Placeholder 스타일 */
+#stock_forecast_chat_input::placeholder {
+    text-align: center; /* Placeholder 텍스트 수평 정렬 */
+    color: #aaa; /* Placeholder 텍스트 색상 */
+    font-size: 16px; /* Placeholder 텍스트 크기 */
+}

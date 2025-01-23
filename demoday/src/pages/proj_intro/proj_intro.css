@@ -1,0 +1,16 @@
+.proj_intro_container {
+    background-color: var(--color-white);
+    width: 80vw;
+    height: 100vh;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.proj_intro_contents {
+    background-color: white;
+    width: 95%;
+    margin-top: 2vw;
+    margin-bottom: 5vw;
+}

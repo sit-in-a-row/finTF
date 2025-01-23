@@ -1,0 +1,54 @@
+.landing_typeIt {
+    color: white;
+}
+.landing_card_text {
+    color: var(--color-darkGrey);
+    font-weight: var(--font-weight-extraThin);
+}
+
+.landing_main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10vh;
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.landing_main_upper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.landing_typeIt {
+    margin-top: 1vw;
+    font-size: var(--font-size-h1);
+    letter-spacing: var(--font-spacing-h1);
+    font-weight: var(--font-weight-extraThin);
+}
+
+.PI_logo_landing {
+    width: 50vw;
+}
+
+.landing_card_container {
+    display: flex;
+    gap: 2vw;
+}
+
+.landing_card_element {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1vw;
+    cursor: pointer;
+}
+
+.landing_card_text {
+    font-size: var(--font-size-h3);
+    letter-spacing: var(--font-spacing-h3);
+}

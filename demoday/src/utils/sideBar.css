@@ -1,0 +1,82 @@
+.sideBar_container {
+    width: 20vw;
+    height: 100vh;
+    border: 1px solid;
+    /* background-color: black; */
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* padding-top: 3vh; */
+    justify-content: space-around;
+}
+
+.sideBar_logo {
+    width: 15vw;
+}
+
+.sideBar_portfolio_container {
+    margin-bottom: 0vw;
+}
+.sideBar_portfolio_title {
+    color: var(--color-white);
+    font-size: var(--font-size-h3);
+    letter-spacing: var(--font-spacing-h3);
+    font-weight: var(--font-weight-bold);
+
+    margin-bottom: 1vw;
+}
+.sideBar_portfolio_box {
+    width: 17vw;
+    height: 17vw;
+    background-color: white;
+    border-radius: 0.5vw;
+}
+
+.sideBar_item_container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2vw;
+    width: 17vw;
+}
+.sideBar_item {
+    display: flex;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+}
+.sideBar_item_text {
+    color: white;
+    font-size: var(--font-size-h5);
+    font-weight: var(--font-weight-medium);
+    letter-spacing: var(--font-spacing-h3);
+}
+.sideBar_item_icon {
+    color: white;
+    /* background-color: black; */
+    margin-right: 1.5vw;
+    width: 1.5vw;
+}
+.sideBar_item_hover {
+    transition: 0.1s;
+    background-color: white;
+    font-size: var(--font-size-h3);
+    border-radius: 0.5vw;
+    padding-left: 1vw;
+    cursor: pointer;
+}
+.sideBar_item_hover .sideBar_item_text {
+    color: black;
+    background-color: white;
+    transition: 0.1s;
+}
+.sideBar_item_hover .sideBar_item_icon {
+    background-color: white;
+    transition: 0.1s;
+}
+
+.sideBar_bottom_container {
+    width: 17vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}

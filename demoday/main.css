@@ -1,0 +1,44 @@
+@import url(./src/utils/sideBar.css);
+
+@import url(./src/pages/landing/landing.css);
+@import url(./src/pages/proj_intro/proj_intro.css);
+@import url(./src/pages/stock_forecast/stock_forecast.css);
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css");
+
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+
+    font-family: Pretendard;
+}
+
+body {
+    display: flex;
+    overflow: hidden;
+}
+
+:root {
+    /* --main-color: hotpink;
+    --pane-padding: 5px 42px; */
+
+    --color-black: #000000;
+    --color-darkGrey: #747474;
+    --color-white: #ffffff;
+
+    --color-borderGrey: #D9D9D9;
+    --color-warmGrey: #ECECEC;
+
+    --font-size-h1: 2.8rem;
+    --font-size-h3: 1.4rem;
+    --font-size-h5: 1.2rem;
+
+    --font-spacing-h1: -0.1rem;
+    --font-spacing-h3: -0.1rem;
+
+    --font-weight-extraThin: 100;
+    --font-weight-medium: 300;
+    --font-weight-bold: 500;
+
+}
+
