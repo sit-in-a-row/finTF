@@ -1,0 +1,359 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 16 기 3분기말,503640242340,제 15 기말,467503157829,7,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 16 기 3분기말,156304717742,제 15 기말,127762065745,8,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 16 기 3분기말,18099802290,제 15 기말,11926094542,9,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 16 기 3분기말,67812418646,제 15 기말,58897293224,10,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_AccumulatedImpairmentLossFinishedGoodsGross,평가충당금,-,제 16 기 3분기말,189758658,제 15 기말,258293508,11,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_AccumulatedImpairmentLossMerchandiseGross,평가충당금,-,제 16 기 3분기말,900000,제 15 기말,723185,12,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_AccumulatedImpairmentLossRawMaterialsGross,평가충당금,-,제 16 기 3분기말,100735006,제 15 기말,167117744,13,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_FinishedGoodsGross,제품,-,제 16 기 3분기말,17949681833,제 15 기말,13417854069,14,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_GoodsInTransitGross,미착품,-,제 16 기 3분기말,11239314726,제 15 기말,7765121852,15,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_MerchandiseGross,상품,-,제 16 기 3분기말,30132833336,제 15 기말,32443539039,16,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_RawMaterialsGross,원재료,-,제 16 기 3분기말,8454027154,제 15 기말,5398128305,17,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_SuppliesGross,저장품,-,제 16 기 3분기말,327955261,제 15 기말,298784396,18,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_OtherCurrentFinancialAssets,기타의유동자산,-,제 16 기 3분기말,1339953064,제 15 기말,1379260239,19,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_CurrentFinancialAssetsAtFairValueThroughProfitOrLossMandatorilyMeasuredAtFairValue,선급금,-,제 16 기 3분기말,371877385,제 15 기말,613262320,20,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_CurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,선급비용,-,제 16 기 3분기말,619892442,제 15 기말,288009021,21,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_CurrentInvestmentsInEquityInstrumentsDesignatedAtFairValueThroughOtherComprehensiveIncome,당기법인세자산,-,제 16 기 3분기말,348183237,제 15 기말,477988898,22,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_TradeAndOtherCurrentReceivables,매출채권및기타수취채권,-,제 16 기 3분기말,69052543742,제 15 기말,55559417740,23,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_AllowanceForDoubtfulAcccountShortTermTradeReceivable,대손충당금,-,제 16 기 3분기말,413496954,제 15 기말,395616775,24,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_ShortTermLoans,단기대여금,-,제 16 기 3분기말,430234090,제 15 기말,107238665,25,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_ShortTermOtherReceivables,미수금,-,제 16 기 3분기말,4812574326,제 15 기말,3778422963,26,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_ShortTermTradeReceivable,매출채권,-,제 16 기 3분기말,64223232280,제 15 기말,52069372887,27,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 16 기 3분기말,347335524598,제 15 기말,339741092084,28,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_FinanceLeaseAssetGross,리스자산,-,제 16 기 3분기말,664822423,제 15 기말,664326947,29,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,리스자산,-,제 16 기 3분기말,983522175,제 15 기말,962501143,30,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,감가상각누계액(리스자산),-,제 16 기 3분기말,318699752,제 15 기말,298174196,31,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,"장기매출채권 및 기타비유동채권, 총액",-,제 16 기 3분기말,2169155682,제 15 기말,1984854860,32,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_LongTermDepositsProvidedGross,보증금,-,제 16 기 3분기말,1258450598,제 15 기말,1100343786,33,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_LongTermLoansGross,장기대여금,-,제 16 기 3분기말,889342888,제 15 기말,873655250,34,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_LongTermOtherReceivablesGross,장기미수금,-,제 16 기 3분기말,50000000,제 15 기말,53786878,35,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_PresentValueDiscountsLongTermLeaseholdDeposits,현재가치할인차금,-,제 16 기 3분기말,14282005,제 15 기말,27263900,36,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_PresentValueDiscountsLongTermLoansGross,현재가치할인차금,-,제 16 기 3분기말,6344755,제 15 기말,5604438,37,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_PresentValueDiscountsLongTermOtherReceivablesGross,현재가치할인차금,-,제 16 기 3분기말,8011044,제 15 기말,10062716,38,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,당기손익-공정가치 측정 금융자산,-,제 16 기 3분기말,129409039,제 15 기말,125660252,39,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 16 기 3분기말,1682577193,제 15 기말,1512465809,40,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,-,제 16 기 3분기말,3190170290,제 15 기말,3164346948,41,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsGross,산업재산권,-,제 16 기 3분기말,46356,제 15 기말,463200,42,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,영업권,-,제 16 기 3분기말,2869141864,제 15 기말,2825246312,43,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,회원권,-,제 16 기 3분기말,320982070,제 15 기말,338637436,44,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 16 기 3분기말,16204173552,제 15 기말,16457189442,45,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,토지,-,제 16 기 3분기말,8798787203,제 15 기말,8798787203,46,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,건물,-,제 16 기 3분기말,10033194796,제 15 기말,10033194796,47,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,감가상각누계액(건물),-,제 16 기 3분기말,2627808447,제 15 기말,2374792557,48,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates,관계기업투자주식,-,제 16 기 3분기말,211790999174,제 15 기말,201569714366,49,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산,-,제 16 기 3분기말,1882823940,제 15 기말,2627941550,50,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 16 기 3분기말,109621393305,제 15 기말,111634591910,51,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_AccumulatedDepreciationBuildingsGross,감가상각누계액,-,제 16 기 3분기말,9476242749,제 15 기말,8545839304,52,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_AccumulatedDepreciationMachineryGross,감가상각누계액,-,제 16 기 3분기말,51603716310,제 15 기말,47093789578,53,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_AccumulatedDepreciationStructureGross,감가상각누계액,-,제 16 기 3분기말,6591012326,제 15 기말,5885648920,54,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_AccumulatedDepreciationToolsAndEquipmentGross,감가상각누계액,-,제 16 기 3분기말,3444905660,제 15 기말,3253525459,55,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_AccumulatedDepreciationVehiclesGross,감가상각누계액,-,제 16 기 3분기말,815780834,제 15 기말,702716284,56,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_BuildingsGross,건물,-,제 16 기 3분기말,31157605897,제 15 기말,26886051232,57,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_ConstructionInProgressGross,건설중인자산,-,제 16 기 3분기말,2655566828,제 15 기말,14262144384,58,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_GovernmentGrantsLandGross,정부보조금,-,제 16 기 3분기말,441650000,제 15 기말,474500000,59,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_GovernmentGrantsMachineryGross,정부보조금,-,제 16 기 3분기말,83647416,제 15 기말,85543764,60,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_LandGross,토지,-,제 16 기 3분기말,53376772820,제 15 기말,53306772383,61,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_MachineryGross,기계장치,-,제 16 기 3분기말,78953887440,제 15 기말,68017023340,62,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_StructureGross,구축물,-,제 16 기 3분기말,10509119912,제 15 기말,10289488912,63,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_ToolsAndEquipmentGross,공기구비품,-,제 16 기 3분기말,4105845684,제 15 기말,3751890619,64,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_VehiclesGross,차량운반구,-,제 16 기 3분기말,1319550019,제 15 기말,1162784349,65,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 16 기 3분기말,295006187018,제 15 기말,269928526385,67,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업 소유주지분,-,제 16 기 3분기말,257670141157,제 15 기말,233357252682,68,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 16 기 3분기말,64053070803,제 15 기말,64053070803,69,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_GainsSaleTreasuryStock,자기주식처분이익,-,제 16 기 3분기말,20824281076,제 15 기말,20824281076,70,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_SharePremium,주식발행초과금,-,제 16 기 3분기말,43228789727,제 15 기말,43228789727,71,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,자본조정,-,제 16 기 3분기말,-3766887560,제 15 기말,-3192721419,72,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_OtherCapitalAdjustments,기타자본조정,-,제 16 기 3분기말,-3422072103,제 15 기말,-2847905961,73,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_TreasuryShares,자기주식,-,제 16 기 3분기말,344815457,제 15 기말,344815458,74,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,-,제 16 기 3분기말,3968941911,제 15 기말,2672686797,75,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_GainsCumulativeEffectForeignCurrencyTranslation,해외사업환산이익,-,제 16 기 3분기말,5535475748,제 15 기말,3822775049,76,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_ReserveOfGainsFromInvestmentsInEquityInstruments,지분법자본변동,-,제 16 기 3분기말,-354739085,제 15 기말,-186249591,77,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_ReserveOfGainsOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,-,제 16 기 3분기말,-917850542,제 15 기말,-669894451,78,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,기타포괄손익-공정가치 측정 금융자산 처분손익,-,제 16 기 3분기말,-293944210,제 15 기말,-293944210,79,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 16 기 3분기말,1315887000,제 15 기말,1315887000,80,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_IssuedCapitalOfCommonStock,보통주자본금,-,제 16 기 3분기말,1315887000,제 15 기말,1315887000,81,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금(결손금),-,제 16 기 3분기말,192099129003,제 15 기말,168508329501,82,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_LegalReserve,법정적립금,-,제 16 기 3분기말,2986406227,제 15 기말,2986406227,83,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_RetainedEarningsBeforeAppropriationsAccumulatedDeficitBeforeDisposition,미처분이익잉여금,-,제 16 기 3분기말,189112722776,제 15 기말,165521923274,84,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 16 기 3분기말,37336045861,제 15 기말,36571273703,85,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 16 기 3분기말,503640242340,제 15 기말,467503157829,86,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 16 기 3분기말,121163539278,제 15 기말,104046859852,88,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_CurentPortionOfFinanceLeaseLiabilities,유동성리스부채,-,제 16 기 3분기말,2364345,제 15 기말,146000673,89,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_CurrentPortionOfLongtermBorrowings,유동성장기차입금,-,제 16 기 3분기말,13489197900,제 15 기말,10657897505,90,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_CurrentProvisions,충당부채,-,제 16 기 3분기말,897428451,제 15 기말,320470804,91,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_ShorttermMiscellaneousOtherProvisions,기타충당부채,-,제 16 기 3분기말,897428451,제 15 기말,320470804,92,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 16 기 3분기말,772550345,제 15 기말,1262823692,93,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_OtherCurrentFinancialLiabilities,기타의유동부채,-,제 16 기 3분기말,850641028,제 15 기말,837563898,94,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_CurrentFinancialLiabilitiesHeldForTrading,선수금,-,제 16 기 3분기말,543422190,제 15 기말,349686909,95,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_CurrentFinancialLiabilitiesAtFairValueThroughProfitOrLossClassifiedAsHeldForTrading,예수금,-,제 16 기 3분기말,307218838,제 15 기말,487876989,96,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_ShorttermBorrowings,단기차입금,-,제 16 기 3분기말,36891535506,제 15 기말,26970817082,97,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayables,매입채무및기타채무,-,제 16 기 3분기말,68259821703,제 15 기말,63851286198,98,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_ShortTermAccruedExpenses,미지급비용,-,제 16 기 3분기말,1257828538,제 15 기말,1291058526,99,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_ShortTermOtherPayables,미지급금,-,제 16 기 3분기말,3713218222,제 15 기말,4035741544,100,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_ShortTermTradePayables,매입채무,-,제 16 기 3분기말,63288774943,제 15 기말,58524486128,101,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 16 기 3분기말,208634055322,제 15 기말,197574631444,102,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 16 기 3분기말,87470516044,제 15 기말,93527771592,103,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_LongTermBorrowingsGross,장기차입금,-,제 16 기 3분기말,64786711995,제 15 기말,71944929280,104,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentPayables,장기매입채무 및 기타채무,-,제 16 기 3분기말,75000000,제 15 기말,75000000,105,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_LongTermGuaranteeDepositWithholdings,예수보증금,-,제 16 기 3분기말,75000000,제 15 기말,75000000,106,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_PostemploymentBenefitObligations,확정급여부채,-,제 16 기 3분기말,4362096593,제 15 기말,3986719857,107,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_FairValueOfPlanAssets,사외적립자산,-,제 16 기 3분기말,61044360,제 15 기말,58120990,108,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,dart_PresentValueOfDefinedBenefitObligation,확정급여채무,-,제 16 기 3분기말,4423140953,제 15 기말,4044840847,109,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 16 기 3분기말,17583337938,제 15 기말,17015137399,110,KRW,,,,,연결
+20241114001645,11014,2024,00706715,BS,재무상태표,ifrs-full_NoncurrentLeaseLiabilities,리스부채,-,제 16 기 3분기말,663369518,제 15 기말,505985056,111,KRW,,,,,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익(손실),-,제 16 기 3분기,4724267451,,,6,KRW,20608776595,제 15 기 3분기,4207528836,10512998651,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_OtherGains,기타수익,-,제 16 기 3분기,93252325,,,7,KRW,315260166,제 15 기 3분기,63990423,243108707,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_GainsFromGovernmentGrants,정부보조금수익,-,제 16 기 3분기,121087,,,8,KRW,16258930,제 15 기 3분기,0,0,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_LentIncome,수입임대료,-,제 16 기 3분기,22500000,,,9,KRW,67500000,제 15 기 3분기,22500000,67500000,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_MiscellaneousIncome,잡이익,-,제 16 기 3분기,70631238,,,10,KRW,231501236,제 15 기 3분기,41490423,173913642,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_GainsOnDisposalsOfPropertyPlantAndEquipment,유형자산처분이익,-,제 16 기 3분기,0,,,11,KRW,0,제 15 기 3분기,0,1695065,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_OtherLosses,기타비용,-,제 16 기 3분기,66913444,,,12,KRW,119687764,제 15 기 3분기,12579389,23192198,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_Donations,기부금,-,제 16 기 3분기,0,,,13,KRW,0,제 15 기 3분기,0,100000,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_MiscellaneousLosses,잡손실,-,제 16 기 3분기,66911444,,,14,KRW,119684764,제 15 기 3분기,12579389,23092198,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_LossesOnDisposalsOfPropertyPlantAndEquipment,유형자산처분손실,-,제 16 기 3분기,2000,,,15,KRW,3000,제 15 기 3분기,0,0,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 16 기 3분기,9058486227,,,16,KRW,26961760689,제 15 기 3분기,8323940293,24178389566,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_AdvertisingExpensesSellingGeneralAdministrativeExpenses,광고선전비,-,제 16 기 3분기,26935136,,,17,KRW,210818925,제 15 기 3분기,13716004,164576638,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_AmortisationExpenseSellingGeneralAdministrativeExpenses,무형자산상각비,-,제 16 기 3분기,6990474,,,18,KRW,20669756,제 15 기 3분기,6636495,19143778,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_BadDebtExpensesSellingGeneralAdministrativeExpenses,대손상각비(대손충당금환입),-,제 16 기 3분기,-26638922,,,19,KRW,12412699,제 15 기 3분기,23008130,5585201,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_CommissionsSellingGeneralAdministrativeExpenses,지급수수료,-,제 16 기 3분기,376012503,,,20,KRW,898260467,제 15 기 3분기,1398072144,3637260326,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_CommunicationExpensesSellingGeneralAdministrativeExpenses,통신비,-,제 16 기 3분기,38733361,,,21,KRW,116986641,제 15 기 3분기,38015594,121228091,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_DepreciationExpenseSellingGeneralAdministrativeExpenses,감가상각비,-,제 16 기 3분기,212136494,,,22,KRW,617447751,제 15 기 3분기,204108560,600082013,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_ElectricPowerExpenseSellingGeneralAdministrativeExpenses,전력비,-,제 16 기 3분기,20833952,,,23,KRW,61152446,제 15 기 3분기,12285299,38321159,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_EmployeeBenefitsSellingGeneralAdministrativeExpenses,복리후생비,-,제 16 기 3분기,711529203,,,24,KRW,2062379935,제 15 기 3분기,700973696,1994290668,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_EntertainmentExpensesSellingGeneralAdministrativeExpenses,접대비,-,제 16 기 3분기,98472606,,,25,KRW,292038348,제 15 기 3분기,60746602,210145989,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_ExportOverallExpenseSellingGeneralAdministrativeExpenses,수출비용,-,제 16 기 3분기,436193898,,,26,KRW,997501805,제 15 기 3분기,232781467,700423912,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_FreightExpensesSellingGeneralAdministrativeExpenses,운반비,-,제 16 기 3분기,3193235721,,,27,KRW,9198198069,제 15 기 3분기,1907632105,5602376824,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_InsurancePremiumsSellingGeneralAdministrativeExpenses,보험료,-,제 16 기 3분기,-27098750,,,28,KRW,161711085,제 15 기 3분기,190460440,271873620,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_OrdinaryDevelopmentExpenseSellingGeneralAdministrativeExpenses,경상개발비,-,제 16 기 3분기,208276299,,,29,KRW,615177542,제 15 기 3분기,171292341,498078195,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_PackingExpensesSellingGeneralAdministrativeExpenses,포장비,-,제 16 기 3분기,149419825,,,30,KRW,445552671,제 15 기 3분기,101958352,346360196,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_ProvisionForSeveranceIndemnities,퇴직급여,-,제 16 기 3분기,81876279,,,31,KRW,245628837,제 15 기 3분기,69539169,208617516,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_PublicationExpensesSellingGeneralAdministrativeExpenses,도서인쇄비,-,제 16 기 3분기,884674,,,32,KRW,4301823,제 15 기 3분기,411850,3832990,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_RentalExpensesSellingGeneralAdministrativeExpenses,지급임차료,-,제 16 기 3분기,146712457,,,33,KRW,466144810,제 15 기 3분기,148908953,455525037,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_RepairExpensesSellingGeneralAdministrativeExpenses,수선비,-,제 16 기 3분기,44670858,,,34,KRW,180279202,제 15 기 3분기,53266222,230119556,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_SalariesWages,급여,-,제 16 기 3분기,2593192610,,,35,KRW,7771974173,제 15 기 3분기,2432423607,7224480717,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_SamplesExpensesSellingGeneralAdministrativeExpenses,견본비,-,제 16 기 3분기,19960449,,,36,KRW,54466560,제 15 기 3분기,9706976,49107101,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_SupplyExpensesSellingGeneralAdministrativeExpenses,소모품비,-,제 16 기 3분기,90994241,,,37,KRW,278313297,제 15 기 3분기,68811163,205996449,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_TaxesDuesSellingGeneralAdministrativeExpenses,세금과공과,-,제 16 기 3분기,23649617,,,38,KRW,266822432,제 15 기 3분기,22490301,245642371,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_TrainingExpensesSellingGeneralAdministrativeExpenses,교육훈련비,-,제 16 기 3분기,7179553,,,39,KRW,21660653,제 15 기 3분기,7033276,24067797,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_TravelExpensesSellingGeneralAdministrativeExpenses,여비교통비,-,제 16 기 3분기,226591720,,,40,KRW,689877925,제 15 기 3분기,194215036,514976191,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_UtilityExpensesSellingGeneralAdministrativeExpenses,수도광열비,-,제 16 기 3분기,5591230,,,41,KRW,18046989,제 15 기 3분기,4068523,4286843,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_VehicleMaintenanceExpensesSellingGeneralAdministrativeExpenses,차량유지비,-,제 16 기 3분기,83979720,,,42,KRW,260436116,제 15 기 3분기,69803549,224752430,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_WarehouseExpensesSellingGeneralAdministrativeExpenses,보관료,-,제 16 기 3분기,308171019,,,43,KRW,993499732,제 15 기 3분기,181574439,577237958,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,-표준계정코드 미사용-,당기순이익(손실),-,제 16 기 3분기,6249767608,,,44,KRW,28201614568,제 15 기 3분기,3902597920,12743366732,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,-표준계정코드 미사용-,법인세차감전이익,-,제 16 기 3분기,6498844644,,,45,KRW,31088771731,제 15 기 3분기,5227848665,15924099264,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,-표준계정코드 미사용-,지분법이익,-,제 16 기 3분기,3501329257,,,46,KRW,13997993018,제 15 기 3분기,2006266245,8287991640,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 16 기 3분기,4314569588,,,47,KRW,29150333908,제 15 기 3분기,4263542921,15386432243,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,-,제 16 기 3분기,495007114,,,49,KRW,2642464292,제 15 기 3분기,997408068,2328434228,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업소유주지분,-,제 16 기 3분기,3819562474,,,50,KRW,26507869616,제 15 기 3분기,3266134853,13057998015,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 16 기 3분기,103638213980,,,51,KRW,312971688044,제 15 기 3분기,98687667230,296418461707,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_CostOfSalesFromRenderingOfServicesRental,임대매출원가,-,제 16 기 3분기,109567250,,,52,KRW,328703000,제 15 기 3분기,108502038,332071424,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_CostOfSalesFromSaleOfGoodsProduct,제품매출원가,-,제 16 기 3분기,42164242480,,,53,KRW,133346508463,제 15 기 3분기,38846486540,117019167520,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_CostOfSalesFromServices,용역매출원가,-,제 16 기 3분기,926071030,,,54,KRW,2141376715,제 15 기 3분기,344980213,1055177149,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_CostOfMerchandiseSold,상품매출원가,-,제 16 기 3분기,60438333220,,,55,KRW,177155099866,제 15 기 3분기,59387698439,178012045614,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),-,제 16 기 3분기,2423,,,57,KRW,10890,제 15 기 3분기,1274,4475,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융비용,-,제 16 기 3분기,1855059580,,,58,KRW,4461823627,제 15 기 3분기,1442459459,4144499306,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_InterestExpenseFinanceExpense,이자비용,-,제 16 기 3분기,1244094348,,,59,KRW,3693646217,제 15 기 3분기,1226654143,3541770432,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_LossesOnDispositionOfReceivablesFinancialExpense,매출채권처분손실,-,제 16 기 3분기,717634,,,60,KRW,2041064,제 15 기 3분기,0,0,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_LossesOnForeignCurrencyTransactionsFiancialExpense,외환차손,-,제 16 기 3분기,186587205,,,61,KRW,330146392,제 15 기 3분기,227041922,583840794,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_LossesOnForeignExchangeTranslationsFinancialExpense,외화환산손실(금융원가),-,제 16 기 3분기,423660393,,,62,KRW,435989954,제 15 기 3분기,-11236606,18888080,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 16 기 3분기,101968635,,,63,KRW,748253343,제 15 기 3분기,405102009,1047691770,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_DividendIncome,배당금수익(금융수익),-,제 16 기 3분기,5557000,,,64,KRW,49005100,제 15 기 3분기,3447000,76865300,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_GainsOnForeignCurrencyTransactionsFiancialIncome,외환차익,-,제 16 기 3분기,113876939,,,65,KRW,578325292,제 15 기 3분기,314724696,778083381,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_GainsOnForeignExchangeTranslationsFinancialIncome,외화환산이익(금융수익),-,제 16 기 3분기,-41860666,,,66,KRW,43210423,제 15 기 3분기,63873793,136213488,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_InterestIncomeFinanceIncome,이자수익,-,제 16 기 3분기,24395362,,,67,KRW,77712528,제 15 기 3분기,23056520,56529601,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 16 기 3분기,13782753678,,,68,KRW,47570537284,제 15 기 3분기,12531469129,34691388217,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,-,제 16 기 3분기,249077036,,,69,KRW,2887157163,제 15 기 3분기,1325250745,3180732532,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 16 기 3분기,-1935198020,,,70,KRW,948719340,제 15 기 3분기,360945001,2643065511,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,후속적으로 당기손익으로 재분류되는 포괄손익,-,제 16 기 3분기,-1513575370,,,71,KRW,1770799551,제 15 기 3분기,312348649,2650001961,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이(세후기타포괄손익),-,제 16 기 3분기,-1397855618,,,72,KRW,1712700699,제 15 기 3분기,312348649,2650001961,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동(해외환산),-,제 16 기 3분기,-115719752,,,73,KRW,58098852,제 15 기 3분기,0,0,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,후속적으로 당기손익으로 재분류되지 않는 포괄손익,-,제 16 기 3분기,-421622650,,,74,KRW,-822080211,제 15 기 3분기,48596352,-6936450,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치측정금융자산 처분손익,-,제 16 기 3분기,-253028016,,,75,KRW,-589388030,제 15 기 3분기,77692853,-119806671,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정손익(세후기타포괄손익),-,제 16 기 3분기,-1889811,,,76,KRW,-6103835,제 15 기 3분기,-1688874,-4632953,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,-,제 16 기 3분기,-166704823,,,77,KRW,-226588346,제 15 기 3분기,-27407627,117503174,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,-,제 16 기 3분기,640288744,,,79,KRW,2987403412,제 15 기 3분기,952074394,2381513428,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주지분,-,제 16 기 3분기,5609478864,,,80,KRW,25214211156,제 15 기 3분기,2950523526,10361853304,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,ifrs-full_Revenue,수익(매출액),-,제 16 기 3분기,117420967658,,,81,KRW,360542225328,제 15 기 3분기,111219136359,331109849924,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_RevenueFromRenderingOfServicesRental,임대료수익,-,제 16 기 3분기,247966320,,,82,KRW,743900210,제 15 기 3분기,-212210261,744217679,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_RevenueFromSaleOfGoodsMerchandise,상품매출,-,제 16 기 3분기,67726808588,,,83,KRW,198072970084,제 15 기 3분기,73927457699,219861758827,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_RevenueFromSaleOfGoodsProduct,제품매출액,-,제 16 기 3분기,47793174043,,,84,KRW,157503717394,제 15 기 3분기,35662054148,106601320867,연결
+20241114001645,11014,2024,00706715,CIS,포괄손익계산서,dart_RevenueFromServices,용역수익,-,제 16 기 3분기,1653018707,,,85,KRW,4221637640,제 15 기 3분기,1841834773,3902552551,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 16 기 3분기,11926094542,,,2,KRW,,제 15 기 3분기,9377087649,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 16 기 3분기,18099802290,,,3,KRW,,제 15 기 3분기,20873906957,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 16 기 3분기,1015010157,,,8,KRW,,제 15 기 3분기,9112544704,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AcquisitionOfTreasuryShares,자기주식의 취득,-,제 16 기 3분기,663586170,,,9,KRW,,제 15 기 3분기,873809380,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 감소,-,제 16 기 3분기,2700000,,,10,KRW,,제 15 기 3분기,49315243,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_ProceedsFromFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 증가,-,제 16 기 3분기,0,,,11,KRW,,제 15 기 3분기,47129378,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 차입,-,제 16 기 3분기,-390762570,,,12,KRW,,제 15 기 3분기,11117412167,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 차입,-,제 16 기 3분기,101713849348,,,13,KRW,,제 15 기 3분기,83570510170,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 상환,-,제 16 기 3분기,4376262022,,,14,KRW,,제 15 기 3분기,3977692588,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 16 기 3분기,91836803324,,,15,KRW,,제 15 기 3분기,78050000000,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,-,제 16 기 3분기,2859038500,,,16,KRW,,제 15 기 3분기,2671689800,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsFinancingActivities,비지배주주와의 거래로 인한 현금유출,-,제 16 기 3분기,-569686605,,,17,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 16 기 3분기,-3904123667,,,18,KRW,,제 15 기 3분기,-15320279125,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금의 감소,-,제 16 기 3분기,5881200,,,19,KRW,,제 15 기 3분기,3000000,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 16 기 3분기,163638001,,,20,KRW,,제 15 기 3분기,17985045,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,기타포괄손익-공정가치 측정 금융자산의 처분,-,제 16 기 3분기,0,,,21,KRW,,제 15 기 3분기,743657940,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_ProceedsFromSalesOfLongTermLoansAndReceivables,장기대여금의 감소,-,제 16 기 3분기,510126182,,,22,KRW,,제 15 기 3분기,81872410,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermLoansAndReceivables,단기대여금의 감소,-,제 16 기 3분기,260706605,,,23,KRW,,제 15 기 3분기,89253975,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_PurchaseOfLongTermLoansAndReceivables,장기대여금의 증가,-,제 16 기 3분기,518673000,,,24,KRW,,제 15 기 3분기,248092000,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_PurchaseOfShortTermLoansAndReceivables,단기대여금의 증가,-,제 16 기 3분기,491118250,,,25,KRW,,제 15 기 3분기,83695750,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 16 기 3분기,6967024,,,26,KRW,,제 15 기 3분기,157646,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_PurchaseOfAvailableforsaleFinancialAssets,기타포괄손익-공정가치 측정 금융자산의 취득,-,제 16 기 3분기,0,,,27,KRW,,제 15 기 3분기,240056830,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 16 기 3분기,0,,,28,KRW,,제 15 기 3분기,8938348,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 16 기 3분기,3514375427,,,29,KRW,,제 15 기 3분기,15639453123,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 16 기 3분기,9073234273,,,30,KRW,,제 15 기 3분기,15707778281,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산ㆍ부채의 변동,-,제 16 기 3분기,-16494390336,,,31,KRW,,제 15 기 3분기,387480090,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInAdvancePayments,선급금의 감소(증가),-,제 16 기 3분기,245483049,,,32,KRW,,제 15 기 3분기,-129780465,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInCurrentTaxAssets,선급법인세의 감소(증가),-,제 16 기 3분기,0,,,33,KRW,,제 15 기 3분기,-50833964,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInFairValueOfPlanAssets,사외적립자산의 감소(증가),-,제 16 기 3분기,-3352800,,,34,KRW,,제 15 기 3분기,-5362323,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInLongTermOtherReceivables,장기미수금의 감소(증가),-,제 16 기 3분기,3927808,,,35,KRW,,제 15 기 3분기,-29577499,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInOtherReceivables,미수금의 감소(증가),-,제 16 기 3분기,-944744848,,,36,KRW,,제 15 기 3분기,-864447049,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInShortTermAccruedIncome,미수수익의 감소(증가),-,제 16 기 3분기,346470,,,37,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInShortTermPrepaidExpenses,선급비용의 감소(증가),-,제 16 기 3분기,-336139708,,,38,KRW,,제 15 기 3분기,-166027633,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAccruedExpenses,미지급비용의 증가(감소),-,제 16 기 3분기,-20125325,,,39,KRW,,제 15 기 3분기,805366294,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAdvancesCustomers,선수금의 증가(감소),-,제 16 기 3분기,190925724,,,40,KRW,,제 15 기 3분기,-6291558,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInOtherPayables,미지급금의 증가(감소),-,제 16 기 3분기,-262210058,,,41,KRW,,제 15 기 3분기,-1514101770,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInPostemploymentBenefitObligations,퇴직금의 지급,-,제 16 기 3분기,-400786940,,,42,KRW,,제 15 기 3분기,-365905800,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInProvisions,충당부채의 증가(감소),-,제 16 기 3분기,565161658,,,43,KRW,,제 15 기 3분기,129400000,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInWithholdingsBanks,예수금의 증가(감소),-,제 16 기 3분기,-183747405,,,44,KRW,,제 15 기 3분기,-268559263,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,-표준계정코드 미사용-,확정급여채무의 관계사 전입(출),-,제 16 기 3분기,0,,,45,KRW,,제 15 기 3분기,4040170,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInInventories,재고자산의 감소(증가),-,제 16 기 3분기,-7405036029,,,46,KRW,,제 15 기 3분기,25178455135,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAccountReceivable,매출채권의 감소(증가),-,제 16 기 3분기,-11032755103,,,47,KRW,,제 15 기 3분기,-7574333307,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAccountPayable,매입채무의 증가(감소),-,제 16 기 3분기,3088663171,,,48,KRW,,제 15 기 3분기,-14754560878,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감,-,제 16 기 3분기,41320692,,,49,KRW,,제 15 기 3분기,4648227361,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비(대손충당금환입),-,제 16 기 3분기,12412699,,,50,KRW,,제 15 기 3분기,5585201,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익,-,제 16 기 3분기,0,,,51,KRW,,제 15 기 3분기,1695065,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익,-,제 16 기 3분기,43210423,,,52,KRW,,제 15 기 3분기,136213488,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForInterestExpenses,이자비용,-,제 16 기 3분기,3693646217,,,53,KRW,,제 15 기 3분기,3541770432,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsOfReceivables,매출채권처분손실,-,제 16 기 3분기,2041064,,,54,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForLossesOnDispositionOfPropertyPlantAndEquipment,유형자산처분손실,-,제 16 기 3분기,3000,,,55,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForLossesOnForeignExchangeTranslations,외화환산손실,-,제 16 기 3분기,435989954,,,56,KRW,,제 15 기 3분기,18888080,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법평가손익,-,제 16 기 3분기,13997993018,,,57,KRW,,제 15 기 3분기,8287991640,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여,-,제 16 기 3분기,771799871,,,58,KRW,,제 15 기 3분기,678507351,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,dart_AdjustmentsForWritedownsOfInventories,재고자산평가손실,-,제 16 기 3분기,-78239291,,,59,KRW,,제 15 기 3분기,-10905726,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,-표준계정코드 미사용-,배당금수익,-,제 16 기 3분기,49005100,,,60,KRW,,제 15 기 3분기,76865300,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForAmortisationExpense,무형자산상각비,-,제 16 기 3분기,20669756,,,61,KRW,,제 15 기 3분기,19143778,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationExpense,감가상각비,-,제 16 기 3분기,6463761328,,,62,KRW,,제 15 기 3분기,5773800807,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용,-,제 16 기 3분기,2887157163,,,63,KRW,,제 15 기 3분기,3180732532,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익,-,제 16 기 3분기,77712528,,,64,KRW,,제 15 기 3분기,56529601,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금의 수취,-,제 16 기 3분기,3612705100,,,65,KRW,,제 15 기 3분기,4084565300,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 납부(환급),-,제 16 기 3분기,2636398226,,,66,KRW,,제 15 기 3분기,2832720378,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,-,제 16 기 3분기,3845825994,,,67,KRW,,제 15 기 3분기,3474079555,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,-,제 16 기 3분기,194208469,,,68,KRW,,제 15 기 3분기,150938731,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 16 기 3분기,28201614568,,,69,KRW,,제 15 기 3분기,12743366732,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 16 기 3분기,-10413015,,,70,KRW,,제 15 기 3분기,1996775448,,연결
+20241114001645,11014,2024,00706715,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,환율변동효과 반영전 현금및현금성자산의 순증가(감소),-,제 16 기 3분기,6184120763,,,71,KRW,,제 15 기 3분기,9500043860,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 16 기 3분기,269928526385,,,3,KRW,,제 15 기 3분기,256303689726,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|비지배지분 [구성요소],제 16 기 3분기,36571273703,,,3,KRW,,제 15 기 3분기,35257673474,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 3분기,233357252682,,,3,KRW,,제 15 기 3분기,221046016252,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 3분기,-3192721419,,,3,KRW,,제 15 기 3분기,-2947757612,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 3분기,2672686797,,,3,KRW,,제 15 기 3분기,1587249740,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 3분기,168508329501,,,3,KRW,,제 15 기 3분기,157037566321,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 3분기,1315887000,,,3,KRW,,제 15 기 3분기,1315887000,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 3분기,64053070803,,,3,KRW,,제 15 기 3분기,64053070803,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 3분기,0,,,6,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,자본 [구성요소]|비지배지분 [구성요소],제 16 기 3분기,0,,,6,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,연결재무제표 [member],제 16 기 3분기,0,,,6,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 3분기,0,,,6,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 3분기,0,,,6,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 3분기,0,,,6,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 3분기,0,,,6,KRW,,제 15 기 3분기,126917471,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 3분기,0,,,6,KRW,,제 15 기 3분기,-126917471,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,연결재무제표 [member],제 16 기 3분기,-6103835,,,7,KRW,,제 15 기 3분기,-4632953,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,자본 [구성요소]|비지배지분 [구성요소],제 16 기 3분기,-3507181,,,7,KRW,,제 15 기 3분기,-2665951,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 3분기,-2596654,,,7,KRW,,제 15 기 3분기,-1967002,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 3분기,0,,,7,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 3분기,-2596654,,,7,KRW,,제 15 기 3분기,-1967002,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 3분기,0,,,7,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 3분기,0,,,7,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 3분기,0,,,7,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 3분기,1712700699,,,8,KRW,,제 15 기 3분기,2636356230,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [구성요소]|비지배지분 [구성요소],제 16 기 3분기,0,,,8,KRW,,제 15 기 3분기,13645731,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,연결재무제표 [member],제 16 기 3분기,1712700699,,,8,KRW,,제 15 기 3분기,2650001961,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 3분기,0,,,8,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 3분기,0,,,8,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 3분기,0,,,8,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 3분기,0,,,8,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 3분기,1712700699,,,8,KRW,,제 15 기 3분기,2636356230,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 3분기,-247956091,,,9,KRW,,제 15 기 3분기,-55747691,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,자본 [구성요소]|비지배지분 [구성요소],제 16 기 3분기,-341431939,,,9,KRW,,제 15 기 3분기,-64058980,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,연결재무제표 [member],제 16 기 3분기,-589388030,,,9,KRW,,제 15 기 3분기,-119806671,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 3분기,0,,,9,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 3분기,-247956091,,,9,KRW,,제 15 기 3분기,-55747691,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 3분기,0,,,9,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 3분기,0,,,9,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 3분기,0,,,9,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 3분기,-168489494,,,10,KRW,,제 15 기 3분기,117503174,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [구성요소]|비지배지분 [구성요소],제 16 기 3분기,0,,,10,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,연결재무제표 [member],제 16 기 3분기,-168489494,,,10,KRW,,제 15 기 3분기,117503174,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 3분기,0,,,10,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 3분기,0,,,10,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 3분기,0,,,10,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 3분기,0,,,10,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 3분기,-168489494,,,10,KRW,,제 15 기 3분기,117503174,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,연결재무제표 [member],제 16 기 3분기,28201614568,,,11,KRW,,제 15 기 3분기,12743366732,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,자본 [구성요소]|비지배지분 [구성요소],제 16 기 3분기,2987403412,,,11,KRW,,제 15 기 3분기,2381513428,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 3분기,25214211156,,,11,KRW,,제 15 기 3분기,10361853304,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 3분기,0,,,11,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 3분기,0,,,11,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 3분기,25214211156,,,11,KRW,,제 15 기 3분기,10361853304,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 3분기,0,,,11,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 3분기,0,,,11,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,연결재무제표 [member],제 16 기 3분기,29150333908,,,12,KRW,,제 15 기 3분기,15386432243,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,자본 [구성요소]|비지배지분 [구성요소],제 16 기 3분기,2642464292,,,12,KRW,,제 15 기 3분기,2328434228,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 3분기,26507869616,,,12,KRW,,제 15 기 3분기,13057998015,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 3분기,0,,,12,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 3분기,1296255114,,,12,KRW,,제 15 기 3분기,2571194242,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 3분기,25211614502,,,12,KRW,,제 15 기 3분기,10486803773,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 3분기,0,,,12,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 3분기,0,,,12,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 3분기,0,,,14,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 3분기,-1620815000,,,14,KRW,,제 15 기 3분기,-1620815000,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 3분기,0,,,14,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,연결재무제표 [member],제 16 기 3분기,-2839400500,,,14,KRW,,제 15 기 3분기,-2227689800,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,자본 [구성요소]|비지배지분 [구성요소],제 16 기 3분기,-1218585500,,,14,KRW,,제 15 기 3분기,-606874800,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 3분기,-1620815000,,,14,KRW,,제 15 기 3분기,-1620815000,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 3분기,0,,,14,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 3분기,0,,,14,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,연결재무제표 [member],제 16 기 3분기,-1233272775,,,15,KRW,,제 15 기 3분기,-873809380,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 3분기,0,,,15,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 3분기,0,,,15,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 3분기,0,,,15,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 3분기,-574166140,,,15,KRW,,제 15 기 3분기,-247782878,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 3분기,-574166140,,,15,KRW,,제 15 기 3분기,-247782878,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,자본 [구성요소]|비지배지분 [구성요소],제 16 기 3분기,-659106635,,,15,KRW,,제 15 기 3분기,-626026502,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 3분기,0,,,15,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 3분기,0,,,16,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 3분기,-1620815000,,,16,KRW,,제 15 기 3분기,-1620815000,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 3분기,0,,,16,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 3분기,-574166140,,,16,KRW,,제 15 기 3분기,-248793349,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 3분기,-2194981140,,,16,KRW,,제 15 기 3분기,-1869608349,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,자본 [구성요소]|비지배지분 [구성요소],제 16 기 3분기,-1877692135,,,16,KRW,,제 15 기 3분기,-1234270831,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,연결재무제표 [member],제 16 기 3분기,-4072673275,,,16,KRW,,제 15 기 3분기,-3103879180,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 3분기,0,,,16,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 3분기,0,,,17,KRW,,제 15 기 3분기,-1010471,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,자본 [구성요소]|비지배지분 [구성요소],제 16 기 3분기,0,,,17,KRW,,제 15 기 3분기,-1369529,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,연결재무제표 [member],제 16 기 3분기,0,,,17,KRW,,제 15 기 3분기,-2380000,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 3분기,0,,,17,KRW,,제 15 기 3분기,-1010471,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 3분기,0,,,17,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 3분기,0,,,17,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 3분기,0,,,17,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 3분기,0,,,17,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 3분기,24312888476,,,18,KRW,,제 15 기 3분기,11188389666,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|비지배지분 [구성요소],제 16 기 3분기,764772157,,,18,KRW,,제 15 기 3분기,1094163397,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,연결재무제표 [member],제 16 기 3분기,25077660633,,,18,KRW,,제 15 기 3분기,12282553063,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 3분기,-574166140,,,18,KRW,,제 15 기 3분기,-248793349,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 3분기,0,,,18,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 3분기,0,,,18,KRW,,제 15 기 3분기,0,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 3분기,23590799502,,,18,KRW,,제 15 기 3분기,8865988773,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 3분기,1296255114,,,18,KRW,,제 15 기 3분기,2571194242,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 16 기 3분기,295006187018,,269928526385,19,KRW,,제 15 기 3분기,268586242789,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|비지배지분 [구성요소],제 16 기 3분기,37336045861,,,19,KRW,,제 15 기 3분기,36351836871,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 3분기,257670141157,,,19,KRW,,제 15 기 3분기,232234405918,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 3분기,1315887000,,,19,KRW,,제 15 기 3분기,1315887000,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 3분기,192099129003,,,19,KRW,,제 15 기 3분기,165903555094,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 3분기,3968941911,,,19,KRW,,제 15 기 3분기,4158443982,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 3분기,-3766887560,,,19,KRW,,제 15 기 3분기,-3196550961,,연결
+20241114001645,11014,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 3분기,64053070803,,,19,KRW,,제 15 기 3분기,64053070803,,연결

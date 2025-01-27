@@ -65,7 +65,7 @@ def update_all_raw_info(start_date:str, end_date:str):
         ### === get_financial_info() 업데이트 ===
         stock_size = len(stock_code_list)
         # stock_code_list
-        for j in range(294, stock_size):
+        for j in range(683, stock_size):
             stock_code = stock_code_list[j];
             print("" + str(j+1) + " / " + str(stock_size));
             print(f'=== {quarter_keys[i]}의 {stock_code}에 대해 정보 수집 시작 ({stock_code_list.index(stock_code) + 1}/{len(stock_code_list)}) ===')

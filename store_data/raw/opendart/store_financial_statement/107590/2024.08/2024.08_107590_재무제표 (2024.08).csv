@@ -1,0 +1,356 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 16 기 반기말,502101046239,제 15 기말,467503157829,7,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 16 기 반기말,155157058719,제 15 기말,127762065745,8,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 16 기 반기말,17062889776,제 15 기말,11926094542,9,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 16 기 반기말,64131884485,제 15 기말,58897293224,10,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_AccumulatedImpairmentLossFinishedGoodsGross,평가충당금,-,제 16 기 반기말,183358890,제 15 기말,258293508,11,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_AccumulatedImpairmentLossMerchandiseGross,평가충당금,-,제 16 기 반기말,2266951,제 15 기말,723185,12,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_AccumulatedImpairmentLossRawMaterialsGross,평가충당금,-,제 16 기 반기말,115705732,제 15 기말,167117744,13,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_FinishedGoodsGross,제품,-,제 16 기 반기말,15633632005,제 15 기말,13417854069,14,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_GoodsInTransitGross,미착품,-,제 16 기 반기말,12349580454,제 15 기말,7765121852,15,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_MerchandiseGross,상품,-,제 16 기 반기말,28336824227,제 15 기말,32443539039,16,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_RawMaterialsGross,원재료,-,제 16 기 반기말,7795904189,제 15 기말,5398128305,17,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_SuppliesGross,저장품,-,제 16 기 반기말,317275183,제 15 기말,298784396,18,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_OtherCurrentFinancialAssets,기타의유동자산,-,제 16 기 반기말,1375269502,제 15 기말,1379260239,19,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_CurrentFinancialAssetsAtFairValueThroughProfitOrLossMandatorilyMeasuredAtFairValue,선급금,-,제 16 기 반기말,297309823,제 15 기말,613262320,20,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_CurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,선급비용,-,제 16 기 반기말,720890655,제 15 기말,288009021,21,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_CurrentInvestmentsInEquityInstrumentsDesignatedAtFairValueThroughOtherComprehensiveIncome,당기법인세자산,-,제 16 기 반기말,357069024,제 15 기말,477988898,22,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_TradeAndOtherCurrentReceivables,매출채권및기타수취채권,-,제 16 기 반기말,72587014956,제 15 기말,55559417740,23,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_AllowanceForDoubtfulAcccountShortTermTradeReceivable,대손충당금,-,제 16 기 반기말,454151109,제 15 기말,395616775,24,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_ShortTermLoans,단기대여금,-,제 16 기 반기말,94294090,제 15 기말,107238665,25,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_ShortTermOtherReceivables,미수금,-,제 16 기 반기말,5340015451,제 15 기말,3778422963,26,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_ShortTermTradeReceivable,매출채권,-,제 16 기 반기말,67606856524,제 15 기말,52069372887,27,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 16 기 반기말,346943987520,제 15 기말,339741092084,28,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_FinanceLeaseAssetGross,리스자산,-,제 16 기 반기말,702812025,제 15 기말,664326947,29,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,리스자산,-,제 16 기 반기말,1030092022,제 15 기말,962501143,30,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,감가상각누계액(리스자산),-,제 16 기 반기말,327279997,제 15 기말,298174196,31,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,장기매출채권 및 기타비유동채권,-,제 16 기 반기말,1933778081,제 15 기말,1984854860,32,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_LongTermDepositsProvidedGross,보증금,-,제 16 기 반기말,1127423007,제 15 기말,1100343786,33,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_LongTermLoansGross,장기대여금,-,제 16 기 반기말,789035938,제 15 기말,873655250,34,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_LongTermOtherReceivablesGross,장기미수금,-,제 16 기 반기말,50000000,제 15 기말,53786878,35,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_PresentValueDiscountsLongTermLeaseholdDeposits,현재가치할인차금,-,제 16 기 반기말,17239088,제 15 기말,27263900,36,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_PresentValueDiscountsLongTermLoansGross,현재가치할인차금,-,제 16 기 반기말,6732617,제 15 기말,5604438,37,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_PresentValueDiscountsLongTermOtherReceivablesGross,현재가치할인차금,-,제 16 기 반기말,8709159,제 15 기말,10062716,38,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,당기손익-공정가치 측정 금융자산,-,제 16 기 반기말,130436461,제 15 기말,125660252,39,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 16 기 반기말,1619972722,제 15 기말,1512465809,40,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,-,제 16 기 반기말,3209714460,제 15 기말,3164346948,41,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_CopyrightsPatentsAndOtherIndustrialPropertyRightsServiceAndOperatingRightsGross,산업재산권,-,제 16 기 반기말,185304,제 15 기말,463200,42,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,영업권,-,제 16 기 반기말,2881172224,제 15 기말,2825246312,43,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,회원권,-,제 16 기 반기말,328356932,제 15 기말,338637436,44,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 16 기 반기말,16288512182,제 15 기말,16457189442,45,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,토지,-,제 16 기 반기말,8798787203,제 15 기말,8798787203,46,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,건물,-,제 16 기 반기말,10033194796,제 15 기말,10033194796,47,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,-표준계정코드 미사용-,감가상각누계액(건물),-,제 16 기 반기말,2543469817,제 15 기말,2374792557,48,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates,관계기업투자주식,-,제 16 기 반기말,209834617420,제 15 기말,201569714366,49,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산,-,제 16 기 반기말,2202707650,제 15 기말,2627941550,50,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 16 기 반기말,111021436519,제 15 기말,111634591910,51,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_AccumulatedDepreciationBuildingsGross,감가상각누계액,-,제 16 기 반기말,9167334359,제 15 기말,8545839304,52,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_AccumulatedDepreciationMachineryGross,감가상각누계액,-,제 16 기 반기말,50103915947,제 15 기말,47093789578,53,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_AccumulatedDepreciationStructureGross,감가상각누계액,-,제 16 기 반기말,6352888677,제 15 기말,5885648920,54,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_AccumulatedDepreciationToolsAndEquipmentGross,감가상각누계액,-,제 16 기 반기말,3443800695,제 15 기말,3253525459,55,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_AccumulatedDepreciationVehiclesGross,감가상각누계액,-,제 16 기 반기말,777353671,제 15 기말,702716284,56,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_BuildingsGross,건물,-,제 16 기 반기말,31227920379,제 15 기말,26886051232,57,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_ConstructionInProgressGross,건설중인자산,-,제 16 기 반기말,2237792667,제 15 기말,14262144384,58,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_GovernmentGrantsLandGross,정부보조금,-,제 16 기 반기말,452600000,제 15 기말,474500000,59,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_GovernmentGrantsMachineryGross,정부보조금,-,제 16 기 반기말,85490532,제 15 기말,85543764,60,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_LandGross,토지,-,제 16 기 반기말,53395379372,제 15 기말,53306772383,61,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_MachineryGross,기계장치,-,제 16 기 반기말,78843981425,제 15 기말,68017023340,62,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_StructureGross,구축물,-,제 16 기 반기말,10418888912,제 15 기말,10289488912,63,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_ToolsAndEquipmentGross,공기구비품,-,제 16 기 반기말,3944891886,제 15 기말,3751890619,64,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_VehiclesGross,차량운반구,-,제 16 기 반기말,1335965759,제 15 기말,1162784349,65,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 16 기 반기말,290691617430,제 15 기말,269928526385,67,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업 소유주지분,-,제 16 기 반기말,253850578684,제 15 기말,233357252682,68,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 16 기 반기말,64053070803,제 15 기말,64053070803,69,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_GainsSaleTreasuryStock,자기주식처분이익,-,제 16 기 반기말,20824281076,제 15 기말,20824281076,70,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_SharePremium,주식발행초과금,-,제 16 기 반기말,43228789727,제 15 기말,43228789727,71,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,자본조정,-,제 16 기 반기말,-3766887559,제 15 기말,-3192721419,72,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_OtherCapitalAdjustments,기타자본조정,-,제 16 기 반기말,-3422072101,제 15 기말,-2847905961,73,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_TreasuryShares,자기주식,-,제 16 기 반기말,344815458,제 15 기말,344815458,74,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,-,제 16 기 반기말,5758051319,제 15 기말,2672686797,75,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_GainsCumulativeEffectForeignCurrencyTranslation,해외사업환산이익,-,제 16 기 반기말,6933331366,제 15 기말,3822775049,76,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_ReserveOfGainsFromInvestmentsInEquityInstruments,지분법자본변동,-,제 16 기 반기말,-72314510,제 15 기말,-186249591,77,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_ReserveOfGainsOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,-,제 16 기 반기말,-1102965537,제 15 기말,-963838661,78,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 16 기 반기말,1315887000,제 15 기말,1315887000,79,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_IssuedCapitalOfCommonStock,보통주자본금,-,제 16 기 반기말,1315887000,제 15 기말,1315887000,80,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금(결손금),-,제 16 기 반기말,186490457121,제 15 기말,168508329501,81,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_LegalReserve,법정적립금,-,제 16 기 반기말,2986406227,제 15 기말,2986406227,82,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_RetainedEarningsBeforeAppropriationsAccumulatedDeficitBeforeDisposition,미처분이익잉여금,-,제 16 기 반기말,183504050894,제 15 기말,165521923274,83,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 16 기 반기말,36841038746,제 15 기말,36571273703,84,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 16 기 반기말,502101046239,제 15 기말,467503157829,85,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 16 기 반기말,120297818653,제 15 기말,104046859852,87,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_CurentPortionOfFinanceLeaseLiabilities,유동성리스부채,-,제 16 기 반기말,3234040,제 15 기말,146000673,88,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_CurrentPortionOfLongtermBorrowings,유동성장기차입금,-,제 16 기 반기말,12605223056,제 15 기말,10657897505,89,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_CurrentProvisions,충당부채,-,제 16 기 반기말,673184769,제 15 기말,320470804,90,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_ShorttermMiscellaneousOtherProvisions,기타충당부채,-,제 16 기 반기말,673184769,제 15 기말,320470804,91,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 16 기 반기말,1247959241,제 15 기말,1262823692,92,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_OtherCurrentFinancialLiabilities,기타의유동부채,-,제 16 기 반기말,970761788,제 15 기말,837563898,93,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_CurrentFinancialLiabilitiesHeldForTrading,선수금,-,제 16 기 반기말,639668310,제 15 기말,349686909,94,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_CurrentFinancialLiabilitiesAtFairValueThroughProfitOrLossClassifiedAsHeldForTrading,예수금,-,제 16 기 반기말,331093478,제 15 기말,487876989,95,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_ShorttermBorrowings,단기차입금,-,제 16 기 반기말,37989035206,제 15 기말,26970817082,96,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayables,매입채무및기타채무,-,제 16 기 반기말,66808420553,제 15 기말,63851286198,97,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_ShortTermAccruedExpenses,미지급비용,-,제 16 기 반기말,1381764546,제 15 기말,1291058526,98,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_ShortTermOtherPayables,미지급금,-,제 16 기 반기말,4372060396,제 15 기말,4035741544,99,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_ShortTermTradePayables,매입채무,-,제 16 기 반기말,61054595611,제 15 기말,58524486128,100,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 16 기 반기말,211409428809,제 15 기말,197574631444,101,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 16 기 반기말,91111610156,제 15 기말,93527771592,102,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_LongTermBorrowingsGross,장기차입금,-,제 16 기 반기말,68209112547,제 15 기말,71944929280,103,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentPayables,장기매입채무 및 기타채무,-,제 16 기 반기말,75000000,제 15 기말,75000000,104,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_LongTermGuaranteeDepositWithholdings,예수보증금,-,제 16 기 반기말,75000000,제 15 기말,75000000,105,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_PostemploymentBenefitObligations,확정급여부채,-,제 16 기 반기말,4159822962,제 15 기말,3986719857,106,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_FairValueOfPlanAssets,사외적립자산,-,제 16 기 반기말,56397640,제 15 기말,58120990,107,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,dart_PresentValueOfDefinedBenefitObligation,확정급여채무,-,제 16 기 반기말,4216220602,제 15 기말,4044840847,108,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 16 기 반기말,17969316861,제 15 기말,17015137399,109,KRW,,,,,연결
+20240814004317,11012,2024,00706715,BS,재무상태표,ifrs-full_NoncurrentLeaseLiabilities,리스부채,-,제 16 기 반기말,698357786,제 15 기말,505985056,110,KRW,,,,,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익(손실),-,제 16 기 반기,7433102228,,,6,KRW,15884509144,제 15 기 반기,2647040072,6305469815,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_OtherGains,기타수익,-,제 16 기 반기,108933525,,,7,KRW,222007841,제 15 기 반기,54771659,179118284,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_GainsFromGovernmentGrants,정부보조금수익,-,제 16 기 반기,179697,,,8,KRW,16137843,제 15 기 반기,0,0,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_LentIncome,수입임대료,-,제 16 기 반기,22500000,,,9,KRW,45000000,제 15 기 반기,22500000,45000000,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_MiscellaneousIncome,잡이익,-,제 16 기 반기,86253828,,,10,KRW,160869998,제 15 기 반기,32271659,132423219,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_GainsOnDisposalsOfPropertyPlantAndEquipment,유형자산처분이익,-,제 16 기 반기,0,,,11,KRW,0,제 15 기 반기,0,1695065,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_OtherLosses,기타비용,-,제 16 기 반기,22263261,,,12,KRW,52774320,제 15 기 반기,-775940072,10612809,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_Donations,기부금,-,제 16 기 반기,0,,,13,KRW,0,제 15 기 반기,0,100000,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_LossesOnSaleOfInvestmentsInAssociates,관계기업투자처분손실,-,제 16 기 반기,0,,,14,KRW,0,제 15 기 반기,-780803189,0,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_MiscellaneousLosses,잡손실,-,제 16 기 반기,22262261,,,15,KRW,52773320,제 15 기 반기,4863117,10512809,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_LossesOnDisposalsOfPropertyPlantAndEquipment,유형자산처분손실,-,제 16 기 반기,1000,,,16,KRW,1000,제 15 기 반기,0,0,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 16 기 반기,8968764419,,,17,KRW,17903274462,제 15 기 반기,7849845325,15854449273,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_AdvertisingExpensesSellingGeneralAdministrativeExpenses,광고선전비,-,제 16 기 반기,165817999,,,18,KRW,183883789,제 15 기 반기,24685279,150860634,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_AmortisationExpenseSellingGeneralAdministrativeExpenses,무형자산상각비,-,제 16 기 반기,6914254,,,19,KRW,13679282,제 15 기 반기,6389000,12507283,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_BadDebtExpensesSellingGeneralAdministrativeExpenses,대손상각비(대손충당금환입),-,제 16 기 반기,12380313,,,20,KRW,39051621,제 15 기 반기,-124658833,-17422929,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_CommissionsSellingGeneralAdministrativeExpenses,지급수수료,-,제 16 기 반기,76389963,,,21,KRW,522247964,제 15 기 반기,1190962153,2239188182,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_CommunicationExpensesSellingGeneralAdministrativeExpenses,통신비,-,제 16 기 반기,36538250,,,22,KRW,78253280,제 15 기 반기,40948266,83212497,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_DepreciationExpenseSellingGeneralAdministrativeExpenses,감가상각비,-,제 16 기 반기,203254190,,,23,KRW,405311257,제 15 기 반기,199189950,395973453,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_ElectricPowerExpenseSellingGeneralAdministrativeExpenses,전력비,-,제 16 기 반기,20287217,,,24,KRW,40318494,제 15 기 반기,12064042,26035860,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_EmployeeBenefitsSellingGeneralAdministrativeExpenses,복리후생비,-,제 16 기 반기,694030551,,,25,KRW,1350850732,제 15 기 반기,639152664,1293316972,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_EntertainmentExpensesSellingGeneralAdministrativeExpenses,접대비,-,제 16 기 반기,83041671,,,26,KRW,193565742,제 15 기 반기,71900085,149399387,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_ExportOverallExpenseSellingGeneralAdministrativeExpenses,수출비용,-,제 16 기 반기,286582644,,,27,KRW,561307907,제 15 기 반기,210642869,467642445,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_FreightExpensesSellingGeneralAdministrativeExpenses,운반비,-,제 16 기 반기,3048956871,,,28,KRW,6004962348,제 15 기 반기,1877168845,3694744719,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_InsurancePremiumsSellingGeneralAdministrativeExpenses,보험료,-,제 16 기 반기,28327959,,,29,KRW,188809835,제 15 기 반기,15979416,81413180,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_OrdinaryDevelopmentExpenseSellingGeneralAdministrativeExpenses,경상개발비,-,제 16 기 반기,214368353,,,30,KRW,406901243,제 15 기 반기,163469855,326785854,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_PackingExpensesSellingGeneralAdministrativeExpenses,포장비,-,제 16 기 반기,144059612,,,31,KRW,296132846,제 15 기 반기,126137244,244401844,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_ProvisionForSeveranceIndemnities,퇴직급여,-,제 16 기 반기,81876279,,,32,KRW,163752558,제 15 기 반기,67771956,139078347,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_PublicationExpensesSellingGeneralAdministrativeExpenses,도서인쇄비,-,제 16 기 반기,1060767,,,33,KRW,3417149,제 15 기 반기,1128476,3421140,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_RentalExpensesSellingGeneralAdministrativeExpenses,지급임차료,-,제 16 기 반기,163803589,,,34,KRW,319432353,제 15 기 반기,150464734,306616084,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_RepairExpensesSellingGeneralAdministrativeExpenses,수선비,-,제 16 기 반기,59197078,,,35,KRW,135608344,제 15 기 반기,77194233,176853334,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_SalariesWages,급여,-,제 16 기 반기,2611515750,,,36,KRW,5178781563,제 15 기 반기,2355539539,4792057110,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_SamplesExpensesSellingGeneralAdministrativeExpenses,견본비,-,제 16 기 반기,20912972,,,37,KRW,34506111,제 15 기 반기,25482488,39400125,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_SupplyExpensesSellingGeneralAdministrativeExpenses,소모품비,-,제 16 기 반기,102399294,,,38,KRW,187319056,제 15 기 반기,62554354,137185286,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_TaxesDuesSellingGeneralAdministrativeExpenses,세금과공과,-,제 16 기 반기,224698668,,,39,KRW,243172815,제 15 기 반기,205281185,223152070,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_TrainingExpensesSellingGeneralAdministrativeExpenses,교육훈련비,-,제 16 기 반기,6112006,,,40,KRW,14481100,제 15 기 반기,5767940,17034521,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_TravelExpensesSellingGeneralAdministrativeExpenses,여비교통비,-,제 16 기 반기,262331493,,,41,KRW,463286205,제 15 기 반기,175540308,320761155,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_UtilityExpensesSellingGeneralAdministrativeExpenses,수도광열비,-,제 16 기 반기,6618760,,,42,KRW,12455759,제 15 기 반기,109680,218320,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_VehicleMaintenanceExpensesSellingGeneralAdministrativeExpenses,차량유지비,-,제 16 기 반기,84324438,,,43,KRW,176456396,제 15 기 반기,76923046,154948881,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_WarehouseExpensesSellingGeneralAdministrativeExpenses,보관료,-,제 16 기 반기,322963478,,,44,KRW,685328713,제 15 기 반기,192056551,395663519,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,-표준계정코드 미사용-,지분법이익,-,제 16 기 반기,4908908156,,,45,KRW,10496663761,제 15 기 반기,333585421,6281725395,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 16 기 반기,12158591048,,,46,KRW,24835764320,제 15 기 반기,1790162574,11122889322,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,-,제 16 기 반기,894383213,,,48,KRW,2147457178,제 15 기 반기,348239688,1331026160,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업소유주지분,-,제 16 기 반기,11264207835,,,49,KRW,22688307142,제 15 기 반기,1441922886,9791863162,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 16 기 반기,104469268517,,,50,KRW,209333474064,제 15 기 반기,96347554627,197730794477,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_CostOfSalesFromRenderingOfServicesRental,임대매출원가,-,제 16 기 반기,109567250,,,51,KRW,219135750,제 15 기 반기,140036476,223569386,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_CostOfSalesFromSaleOfGoodsProduct,제품매출원가,-,제 16 기 반기,51543674881,,,52,KRW,91182265983,제 15 기 반기,37319842507,78172680980,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_CostOfSalesFromServices,용역매출원가,-,제 16 기 반기,705917578,,,53,KRW,1215305685,제 15 기 반기,384181030,710196936,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_CostOfMerchandiseSold,상품매출원가,-,제 16 기 반기,52110108808,,,54,KRW,116716766646,제 15 기 반기,58503494614,118624347175,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),-,제 16 기 반기,4103,,,56,KRW,8467,제 15 기 반기,745,3201,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융비용,-,제 16 기 반기,1276102143,,,57,KRW,2606764047,제 15 기 반기,1463253581,2702039847,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_InterestExpenseFinanceExpense,이자비용,-,제 16 기 반기,1185773003,,,58,KRW,2449551869,제 15 기 반기,1259002501,2315116289,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_LossesOnDispositionOfReceivablesFinancialExpense,매출채권처분손실,-,제 16 기 반기,1323430,,,59,KRW,1323430,제 15 기 반기,0,0,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_LossesOnForeignCurrencyTransactionsFiancialExpense,외환차손,-,제 16 기 반기,36682492,,,60,KRW,143559187,제 15 기 반기,204278019,356798872,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_LossesOnForeignExchangeTranslationsFinancialExpense,외화환산손실(금융원가),-,제 16 기 반기,52323218,,,61,KRW,12329561,제 15 기 반기,-26939,30124686,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 16 기 반기,361904712,,,62,KRW,646284708,제 15 기 반기,219723720,642589761,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_DividendIncome,배당금수익(금융수익),-,제 16 기 반기,0,,,63,KRW,43448100,제 15 기 반기,0,73418300,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_GainsOnForeignCurrencyTransactionsFiancialIncome,외환차익,-,제 16 기 반기,255535419,,,64,KRW,464448353,제 15 기 반기,212035058,463358685,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_GainsOnForeignExchangeTranslationsFinancialIncome,외화환산이익(금융수익),-,제 16 기 반기,80232895,,,65,KRW,85071089,제 15 기 반기,17715440,72339695,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_InterestIncomeFinanceIncome,이자수익,-,제 16 기 반기,26136398,,,66,KRW,53317166,제 15 기 반기,-10026778,33473081,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 16 기 반기,16401866647,,,67,KRW,33787783606,제 15 기 반기,10496885397,22159919088,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,-,제 16 기 반기,1103227737,,,68,KRW,2638080127,제 15 기 반기,468416102,1855481787,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 16 기 반기,1747335568,,,69,KRW,2883917360,제 15 기 반기,-309228687,2282120510,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,후속적으로 당기손익으로 재분류되는 포괄손익,-,제 16 기 반기,1831577707,,,70,KRW,3284374921,제 15 기 반기,124583941,2337653312,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이(세후기타포괄손익),-,제 16 기 반기,1642416834,,,71,KRW,3110556317,제 15 기 반기,124583941,2337653312,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동(해외환산),-,제 16 기 반기,189160873,,,72,KRW,173818604,제 15 기 반기,0,0,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,후속적으로 당기손익으로 재분류되지 않는 포괄손익,-,제 16 기 반기,-84242139,,,73,KRW,-400457561,제 15 기 반기,-433812628,-55532802,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치측정금융자산 처분이익,-,제 16 기 반기,-22162870,,,74,KRW,-336360014,제 15 기 반기,-49360965,-197499524,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정손익(세후기타포괄손익),-,제 16 기 반기,-2195746,,,75,KRW,-4214024,제 15 기 반기,-1719787,-2944079,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,-,제 16 기 반기,-59883523,,,76,KRW,-59883523,제 15 기 반기,-382731876,144910801,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 16 기 반기,10411255480,,,77,KRW,21951846960,제 15 기 반기,2099391261,8840768812,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,-,제 16 기 반기,910270796,,,79,KRW,2347114668,제 15 기 반기,373446500,1429439034,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주지분,-,제 16 기 반기,9500984684,,,80,KRW,19604732292,제 15 기 반기,1725944761,7411329778,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세차감전이익,-,제 16 기 반기,11514483217,,,81,KRW,24589927087,제 15 기 반기,2567807363,10696250599,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,ifrs-full_Revenue,수익(매출액),-,제 16 기 반기,120871135164,,,82,KRW,243121257670,제 15 기 반기,106844440024,219890713565,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_RevenueFromRenderingOfServicesRental,임대료수익,-,제 16 기 반기,247966320,,,83,KRW,495933890,제 15 기 반기,708310301,956427940,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_RevenueFromSaleOfGoodsMerchandise,상품매출,-,제 16 기 반기,57664089194,,,84,KRW,130346161496,제 15 기 반기,71256870909,145934301128,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_RevenueFromSaleOfGoodsProduct,제품매출액,-,제 16 기 반기,61745081232,,,85,KRW,109710543351,제 15 기 반기,34027210871,70939266719,연결
+20240814004317,11012,2024,00706715,CIS,포괄손익계산서,dart_RevenueFromServices,용역수익,-,제 16 기 반기,1213998418,,,86,KRW,2568618933,제 15 기 반기,852047943,2060717778,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 16 기 반기,11926094542,,,2,KRW,,제 15 기 반기,9377087649,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 16 기 반기,17062889776,,,3,KRW,,제 15 기 반기,18025856306,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 16 기 반기,4674373636,,,8,KRW,,제 15 기 반기,10607456995,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AcquisitionOfTreasuryShares,자기주식의 취득,-,제 16 기 반기,663586170,,,9,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 감소,-,제 16 기 반기,1800000,,,10,KRW,,제 15 기 반기,29167659,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 차입,-,제 16 기 반기,383224650,,,11,KRW,,제 15 기 반기,4244582063,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 차입,-,제 16 기 반기,56820930836,,,12,KRW,,제 15 기 반기,56845884240,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 상환,-,제 16 기 반기,2583886264,,,13,KRW,,제 15 기 반기,2702342469,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 16 기 반기,45858354311,,,14,KRW,,제 15 기 반기,44650000000,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,-,제 16 기 반기,2852468500,,,15,KRW,,제 15 기 반기,2227689800,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsFinancingActivities,비지배주주와의 거래로 인한 현금유출,-,제 16 기 반기,-569686605,,,16,KRW,,제 15 기 반기,-873809380,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 16 기 반기,-1906192493,,,17,KRW,,제 15 기 반기,-12667913811,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금의 감소,-,제 16 기 반기,5837400,,,18,KRW,,제 15 기 반기,3000000,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 16 기 반기,30453046,,,19,KRW,,제 15 기 반기,5694122,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,기타포괄손익-공정가치 측정 금융자산의 처분,-,제 16 기 반기,0,,,20,KRW,,제 15 기 반기,555518250,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_ProceedsFromSalesOfLongTermLoansAndReceivables,장기대여금의 감소,-,제 16 기 반기,384254692,,,21,KRW,,제 15 기 반기,49453310,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermLoansAndReceivables,단기대여금의 감소,-,제 16 기 반기,214030845,,,22,KRW,,제 15 기 반기,12910845,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_PurchaseOfLongTermLoansAndReceivables,장기대여금의 증가,-,제 16 기 반기,363970000,,,23,KRW,,제 15 기 반기,200360900,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_PurchaseOfShortTermLoansAndReceivables,단기대여금의 증가,-,제 16 기 반기,136751650,,,24,KRW,,제 15 기 반기,1710450,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 16 기 반기,6935930,,,25,KRW,,제 15 기 반기,2600000,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_PurchaseOfAvailableforsaleFinancialAssets,기타포괄손익-공정가치 측정 금융자산의 취득,-,제 16 기 반기,0,,,26,KRW,,제 15 기 반기,49603960,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 16 기 반기,1986076664,,,27,KRW,,제 15 기 반기,13034026784,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 16 기 반기,1836206282,,,28,KRW,,제 15 기 반기,9090887810,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산ㆍ부채의 변동,-,제 16 기 반기,-17523494585,,,29,KRW,,제 15 기 반기,300283980,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInAdvancePayments,선급금의 감소(증가),-,제 16 기 반기,320443731,,,30,KRW,,제 15 기 반기,-760110102,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInFairValueOfPlanAssets,사외적립자산의 감소(증가),-,제 16 기 반기,1254000,,,31,KRW,,제 15 기 반기,-3885500,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInLongTermOtherReceivables,장기미수금의 감소(증가),-,제 16 기 반기,3910218,,,32,KRW,,제 15 기 반기,-32005467,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInOtherReceivables,미수금의 감소(증가),-,제 16 기 반기,-1417161346,,,33,KRW,,제 15 기 반기,2276227061,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInShortTermAccruedIncome,미수수익의 감소(증가),-,제 16 기 반기,1716709,,,34,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInShortTermPrepaidExpenses,선급비용의 감소(증가),-,제 16 기 반기,-427973689,,,35,KRW,,제 15 기 반기,-247526333,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAccruedExpenses,미지급비용의 증가(감소),-,제 16 기 반기,84486104,,,36,KRW,,제 15 기 반기,742849227,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAdvancesCustomers,선수금의 증가(감소),-,제 16 기 반기,284063272,,,37,KRW,,제 15 기 반기,-346563182,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInOtherPayables,미지급금의 증가(감소),-,제 16 기 반기,-209099487,,,38,KRW,,제 15 기 반기,1019075548,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInPostemploymentBenefitObligations,퇴직금의 지급,-,제 16 기 반기,-348011610,,,39,KRW,,제 15 기 반기,-252208800,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInProvisions,충당부채의 증가(감소),-,제 16 기 반기,334349546,,,40,KRW,,제 15 기 반기,88600000,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInWithholdingsBanks,예수금의 증가(감소),-,제 16 기 반기,-161054229,,,41,KRW,,제 15 기 반기,-304401591,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,-표준계정코드 미사용-,확정급여채무의 관계사 전입(출),-,제 16 기 반기,0,,,42,KRW,,제 15 기 반기,4040170,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInInventories,재고자산의 감소(증가),-,제 16 기 반기,-2550959662,,,43,KRW,,제 15 기 반기,10257187127,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAccountReceivable,매출채권의 감소(증가),-,제 16 기 반기,-13224347097,,,44,KRW,,제 15 기 반기,-3685655411,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAccountPayable,매입채무의 증가(감소),-,제 16 기 반기,-215111045,,,45,KRW,,제 15 기 반기,-8455338767,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감,-,제 16 기 반기,-1000540797,,,46,KRW,,제 15 기 반기,1967196276,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비(대손충당금환입),-,제 16 기 반기,39051621,,,47,KRW,,제 15 기 반기,-17422929,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익,-,제 16 기 반기,0,,,48,KRW,,제 15 기 반기,1695065,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익,-,제 16 기 반기,85071089,,,49,KRW,,제 15 기 반기,72339695,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForInterestExpenses,이자비용,-,제 16 기 반기,2449551869,,,50,KRW,,제 15 기 반기,2315116289,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsOfReceivables,매출채권처분손실,-,제 16 기 반기,1323430,,,51,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForLossesOnDispositionOfPropertyPlantAndEquipment,유형자산처분손실,-,제 16 기 반기,1000,,,52,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForLossesOnForeignExchangeTranslations,외화환산손실,-,제 16 기 반기,12329561,,,53,KRW,,제 15 기 반기,30124686,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법평가손익,-,제 16 기 반기,10496663761,,,54,KRW,,제 15 기 반기,6281725395,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여,-,제 16 기 반기,514533251,,,55,KRW,,제 15 기 반기,448486653,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,dart_AdjustmentsForWritedownsOfInventories,재고자산평가손실,-,제 16 기 반기,-147348867,,,56,KRW,,제 15 기 반기,9584901,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,-표준계정코드 미사용-,배당금수익,-,제 16 기 반기,43448100,,,57,KRW,,제 15 기 반기,73418300,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForAmortisationExpense,무형자산상각비,-,제 16 기 반기,13679282,,,58,KRW,,제 15 기 반기,12507283,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationExpense,감가상각비,-,제 16 기 반기,4156758045,,,59,KRW,,제 15 기 반기,3775969142,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용,-,제 16 기 반기,2638080127,,,60,KRW,,제 15 기 반기,1855481787,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익,-,제 16 기 반기,53317166,,,61,KRW,,제 15 기 반기,33473081,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금의 수취,-,제 16 기 반기,2419248100,,,62,KRW,,제 15 기 반기,2449218300,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 납부(환급),-,제 16 기 반기,1598259598,,,63,KRW,,제 15 기 반기,2224261034,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,-,제 16 기 반기,2544189610,,,64,KRW,,제 15 기 반기,2334250886,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,-,제 16 기 반기,131595812,,,65,KRW,,제 15 기 반기,91932362,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 16 기 반기,10411255480,,,66,KRW,,제 15 기 반기,2099391261,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 16 기 반기,532407808,,,67,KRW,,제 15 기 반기,1618337663,,연결
+20240814004317,11012,2024,00706715,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,환율변동효과 반영전 현금및현금성자산의 순증가(감소),-,제 16 기 반기,4604387425,,,68,KRW,,제 15 기 반기,7030430994,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 16 기 반기,269928526385,,,3,KRW,,제 15 기 반기,256303689726,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|비지배지분 [구성요소],제 16 기 반기,36571273703,,,3,KRW,,제 15 기 반기,35257673474,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 반기,233357252682,,,3,KRW,,제 15 기 반기,221046016252,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 반기,-3192721419,,,3,KRW,,제 15 기 반기,-2947757612,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 반기,2672686797,,,3,KRW,,제 15 기 반기,1587249740,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 반기,168508329501,,,3,KRW,,제 15 기 반기,157037566321,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 반기,1315887000,,,3,KRW,,제 15 기 반기,1315887000,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 반기,64053070803,,,3,KRW,,제 15 기 반기,64053070803,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 반기,0,,,6,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,자본 [구성요소]|비지배지분 [구성요소],제 16 기 반기,0,,,6,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,연결재무제표 [member],제 16 기 반기,0,,,6,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 반기,0,,,6,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 반기,0,,,6,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 반기,0,,,6,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 반기,0,,,6,KRW,,제 15 기 반기,98389886,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 반기,0,,,6,KRW,,제 15 기 반기,-98389886,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,연결재무제표 [member],제 16 기 반기,-4214024,,,7,KRW,,제 15 기 반기,-2944079,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,자본 [구성요소]|비지배지분 [구성요소],제 16 기 반기,-2424352,,,7,KRW,,제 15 기 반기,-1694119,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 반기,-1789672,,,7,KRW,,제 15 기 반기,-1249960,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 반기,0,,,7,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 반기,-1789672,,,7,KRW,,제 15 기 반기,-1249960,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 반기,0,,,7,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 반기,0,,,7,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 반기,0,,,7,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 반기,3110556317,,,8,KRW,,제 15 기 반기,2323489571,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [구성요소]|비지배지분 [구성요소],제 16 기 반기,0,,,8,KRW,,제 15 기 반기,14163741,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,연결재무제표 [member],제 16 기 반기,3110556317,,,8,KRW,,제 15 기 반기,2337653312,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 반기,0,,,8,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 반기,0,,,8,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 반기,0,,,8,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 반기,0,,,8,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 반기,3110556317,,,8,KRW,,제 15 기 반기,2323489571,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 반기,-139126876,,,9,KRW,,제 15 기 반기,-86617028,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,자본 [구성요소]|비지배지분 [구성요소],제 16 기 반기,-197233138,,,9,KRW,,제 15 기 반기,-110882496,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,연결재무제표 [member],제 16 기 반기,-336360014,,,9,KRW,,제 15 기 반기,-197499524,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 반기,0,,,9,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 반기,-139126876,,,9,KRW,,제 15 기 반기,-86617028,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 반기,0,,,9,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 반기,0,,,9,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,기타포괄-공정가치측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 반기,0,,,9,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 반기,113935081,,,10,KRW,,제 15 기 반기,144910801,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [구성요소]|비지배지분 [구성요소],제 16 기 반기,0,,,10,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,연결재무제표 [member],제 16 기 반기,113935081,,,10,KRW,,제 15 기 반기,144910801,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 반기,0,,,10,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 반기,0,,,10,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 반기,0,,,10,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 반기,0,,,10,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 반기,113935081,,,10,KRW,,제 15 기 반기,144910801,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,연결재무제표 [member],제 16 기 반기,21951846960,,,11,KRW,,제 15 기 반기,8840768811,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,자본 [구성요소]|비지배지분 [구성요소],제 16 기 반기,2347114668,,,11,KRW,,제 15 기 반기,1429439034,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 반기,19604732292,,,11,KRW,,제 15 기 반기,7411329778,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 반기,0,,,11,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 반기,0,,,11,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 반기,19604732292,,,11,KRW,,제 15 기 반기,7411329778,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 반기,0,,,11,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 반기,0,,,11,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,연결재무제표 [member],제 16 기 반기,24835764320,,,12,KRW,,제 15 기 반기,11122889321,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,자본 [구성요소]|비지배지분 [구성요소],제 16 기 반기,2147457178,,,12,KRW,,제 15 기 반기,1331026160,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 반기,22688307142,,,12,KRW,,제 15 기 반기,9791863162,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 반기,0,,,12,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 반기,3085364522,,,12,KRW,,제 15 기 반기,2283393458,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 반기,19602942620,,,12,KRW,,제 15 기 반기,7508469704,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 반기,0,,,12,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,총포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 반기,0,,,12,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 반기,0,,,14,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 반기,-1620815000,,,14,KRW,,제 15 기 반기,-1620815000,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 반기,0,,,14,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,연결재무제표 [member],제 16 기 반기,-2839400500,,,14,KRW,,제 15 기 반기,-2227689800,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,자본 [구성요소]|비지배지분 [구성요소],제 16 기 반기,-1218585500,,,14,KRW,,제 15 기 반기,-606874800,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 반기,-1620815000,,,14,KRW,,제 15 기 반기,-1620815000,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 반기,0,,,14,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 반기,0,,,14,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,연결재무제표 [member],제 16 기 반기,-1233272775,,,15,KRW,,제 15 기 반기,-873809380,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 반기,0,,,15,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 반기,0,,,15,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 반기,0,,,15,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 반기,-574166140,,,15,KRW,,제 15 기 반기,-247782878,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 반기,-574166140,,,15,KRW,,제 15 기 반기,-247782878,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,자본 [구성요소]|비지배지분 [구성요소],제 16 기 반기,-659106635,,,15,KRW,,제 15 기 반기,-626026502,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,종속기업 지분율 변동으로 인한 조정,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 반기,0,,,15,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 반기,0,,,16,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 반기,-1620815000,,,16,KRW,,제 15 기 반기,-1620815000,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 반기,0,,,16,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 반기,-574166140,,,16,KRW,,제 15 기 반기,-248793349,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 반기,-2194981140,,,16,KRW,,제 15 기 반기,-1869608349,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,자본 [구성요소]|비지배지분 [구성요소],제 16 기 반기,-1877692135,,,16,KRW,,제 15 기 반기,-1234270831,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,연결재무제표 [member],제 16 기 반기,-4072673275,,,16,KRW,,제 15 기 반기,-3103879180,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,-표준계정코드 미사용-,자본에 직접 반영된 소유주와의 거래 등 소계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 반기,0,,,16,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 반기,0,,,17,KRW,,제 15 기 반기,-1010471,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,자본 [구성요소]|비지배지분 [구성요소],제 16 기 반기,0,,,17,KRW,,제 15 기 반기,-1369529,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,연결재무제표 [member],제 16 기 반기,0,,,17,KRW,,제 15 기 반기,-2380000,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 반기,0,,,17,KRW,,제 15 기 반기,-1010471,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 반기,0,,,17,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 반기,0,,,17,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 반기,0,,,17,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,이익소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 반기,0,,,17,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 반기,20493326002,,,18,KRW,,제 15 기 반기,7922254813,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|비지배지분 [구성요소],제 16 기 반기,269765043,,,18,KRW,,제 15 기 반기,96755329,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,연결재무제표 [member],제 16 기 반기,20763091045,,,18,KRW,,제 15 기 반기,8019010141,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 반기,-574166140,,,18,KRW,,제 15 기 반기,-248793349,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 반기,0,,,18,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 반기,0,,,18,KRW,,제 15 기 반기,0,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 반기,17982127620,,,18,KRW,,제 15 기 반기,5887654704,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 반기,3085364522,,,18,KRW,,제 15 기 반기,2283393458,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 16 기 반기,290691617430,,269928526385,19,KRW,,제 15 기 반기,264322699868,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|비지배지분 [구성요소],제 16 기 반기,36841038746,,,19,KRW,,제 15 기 반기,35354428803,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 16 기 반기,253850578684,,,19,KRW,,제 15 기 반기,228968271065,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 16 기 반기,1315887000,,,19,KRW,,제 15 기 반기,1315887000,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 16 기 반기,186490457121,,,19,KRW,,제 15 기 반기,162925221025,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 16 기 반기,5758051319,,,19,KRW,,제 15 기 반기,3870643199,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 16 기 반기,-3766887559,,,19,KRW,,제 15 기 반기,-3196550961,,연결
+20240814004317,11012,2024,00706715,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 16 기 반기,64053070803,,,19,KRW,,제 15 기 반기,64053070803,,연결
