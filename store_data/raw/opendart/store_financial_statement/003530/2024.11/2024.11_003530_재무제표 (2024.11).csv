@@ -1,0 +1,196 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분
+20241113000515,11014,2024,00148610,BS,재무상태표,dart_CashAndDuefromBanks,현금및예치금,-,제 64 기 3분기말,554309748542,제 63 기말,896572639336,7,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,dart_LoansAtAmortisedCost,대출채권,-,제 64 기 3분기말,1970878701470,제 63 기말,2962851147683,8,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 64 기 3분기말,12658274246657,제 63 기말,13250183608173,9,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_CurrentTaxAssets,당기법인세자산,-,제 64 기 3분기말,12519534505,제 63 기말,38305221914,10,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 64 기 3분기말,15932553,제 63 기말,13495243,11,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_DerivativeFinancialAssets,파생상품자산,-,제 64 기 3분기말,175984132671,제 63 기말,248524630549,12,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산,-,제 64 기 3분기말,859956886083,제 63 기말,631507987871,13,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융자산,-,제 64 기 3분기말,8013192240842,제 63 기말,7280854066366,14,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_IntangibleAssetsAndGoodwill,무형자산,-,제 64 기 3분기말,46372115969,제 63 기말,39649620348,15,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_InvestmentAccountedForUsingEquityMethod,관계기업투자,-,제 64 기 3분기말,112082134230,제 63 기말,268152008105,16,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 64 기 3분기말,82775676,제 63 기말,85796686,17,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,매각예정자산,-,제 64 기 3분기말,0,제 63 기말,4928158952,18,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_OtherFinancialAssets,기타금융자산,-,제 64 기 3분기말,767430558654,제 63 기말,709958917225,19,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_OtherNonfinancialAssets,기타자산,-,제 64 기 3분기말,98493392464,제 63 기말,108157551746,20,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 64 기 3분기말,46956092998,제 63 기말,60622366149,21,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 64 기 3분기말,1655481107282,제 63 기말,1573045025733,24,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 지분,-,제 64 기 3분기말,1655474979115,제 63 기말,1573039090194,25,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,dart_CapitalAdjustments,자본조정,-,제 64 기 3분기말,-15748650038,제 63 기말,-16772480748,26,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 64 기 3분기말,27813416711,제 63 기말,27813416711,27,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_AccumulatedOtherComprehensiveIncome,기타포괄손익누계액,-,제 64 기 3분기말,405578362532,제 63 기말,384871833223,28,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 64 기 3분기말,1096738875000,제 63 기말,1096738875000,29,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금,-,제 64 기 3분기말,141092974910,제 63 기말,80387446008,30,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,dart_RegulatoryReserveForCreditLoss,대손준비금 기적립액,-,제 64 기 3분기말,17342646449,제 63 기말,16533117951,31,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,dart_RegulatoryReserveForCreditLossToBeAddedReversed,대손준비금 적립(환입)예정액,-,제 64 기 3분기말,-2686281361,제 63 기말,809528498,32,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 64 기 3분기말,6128167,제 63 기말,5935539,33,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 64 기 3분기말,12658274246657,제 63 기말,13250183608173,34,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,-표준계정코드 미사용-,기타장기종업원급여부채,-,제 64 기 3분기말,6440507227,제 63 기말,5865800806,36,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_BondsIssued,사채,-,제 64 기 3분기말,639858729516,제 63 기말,690328881541,37,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 64 기 3분기말,607557790,제 63 기말,359945473,38,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 64 기 3분기말,94707946376,제 63 기말,87018539362,39,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_DepositsFromCustomers,예수부채,-,제 64 기 3분기말,752015459364,제 63 기말,1111823979502,40,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_DerivativeFinancialLiabilities,파생상품부채,-,제 64 기 3분기말,361206776622,제 63 기말,537096309274,41,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_FinancialLiabilitiesAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융부채,-,제 64 기 3분기말,1825117997039,제 63 기말,1879109371389,42,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 64 기 3분기말,11002793139375,제 63 기말,11677138582440,43,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_OtherBorrowings,차입부채,-,제 64 기 3분기말,6390297993538,제 63 기말,6461614017894,44,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_OtherFinancialLiabilities,기타금융부채,-,제 64 기 3분기말,812142298630,제 63 기말,804569814292,45,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_OtherNonfinancialLiabilities,기타부채,-,제 64 기 3분기말,60905049595,제 63 기말,40257947609,46,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_Provisions,충당부채,-,제 64 기 3분기말,53249067595,제 63 기말,53850929473,47,KRW,,,,,연결
+20241113000515,11014,2024,00148610,BS,재무상태표,ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan,순확정급여부채,-,제 64 기 3분기말,6243756083,제 63 기말,5243045825,48,KRW,,,,,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,dart_NonOperatingExpense,영업외비용,-,제 64 기 3분기,2532782136,,,6,KRW,14843337761,제 63 기 3분기,20319764613,30088698077,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,dart_NonOperatingIncome,영업외수익,-,제 64 기 3분기,2201688267,,,7,KRW,87406000157,제 63 기 3분기,3870236575,7179762666,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,-표준계정코드 미사용-,대손준비금 반영후 조정손익,-,제 64 기 3분기,5085309991,,,8,KRW,63391810263,제 63 기 3분기,-13146722130,13202919015,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,-표준계정코드 미사용-,파생상품평가및거래이익,-,제 64 기 3분기,203079565381,,,9,KRW,790537925610,제 63 기 3분기,238804471077,702370026068,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,-표준계정코드 미사용-,유가증권평가및처분이익,-,제 64 기 3분기,79816900027,,,10,KRW,260969988501,제 63 기 3분기,53521604535,277012879206,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,-표준계정코드 미사용-,파생상품평가및거래손실,-,제 64 기 3분기,149191237991,,,11,KRW,663464162442,제 63 기 3분기,239241283819,619745821898,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,-표준계정코드 미사용-,유가증권평가및처분손실,-,제 64 기 3분기,135638233159,,,12,KRW,371416525549,제 63 기 3분기,64590583378,331152776002,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets,신용손실충당금 전입액,-,제 64 기 3분기,1843679520,,,13,KRW,49715908270,제 63 기 3분기,15144434451,31382862395,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,분기총포괄손익,-,제 64 기 3분기,-2581762077,,,14,KRW,81412250839,제 63 기 3분기,-53442571277,35113462111,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeFromContinuingOperationsAttributableToNoncontrollingInterests,비지배지분에 귀속되는 총포괄손익,-,제 64 기 3분기,-40757,,,15,KRW,192628,제 63 기 3분기,-18060,223757,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeFromContinuingOperationsAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 총포괄손익,-,제 64 기 3분기,-2581721320,,,16,KRW,81412058211,제 63 기 3분기,-53442553217,35113238354,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,dart_BasicEarningsLossPerSharePreferredStockFromContinuingOperations,구형우선주 기본주당손익,-,제 64 기 3분기,65,,,18,KRW,327,제 63 기 3분기,-17,152,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,dart_DilutedEarningsLossPerSharePreferredStockFromContinuingOperations,구형우선주 희석주당손익,-,제 64 기 3분기,65,,,19,KRW,327,제 63 기 3분기,-17,152,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,보통주 기본주당손익,-,제 64 기 3분기,15,,,20,KRW,277,제 63 기 3분기,-67,102,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,보통주 희석주당손익,-,제 64 기 3분기,15,,,21,KRW,277,제 63 기 3분기,-67,102,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_FeeAndCommissionExpense,수수료비용,-,제 64 기 3분기,10898092093,,,22,KRW,29580208949,제 63 기 3분기,8778669548,25035987261,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_FeeAndCommissionIncome,수수료수익,-,제 64 기 3분기,50125234888,,,23,KRW,152594989319,제 63 기 3분기,54816404544,156504098130,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_ForeignExchangeGain,외환거래이익,-,제 64 기 3분기,12298521301,,,24,KRW,46982127484,제 63 기 3분기,13520744639,62745718273,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_ForeignExchangeLoss,외환거래손실,-,제 64 기 3분기,18224417319,,,25,KRW,56552191475,제 63 기 3분기,14662097747,72691294329,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_IncomeFromContinuingOperationsAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 분기순손익,-,제 64 기 3분기,3391331898,,,26,KRW,60705528902,제 63 기 3분기,-14346333935,22561725322,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),-,제 64 기 3분기,1835071244,,,27,KRW,21751043334,제 63 기 3분기,-4023741435,7361733097,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_InterestExpense,이자비용,-,제 64 기 3분기,73744759131,,,28,KRW,225504136985,제 63 기 3분기,71142682148,213942694842,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_MiscellaneousOtherOperatingExpense,기타비용,-,제 64 기 3분기,-802011367,,,29,KRW,94272597,제 63 기 3분기,-121528791,193795323,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_MiscellaneousOtherOperatingIncome,기타수익,-,제 64 기 3분기,6810863733,,,30,KRW,25689906400,제 63 기 3분기,13268575746,38576958785,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_OperatingExpense,영업비용,-,제 64 기 3분기,455456749348,,,31,KRW,1601565058300,제 63 기 3분기,477862934821,1507039455909,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 64 기 3분기,-5973165091,,,32,KRW,20706571823,제 63 기 3분기,-39096284364,12551664574,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,-,제 64 기 3분기,0,,,34,KRW,10098,제 63 기 3분기,0,0,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장환산외환차이,-,제 64 기 3분기,-1488819171,,,35,KRW,931918159,제 63 기 3분기,-786973992,2390603687,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,-,제 64 기 3분기,-915101996,,,36,KRW,3261194149,제 63 기 3분기,-589542047,4233455652,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability,당기손익-공정가치지정금융부채 신용위험변동손익,-,제 64 기 3분기,-75044003,,,38,KRW,351470260,제 63 기 3분기,-71614689,-137272069,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치측정금융자산평가손익,-,제 64 기 3분기,-3494199921,,,39,KRW,16161979157,제 63 기 3분기,-37648153636,6054982578,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,-,제 64 기 3분기,0,,,40,KRW,0,제 63 기 3분기,0,9894726,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_ProfitLoss,분기순손익,-,제 64 기 3분기,3391403014,,,41,KRW,60705679016,제 63 기 3분기,-14346286913,22561797537,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세차감전순손익,-,제 64 기 3분기,5226474258,,,42,KRW,82456722350,제 63 기 3분기,-18370028348,29923530634,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_ProfitLossFromContinuingOperationsAttributableToNoncontrollingInterests,비지배지분에 귀속되는 분기순손익,-,제 64 기 3분기,71116,,,43,KRW,150114,제 63 기 3분기,47022,72215,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_ProfitLossFromOperatingActivities,영업손익,-,제 64 기 3분기,5557568127,,,44,KRW,9894059954,제 63 기 3분기,-1920500310,52832466045,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_Revenue,영업수익,-,제 64 기 3분기,461014317475,,,45,KRW,1611459118254,제 63 기 3분기,475942434511,1559871921954,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_RevenueFromDividends,배당수익,-,제 64 기 3분기,10246131957,,,46,KRW,28573405990,제 63 기 3분기,282918683,14975868963,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_RevenueFromInterest,이자수익,-,제 64 기 3분기,98620678067,,,47,KRW,305211416843,제 63 기 3분기,101633735531,307381112451,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets,신용손실충당금 환입액,-,제 64 기 3분기,16422121,,,48,KRW,899358107,제 63 기 3분기,93979756,305260078,연결
+20241113000515,11014,2024,00148610,CIS,포괄손익계산서,ifrs-full_SellingGeneralAndAdministrativeExpense,판매 및 일반관리비,-,제 64 기 3분기,66718341502,,,49,KRW,205237652033,제 63 기 3분기,64424712521,212894223859,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 64 기 3분기,170363129223,,,2,KRW,,제 63 기 3분기,236328866671,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_CashAndCashEquivalents,분기말 현금및현금성자산,-,제 64 기 3분기,240981552697,,,7,KRW,,제 63 기 3분기,157402484857,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동으로 인한 현금흐름,-,제 64 기 3분기,-127377394863,,,9,KRW,,제 63 기 3분기,-131792450558,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 증가,-,제 64 기 3분기,0,,,10,KRW,,제 63 기 3분기,39161570,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,-표준계정코드 미사용-,연결자본거래로 인한 현금의 증가(감소),-,제 64 기 3분기,0,,,11,KRW,,제 63 기 3분기,3900000000,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,-표준계정코드 미사용-,대기관환매조건부채권매도의 순증감,-,제 64 기 3분기,61632882225,,,12,KRW,,제 63 기 3분기,-104298605757,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInIncreaseDecreaseInCurrentBorrowings,단기차입금의 순증감,-,제 64 기 3분기,-182160523202,,,13,KRW,,제 63 기 3분기,296496880576,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 64 기 3분기,6879456812,,,14,KRW,,제 63 기 3분기,6596261165,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입부채의 증가,-,제 64 기 3분기,811204688734,,,15,KRW,,제 63 기 3분기,360424558718,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures,사채의 발행,-,제 64 기 3분기,298922068400,,,16,KRW,,제 63 기 3분기,119821080000,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_RepaymentsOfBondsNotesAndDebentures,사채의 상환,-,제 64 기 3분기,350000000000,,,17,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입부채의 감소,-,제 64 기 3분기,760097054208,,,18,KRW,,제 63 기 3분기,801579264500,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동으로 인한 현금흐름,-,제 64 기 3분기,80276756340,,,20,KRW,,제 63 기 3분기,35401598313,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,기타금융자산의 감소,-,제 64 기 3분기,10774878256,,,21,KRW,,제 63 기 3분기,1435667784,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,기타금융자산의 증가,-,제 64 기 3분기,5895182716,,,22,KRW,,제 63 기 3분기,594184173,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities,상각후원가측정금융자산의 처분,-,제 64 기 3분기,4953054503,,,23,KRW,,제 63 기 3분기,285014707270,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities,상각후원가측정금융자산의 취득,-,제 64 기 3분기,2414804500,,,24,KRW,,제 63 기 3분기,156634484675,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,-표준계정코드 미사용-,연결범위 변동 등으로 인한 현금유출입,-,제 64 기 3분기,49819249245,,,25,KRW,,제 63 기 3분기,-27733136728,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_ProceedsFromDisposalOfNoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleAndDiscontinuedOperations,매각예정자산의 처분,-,제 64 기 3분기,4928158952,,,26,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInterestsInAssociates,관계기업투자주식의 처분,-,제 64 기 3분기,34894498867,,,27,KRW,,제 63 기 3분기,101464662780,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 64 기 3분기,8000000,,,28,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 64 기 3분기,5392651529,,,29,KRW,,제 63 기 3분기,7530269726,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_PurchaseOfInterestsInAssociates,관계기업투자주식의 취득,-,제 64 기 3분기,8452828418,,,30,KRW,,제 63 기 3분기,157139659991,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 64 기 3분기,2945616320,,,31,KRW,,제 63 기 3분기,2881704228,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동으로 인한 현금흐름,-,제 64 기 3분기,116720079441,,,33,KRW,,제 63 기 3분기,16098474229,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperations,영업에서 사용된 현금흐름,-,제 64 기 3분기,-17864228199,,,34,KRW,,제 63 기 3분기,-135337856539,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,운전자본의 변동,-,제 64 기 3분기,-1711684305,,,35,KRW,,제 63 기 3분기,-77140826997,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,분기순이익 조정을 위한 가감 합계,-,제 64 기 3분기,-76858222910,,,36,KRW,,제 63 기 3분기,-80758827079,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_ProfitLoss,분기순손익,-,제 64 기 3분기,3391403014,,,37,KRW,,제 63 기 3분기,-14346286913,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금 및 분배금의 수취,-,제 64 기 3분기,43825699155,,,38,KRW,,제 63 기 3분기,50443265351,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 환급(납부),-,제 64 기 3분기,-7044616797,,,39,KRW,,제 63 기 3분기,5253886184,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,-,제 64 기 3분기,216647968704,,,40,KRW,,제 63 기 3분기,207786513502,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,-,제 64 기 3분기,300361960392,,,41,KRW,,제 63 기 3분기,314033465103,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,외화표시 현금및현금성자산의 환율변동효과,-,제 64 기 3분기,998982556,,,43,KRW,,제 63 기 3분기,1365996202,,연결
+20241113000515,11014,2024,00148610,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,현금및현금성자산의 순증감,-,제 64 기 3분기,69619440918,,,44,KRW,,제 63 기 3분기,-80292378016,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 64 기 3분기,27813416711,,,3,KRW,,제 63 기 3분기,27803198920,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 64 기 3분기,1096738875000,,,3,KRW,,제 63 기 3분기,1096738875000,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 64 기 3분기,80387446008,,,3,KRW,,제 63 기 3분기,71089051214,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 64 기 3분기,384871833223,,,3,KRW,,제 63 기 3분기,377125476086,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 64 기 3분기,1573039090194,,,3,KRW,,제 63 기 3분기,1555576117552,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|비지배지분 [구성요소],제 64 기 3분기,5935539,,,3,KRW,,제 63 기 3분기,5904475,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 64 기 3분기,1573045025733,,,3,KRW,,제 63 기 3분기,1555582022027,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 64 기 3분기,-16772480748,,,3,KRW,,제 63 기 3분기,-17180483668,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식기준보상,연결재무제표 [member],제 64 기 3분기,1023830710,,,6,KRW,,제 63 기 3분기,408002920,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식기준보상,자본 [구성요소]|비지배지분 [구성요소],제 64 기 3분기,0,,,6,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식기준보상,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 64 기 3분기,1023830710,,,6,KRW,,제 63 기 3분기,408002920,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식기준보상,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 64 기 3분기,0,,,6,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식기준보상,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 64 기 3분기,0,,,6,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식기준보상,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 64 기 3분기,0,,,6,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식기준보상,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 64 기 3분기,1023830710,,,6,KRW,,제 63 기 3분기,408002920,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식기준보상,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 64 기 3분기,0,,,6,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss,당기손익-공정가치지정금융부채 신용위험변동손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 64 기 3분기,0,,,10,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss,당기손익-공정가치지정금융부채 신용위험변동손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 64 기 3분기,0,,,10,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss,당기손익-공정가치지정금융부채 신용위험변동손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 64 기 3분기,0,,,10,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss,당기손익-공정가치지정금융부채 신용위험변동손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 64 기 3분기,351470260,,,10,KRW,,제 63 기 3분기,-137272069,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss,당기손익-공정가치지정금융부채 신용위험변동손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 64 기 3분기,351470260,,,10,KRW,,제 63 기 3분기,-137272069,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss,당기손익-공정가치지정금융부채 신용위험변동손익,자본 [구성요소]|비지배지분 [구성요소],제 64 기 3분기,0,,,10,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss,당기손익-공정가치지정금융부채 신용위험변동손익,연결재무제표 [member],제 64 기 3분기,351470260,,,10,KRW,,제 63 기 3분기,-137272069,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLoss,당기손익-공정가치지정금융부채 신용위험변동손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 64 기 3분기,0,,,10,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 64 기 3분기,0,,,12,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 64 기 3분기,0,,,12,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 64 기 3분기,0,,,12,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 64 기 3분기,0,,,12,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 64 기 3분기,16161979157,,,12,KRW,,제 63 기 3분기,6054982578,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 64 기 3분기,16161979157,,,12,KRW,,제 63 기 3분기,6054982578,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,연결재무제표 [member],제 64 기 3분기,16161979157,,,12,KRW,,제 63 기 3분기,6054982578,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|비지배지분 [구성요소],제 64 기 3분기,0,,,12,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 64 기 3분기,0,,,13,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 64 기 3분기,0,,,13,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 64 기 3분기,0,,,13,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 64 기 3분기,0,,,13,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 64 기 3분기,10098,,,13,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 64 기 3분기,10098,,,13,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,자본 [구성요소]|비지배지분 [구성요소],제 64 기 3분기,0,,,13,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생상품평가손익,연결재무제표 [member],제 64 기 3분기,0,,,13,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장환산외환차이,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 64 기 3분기,0,,,14,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장환산외환차이,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 64 기 3분기,0,,,14,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장환산외환차이,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 64 기 3분기,0,,,14,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장환산외환차이,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 64 기 3분기,0,,,14,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장환산외환차이,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 64 기 3분기,931875645,,,14,KRW,,제 63 기 3분기,2390452145,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장환산외환차이,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 64 기 3분기,931875645,,,14,KRW,,제 63 기 3분기,2390452145,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장환산외환차이,자본 [구성요소]|비지배지분 [구성요소],제 64 기 3분기,42514,,,14,KRW,,제 63 기 3분기,151542,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장환산외환차이,연결재무제표 [member],제 64 기 3분기,-1488819171,,,14,KRW,,제 63 기 3분기,-786973992,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 64 기 3분기,0,,,15,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 64 기 3분기,0,,,15,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 64 기 3분기,0,,,15,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 64 기 3분기,0,,,15,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 64 기 3분기,0,,,15,KRW,,제 63 기 3분기,9894726,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 64 기 3분기,0,,,15,KRW,,제 63 기 3분기,9894726,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,자본 [구성요소]|비지배지분 [구성요소],제 64 기 3분기,0,,,15,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,연결재무제표 [member],제 64 기 3분기,0,,,15,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,연결재무제표 [member],제 64 기 3분기,-915101996,,,16,KRW,,제 63 기 3분기,-589542047,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,자본 [구성요소]|비지배지분 [구성요소],제 64 기 3분기,0,,,16,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 64 기 3분기,3261194149,,,16,KRW,,제 63 기 3분기,4233455652,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 64 기 3분기,3261194149,,,16,KRW,,제 63 기 3분기,4233455652,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 64 기 3분기,0,,,16,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 64 기 3분기,0,,,16,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 64 기 3분기,0,,,16,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 64 기 3분기,0,,,16,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ProfitLoss,분기순손익,연결재무제표 [member],제 64 기 3분기,3391403014,,,17,KRW,,제 63 기 3분기,-14346286913,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ProfitLoss,분기순손익,자본 [구성요소]|비지배지분 [구성요소],제 64 기 3분기,150114,,,17,KRW,,제 63 기 3분기,72215,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ProfitLoss,분기순손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 64 기 3분기,60705528902,,,17,KRW,,제 63 기 3분기,22561725322,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ProfitLoss,분기순손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 64 기 3분기,0,,,17,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ProfitLoss,분기순손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 64 기 3분기,60705528902,,,17,KRW,,제 63 기 3분기,22561725322,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ProfitLoss,분기순손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 64 기 3분기,0,,,17,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ProfitLoss,분기순손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 64 기 3분기,0,,,17,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_ProfitLoss,분기순손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 64 기 3분기,0,,,17,KRW,,제 63 기 3분기,0,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 64 기 3분기,1655481107282,,1573045025733,18,KRW,,제 63 기 3분기,1591103487058,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|비지배지분 [구성요소],제 64 기 3분기,6128167,,,18,KRW,,제 63 기 3분기,6128232,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 64 기 3분기,1655474979115,,,18,KRW,,제 63 기 3분기,1591097358826,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 64 기 3분기,-15748650038,,,18,KRW,,제 63 기 3분기,-16772480748,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 64 기 3분기,141092974910,,,18,KRW,,제 63 기 3분기,93650776536,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 64 기 3분기,1096738875000,,,18,KRW,,제 63 기 3분기,1096738875000,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 64 기 3분기,27813416711,,,18,KRW,,제 63 기 3분기,27803198920,,연결
+20241113000515,11014,2024,00148610,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 64 기 3분기,405578362532,,,18,KRW,,제 63 기 3분기,389676989118,,연결

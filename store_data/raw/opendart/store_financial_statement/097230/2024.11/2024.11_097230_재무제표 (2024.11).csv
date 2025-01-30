@@ -1,0 +1,180 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,bfefrmtrm_nm,bfefrmtrm_amount,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 18 기 3분기말,2186636000000,제 17 기말,2890585000000,7,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 18 기 3분기말,1043559000000,제 17 기말,1727429000000,8,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,dart_ShortTermOtherReceivables,미수금,-,제 18 기 3분기말,57298000000,제 17 기말,54023000000,9,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 18 기 3분기말,195208000000,제 17 기말,350257000000,10,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_CurrentContractAssets,계약자산,-,제 18 기 3분기말,210411000000,제 17 기말,387498000000,11,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_CurrentInvestments,단기투자금융자산,-,제 18 기 3분기말,0,제 17 기말,4296000000,12,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_CurrentPrepayments,선급금,-,제 18 기 3분기말,290243000000,제 17 기말,204693000000,13,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_CurrentTradeReceivables,매출채권,-,제 18 기 3분기말,76923000000,제 17 기말,133627000000,14,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 18 기 3분기말,115631000000,제 17 기말,135297000000,15,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,매각예정자산,-,제 18 기 3분기말,80000000,제 17 기말,379542000000,16,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_OtherCurrentAssets,기타유동자산,-,제 18 기 3분기말,59442000000,제 17 기말,56737000000,17,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_OtherCurrentFinancialAssets,기타유동금융자산,-,제 18 기 3분기말,6091000000,제 17 기말,8897000000,18,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,단기예금,-,제 18 기 3분기말,32232000000,제 17 기말,12562000000,19,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 18 기 3분기말,1143077000000,제 17 기말,1163156000000,20,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,dart_LongTermDepositsProvidedGross,보증금,-,제 18 기 3분기말,45605000000,제 17 기말,40624000000,21,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,dart_LongTermLoansGross,장기대여금,-,제 18 기 3분기말,81840000000,제 17 기말,87206000000,22,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,-,제 18 기 3분기말,5053000000,제 17 기말,5416000000,23,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_InvestmentAccountedForUsingEquityMethod,관계기업투자,-,제 18 기 3분기말,57373000000,제 17 기말,61737000000,24,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 18 기 3분기말,50605000000,제 17 기말,56345000000,25,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_NoncurrentInvestmentsOtherThanInvestmentsAccountedForUsingEquityMethod,장기투자금융자산,-,제 18 기 3분기말,114867000000,제 17 기말,108820000000,26,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_OtherNoncurrentAssets,기타비유동자산,-,제 18 기 3분기말,1612000000,제 17 기말,2803000000,27,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_OtherNoncurrentFinancialAssets,기타비유동금융자산,-,제 18 기 3분기말,1420000000,제 17 기말,7851000000,28,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 18 기 3분기말,742429000000,제 17 기말,745840000000,29,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_RightofuseAssets,사용권자산,-,제 18 기 3분기말,42273000000,제 17 기말,46514000000,30,KRW,제 16 기,181681000000,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 18 기 3분기말,365656000000,제 17 기말,340912000000,32,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업소유주지분,-,제 18 기 3분기말,365642000000,제 17 기말,340793000000,33,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타자본항목,-,제 18 기 3분기말,407734000000,제 17 기말,406885000000,34,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,dart_ComprehensiveIncomeGainsLossesEquityMethodSecurities,지분법자본변동,-,제 18 기 3분기말,2000000,제 17 기말,2000000,35,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,dart_LossesSaleTreasuryStock,자기주식처분손실,-,제 18 기 3분기말,6000000,제 17 기말,6000000,36,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,dart_OtherCapitalSurplus,기타자본잉여금,-,제 18 기 3분기말,11590000000,제 17 기말,11590000000,37,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,dart_ReserveOfGainsOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,투자금융자산평가손익,-,제 18 기 3분기말,-2988000000,제 17 기말,-3784000000,38,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_ReserveOfExchangeDifferencesOnTranslation,해외사업환산이익,-,제 18 기 3분기말,62881000000,제 17 기말,62828000000,39,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_RevaluationSurplus,재평가잉여금,-,제 18 기 3분기말,337678000000,제 17 기말,337678000000,40,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_TreasuryShares,자기주식,-,제 18 기 3분기말,1423000000,제 17 기말,1423000000,41,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 18 기 3분기말,416371000000,제 17 기말,416371000000,42,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_RetainedEarnings,결손금,-,제 18 기 3분기말,-1508564000000,제 17 기말,-1532564000000,43,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_SharePremium,주식발행초과금,-,제 18 기 3분기말,1050101000000,제 17 기말,1050101000000,44,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 18 기 3분기말,14000000,제 17 기말,119000000,45,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_EquityAndLiabilities,부채와자본총계,-,제 18 기 3분기말,2186636000000,제 17 기말,2890585000000,46,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 18 기 3분기말,1485051000000,제 17 기말,2125811000000,48,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,dart_ShortTermAccruedExpenses,미지급비용,-,제 18 기 3분기말,56351000000,제 17 기말,81507000000,49,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,dart_ShortTermOtherPayables,미지급금,-,제 18 기 3분기말,112120000000,제 17 기말,107466000000,50,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,dart_ShortTermWithholdings,예수금,-,제 18 기 3분기말,6256000000,제 17 기말,11900000000,51,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_CurrentContractLiabilities,계약부채,-,제 18 기 3분기말,457810000000,제 17 기말,616653000000,52,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_CurrentPortionOfLongtermBorrowings,유동성장기부채,-,제 18 기 3분기말,452151000000,제 17 기말,656520000000,53,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_CurrentProvisions,충당부채,-,제 18 기 3분기말,55403000000,제 17 기말,132953000000,54,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_OtherCurrentFinancialLiabilities,기타유동금융부채,-,제 18 기 3분기말,29211000000,제 17 기말,35581000000,55,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_OtherCurrentLiabilities,기타 유동부채,-,제 18 기 3분기말,109475000000,제 17 기말,208781000000,56,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayablesToTradeSuppliers,매입채무,-,제 18 기 3분기말,206274000000,제 17 기말,274450000000,57,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 18 기 3분기말,1820980000000,제 17 기말,2549673000000,58,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 18 기 3분기말,335929000000,제 17 기말,423862000000,59,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,dart_LongTermTradePayablesGross,장기성매입채무,-,제 18 기 3분기말,10147000000,제 17 기말,0,60,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 18 기 3분기말,104525000000,제 17 기말,104537000000,61,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_NoncurrentPortionOfNoncurrentLoansReceived,장기차입금,-,제 18 기 3분기말,25000000000,제 17 기말,25785000000,62,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_NoncurrentProvisions,장기충당부채,-,제 18 기 3분기말,27155000000,제 17 기말,24224000000,63,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_OtherNoncurrentFinancialLiabilities,기타비유동금융부채,-,제 18 기 3분기말,68937000000,제 17 기말,77909000000,64,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_OtherNoncurrentLiabilities,기타 비유동 부채,-,제 18 기 3분기말,6140000000,제 17 기말,111185000000,65,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,BS,재무상태표,ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan,순확정급여부채,-,제 18 기 3분기말,94025000000,제 17 기말,80222000000,66,KRW,,,,,,,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,dart_OperatingIncomeLoss,영업이익(손실),-,제 18 기 3분기,32907000000,,,6,KRW,,,5262000000,제 17 기 3분기,-40924000000,-127187000000,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,dart_OtherGains,기타수익,-,제 18 기 3분기,32495000000,,,7,KRW,,,38738000000,제 17 기 3분기,42104000000,51586000000,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,dart_OtherLosses,기타비용,-,제 18 기 3분기,1813000000,,,8,KRW,,,4298000000,제 17 기 3분기,3012000000,10927000000,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 18 기 3분기,23418000000,,,9,KRW,,,71320000000,제 17 기 3분기,28638000000,77792000000,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,ifrs-full_CostOfSales,매출원가,-,제 18 기 3분기,397443000000,,,10,KRW,,,1329567000000,제 17 기 3분기,502803000000,1446311000000,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),-,제 18 기 3분기,625,,,12,KRW,,,299,제 17 기 3분기,-52,-1303,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,ifrs-full_DilutedEarningsLossPerShare,희석주당이익(손실),-,제 18 기 3분기,625,,,13,KRW,,,299,제 17 기 3분기,-52,-1303,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,ifrs-full_FinanceCosts,금융비용,-,제 18 기 3분기,9617000000,,,14,KRW,,,38044000000,제 17 기 3분기,13735000000,39371000000,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 18 기 3분기,961000000,,,15,KRW,,,24362000000,제 17 기 3분기,13157000000,21349000000,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 18 기 3분기,56325000000,,,16,KRW,,,76582000000,제 17 기 3분기,-12286000000,-49395000000,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),-,제 18 기 3분기,0,,,17,KRW,,,-2339000000,제 17 기 3분기,483000000,4216000000,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,ifrs-full_ProfitLoss,분기순이익(손실),-,제 18 기 3분기,51994000000,,,18,KRW,,,24755000000,제 17 기 3분기,-4476000000,-108674000000,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,-,제 18 기 3분기,-22000000,,,20,KRW,,,-112000000,제 17 기 3분기,-155000000,-153000000,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업소유주지분,-,제 18 기 3분기,52016000000,,,21,KRW,,,24867000000,제 17 기 3분기,-4321000000,-108521000000,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-,제 18 기 3분기,51994000000,,,22,KRW,,,22416000000,제 17 기 3분기,-3993000000,-104458000000,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,ifrs-full_Revenue,매출액,-,제 18 기 3분기,453768000000,,,23,KRW,,,1406149000000,제 17 기 3분기,490517000000,1396916000000,연결
+20241112000257,11014,2024,00633835,IS,손익계산서,ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,관계기업에대한지분법손익,-,제 18 기 3분기,-2939000000,,,24,KRW,,,-3604000000,제 17 기 3분기,-1583000000,92000000,연결
+20241112000257,11014,2024,00633835,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,분기총포괄이익(손실),-,제 18 기 3분기,52404000000,,,6,KRW,,,24744000000,제 17 기 3분기,-4532000000,-109452000000,연결
+20241112000257,11014,2024,00633835,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,-,제 18 기 3분기,-26000000,,,8,KRW,,,-105000000,제 17 기 3분기,-147000000,-145000000,연결
+20241112000257,11014,2024,00633835,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업소유주지분,-,제 18 기 3분기,52430000000,,,9,KRW,,,24849000000,제 17 기 3분기,-4385000000,-109307000000,연결
+20241112000257,11014,2024,00633835,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,세후기타포괄손익,-,제 18 기 3분기,410000000,,,10,KRW,,,-11000000,제 17 기 3분기,-56000000,-778000000,연결
+20241112000257,11014,2024,00633835,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업환산손익,-,제 18 기 3분기,36000000,,,12,KRW,,,61000000,제 17 기 3분기,10000000,-244000000,연결
+20241112000257,11014,2024,00633835,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동,-,제 18 기 3분기,0,,,13,KRW,,,0,제 17 기 3분기,24000000,24000000,연결
+20241112000257,11014,2024,00633835,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,-,제 18 기 3분기,619000000,,,15,KRW,,,619000000,제 17 기 3분기,0,0,연결
+20241112000257,11014,2024,00633835,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,-,제 18 기 3분기,-245000000,,,16,KRW,,,-691000000,제 17 기 3분기,-90000000,-558000000,연결
+20241112000257,11014,2024,00633835,CIS,포괄손익계산서,ifrs-full_ProfitLoss,분기순이익(손실),-,제 18 기 3분기,51994000000,,,17,KRW,,,24755000000,제 17 기 3분기,-4476000000,-108674000000,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초의 현금및현금성자산,-,제 18 기 3분기,350257000000,,,2,KRW,,,,제 17 기 3분기,102233000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,분기말의 현금및현금성자산,-,제 18 기 3분기,195208000000,,,3,KRW,,,,제 17 기 3분기,354177000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 18 기 3분기,-231545000000,,,8,KRW,,,,제 17 기 3분기,-11463000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,dart_DecreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 감소,-,제 18 기 3분기,2485000000,,,9,KRW,,,,제 17 기 3분기,620000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 증가,-,제 18 기 3분기,1000000,,,10,KRW,,,,제 17 기 3분기,298000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,-표준계정코드 미사용-,예수보증금의 감소,-,제 18 기 3분기,8472000000,,,11,KRW,,,,제 17 기 3분기,1496000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,-표준계정코드 미사용-,유동성장기차입금의 차입,-,제 18 기 3분기,474290000000,,,12,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,-표준계정코드 미사용-,유동성사채의 차입,-,제 18 기 3분기,22500000000,,,13,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,-표준계정코드 미사용-,유동성사채의 상환,-,제 18 기 3분기,25589000000,,,14,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,-표준계정코드 미사용-,유동성장기차입금의 상환,-,제 18 기 3분기,682677000000,,,15,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,-표준계정코드 미사용-,예수보증금의 증가,-,제 18 기 3분기,1385000000,,,16,KRW,,,,제 17 기 3분기,2096000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채 상환,-,제 18 기 3분기,10498000000,,,17,KRW,,,,제 17 기 3분기,11741000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 18 기 3분기,184569000000,,,18,KRW,,,,제 17 기 3분기,52348000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금의 감소,-,제 18 기 3분기,7922000000,,,19,KRW,,,,제 17 기 3분기,24659000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,dart_DecreaseInLoans,대여금의 감소,-,제 18 기 3분기,27537000000,,,20,KRW,,,,제 17 기 3분기,12665000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 18 기 3분기,12584000000,,,21,KRW,,,,제 17 기 3분기,22292000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,dart_IncreaseInLoans,대여금의 증가,-,제 18 기 3분기,22218000000,,,22,KRW,,,,제 17 기 3분기,16059000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,dart_ProceedsFromConsolidatedCapitalTransactions,연결자본거래로 인한 현금유입,-,제 18 기 3분기,0,,,23,KRW,,,,제 17 기 3분기,28707000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,dart_ProceedsFromSaleOfInvestmentFinancialInstruments,투자금융자산 처분,-,제 18 기 3분기,934493000000,,,24,KRW,,,,제 17 기 3분기,316855000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,dart_ProceedsFromSalesOfNonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,매각예정자산의 처분,-,제 18 기 3분기,201250000000,,,25,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,dart_ProceedsFromSalesOfOtherNonCurrentFinancialAssets,기타비유동금융자산의 감소,-,제 18 기 3분기,5366000000,,,26,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,dart_PurchaseOfInvestmentFinancialInstruments,투자금융자산 취득,-,제 18 기 3분기,935024000000,,,27,KRW,,,,제 17 기 3분기,306171000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,dart_PurchaseOfInvestmentsInAssociates,관계기업주식의 취득,-,제 18 기 3분기,0,,,28,KRW,,,,제 17 기 3분기,15000000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,dart_PurchaseOfOtherNonCurrentFinancialAssets,기타비유동금융자산의 증가,-,제 18 기 3분기,1021000000,,,29,KRW,,,,제 17 기 3분기,4470000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,-표준계정코드 미사용-,단기예금의 감소,-,제 18 기 3분기,383168000000,,,30,KRW,,,,제 17 기 3분기,426092000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,-표준계정코드 미사용-,단기예금의 증가,-,제 18 기 3분기,400826000000,,,31,KRW,,,,제 17 기 3분기,386999000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_DividendsReceivedFromAssociatesClassifiedAsInvestingActivities,관계기업의 배당,-,제 18 기 3분기,760000000,,,32,KRW,,,,제 17 기 3분기,1259000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 18 기 3분기,0,,,33,KRW,,,,제 17 기 3분기,39000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 18 기 3분기,812000000,,,34,KRW,,,,제 17 기 3분기,251000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 18 기 3분기,560000000,,,35,KRW,,,,제 17 기 3분기,704000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 18 기 3분기,4506000000,,,36,KRW,,,,제 17 기 3분기,6484000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 18 기 3분기,-108023000000,,,37,KRW,,,,제 17 기 3분기,205807000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperations,영업으로부터 창출된 현금,-,제 18 기 3분기,-88938000000,,,38,KRW,,,,제 17 기 3분기,228108000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금의 수취,-,제 18 기 3분기,421000000,,,39,KRW,,,,제 17 기 3분기,508000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세 환급액(납부액),-,제 18 기 3분기,-3115000000,,,40,KRW,,,,제 17 기 3분기,4104000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,-,제 18 기 3분기,29536000000,,,41,KRW,,,,제 17 기 3분기,22612000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,-,제 18 기 3분기,6915000000,,,42,KRW,,,,제 17 기 3분기,3907000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,외화표시 현금및현금성자산의 환율변동효과,-,제 18 기 3분기,-50000000,,,43,KRW,,,,제 17 기 3분기,5252000000,,연결
+20241112000257,11014,2024,00633835,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,현금및현금성자산의 증감,-,제 18 기 3분기,-154999000000,,,44,KRW,,,,제 17 기 3분기,246692000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 18 기 3분기,0,,,3,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 18 기 3분기,0,,,3,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 18 기 3분기,0,,,3,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 18 기 3분기,0,,,3,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [구성요소]|비지배지분 [구성요소],제 18 기 3분기,0,,,3,KRW,,,,제 17 기 3분기,499000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,연결재무제표 [member],제 18 기 3분기,0,,,3,KRW,,,,제 17 기 3분기,499000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|주식발행초과금 [구성요소],제 18 기 3분기,0,,,3,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 18 기 3분기,340793000000,,,4,KRW,,,,제 17 기 3분기,385056000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|비지배지분 [구성요소],제 18 기 3분기,119000000,,,4,KRW,,,,제 17 기 3분기,-66000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 18 기 3분기,340912000000,,,4,KRW,,,,제 17 기 3분기,384990000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 18 기 3분기,406885000000,,,4,KRW,,,,제 17 기 3분기,326809000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|주식발행초과금 [구성요소],제 18 기 3분기,1050101000000,,,4,KRW,,,,제 17 기 3분기,1050101000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 18 기 3분기,416371000000,,,4,KRW,,,,제 17 기 3분기,416371000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 18 기 3분기,-1532564000000,,,4,KRW,,,,제 17 기 3분기,-1408225000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,연결재무제표 [member],제 18 기 3분기,619000000,,,5,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|비지배지분 [구성요소],제 18 기 3분기,0,,,5,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 18 기 3분기,619000000,,,5,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 18 기 3분기,0,,,5,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 18 기 3분기,-176000000,,,5,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 18 기 3분기,795000000,,,5,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|주식발행초과금 [구성요소],제 18 기 3분기,0,,,5,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 18 기 3분기,416371000000,,,6,KRW,,,,제 17 기 3분기,416371000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 18 기 3분기,-1508564000000,,,6,KRW,,,,제 17 기 3분기,-1517304000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 18 기 3분기,407734000000,,,6,KRW,,,,제 17 기 3분기,326581000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 18 기 3분기,365642000000,,,6,KRW,,,,제 17 기 3분기,275749000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|비지배지분 [구성요소],제 18 기 3분기,14000000,,,6,KRW,,,,제 17 기 3분기,288000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 18 기 3분기,365656000000,,340912000000,6,KRW,,,,제 17 기 3분기,276037000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|주식발행초과금 [구성요소],제 18 기 3분기,1050101000000,,,6,KRW,,,,제 17 기 3분기,1050101000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 18 기 3분기,0,,,7,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 18 기 3분기,0,,,7,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 18 기 3분기,54000000,,,7,KRW,,,,제 17 기 3분기,-252000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 18 기 3분기,54000000,,,7,KRW,,,,제 17 기 3분기,-252000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업환산손익,자본 [구성요소]|비지배지분 [구성요소],제 18 기 3분기,7000000,,,7,KRW,,,,제 17 기 3분기,8000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업환산손익,연결재무제표 [member],제 18 기 3분기,36000000,,,7,KRW,,,,제 17 기 3분기,10000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|주식발행초과금 [구성요소],제 18 기 3분기,0,,,7,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 18 기 3분기,0,,,8,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 18 기 3분기,-691000000,,,8,KRW,,,,제 17 기 3분기,-558000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 18 기 3분기,0,,,8,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 18 기 3분기,-691000000,,,8,KRW,,,,제 17 기 3분기,-558000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,자본 [구성요소]|비지배지분 [구성요소],제 18 기 3분기,0,,,8,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,연결재무제표 [member],제 18 기 3분기,-245000000,,,8,KRW,,,,제 17 기 3분기,-90000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|주식발행초과금 [구성요소],제 18 기 3분기,0,,,8,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),연결재무제표 [member],제 18 기 3분기,51994000000,,,9,KRW,,,,제 17 기 3분기,-4476000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|비지배지분 [구성요소],제 18 기 3분기,-112000000,,,9,KRW,,,,제 17 기 3분기,-153000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 18 기 3분기,24867000000,,,9,KRW,,,,제 17 기 3분기,-108521000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 18 기 3분기,0,,,9,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 18 기 3분기,24867000000,,,9,KRW,,,,제 17 기 3분기,-108521000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 18 기 3분기,0,,,9,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|주식발행초과금 [구성요소],제 18 기 3분기,0,,,9,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,연결재무제표 [member],제 18 기 3분기,0,,,10,KRW,,,,제 17 기 3분기,24000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|비지배지분 [구성요소],제 18 기 3분기,0,,,10,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 18 기 3분기,0,,,10,KRW,,,,제 17 기 3분기,24000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 18 기 3분기,0,,,10,KRW,,,,제 17 기 3분기,24000000,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 18 기 3분기,0,,,10,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 18 기 3분기,0,,,10,KRW,,,,제 17 기 3분기,0,,연결
+20241112000257,11014,2024,00633835,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|주식발행초과금 [구성요소],제 18 기 3분기,0,,,10,KRW,,,,제 17 기 3분기,0,,연결
