@@ -1,0 +1,208 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 54 기 3분기말,1260426936177,제 53 기말,1169759640111,7,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 54 기 3분기말,318450118056,제 53 기말,299434662900,8,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,dart_CurrentBiologicalAssetsGross,유동생물자산,-,제 54 기 3분기말,19572081838,제 53 기말,9253460991,9,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,dart_CurrentDerivativeAsset,유동파생상품자산,-,제 54 기 3분기말,3880679258,제 53 기말,3547778660,10,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 54 기 3분기말,40000115813,제 53 기말,22373035548,11,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_CurrentTaxAssets,당기법인세자산,-,제 54 기 3분기말,96916623,제 53 기말,282651080,12,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_Inventories,유동재고자산,-,제 54 기 3분기말,109593124084,제 53 기말,105664957350,13,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_OtherCurrentAssets,기타유동자산,-,제 54 기 3분기말,68847376448,제 53 기말,71715087964,14,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,단기금융상품,-,제 54 기 3분기말,197000000,제 53 기말,5202000000,15,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_TradeAndOtherCurrentReceivables,매출채권 및 기타유동채권,-,제 54 기 3분기말,76262823992,제 53 기말,81395691307,16,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 54 기 3분기말,941976818121,제 53 기말,870324977211,17,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,dart_LongTermDepositsNotClassifiedAsCashEquivalents,장기금융상품,-,제 54 기 3분기말,521000000,제 53 기말,521000000,18,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,장기매출채권 및 기타비유동채권,-,제 54 기 3분기말,6362514104,제 53 기말,5457067923,19,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,dart_NonCurrentBiologicalAssetsGross,비유동생물자산,-,제 54 기 3분기말,3236831102,제 53 기말,2836533219,20,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 54 기 3분기말,197720606,제 53 기말,255538781,21,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_IntangibleAssetsAndGoodwill,무형자산,-,제 54 기 3분기말,4243984039,제 53 기말,4485684271,22,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 54 기 3분기말,63282028090,제 53 기말,63323785946,23,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_InvestmentsInAssociates,관계기업에 대한 투자자산,-,제 54 기 3분기말,437174085137,제 53 기말,365564137683,24,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 비유동금융자산,-,제 54 기 3분기말,9213680138,제 53 기말,9213680138,25,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 54 기 3분기말,415701500718,제 53 기말,418342461681,26,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_RightofuseAssets,사용권자산,-,제 54 기 3분기말,2043474187,제 53 기말,325087569,27,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 54 기 3분기말,698320735515,제 53 기말,647475832866,29,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,-,제 54 기 3분기말,581312653798,제 53 기말,528346964383,30,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타자본구성요소,-,제 54 기 3분기말,27437545366,제 53 기말,12111407657,31,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_AdditionalPaidinCapital,기타불입자본,-,제 54 기 3분기말,9201356004,제 53 기말,-561393789,32,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 54 기 3분기말,25000000000,제 53 기말,25000000000,33,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금(결손금),-,제 54 기 3분기말,519673752428,제 53 기말,491796950515,34,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 54 기 3분기말,117008081717,제 53 기말,119128868483,35,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 54 기 3분기말,1260426936177,제 53 기말,1169759640111,36,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 54 기 3분기말,493244868717,제 53 기말,460396159573,38,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,dart_CurrentPortionOfBonds,유동성사채,-,제 54 기 3분기말,32985258678,제 53 기말,52155845480,39,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_CurrentLeaseLiabilities,유동 리스부채,-,제 54 기 3분기말,754113668,제 53 기말,197924496,40,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_CurrentPortionOfLongtermBorrowings,비유동차입금의 유동성 대체 부분,-,제 54 기 3분기말,8769337632,제 53 기말,8934280000,41,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 54 기 3분기말,2238902321,제 53 기말,2019326130,42,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_OtherCurrentLiabilities,기타 유동부채,-,제 54 기 3분기말,9420258113,제 53 기말,10098540188,43,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_ShorttermBorrowings,단기차입금,-,제 54 기 3분기말,272663000000,제 53 기말,227676280821,44,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayables,매입채무 및 기타유동채무,-,제 54 기 3분기말,166413998305,제 53 기말,159313962458,45,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 54 기 3분기말,562106200662,제 53 기말,522283807245,46,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 54 기 3분기말,68861331945,제 53 기말,61887647672,47,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,dart_LongTermBorrowingsGross,장기차입금,-,제 54 기 3분기말,14712715823,제 53 기말,12922417150,48,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentPayables,장기매입채무 및 기타비유동채무,-,제 54 기 3분기말,4612020542,제 53 기말,4225151200,49,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 54 기 3분기말,38768146100,제 53 기말,35902301522,50,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_NoncurrentLeaseLiabilities,비유동 리스부채,-,제 54 기 3분기말,916010758,제 53 기말,133716854,51,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_OtherNoncurrentLiabilities,기타 비유동 부채,-,제 54 기 3분기말,6185712846,제 53 기말,6113246093,52,KRW,,,,,연결
+20241114002481,11014,2024,00124799,BS,재무상태표,ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan,순확정급여부채,-,제 54 기 3분기말,3666725876,제 53 기말,2590814853,53,KRW,,,,,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익(손실),-,제 54 기 3분기,3984365233,,,6,KRW,13155782672,제 53 기 3분기,-9700179147,-12922320994,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,dart_OtherGains,기타이익,-,제 54 기 3분기,146274512,,,7,KRW,5050924957,제 53 기 3분기,7500513709,11339638964,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,dart_OtherLosses,기타손실,-,제 54 기 3분기,-258362694,,,8,KRW,5103128694,제 53 기 3분기,3394473182,12409986335,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 54 기 3분기,20574166104,,,9,KRW,41693750023,제 53 기 3분기,8552445030,28518863703,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 54 기 3분기,5848640468,,,10,KRW,59088933799,제 53 기 3분기,-2975038493,9547956201,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,"포괄손익, 비지배지분",-,제 54 기 3분기,1273895900,,,12,KRW,14887394177,제 53 기 3분기,-2008029432,-2784030281,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"포괄손익, 지배기업의 소유주에게 귀속되는 지분",-,제 54 기 3분기,4574744568,,,13,KRW,44201539622,제 53 기 3분기,-967009061,12331986482,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 54 기 3분기,148724047086,,,14,KRW,425751858850,제 53 기 3분기,159624580124,449417664962,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),-,제 54 기 3분기,828,,,16,KRW,5843,제 53 기 3분기,-552,2488,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,희석주당이익(손실),-,제 54 기 3분기,828,,,17,KRW,5843,제 53 기 3분기,-522,2488,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융원가,-,제 54 기 3분기,2985007972,,,18,KRW,10264357981,제 53 기 3분기,3286596035,9416067388,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 54 기 3분기,-2075906287,,,19,KRW,1731707053,제 53 기 3분기,758726030,2902596304,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 54 기 3분기,24558531337,,,20,KRW,54849532695,제 53 기 3분기,-1147734117,15596542709,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),-,제 54 기 3분기,-56198558,,,21,KRW,5057010342,제 53 기 3분기,-695455495,-3212910505,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 54 기 3분기,-1364479442,,,22,KRW,19027626484,제 53 기 3분기,2217208613,250724831,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류될 수 있는 항목(세후기타포괄손익),-,제 54 기 3분기,646664892,,,23,KRW,15317844196,제 53 기 3분기,1205854494,516734805,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,현금흐름위험회피손익(세후기타포괄손익),-,제 54 기 3분기,-103167950,,,24,KRW,-237968513,제 53 기 3분기,-35501620,-319967865,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이(세후기타포괄손익),-,제 54 기 3분기,117228276,,,25,KRW,-288169162,제 53 기 3분기,-67579991,739177171,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되는 지분법 적용대상 관계기업과 공동기업의 세후기타포괄손익에 대한 지분,-,제 54 기 3분기,632604566,,,26,KRW,15843981871,제 53 기 3분기,1308936105,97525499,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는항목(세후기타포괄손익),-,제 54 기 3분기,-2011144334,,,27,KRW,3709782288,제 53 기 3분기,1011354119,-266009974,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,-,제 54 기 3분기,0,,,28,KRW,0,제 53 기 3분기,0,4660145,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정손익(세후기타포괄손익),-,제 54 기 3분기,-30372361,,,29,KRW,298120201,제 53 기 3분기,386431205,423320254,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는 지분법 적용대상 관계기업과 공동기업의 세후기타포괄손익에 대한 지분,-,제 54 기 3분기,-1980771973,,,30,KRW,3411662087,제 53 기 3분기,624922914,-693990373,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 54 기 3분기,7213119910,,,31,KRW,40061307315,제 53 기 3분기,-5192247106,9297231370,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분에 귀속되는 당기순이익(손실),-,제 54 기 3분기,3078202632,,,33,KRW,10885934954,제 53 기 3분기,-2437455314,-3126177811,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 당기순이익(손실),-,제 54 기 3분기,4134917278,,,34,KRW,29175372361,제 53 기 3분기,-2754791792,12423409181,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-,제 54 기 3분기,7156921352,,,35,KRW,45118317657,제 53 기 3분기,-5887702601,6084320865,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_Revenue,수익(매출액),-,제 54 기 3분기,173282578423,,,36,KRW,480601391545,제 53 기 3분기,158476846007,465014207671,연결
+20241114002481,11014,2024,00124799,CIS,포괄손익계산서,ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법투자주식평가이익(손실),-,제 54 기 3분기,7828833172,,,37,KRW,40547389650,제 53 기 3분기,2234306024,26590460314,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 54 기 3분기,22373035548,,,2,KRW,,제 53 기 3분기,15606260812,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 54 기 3분기,40000115813,,,3,KRW,,제 53 기 3분기,30999684954,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 54 기 3분기,14994196978,,,8,KRW,,제 53 기 3분기,31053392252,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_DecreaseInGuaranteeDepositsAsFinancialActivities,보증금부채의 감소,-,제 54 기 3분기,3690608068,,,9,KRW,,제 53 기 3분기,0,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,보증금부채의 증가,-,제 54 기 3분기,1119750000,,,10,KRW,,제 53 기 3분기,0,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_ProceedsFromLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 증가,-,제 54 기 3분기,11415884,,,11,KRW,,제 53 기 3분기,0,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 증가,-,제 54 기 3분기,1659500000,,,12,KRW,,제 53 기 3분기,10580000000,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 증가,-,제 54 기 3분기,77663000000,,,13,KRW,,제 53 기 3분기,179563000000,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_PurchaseOfInvestmentsInSubsidiaries,종속기업에 대한 투자자산의 취득,-,제 54 기 3분기,7245431150,,,14,KRW,,제 53 기 3분기,107673330,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_RepaymentsOfBonds,사채의 상환,-,제 54 기 3분기,20000000000,,,15,KRW,,제 53 기 3분기,20000000000,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 상환,-,제 54 기 3분기,214280000,,,16,KRW,,제 53 기 3분기,0,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 54 기 3분기,32670423189,,,17,KRW,,제 53 기 3분기,122663000000,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금지급,-,제 54 기 3분기,998600000,,,18,KRW,,제 53 기 3분기,2041856960,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 지급,-,제 54 기 3분기,596646499,,,19,KRW,,제 53 기 3분기,768050978,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,유동성장기부채의 상환,-,제 54 기 3분기,43480000,,,20,KRW,,제 53 기 3분기,13509026480,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 54 기 3분기,-20989470042,,,21,KRW,,제 53 기 3분기,3046280175,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금자산의 감소,-,제 54 기 3분기,608280000,,,22,KRW,,제 53 기 3분기,275000000,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금자산의 증가,-,제 54 기 3분기,70000000,,,23,KRW,,제 53 기 3분기,6000000,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities,당기손익-공정가치측정금융자산의 처분,-,제 54 기 3분기,17844000,,,24,KRW,,제 53 기 3분기,0,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInAssociates,관계기업에 대한 투자자산의 처분,-,제 54 기 3분기,12630492762,,,25,KRW,,제 53 기 3분기,0,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_ProceedsFromSalesOfLongTermLoansAndReceivables,장기대여금및수취채권의 처분,-,제 54 기 3분기,1305513986,,,26,KRW,,제 53 기 3분기,445899821,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 처분,-,제 54 기 3분기,20223664052,,,27,KRW,,제 53 기 3분기,37227053210,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermLoansAndReceivables,단기대여금및수취채권의 처분,-,제 54 기 3분기,0,,,28,KRW,,제 53 기 3분기,4000000,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_PurchaseOfInvestmentsInAssociates,관계기업에 대한 투자자산의 취득,-,제 54 기 3분기,26269839157,,,29,KRW,,제 53 기 3분기,5407729010,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_PurchaseOfLongTermLoansAndReceivables,장기대여금및수취채권의 취득,-,제 54 기 3분기,2012800000,,,30,KRW,,제 53 기 3분기,0,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 취득,-,제 54 기 3분기,15238664052,,,31,KRW,,제 53 기 3분기,25329053210,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_PurchaseOfShortTermLoansAndReceivables,단기대여금및수취채권의 취득,-,제 54 기 3분기,5000000,,,32,KRW,,제 53 기 3분기,0,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,-표준계정코드 미사용-,장기기타채권의 감소,-,제 54 기 3분기,0,,,33,KRW,,제 53 기 3분기,60000000,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,-표준계정코드 미사용-,장기기타채무의 감소,-,제 54 기 3분기,0,,,34,KRW,,제 53 기 3분기,85948000,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,-표준계정코드 미사용-,기타채무의 감소,-,제 54 기 3분기,0,,,35,KRW,,제 53 기 3분기,1309000000,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,-표준계정코드 미사용-,장기기타채무의 증가,-,제 54 기 3분기,0,,,36,KRW,,제 53 기 3분기,2849400240,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,-표준계정코드 미사용-,장기기타채권의 증가,-,제 54 기 3분기,0,,,37,KRW,,제 53 기 3분기,1157662180,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsFinancingActivities,정부보조금의 수취,-,제 54 기 3분기,0,,,38,KRW,,제 53 기 3분기,25000000,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 54 기 3분기,50781800,,,39,KRW,,제 53 기 3분기,1738000000,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 54 기 3분기,8706387,,,40,KRW,,제 53 기 3분기,1208232775,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 54 기 3분기,20452280,,,41,KRW,,제 53 기 3분기,736614139,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 54 기 3분기,12217997540,,,42,KRW,,제 53 기 3분기,6754299332,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동순현금흐름,-,제 54 기 3분기,23576480611,,,43,KRW,,제 53 기 3분기,-19985812491,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산 부채의 변동,-,제 54 기 3분기,2990676355,,,44,KRW,,제 53 기 3분기,-28568062118,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInNonCurrentReceivables,비유동채권의 감소(증가),-,제 54 기 3분기,0,,,45,KRW,,제 53 기 3분기,380190000,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInOtherNonCurrentLiabilities,기타비유동부채의 증가(감소),-,제 54 기 3분기,-38476000,,,46,KRW,,제 53 기 3분기,0,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInBiologicalAssets,생물자산의 감소(증가) 조정,-,제 54 기 3분기,-355320629,,,47,KRW,,제 53 기 3분기,3230450549,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInInventories,재고자산의 감소(증가),-,제 54 기 3분기,623534526,,,48,KRW,,제 53 기 3분기,10073921830,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInOtherCurrentAssets,기타유동자산의 감소(증가) 조정,-,제 54 기 3분기,-8617442198,,,49,KRW,,제 53 기 3분기,-1821352940,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInOtherOperatingReceivables,기타 영업활동 관련 채권의 감소(증가),-,제 54 기 3분기,378299616,,,50,KRW,,제 53 기 3분기,282713605,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAccountReceivable,매출채권의 감소(증가),-,제 54 기 3분기,4474046052,,,51,KRW,,제 53 기 3분기,-19878471769,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInEmployeeBenefitLiabilities,순확정급여부채 증가(감소),-,제 54 기 3분기,-1509471484,,,52,KRW,,제 53 기 3분기,-1233228688,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInOtherCurrentLiabilities,기타유동부채의 증가(감소),-,제 54 기 3분기,-1655438510,,,53,KRW,,제 53 기 3분기,198029884,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInOtherOperatingPayables,기타 영업활동 관련 채무의 증가(감소),-,제 54 기 3분기,5749222203,,,54,KRW,,제 53 기 3분기,-3522146323,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAccountPayable,매입채무의 증가(감소),-,제 54 기 3분기,3941722779,,,55,KRW,,제 53 기 3분기,-16278168266,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감,-,제 54 기 3분기,-11422062131,,,56,KRW,,제 53 기 3분기,8623855001,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비 조정,-,제 54 기 3분기,11024044114,,,57,KRW,,제 53 기 3분기,22107193,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익 조정,-,제 54 기 3분기,86296950,,,58,KRW,,제 53 기 3분기,22238267,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익,-,제 54 기 3분기,2371364942,,,59,KRW,,제 53 기 3분기,3889658993,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfIntangibleAssets,무형자산처분이익,-,제 54 기 3분기,0,,,60,KRW,,제 53 기 3분기,1732699540,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForGainsOnEvaluationOfBiologicalAssets,생물자산평가이익,-,제 54 기 3분기,4068882651,,,61,KRW,,제 53 기 3분기,0,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForInterestExpenses,이자비용 조정,-,제 54 기 3분기,9957956652,,,62,KRW,,제 53 기 3분기,8718291944,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsOfIntangibleAssets,무형자산처분손실 조정,-,제 54 기 3분기,2234287,,,63,KRW,,제 53 기 3분기,0,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsOfInvestments,투자자산처분손실 조정,-,제 54 기 3분기,2156000,,,64,KRW,,제 53 기 3분기,0,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForLossesOnDispositionOfPropertyPlantAndEquipment,유형자산처분손실 조정,-,제 54 기 3분기,6000,,,65,KRW,,제 53 기 3분기,1253281714,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForLossesOnEvaluationOfBiologicalAssets,생물자산평가손실 조정,-,제 54 기 3분기,0,,,66,KRW,,제 53 기 3분기,1904638241,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForLossesOnForeignExchangeTranslations,외화환산손실 조정,-,제 54 기 3분기,1253998174,,,67,KRW,,제 53 기 3분기,2884441635,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법이익,-,제 54 기 3분기,40547389650,,,68,KRW,,제 53 기 3분기,26590460314,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여 조정,-,제 54 기 3분기,3428492370,,,69,KRW,,제 53 기 3분기,3021068773,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForReversalsOfInventories,재고자산평가손실환입 조정,-,제 54 기 3분기,11166173728,,,70,KRW,,제 53 기 3분기,0,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_AdjustmentsForWritedownsOfInventories,재고자산평가손실 조정,-,제 54 기 3분기,0,,,71,KRW,,제 53 기 3분기,11358404354,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_DividendIncomeNonOperating,배당금수익,-,제 54 기 3분기,0,,,72,KRW,,제 53 기 3분기,35201929,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_GainsFromFinancialGuaranteeFinancialIncome,금융보증(계약)수익,-,제 54 기 3분기,81814838,,,73,KRW,,제 53 기 3분기,9178904,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,dart_LossesFromFinancialGuaranteeFinanceExpense,금융보증비용(손실),-,제 54 기 3분기,222580,,,74,KRW,,제 53 기 3분기,63224176,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_AdjustmentsForAmortisationExpense,무형자산상각비에 대한 조정,-,제 54 기 3분기,239802580,,,75,KRW,,제 53 기 3분기,193176448,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationExpense,감가상각비에 대한 조정,-,제 54 기 3분기,16384285470,,,76,KRW,,제 53 기 3분기,15399876305,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용 조정,-,제 54 기 3분기,5057010342,,,77,KRW,,제 53 기 3분기,-3212910505,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익에 대한 조정,-,제 54 기 3분기,731850451,,,78,KRW,,제 53 기 3분기,1085234298,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_DepreciationBiologicalAssets,"감가상각비, 생물자산",-,제 54 기 3분기,361454739,,,79,KRW,,제 53 기 3분기,449566567,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_RentalIncome,임대료수입,-,제 54 기 3분기,79952229,,,80,KRW,,제 53 기 3분기,66639599,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취,-,제 54 기 3분기,1874967330,,,81,KRW,,제 53 기 3분기,918010930,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세환급(납부),-,제 54 기 3분기,1711316703,,,82,KRW,,제 53 기 3분기,2359129433,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급,-,제 54 기 3분기,8915544381,,,83,KRW,,제 53 기 3분기,9153120739,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 54 기 3분기,698452826,,,84,KRW,,제 53 기 3분기,1255402498,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 54 기 3분기,7213119910,,,85,KRW,,제 53 기 3분기,-5192247106,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 54 기 3분기,45872718,,,86,KRW,,제 53 기 3분기,1279564206,,연결
+20241114002481,11014,2024,00124799,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 54 기 3분기,17627080265,,,87,KRW,,제 53 기 3분기,15393424142,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 54 기 3분기,-279875649,,,3,KRW,,제 53 기 3분기,648858462,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 54 기 3분기,-279875649,,,3,KRW,,제 53 기 3분기,648858462,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,연결재무제표 [member],제 54 기 3분기,-288169162,,,3,KRW,,제 53 기 3분기,739177171,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [구성요소]|비지배지분 [구성요소],제 54 기 3분기,-8293513,,,3,KRW,,제 53 기 3분기,90318709,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,연결재무제표 [member],제 54 기 3분기,,,,4,KRW,,제 53 기 3분기,4660145,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 54 기 3분기,,,,4,KRW,,제 53 기 3분기,4660145,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 측정 금융자산 평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 54 기 3분기,,,,4,KRW,,제 53 기 3분기,4660145,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 54 기 3분기,12111407657,,,5,KRW,,제 53 기 3분기,10666717268,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 54 기 3분기,528346964383,,,5,KRW,,제 53 기 3분기,513611962810,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|비지배지분 [구성요소],제 54 기 3분기,119128868483,,,5,KRW,,제 53 기 3분기,129624036438,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 54 기 3분기,647475832866,,,5,KRW,,제 53 기 3분기,643235999248,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 54 기 3분기,491796950515,,,5,KRW,,제 53 기 3분기,478625621154,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|추가납입자본 [구성요소],제 54 기 3분기,-561393789,,,5,KRW,,제 53 기 3분기,-680375612,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 54 기 3분기,25000000000,,,5,KRW,,제 53 기 3분기,25000000000,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_AmountRemovedFromReserveOfCashFlowHedgesAndIncludedInInitialCostOrOtherCarryingAmountOfNonfinancialAssetLiabilityOrFirmCommitmentForWhichFairValueHedgeAccountingIsApplied,현금흐름위험회피 파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 54 기 3분기,237968513,,,6,KRW,,제 53 기 3분기,319967865,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_AmountRemovedFromReserveOfCashFlowHedgesAndIncludedInInitialCostOrOtherCarryingAmountOfNonfinancialAssetLiabilityOrFirmCommitmentForWhichFairValueHedgeAccountingIsApplied,현금흐름위험회피 파생상품평가손익,연결재무제표 [member],제 54 기 3분기,237968513,,,6,KRW,,제 53 기 3분기,319967865,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_AmountRemovedFromReserveOfCashFlowHedgesAndIncludedInInitialCostOrOtherCarryingAmountOfNonfinancialAssetLiabilityOrFirmCommitmentForWhichFairValueHedgeAccountingIsApplied,현금흐름위험회피 파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 54 기 3분기,237968513,,,6,KRW,,제 53 기 3분기,319967865,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 54 기 3분기,27876801913,,,7,KRW,,제 53 기 3분기,10153360241,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 54 기 3분기,15326137709,,,7,KRW,,제 53 기 3분기,431076241,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 54 기 3분기,52965689415,,,7,KRW,,제 53 기 3분기,10703418305,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|추가납입자본 [구성요소],제 54 기 3분기,9762749793,,,7,KRW,,제 53 기 3분기,118981823,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,연결재무제표 [member],제 54 기 3분기,50844902649,,,7,KRW,,제 53 기 3분기,7502326071,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_ChangesInEquity,자본 증가(감소) 합계,자본 [구성요소]|비지배지분 [구성요소],제 54 기 3분기,-2120786766,,,7,KRW,,제 53 기 3분기,-3201092234,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_DividendsPaid,소유주에 대한 배분으로 인식된 배당금,자본 [구성요소]|비지배지분 [구성요소],제 54 기 3분기,,,,8,KRW,,제 53 기 3분기,294306960,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_DividendsPaid,소유주에 대한 배분으로 인식된 배당금,연결재무제표 [member],제 54 기 3분기,998600000,,,8,KRW,,제 53 기 3분기,2041856960,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_DividendsPaid,소유주에 대한 배분으로 인식된 배당금,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 54 기 3분기,998600000,,,8,KRW,,제 53 기 3분기,1747550000,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_DividendsPaid,소유주에 대한 배분으로 인식된 배당금,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 54 기 3분기,998600000,,,8,KRW,,제 53 기 3분기,1747550000,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 54 기 3분기,698320735515,,647475832866,9,KRW,,제 53 기 3분기,650738325319,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|비지배지분 [구성요소],제 54 기 3분기,117008081717,,,9,KRW,,제 53 기 3분기,126422944204,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 54 기 3분기,581312653798,,,9,KRW,,제 53 기 3분기,524315381115,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 54 기 3분기,27437545366,,,9,KRW,,제 53 기 3분기,11097793509,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 54 기 3분기,519673752428,,,9,KRW,,제 53 기 3분기,488778981395,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 54 기 3분기,25000000000,,,9,KRW,,제 53 기 3분기,25000000000,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|추가납입자본 [구성요소],제 54 기 3분기,9201356004,,,9,KRW,,제 53 기 3분기,-561393789,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업에 대한 소유지분의 변동,연결재무제표 [member],제 54 기 3분기,-7245431150,,,10,KRW,,제 53 기 3분기,-3773170,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업에 대한 소유지분의 변동,자본 [구성요소]|비지배지분 [구성요소],제 54 기 3분기,-17008180943,,,10,KRW,,제 53 기 3분기,-122754993,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업에 대한 소유지분의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 54 기 3분기,9762749793,,,10,KRW,,제 53 기 3분기,118981823,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업에 대한 소유지분의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|추가납입자본 [구성요소],제 54 기 3분기,9762749793,,,10,KRW,,제 53 기 3분기,118981823,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정손익(세후기타포괄손익),연결재무제표 [member],제 54 기 3분기,-30372361,,,11,KRW,,제 53 기 3분기,386431205,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정손익(세후기타포괄손익),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 54 기 3분기,305670084,,,11,KRW,,제 53 기 3분기,254834417,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정손익(세후기타포괄손익),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 54 기 3분기,305670084,,,11,KRW,,제 53 기 3분기,254834417,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정손익(세후기타포괄손익),자본 [구성요소]|비지배지분 [구성요소],제 54 기 3분기,-7549883,,,11,KRW,,제 53 기 3분기,168485837,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 54 기 3분기,29175372361,,,12,KRW,,제 53 기 3분기,12423409181,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 54 기 3분기,29175372361,,,12,KRW,,제 53 기 3분기,12423409181,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),자본 [구성요소]|비지배지분 [구성요소],제 54 기 3분기,10885934954,,,12,KRW,,제 53 기 3분기,-3126177811,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_ProfitLoss,당기순이익(손실),연결재무제표 [member],제 54 기 3분기,7213119910,,,12,KRW,,제 53 기 3분기,-5192247106,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,관계기업의 기타포괄손익에 대한 지분,자본 [구성요소]|비지배지분 [구성요소],제 54 기 3분기,4017302619,,,13,KRW,,제 53 기 3분기,83342984,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,관계기업의 기타포괄손익에 대한 지분,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 54 기 3분기,15238341339,,,13,KRW,,제 53 기 3분기,-679807858,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,관계기업의 기타포괄손익에 대한 지분,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 54 기 3분기,15843981871,,,13,KRW,,제 53 기 3분기,97525499,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,관계기업의 기타포괄손익에 대한 지분,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 54 기 3분기,-605640532,,,13,KRW,,제 53 기 3분기,-777333357,,연결
+20241114002481,11014,2024,00124799,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,관계기업의 기타포괄손익에 대한 지분,연결재무제표 [member],제 54 기 3분기,19255643958,,,13,KRW,,제 53 기 3분기,-596464874,,연결

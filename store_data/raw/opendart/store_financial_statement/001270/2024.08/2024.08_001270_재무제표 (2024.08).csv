@@ -1,0 +1,176 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분
+20240814003368,11012,2024,00123772,BS,재무상태표,dart_CashAndDuefromBanks,I. 현금 및 예치금,-,제 71 기 반기말,383696939816,제 70 기말,223504161027,7,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,dart_LoansAtAmortisedCost,V. 대출채권,-,제 71 기 반기말,183503237136,제 70 기말,125421212279,8,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 71 기 반기말,5691336386380,제 70 기말,1770492019487,9,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_CurrentTaxAssets,X. 당기법인세자산,-,제 71 기 반기말,1068486463,제 70 기말,569975498,10,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_DeferredTaxAssets,XI. 이연법인세자산,-,제 71 기 반기말,235604355,제 70 기말,283622505,11,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome,III. 기타포괄손익-공정가치측정금융자산,-,제 71 기 반기말,233139528672,제 70 기말,234142485986,12,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss,II. 당기손익-공정가치측정금융자산,-,제 71 기 반기말,3487153649163,제 70 기말,974879955353,13,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_IntangibleAssetsAndGoodwill,VIII. 무형자산,-,제 71 기 반기말,19845616243,제 70 기말,19956917133,14,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_InvestmentProperty,VII. 투자부동산,-,제 71 기 반기말,11379164383,제 70 기말,11537683716,15,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates,IV. 관계기업투자 및 공동기업투자,-,제 71 기 반기말,26293555933,제 70 기말,24155087196,16,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_OtherAssets,IX. 기타자산,-,제 71 기 반기말,1247018473273,제 70 기말,57668253078,17,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,VI. 유형자산,-,제 71 기 반기말,98002130943,제 70 기말,98372665716,18,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 71 기 반기말,769171063655,제 70 기말,757884918859,21,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,I. 지배기업의 소유주에게 귀속되는 자본,-,제 71 기 반기말,769104076498,제 70 기말,757822121729,22,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,dart_CapitalAdjustments,3. 자본조정,-,제 71 기 반기말,-58492023461,제 70 기말,-58492023461,23,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,dart_CapitalSurplus,2. 자본잉여금,-,제 71 기 반기말,133928673056,제 70 기말,133943523056,24,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_AccumulatedOtherComprehensiveIncome,4. 기타포괄손익누계액,-,제 71 기 반기말,190379236882,제 70 기말,191150511057,25,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_IssuedCapital,1. 자본금,-,제 71 기 반기말,66849430000,제 70 기말,66849430000,26,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_RetainedEarnings,5. 이익잉여금,-,제 71 기 반기말,436438760021,제 70 기말,424370681077,27,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,dart_RegulatoryReserveForCreditLoss,(대손준비금 기적립액),-,제 71 기 반기말,-80169617,제 70 기말,-12811266,28,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,dart_RegulatoryReserveForCreditLossToBeAddedReversed,대손준비금 환입(적립) 예정액,-,제 71 기 반기말,-76957608,제 70 기말,-67358351,29,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_NoncontrollingInterests,II. 비지배지분,-,제 71 기 반기말,66987157,제 70 기말,62797130,30,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_EquityAndLiabilities,부채 및 자본총계,-,제 71 기 반기말,5691336386380,제 70 기말,1770492019487,31,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_Borrowings,III. 차입부채,-,제 71 기 반기말,3030720253699,제 70 기말,667885879377,33,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,V. 당기법인세부채,-,제 71 기 반기말,1166919276,제 70 기말,1128001583,34,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,VI. 이연법인세부채,-,제 71 기 반기말,57249898514,제 70 기말,58641497934,35,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_DepositsFromCustomers,I. 예수부채,-,제 71 기 반기말,42479140356,제 70 기말,39789953844,36,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_FinancialLiabilitiesAtFairValueThroughProfitOrLoss,II. 당기손익-공정가치측정금융부채,-,제 71 기 반기말,534544983095,제 70 기말,108929706760,37,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 71 기 반기말,4922165322725,제 70 기말,1012607100628,38,KRW,,,,,연결
+20240814003368,11012,2024,00123772,BS,재무상태표,ifrs-full_OtherLiabilities,IV. 기타부채,-,제 71 기 반기말,1256004127785,제 70 기말,136232061130,39,KRW,,,,,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,dart_GainFromFinancialInstruments,2. 금융상품관련수익,-,제 71 기 반기,61460619934,,,6,KRW,116637582529,제 70 기 반기,57248158744,173545939299,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,dart_GainsOnTransactionOfDerivativeFinancialInstrument,3. 파생상품거래이익,-,제 71 기 반기,72362159503,,,7,KRW,130444980155,제 70 기 반기,75865476300,171004657346,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,dart_LossFromFinancialInstruments,2. 금융상품평가및처분손실,-,제 71 기 반기,78454312129,,,8,KRW,134397641103,제 70 기 반기,67820210380,163869805696,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,dart_LossesOnTransactionOfDerivativeFinancialInstrument,3. 파생상품거래손실,-,제 71 기 반기,42551143565,,,9,KRW,80443070722,제 70 기 반기,45030668800,133387337928,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,dart_NonOperatingExpense,V. 영업외비용,-,제 71 기 반기,65814923,,,10,KRW,94334611,제 70 기 반기,-250975132,79112263,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,dart_NonOperatingIncome,IV. 영업외수익,-,제 71 기 반기,761502750,,,11,KRW,3492173962,제 70 기 반기,1396691368,2578610006,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,dart_OtherOperatingExpense,8. 기타영업비용,-,제 71 기 반기,1875620374,,,12,KRW,2914177463,제 70 기 반기,67673178,131697772,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,dart_OtherOperatingIncome,7. 기타영업수익,-,제 71 기 반기,1241189830,,,13,KRW,7187301353,제 70 기 반기,322944628,5358725577,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,-표준계정코드 미사용-,5. 대출채권평가및처분이익,-,제 71 기 반기,15420000,,,14,KRW,15420000,제 70 기 반기,0,22875000,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,-표준계정코드 미사용-,5. 대출채권평가및처분손실,-,제 71 기 반기,14613140158,,,15,KRW,16695138447,제 70 기 반기,2989555000,3502550250,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,X. 총포괄이익(손실),-,제 71 기 반기,7403499974,,,16,KRW,24803350796,제 70 기 반기,36687195987,60812956688,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeFromContinuingOperationsAttributableToNoncontrollingInterests,2. 비지배지분에 귀속되는 계속영업포괄손익,-,제 71 기 반기,1528219,,,17,KRW,4190027,제 70 기 반기,1875245,3324870,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeFromContinuingOperationsAttributableToOwnersOfParent,1. 지배기업의 소유주에게 귀속되는 계속영업포괄손익,-,제 71 기 반기,7401971755,,,18,KRW,24799160769,제 70 기 반기,36685320742,60809631818,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,dart_BasicEarningsLossPerSharePreferredStock,1. 구형우선주 기본주당이익,-,제 71 기 반기,955,,,20,KRW,2889,제 70 기 반기,2208,4611,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,dart_DilutedEarningsLossPerSharePreferredStock,2. 구형우선주 희석주당이익,-,제 71 기 반기,955,,,21,KRW,2889,제 70 기 반기,2208,4611,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,3. 보통주 기본주당이익,-,제 71 기 반기,943,,,22,KRW,2864,제 70 기 반기,2195,4586,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,4. 보통주 희석주당이익,-,제 71 기 반기,943,,,23,KRW,2864,제 70 기 반기,2195,4586,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_FeeAndCommissionExpense,1. 수수료비용,-,제 71 기 반기,2488970240,,,24,KRW,4467031792,제 70 기 반기,1969098358,4282443634,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_FeeAndCommissionIncome,1. 수수료수익,-,제 71 기 반기,21181382412,,,25,KRW,40366794725,제 70 기 반기,31238462314,55963591398,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_IncomeFromContinuingOperationsAttributableToOwnersOfParent,1. 지배기업의 소유주에게 귀속될 계속영업손익,-,제 71 기 반기,8430000374,,,26,KRW,25570434944,제 70 기 반기,19580433366,40899497515,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,VII. 법인세비용,-,제 71 기 반기,2257716936,,,27,KRW,7616159867,제 70 기 반기,3992134764,10837016295,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_InterestExpense,4. 이자비용,-,제 71 기 반기,19644233931,,,28,KRW,44352050120,제 70 기 반기,24616267278,44481970027,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_NetForeignExchangeGain,6. 외환거래이익,-,제 71 기 반기,0,,,29,KRW,0,제 70 기 반기,94924206,364727192,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_NetForeignExchangeLoss,6. 외환거래손실,-,제 71 기 반기,0,,,30,KRW,0,제 70 기 반기,49191715,93402708,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_OperatingExpense,II. 영업비용,-,제 71 기 반기,176152256350,,,31,KRW,324040370334,제 70 기 반기,172563307121,408549644412,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,IX. 기타포괄손익,-,제 71 기 반기,-1028028619,,,32,KRW,-771274175,제 70 기 반기,17104887376,19910134303,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,(1) 기타포괄손익-공정가치측정금융자산 평가이익,-,제 71 기 반기,-1028028619,,,35,KRW,-771274175,제 70 기 반기,10915771554,13721018481,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_RevaluationSurplus,(2) 재평가잉여금,-,제 71 기 반기,0,,,36,KRW,0,제 70 기 반기,6189115822,6189115822,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_ProfitLoss,VIII. 당기순이익,-,제 71 기 반기,8431528593,,,37,KRW,25574624971,제 70 기 반기,19582308611,40902822385,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,VI. 법인세차감전순이익,-,제 71 기 반기,10689245529,,,38,KRW,33190784838,제 70 기 반기,23574443375,51739838680,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_ProfitLossFromContinuingOperationsAttributableToNoncontrollingInterests,2. 비지배지분에 귀속될 계속영업손익,-,제 71 기 반기,1528219,,,39,KRW,4190027,제 70 기 반기,1875245,3324870,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_ProfitLossFromOperatingActivities,III. 영업이익,-,제 71 기 반기,9993557702,,,40,KRW,29792945487,제 70 기 반기,21926776875,49240340937,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_Revenue,I. 영업수익,-,제 71 기 반기,186145814052,,,41,KRW,353833315821,제 70 기 반기,194490083996,457789985349,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_RevenueFromInterest,4. 이자수익,-,제 71 기 반기,29885042373,,,42,KRW,59181237059,제 70 기 반기,29720117804,51529469537,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss,(2) 당기손익-공정가치측정금융자산 관련 이자수익,-,제 71 기 반기,19913842553,,,43,KRW,40058590037,제 70 기 반기,19940560902,33486245545,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_InterestRevenueCalculatedUsingEffectiveInterestMethod,(1) 유효이자율법을 사용하여 계산한 이자수익,-,제 71 기 반기,9971199820,,,44,KRW,19122647022,제 70 기 반기,9779556902,18043223992,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost,상각후원가측정금융자산 관련 이자수익,-,제 71 기 반기,9971199820,,,45,KRW,19122647022,제 70 기 반기,9779556902,18043223992,연결
+20240814003368,11012,2024,00123772,CIS,포괄손익계산서,ifrs-full_SellingGeneralAndAdministrativeExpense,7. 판매비와관리비,-,제 71 기 반기,16524835953,,,46,KRW,40771260687,제 70 기 반기,30020642412,58800436397,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,VI. 기초의 현금및현금성자산(주석36),-,제 71 기 반기,165982883642,,,2,KRW,,제 70 기 반기,198540252790,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_CashAndCashEquivalents,VII. 당기말의 현금및현금성자산(주석36),-,제 71 기 반기,316729291186,,,7,KRW,,제 70 기 반기,332116494038,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동순현금흐름,-,제 71 기 반기,2350961100674,,,9,KRW,,제 70 기 반기,1863845766560,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,dart_DecreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 감소,-,제 71 기 반기,6845000,,,10,KRW,,제 70 기 반기,46688000,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,dart_DecreaseInRepurchaseAgreements,환매조건부채권매도의 감소,-,제 71 기 반기,125085000000000,,,11,KRW,,제 70 기 반기,120333300000000,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,dart_DecreaseInShortTermBonds,단기사채 상환,-,제 71 기 반기,5597000000000,,,12,KRW,,제 70 기 반기,5310181724803,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 증가,-,제 71 기 반기,16442000,,,13,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,dart_IncreaseInRepurchaseAgreements,환매조건부채권매도의 증가,-,제 71 기 반기,127130300000000,,,14,KRW,,제 70 기 반기,121830200000000,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,dart_IncreaseInShortTermBonds,단기사채 발행,-,제 71 기 반기,5809000000000,,,15,KRW,,제 70 기 반기,5427146364544,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,-,제 71 기 반기,13502356000,,,16,KRW,,제 70 기 반기,13502356000,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 71 기 반기,244246986,,,17,KRW,,제 70 기 반기,254454458,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의 증가,-,제 71 기 반기,17663517143575,,,18,KRW,,제 70 기 반기,15878849271309,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 감소,-,제 71 기 반기,17556119036915,,,19,KRW,,제 70 기 반기,15615064646032,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동순현금흐름,-,제 71 기 반기,-1261967743,,,21,KRW,,제 70 기 반기,-709099141,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,dart_ChangesInConsolidatedCompanies,연결대상범위의 변동,-,제 71 기 반기,995182066,,,22,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,임차보증금의 감소,-,제 71 기 반기,0,,,23,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 71 기 반기,0,,,24,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산의처분,-,제 71 기 반기,0,,,25,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산의취득,-,제 71 기 반기,0,,,26,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 71 기 반기,0,,,27,KRW,,제 70 기 반기,540000000,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInterestsInAssociates,관계기업투자 및 공동기업투자의 처분,-,제 71 기 반기,1636363633,,,28,KRW,,제 70 기 반기,2000988659,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 71 기 반기,0,,,29,KRW,,제 70 기 반기,10500000,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 71 기 반기,0,,,30,KRW,,제 70 기 반기,100078000,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_PurchaseOfInterestsInAssociates,관계기업투자 및 공동기업투자의 취득,-,제 71 기 반기,1500000000,,,31,KRW,,제 70 기 반기,3000000000,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 71 기 반기,403149310,,,32,KRW,,제 70 기 반기,160509800,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동순현금흐름,-,제 71 기 반기,-2198952725387,,,34,KRW,,제 70 기 반기,-1729560426171,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,3. 자산 · 부채의 증감(주석36),-,제 71 기 반기,-2234199992703,,,35,KRW,,제 70 기 반기,-1766781505021,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,2. 손익조정사항(주석36),-,제 71 기 반기,1414689184,,,36,KRW,,제 70 기 반기,-10238598084,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,6. 배당금의 수취,-,제 71 기 반기,10802653075,,,37,KRW,,제 70 기 반기,11293299639,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,7. 법인세의 납부,-,제 71 기 반기,9187651270,,,38,KRW,,제 70 기 반기,13965929590,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,5. 이자의 지급,-,제 71 기 반기,45713557807,,,39,KRW,,제 70 기 반기,40284857114,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,4. 이자의 수취,-,제 71 기 반기,52356509163,,,40,KRW,,제 70 기 반기,49514341614,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_ProfitLoss,VIII. 당기순이익,-,제 71 기 반기,8431528593,,,41,KRW,,제 70 기 반기,19582308611,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 71 기 반기,0,,,43,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,V. 현금및현금성자산의 증가(감소) (I+II+III+IV),-,제 71 기 반기,150746407544,,,44,KRW,,제 70 기 반기,133576241248,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 71 기 반기,133943523056,,,3,KRW,,제 70 기 반기,133943523056,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 71 기 반기,66849430000,,,3,KRW,,제 70 기 반기,66849430000,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 71 기 반기,424370681077,,,3,KRW,,제 70 기 반기,380572446817,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 반기,191150511057,,,3,KRW,,제 70 기 반기,171925308405,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 반기,757822121729,,,3,KRW,,제 70 기 반기,694798684817,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|비지배지분 [구성요소],제 71 기 반기,62797130,,,3,KRW,,제 70 기 반기,56844136,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 71 기 반기,757884918859,,,3,KRW,,제 70 기 반기,694855528953,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 71 기 반기,-58492023461,,,3,KRW,,제 70 기 반기,-58492023461,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 71 기 반기,0,,,6,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 71 기 반기,0,,,6,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 71 기 반기,0,,,6,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 71 기 반기,-13502356000,,,6,KRW,,제 70 기 반기,-13502356000,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 반기,0,,,6,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 반기,-13502356000,,,6,KRW,,제 70 기 반기,-13502356000,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,연결재무제표 [member],제 71 기 반기,-13502356000,,,6,KRW,,제 70 기 반기,-13502356000,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|비지배지분 [구성요소],제 71 기 반기,0,,,6,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 71 기 반기,-14850000,,,8,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 71 기 반기,0,,,8,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 71 기 반기,0,,,8,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 71 기 반기,0,,,8,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 반기,0,,,8,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 반기,-14850000,,,8,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,자본 [구성요소]|비지배지분 [구성요소],제 71 기 반기,0,,,8,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,기타변동,연결재무제표 [member],제 71 기 반기,-14850000,,,8,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|비지배지분 [구성요소],제 71 기 반기,0,,,12,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 반기,-771274175,,,12,KRW,,제 70 기 반기,13721018481,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 반기,-771274175,,,12,KRW,,제 70 기 반기,13721018481,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 71 기 반기,0,,,12,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 71 기 반기,0,,,12,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 71 기 반기,0,,,12,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 71 기 반기,0,,,12,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,연결재무제표 [member],제 71 기 반기,-771274175,,,12,KRW,,제 70 기 반기,13721018481,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 71 기 반기,0,,,13,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 71 기 반기,0,,,13,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 71 기 반기,0,,,13,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 71 기 반기,0,,,13,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 반기,0,,,13,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 반기,0,,,13,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,연결재무제표 [member],제 71 기 반기,0,,,13,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxDisposalOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산처분손익,자본 [구성요소]|비지배지분 [구성요소],제 71 기 반기,0,,,13,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산관련손익,연결재무제표 [member],제 71 기 반기,-771274175,,,14,KRW,,제 70 기 반기,13721018481,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산관련손익,자본 [구성요소]|비지배지분 [구성요소],제 71 기 반기,0,,,14,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산관련손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 반기,-771274175,,,14,KRW,,제 70 기 반기,13721018481,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산관련손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 반기,-771274175,,,14,KRW,,제 70 기 반기,13721018481,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산관련손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 71 기 반기,0,,,14,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산관련손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 71 기 반기,0,,,14,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산관련손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 71 기 반기,0,,,14,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산관련손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 71 기 반기,0,,,14,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransferBetweenRevaluationReserveAndRetainedEarnings,재평가잉여금 및 이익잉여금 사이의 이전으로 인한 증가(감소),연결재무제표 [member],제 71 기 반기,0,,,15,KRW,,제 70 기 반기,6189115822,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransferBetweenRevaluationReserveAndRetainedEarnings,재평가잉여금 및 이익잉여금 사이의 이전으로 인한 증가(감소),자본 [구성요소]|비지배지분 [구성요소],제 71 기 반기,0,,,15,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransferBetweenRevaluationReserveAndRetainedEarnings,재평가잉여금 및 이익잉여금 사이의 이전으로 인한 증가(감소),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 반기,0,,,15,KRW,,제 70 기 반기,6189115822,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransferBetweenRevaluationReserveAndRetainedEarnings,재평가잉여금 및 이익잉여금 사이의 이전으로 인한 증가(감소),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 반기,0,,,15,KRW,,제 70 기 반기,6189115822,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransferBetweenRevaluationReserveAndRetainedEarnings,재평가잉여금 및 이익잉여금 사이의 이전으로 인한 증가(감소),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 71 기 반기,0,,,15,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransferBetweenRevaluationReserveAndRetainedEarnings,재평가잉여금 및 이익잉여금 사이의 이전으로 인한 증가(감소),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 71 기 반기,0,,,15,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransferBetweenRevaluationReserveAndRetainedEarnings,재평가잉여금 및 이익잉여금 사이의 이전으로 인한 증가(감소),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 71 기 반기,0,,,15,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransferBetweenRevaluationReserveAndRetainedEarnings,재평가잉여금 및 이익잉여금 사이의 이전으로 인한 증가(감소),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 71 기 반기,0,,,15,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_ProfitLoss,VIII. 당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 71 기 반기,0,,,16,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_ProfitLoss,VIII. 당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 71 기 반기,0,,,16,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_ProfitLoss,VIII. 당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 71 기 반기,0,,,16,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_ProfitLoss,VIII. 당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 71 기 반기,25570434944,,,16,KRW,,제 70 기 반기,40899497515,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_ProfitLoss,VIII. 당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 반기,0,,,16,KRW,,제 70 기 반기,0,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_ProfitLoss,VIII. 당기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 반기,25570434944,,,16,KRW,,제 70 기 반기,40899497515,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_ProfitLoss,VIII. 당기순이익,연결재무제표 [member],제 71 기 반기,8431528593,,,16,KRW,,제 70 기 반기,19582308611,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_ProfitLoss,VIII. 당기순이익,자본 [구성요소]|비지배지분 [구성요소],제 71 기 반기,4190027,,,16,KRW,,제 70 기 반기,3324870,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 71 기 반기,133928673056,,,17,KRW,,제 70 기 반기,133943523056,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 71 기 반기,66849430000,,,17,KRW,,제 70 기 반기,66849430000,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 71 기 반기,436438760021,,,17,KRW,,제 70 기 반기,407969588332,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 71 기 반기,190379236882,,,17,KRW,,제 70 기 반기,191835442708,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 71 기 반기,769104076498,,,17,KRW,,제 70 기 반기,742105960635,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|비지배지분 [구성요소],제 71 기 반기,66987157,,,17,KRW,,제 70 기 반기,60169006,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 71 기 반기,769171063655,,757884918859,17,KRW,,제 70 기 반기,742166129641,,연결
+20240814003368,11012,2024,00123772,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 71 기 반기,-58492023461,,,17,KRW,,제 70 기 반기,-58492023461,,연결

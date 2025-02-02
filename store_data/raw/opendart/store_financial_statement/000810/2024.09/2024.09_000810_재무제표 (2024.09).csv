@@ -1,0 +1,244 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분
+20240927000732,11012,2024,00139214,BS,재무상태표,dart_CashAndDuefromBanks,현금및예치금,-,제 75 기 반기말,1925683269599,제 74 기말,1741176013308,7,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,dart_LoansAtAmortisedCost,상각후원가측정대출채권,-,제 75 기 반기말,26063132179634,제 74 기말,27822027734369,8,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,dart_OtherFinancialAssetsAtAmortisedCost,상각후원가측정기타수취채권,-,제 75 기 반기말,944025169974,제 74 기말,838545271660,9,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,dart_SecuritiesAtAmortisedCost,상각후원가측정유가증권,-,제 75 기 반기말,1725099190463,제 74 기말,1721733611389,10,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 75 기 반기말,85838631117543,제 74 기말,85019029989421,11,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_CurrentTaxAssets,당기법인세자산,-,제 75 기 반기말,129812810,제 74 기말,135903060,12,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 75 기 반기말,16797769576,제 74 기말,15594457599,13,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_DerivativeFinancialAssets,파생상품자산,-,제 75 기 반기말,32734295068,제 74 기말,129293692723,14,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산,-,제 75 기 반기말,39442245385214,제 74 기말,37733033569686,15,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융자산,-,제 75 기 반기말,10974743323922,제 74 기말,10351505449649,16,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_InsuranceContractsIssuedThatAreAssets,보험계약자산,-,제 75 기 반기말,5272972,제 74 기말,2660233,17,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_IntangibleAssetsAndGoodwill,무형자산,-,제 75 기 반기말,254676302218,제 74 기말,265280989359,18,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_InvestmentAccountedForUsingEquityMethod,관계기업투자,-,제 75 기 반기말,653986115672,제 74 기말,604619443743,19,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 75 기 반기말,1169114813531,제 74 기말,1227113241267,20,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,매각예정자산,-,제 75 기 반기말,52511365685,제 74 기말,0,21,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_OtherNonfinancialAssets,기타자산,-,제 75 기 반기말,118334227053,제 74 기말,88002230220,22,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 75 기 반기말,613040748300,제 74 기말,613906903728,23,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_RecognisedAssetsDefinedBenefitPlan,순확정급여자산,-,제 75 기 반기말,111690190585,제 74 기말,137145937753,24,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_ReinsuranceContractsHeldThatAreAssets,재보험계약자산,-,제 75 기 반기말,1576241411092,제 74 기말,1576478336230,25,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_RightofuseAssets,리스사용권자산,-,제 75 기 반기말,164440274175,제 74 기말,153434543445,26,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 75 기 반기말,16743475709455,제 74 기말,16144398281437,29,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업지분,-,제 75 기 반기말,16711648613086,제 74 기말,16114211783285,30,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,dart_CapitalAdjustments,연결자본조정,-,제 75 기 반기말,-1487219924864,제 74 기말,-1487219924864,31,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,dart_CapitalSurplus,연결자본잉여금,-,제 75 기 반기말,939233350327,제 74 기말,939233350327,32,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_AccumulatedOtherComprehensiveIncome,연결기타포괄손익누계액,-,제 75 기 반기말,4322136908403,제 74 기말,4356547263208,33,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 75 기 반기말,26473418500,제 74 기말,26473418500,34,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_RetainedEarnings,연결이익잉여금,-,제 75 기 반기말,12911024860720,제 74 기말,12279177676114,35,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,dart_CatastropheReserve,비상위험준비금 기적립액,-,제 75 기 반기말,2669398057523,제 74 기말,2572265386862,36,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,dart_CatastropheReserveToBeAdded,비상위험준비금 적립예정액,-,제 75 기 반기말,87157959876,제 74 기말,97132670661,37,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,dart_RegulatoryReserveForCreditLoss,대손준비금 기적립액,-,제 75 기 반기말,169242891881,제 74 기말,247412854764,38,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,dart_RegulatoryReserveForCreditLossToBeAddedReversed,대손준비금 적립(환입)예정액,-,제 75 기 반기말,2752869004,제 74 기말,-78169962883,39,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,dart_SurrenderValueReserve,해약환급금준비금 기적립액,-,제 75 기 반기말,1180012136359,제 74 기말,0,40,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,dart_SurrenderValueReserveToBeAdded,해약환급금준비금 적립예정액,-,제 75 기 반기말,654088137847,제 74 기말,1180012136359,41,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 75 기 반기말,31827096369,제 74 기말,30186498152,42,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 75 기 반기말,85838631117543,제 74 기말,85019029989421,43,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 75 기 반기말,206673511756,제 74 기말,25911395922,45,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 75 기 반기말,2731975523992,제 74 기말,2528918581667,46,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_DerivativeFinancialLiabilities,파생상품부채,-,제 75 기 반기말,675568384868,제 74 기말,343482972584,47,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_FinancialLiabilitiesAtAmortisedCost,상각후원가측정금융부채,-,제 75 기 반기말,13128964457050,제 74 기말,13236155487685,48,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_InsuranceContractsIssuedThatAreLiabilities,보험계약부채,-,제 75 기 반기말,51457991058164,제 74 기말,51776856117331,49,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_LeaseLiabilities,리스부채,-,제 75 기 반기말,159267695849,제 74 기말,149108400334,50,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 75 기 반기말,69095155408088,제 74 기말,68874631707984,51,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_OtherNonfinancialLiabilities,기타부채,-,제 75 기 반기말,668520679416,제 74 기말,744880948182,52,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_Provisions,충당부채,-,제 75 기 반기말,66194096993,제 74 기말,69317804279,53,KRW,,,,,연결
+20240927000732,11012,2024,00139214,BS,재무상태표,ifrs-full_ReinsuranceContractsHeldThatAreLiabilities,재보험계약부채,-,제 75 기 반기말,0,제 74 기말,0,54,KRW,,,,,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_InvestmentIncomeExpenses,투자손익,-,제 75 기 반기,221749639997,,,6,KRW,518199696748,제 74 기 반기,120839031659,357285612352,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_OperatingExpenseInvestment,투자영업비용,-,제 75 기 반기,896046725867,,,7,KRW,1830061913630,제 74 기 반기,726314042070,1721768556890,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_AdditionalImpairmentLossesOfFinancialAssets,신용손실충당금전입액,-,제 75 기 반기,10652561033,,,8,KRW,23758524769,제 74 기 반기,1361842846,10313493957,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_FinanceExpensesFromReinsuranceContractsHeldRecognisedInProfitOrLoss,재보험금융비용,-,제 75 기 반기,5123206901,,,9,KRW,11649537799,제 74 기 반기,10174498355,30027181616,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_InsuranceFinanceExpensesFromInsuranceContractsIssuedRecognisedInProfitOrLoss,보험금융비용,-,제 75 기 반기,385252409982,,,10,KRW,764876076741,제 74 기 반기,384438735323,801534249105,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_LossArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost,상각후원가측정금융상품제거손실,-,제 75 기 반기,254828507,,,11,KRW,301431233,제 74 기 반기,184326346,281618282,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융상품관련손실,-,제 75 기 반기,6546834848,,,12,KRW,10565513011,제 74 기 반기,34357729567,48767783471,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융상품관련손실,-,제 75 기 반기,45750032436,,,13,KRW,109328525165,제 74 기 반기,31598104501,99143071870,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_LossesFromDerivatives,파생상품거래및평가손실,-,제 75 기 반기,257800861815,,,14,KRW,559121780397,제 74 기 반기,57747082759,394092667941,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_OtherOperatingExpenseInvestment,기타투자비용,-,제 75 기 반기,23816926586,,,15,KRW,40812739092,제 74 기 반기,19148260023,37628291123,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_ForeignExchangeLoss,외환거래손실,-,제 75 기 반기,27049936787,,,16,KRW,39981270355,제 74 기 반기,46257352095,69834856728,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_InterestExpense,이자비용,-,제 75 기 반기,117521738259,,,17,KRW,240374377169,제 74 기 반기,124850117155,200066515661,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_SellingGeneralAndAdministrativeExpense,재산관리비,-,제 75 기 반기,16277388713,,,18,KRW,29292137899,제 74 기 반기,16195993100,30078827136,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_InvestmentIncome,투자영업수익,-,제 75 기 반기,1117796365864,,,19,KRW,2348261610378,제 74 기 반기,847153073729,2079054169242,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_FinanceIncomeFromReinsuranceContractsHeldRecognisedInProfitOrLoss,재보험금융수익,-,제 75 기 반기,26060694820,,,20,KRW,50905344260,제 74 기 반기,21293744634,54869414917,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_GainArisingFromDerecognitionOfFinancialInstrumentsMeasuredAtAmortisedCost,상각후원가측정금융상품제거이익,-,제 75 기 반기,263819013,,,21,KRW,745049119,제 74 기 반기,87182346,1010926401,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_GainFromDerivatives,파생상품거래및평가이익,-,제 75 기 반기,5491804277,,,22,KRW,9213958353,제 74 기 반기,19684989841,65295225259,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융상품관련이익,-,제 75 기 반기,3920174771,,,23,KRW,7742793827,제 74 기 반기,4365844029,8574677250,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융상품관련이익,-,제 75 기 반기,76131221147,,,24,KRW,222488293453,제 74 기 반기,41252185292,169996127919,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_InsuranceFinanceIncomeFromInsuranceContractsIssuedRecognisedInProfitOrLoss,보험금융수익,-,제 75 기 반기,15475125019,,,25,KRW,33344176623,제 74 기 반기,44814338708,95136530293,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_OtherOperatingIncomeInvestment,기타투자수익,-,제 75 기 반기,102072987088,,,26,KRW,230039800049,제 74 기 반기,88626155540,182740663429,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_ReversalsOfImpairmentLossesOfFinancialAssets,신용손실충당금환입액,-,제 75 기 반기,11570670421,,,27,KRW,17764069503,제 74 기 반기,1138944424,3569885376,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_ForeignExchangeGain,외환거래이익,-,제 75 기 반기,279265346744,,,28,KRW,594948823130,제 74 기 반기,73241939198,404388529686,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_RevenueFromDividends,배당금수익,-,제 75 기 반기,40609899775,,,29,KRW,78250792649,제 74 기 반기,35374700952,69703575967,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_RevenueFromInterest,이자수익,-,제 75 기 반기,556934622789,,,30,KRW,1102818509412,제 74 기 반기,517273048765,1023768612745,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_NonOperatingExpense,영업외비용,-,제 75 기 반기,6136295566,,,31,KRW,9711379329,제 74 기 반기,3013557501,5902865599,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_NonOperatingIncome,영업외수익,-,제 75 기 반기,29894976357,,,32,KRW,54159263800,제 74 기 반기,25570437457,54405966752,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,연결반기총포괄손익,-,제 75 기 반기,454893549518,,,33,KRW,1280549787882,제 74 기 반기,1378868403962,2979437652810,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분에 귀속되는 연결반기총포괄손익,-,제 75 기 반기,1001838944,,,35,KRW,2553770754,제 74 기 반기,1093801284,2905496062,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 연결반기총포괄손익,-,제 75 기 반기,453891710574,,,36,KRW,1277996017128,제 74 기 반기,1377774602678,2976532156748,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당이익,-,제 75 기 반기,14384,,,38,KRW,30873,제 74 기 반기,14148,28539,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,희석주당이익,-,제 75 기 반기,14384,,,39,KRW,30873,제 74 기 반기,14148,28539,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,-,제 75 기 반기,193616210730,,,40,KRW,409412997376,제 74 기 반기,166117838585,412044402140,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_InsuranceServiceResult,보험손익,-,제 75 기 반기,560518879770,,,41,KRW,1161129542616,제 74 기 반기,625007094906,1220908866054,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_OperatingExpenseInsurance,보험영업비용,-,제 75 기 반기,3856006639904,,,42,KRW,7524277072170,제 74 기 반기,3597319218088,7111840581789,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_OtherOperatingExpenseInsurance,기타사업비용,-,제 75 기 반기,70264709771,,,43,KRW,110774980707,제 74 기 반기,112996227404,202122968976,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_ExpensesFromAllocationOfPremiumsPaidToReinsurer,재보험비용,-,제 75 기 반기,293277144799,,,44,KRW,623152249005,제 74 기 반기,320322249229,579460315196,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_InsuranceServiceExpensesFromInsuranceContractsIssued,보험서비스비용,-,제 75 기 반기,3492464785334,,,45,KRW,6790349842458,제 74 기 반기,3164000741455,6330257297617,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_OperatingIncomeInsurance,보험영업수익,-,제 75 기 반기,4416525519674,,,46,KRW,8685406614786,제 74 기 반기,4222326312994,8332749447843,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,-표준계정코드 미사용-,기타영업수익,-,제 75 기 반기,6518678083,,,47,KRW,12473272688,제 74 기 반기,5792272791,10593320650,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_IncomeFromAmountsRecoveredFromReinsurer,재보험수익,-,제 75 기 반기,78360267082,,,48,KRW,266805578377,제 74 기 반기,118192483547,224467392297,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_InsuranceRevenue,보험수익,-,제 75 기 반기,4331646574509,,,49,KRW,8406127763721,제 74 기 반기,4098341556656,8097688734896,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,연결기타포괄손익,-,제 75 기 반기,-157517440310,,,50,KRW,-33814338577,제 74 기 반기,776583236026,1764784475391,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,후속적으로 당기손익으로 재분류되는 항목,-,제 75 기 반기,-111893475567,,,51,KRW,-290460996078,제 74 기 반기,226731350329,643672668427,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,후속적으로 당기손익으로 재분류되지 않는 항목,-,제 75 기 반기,-45623964743,,,52,KRW,256646657501,제 74 기 반기,549851885697,1121111806964,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_ProfitLoss,연결반기순이익,-,제 75 기 반기,612410989828,,,53,KRW,1314364126459,제 74 기 반기,602285167936,1214653177419,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_AdjustedProfitLossNetOfCapastropheReserve,비상위험준비금 반영후 조정이익,-,제 75 기 반기,565507937433,,,54,KRW,1227206166583,제 74 기 반기,556766739961,1202560988767,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_AdjustedProfitLossNetOfRegulatoryReserveForCreditLoss,대손준비금 반영후 조정이익,-,제 75 기 반기,611150084482,,,55,KRW,1311611257455,제 74 기 반기,599935136491,1296351431773,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,dart_AdjustedProfitLossNetOfSurrenderValueReserve,해약환급금준비금 반영후 조정이익,-,제 75 기 반기,197992507495,,,56,KRW,660275988612,제 74 기 반기,304915555822,658149686589,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분에 귀속되는 연결반기순이익,-,제 75 기 반기,966831779,,,58,KRW,1957754526,제 74 기 반기,875815560,1482162036,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 연결반기순이익,-,제 75 기 반기,611444158049,,,59,KRW,1312406371933,제 74 기 반기,601409352376,1213171015383,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익,-,제 75 기 반기,806027200558,,,60,KRW,1723777123835,제 74 기 반기,768403006521,1626697579559,연결
+20240927000732,11012,2024,00139214,CIS,포괄손익계산서,ifrs-full_ProfitLossFromOperatingActivities,영업이익,-,제 75 기 반기,782268519767,,,61,KRW,1679329239364,제 74 기 반기,745846126565,1578194478406,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초의 현금및현금성자산,-,제 75 기 반기,859034311218,,,2,KRW,,제 74 기 반기,829740954552,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_CashAndCashEquivalents,반기말의 현금및현금성자산,-,제 75 기 반기,785849273102,,,7,KRW,,제 74 기 반기,749428358296,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동으로 인한 현금흐름,-,제 75 기 반기,-736177322255,,,9,KRW,,제 74 기 반기,-621570136475,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,dart_DecreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 감소,-,제 75 기 반기,10139793300,,,10,KRW,,제 74 기 반기,3865095400,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 증가,-,제 75 기 반기,1408540000,,,11,KRW,,제 74 기 반기,12656032901,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금지급,-,제 75 기 반기,680181622990,,,12,KRW,,제 74 기 반기,586644726900,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채 상환,-,제 75 기 반기,47264445965,,,13,KRW,,제 74 기 반기,43716347076,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동으로 인한 현금흐름,-,제 75 기 반기,-1540636703237,,,15,KRW,,제 74 기 반기,1570677735475,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities,당기손익-공정가치측정금융자산의 처분,-,제 75 기 반기,357000989747,,,16,KRW,,제 74 기 반기,1774971715391,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities,상각후원가측정금융자산의 상환,-,제 75 기 반기,1450000000,,,17,KRW,,제 74 기 반기,1343000000,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산의 처분,-,제 75 기 반기,2267607957194,,,18,KRW,,제 74 기 반기,3327072153605,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities,상각후원가측정금융자산의취득,-,제 75 기 반기,0,,,19,KRW,,제 74 기 반기,9375800000,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산의 취득,-,제 75 기 반기,3410204461906,,,20,KRW,,제 74 기 반기,2506525000000,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities,당기손익-공정가치측정금융자산의 취득,-,제 75 기 반기,627391191962,,,21,KRW,,제 74 기 반기,969162081571,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,위험회피활동으로 인한 현금유출,-,제 75 기 반기,2350639881524,,,22,KRW,,제 74 기 반기,1843785157183,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,위험회피활동으로 인한 현금유입,-,제 75 기 반기,2250120142207,,,23,KRW,,제 74 기 반기,1820060551101,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 75 기 반기,0,,,24,KRW,,제 74 기 반기,18168680,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInterestsInAssociates,관계기업투자주식의 처분,-,제 75 기 반기,28124233,,,25,KRW,,제 74 기 반기,27957947,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 75 기 반기,374150161,,,26,KRW,,제 74 기 반기,136935321,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 75 기 반기,4312190111,,,27,KRW,,제 74 기 반기,5993404114,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_PurchaseOfInvestmentProperty,투자부동산의 취득,-,제 75 기 반기,82248995,,,28,KRW,,제 74 기 반기,3127890,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 75 기 반기,24588092281,,,29,KRW,,제 74 기 반기,18108175812,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동으로 인한 현금흐름,-,제 75 기 반기,2108940447021,,,31,KRW,,제 74 기 반기,-1080166787839,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperations,영업에서 창출된 현금흐름,-,제 75 기 반기,921932585505,,,32,KRW,,제 74 기 반기,-2066118128641,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,자산부채증감,-,제 75 기 반기,6659899764221,,,33,KRW,,제 74 기 반기,3319514397870,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,손익조정항목,-,제 75 기 반기,-7052331305175,,,34,KRW,,제 74 기 반기,-6600285703930,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_ProfitLoss,연결반기순이익,-,제 75 기 반기,612410989828,,,35,KRW,,제 74 기 반기,602285167936,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금 수입,-,제 75 기 반기,80920107393,,,36,KRW,,제 74 기 반기,91056687834,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세 환급(납부)액,-,제 75 기 반기,-16510644373,,,37,KRW,,제 74 기 반기,285842652535,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,-,제 75 기 반기,3509669294,,,38,KRW,,제 74 기 반기,5032419858,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,-,제 75 기 반기,1093086779044,,,39,KRW,,제 74 기 반기,1185769725361,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,외화표시 현금및현금성자산에 대한 환율변동효과,-,제 75 기 반기,94688540355,,,40,KRW,,제 74 기 반기,50746592583,,연결
+20240927000732,11012,2024,00139214,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 감소,-,제 75 기 반기,-73185038116,,,41,KRW,,제 74 기 반기,-80312596256,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,회계정책 변동효과 반영전,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 75 기 반기,-1487219924864,,,3,KRW,,제 74 기 반기,-1487219924864,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,회계정책 변동효과 반영전,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 75 기 반기,939233350327,,,3,KRW,,제 74 기 반기,939233350327,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,회계정책 변동효과 반영전,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 75 기 반기,26473418500,,,3,KRW,,제 74 기 반기,26473418500,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,회계정책 변동효과 반영전,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 75 기 반기,12279177676114,,,3,KRW,,제 74 기 반기,11045477352055,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,회계정책 변동효과 반영전,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 75 기 반기,4356547263208,,,3,KRW,,제 74 기 반기,1971563588820,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,회계정책 변동효과 반영전,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 75 기 반기,16114211783285,,,3,KRW,,제 74 기 반기,12495527784838,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,회계정책 변동효과 반영전,자본 [구성요소]|비지배지분 [구성요소],제 75 기 반기,30186498152,,,3,KRW,,제 74 기 반기,27944930013,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,회계정책 변동효과 반영전,연결재무제표 [member],제 75 기 반기,16144398281437,,,3,KRW,,제 74 기 반기,12523472714851,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책 변동효과,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 75 기 반기,0,,,4,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책 변동효과,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 75 기 반기,0,,,4,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책 변동효과,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 75 기 반기,0,,,4,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책 변동효과,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 75 기 반기,0,,,4,KRW,,제 74 기 반기,3051555034,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책 변동효과,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 75 기 반기,0,,,4,KRW,,제 74 기 반기,-247474425516,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책 변동효과,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 75 기 반기,0,,,4,KRW,,제 74 기 반기,-244422870482,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책 변동효과,자본 [구성요소]|비지배지분 [구성요소],제 75 기 반기,0,,,4,KRW,,제 74 기 반기,160058357,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_IncreaseDecreaseThroughChangesInAccountingPolicies,회계정책 변동효과,연결재무제표 [member],제 75 기 반기,0,,,4,KRW,,제 74 기 반기,-244262812125,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,-표준계정코드 미사용-,회계정책 변동효과 반영후,연결재무제표 [member],제 75 기 반기,16144398281437,,,5,KRW,,제 74 기 반기,12279209902726,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,-표준계정코드 미사용-,회계정책 변동효과 반영후,자본 [구성요소]|비지배지분 [구성요소],제 75 기 반기,30186498152,,,5,KRW,,제 74 기 반기,28104988370,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,-표준계정코드 미사용-,회계정책 변동효과 반영후,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 75 기 반기,16114211783285,,,5,KRW,,제 74 기 반기,12251104914356,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,-표준계정코드 미사용-,회계정책 변동효과 반영후,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 75 기 반기,4356547263208,,,5,KRW,,제 74 기 반기,1724089163304,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,-표준계정코드 미사용-,회계정책 변동효과 반영후,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 75 기 반기,12279177676114,,,5,KRW,,제 74 기 반기,11048528907089,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,-표준계정코드 미사용-,회계정책 변동효과 반영후,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 75 기 반기,26473418500,,,5,KRW,,제 74 기 반기,26473418500,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,-표준계정코드 미사용-,회계정책 변동효과 반영후,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 75 기 반기,939233350327,,,5,KRW,,제 74 기 반기,939233350327,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,-표준계정코드 미사용-,회계정책 변동효과 반영후,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 75 기 반기,-1487219924864,,,5,KRW,,제 74 기 반기,-1487219924864,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 75 기 반기,0,,,8,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 75 기 반기,0,,,8,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 75 기 반기,0,,,8,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 75 기 반기,680165662100,,,8,KRW,,제 74 기 반기,586644726900,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 75 기 반기,0,,,8,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 75 기 반기,680165662100,,,8,KRW,,제 74 기 반기,586644726900,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,연결재무제표 [member],제 75 기 반기,681078834637,,,8,KRW,,제 74 기 반기,587776326795,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_AnnualDividendsPaid,연차배당,자본 [구성요소]|비지배지분 [구성요소],제 75 기 반기,913172537,,,8,KRW,,제 74 기 반기,1131599895,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,연결범위조정 등,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 75 기 반기,0,,,9,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,연결범위조정 등,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 75 기 반기,0,,,9,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,연결범위조정 등,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 75 기 반기,0,,,9,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,연결범위조정 등,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 75 기 반기,-393525227,,,9,KRW,,제 74 기 반기,1928623386,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,연결범위조정 등,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 75 기 반기,0,,,9,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,연결범위조정 등,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 75 기 반기,-393525227,,,9,KRW,,제 74 기 반기,1928623386,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,연결범위조정 등,자본 [구성요소]|비지배지분 [구성요소],제 75 기 반기,0,,,9,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,연결범위조정 등,연결재무제표 [member],제 75 기 반기,-393525227,,,9,KRW,,제 74 기 반기,1928623386,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeTotal,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 75 기 반기,0,,,13,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeTotal,기타포괄손익-공정가치측정금융자산평가손익,연결재무제표 [member],제 75 기 반기,161075968712,,,13,KRW,,제 74 기 반기,1608592461305,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeTotal,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|비지배지분 [구성요소],제 75 기 반기,-57701946,,,13,KRW,,제 74 기 반기,-72812265,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeTotal,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 75 기 반기,161133670658,,,13,KRW,,제 74 기 반기,1608665273570,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeTotal,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 75 기 반기,161133670658,,,13,KRW,,제 74 기 반기,1608665273570,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeTotal,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 75 기 반기,0,,,13,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeTotal,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 75 기 반기,0,,,13,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeTotal,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 75 기 반기,0,,,13,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생손익,연결재무제표 [member],제 75 기 반기,9689724409,,,14,KRW,,제 74 기 반기,27130863945,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생손익,자본 [구성요소]|비지배지분 [구성요소],제 75 기 반기,0,,,14,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 75 기 반기,9689724409,,,14,KRW,,제 74 기 반기,27130863945,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 75 기 반기,9689724409,,,14,KRW,,제 74 기 반기,27130863945,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 75 기 반기,0,,,14,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 75 기 반기,0,,,14,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 75 기 반기,0,,,14,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,현금흐름위험회피파생손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 75 기 반기,0,,,14,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,연결재무제표 [member],제 75 기 반기,26358462648,,,15,KRW,,제 74 기 반기,20612350769,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|비지배지분 [구성요소],제 75 기 반기,653883920,,,15,KRW,,제 74 기 반기,1497021438,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 75 기 반기,25704578728,,,15,KRW,,제 74 기 반기,19115329331,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 75 기 반기,25704578728,,,15,KRW,,제 74 기 반기,19115329331,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 75 기 반기,0,,,15,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 75 기 반기,0,,,15,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 75 기 반기,0,,,15,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 75 기 반기,0,,,15,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss,재보험계약금융손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 75 기 반기,-391721772,,,16,KRW,,제 74 기 반기,4111528756,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss,재보험계약금융손익,자본 [구성요소]|비지배지분 [구성요소],제 75 기 반기,-2385142,,,16,KRW,,제 74 기 반기,-8621422,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss,재보험계약금융손익,연결재무제표 [member],제 75 기 반기,-394106914,,,16,KRW,,제 74 기 반기,4102907334,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss,재보험계약금융손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 75 기 반기,-391721772,,,16,KRW,,제 74 기 반기,4111528756,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss,재보험계약금융손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 75 기 반기,0,,,16,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss,재보험계약금융손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 75 기 반기,0,,,16,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss,재보험계약금융손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 75 기 반기,0,,,16,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinanceIncomeExpensesFromReinsuranceContractsHeldExcludedFromProfitOrLoss,재보험계약금융손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 75 기 반기,0,,,16,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도 재측정요소,연결재무제표 [member],제 75 기 반기,-2100086068,,,17,KRW,,제 74 기 반기,-8511694256,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도 재측정요소,자본 [구성요소]|비지배지분 [구성요소],제 75 기 반기,0,,,17,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 75 기 반기,-2100086068,,,17,KRW,,제 74 기 반기,-8511694256,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 75 기 반기,0,,,17,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 75 기 반기,0,,,17,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 75 기 반기,0,,,17,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 75 기 반기,-2100086068,,,17,KRW,,제 74 기 반기,-8511694256,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 75 기 반기,0,,,17,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss,보험계약금융손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 75 기 반기,-237034153399,,,18,KRW,,제 74 기 반기,122950203611,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss,보험계약금융손익,자본 [구성요소]|비지배지분 [구성요소],제 75 기 반기,2219396,,,18,KRW,,제 74 기 반기,7746275,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss,보험계약금융손익,연결재무제표 [member],제 75 기 반기,-237031934003,,,18,KRW,,제 74 기 반기,122957949886,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss,보험계약금융손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 75 기 반기,-237034153399,,,18,KRW,,제 74 기 반기,122950203611,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss,보험계약금융손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 75 기 반기,0,,,18,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss,보험계약금융손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 75 기 반기,0,,,18,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss,보험계약금융손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 75 기 반기,0,,,18,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxInsuranceFinanceIncomeExpensesFromInsuranceContractsIssuedExcludedFromProfitOrLossThatWillBeReclassifiedToProfitOrLoss,보험계약금융손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 75 기 반기,0,,,18,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의기타포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 75 기 반기,0,,,19,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의기타포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 75 기 반기,0,,,19,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의기타포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 75 기 반기,0,,,19,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의기타포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 75 기 반기,8587632639,,,19,KRW,,제 74 기 반기,-10100363592,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의기타포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 75 기 반기,8587632639,,,19,KRW,,제 74 기 반기,-10100363592,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의기타포괄손익,자본 [구성요소]|비지배지분 [구성요소],제 75 기 반기,0,,,19,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의기타포괄손익,연결재무제표 [member],제 75 기 반기,8587632639,,,19,KRW,,제 74 기 반기,-10100363592,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의기타포괄손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 75 기 반기,0,,,19,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ProfitLoss,연결반기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 75 기 반기,0,,,20,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ProfitLoss,연결반기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 75 기 반기,0,,,20,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ProfitLoss,연결반기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 75 기 반기,0,,,20,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ProfitLoss,연결반기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 75 기 반기,1312406371933,,,20,KRW,,제 74 기 반기,1213171015383,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ProfitLoss,연결반기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 75 기 반기,0,,,20,KRW,,제 74 기 반기,0,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ProfitLoss,연결반기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 75 기 반기,1312406371933,,,20,KRW,,제 74 기 반기,1213171015383,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ProfitLoss,연결반기순이익,연결재무제표 [member],제 75 기 반기,612410989828,,,20,KRW,,제 74 기 반기,602285167936,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_ProfitLoss,연결반기순이익,자본 [구성요소]|비지배지분 [구성요소],제 75 기 반기,1957754526,,,20,KRW,,제 74 기 반기,1482162036,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 75 기 반기,16743475709455,,16144398281437,21,KRW,,제 74 기 반기,14672799852127,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|비지배지분 [구성요소],제 75 기 반기,31827096369,,,21,KRW,,제 74 기 반기,29878884537,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 75 기 반기,16711648613086,,,21,KRW,,제 74 기 반기,14642920967590,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 75 기 반기,939233350327,,,21,KRW,,제 74 기 반기,939233350327,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 75 기 반기,26473418500,,,21,KRW,,제 74 기 반기,26473418500,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 75 기 반기,12911024860720,,,21,KRW,,제 74 기 반기,11676983818958,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 75 기 반기,4322136908403,,,21,KRW,,제 74 기 반기,3487450304669,,연결
+20240927000732,11012,2024,00139214,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 75 기 반기,-1487219924864,,,21,KRW,,제 74 기 반기,-1487219924864,,연결

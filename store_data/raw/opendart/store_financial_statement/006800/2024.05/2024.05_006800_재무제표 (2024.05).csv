@@ -1,0 +1,230 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 56 기 1분기말,136541546185762,제 55 기말,128177312090956,7,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 56 기 1분기말,1796079154115,제 55 기말,1750885888022,8,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_CurrentTaxAssets,당기법인세자산,-,제 56 기 1분기말,82423228378,제 55 기말,99690814280,9,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 56 기 1분기말,544397102696,제 55 기말,512733744163,10,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_FinancialAssetsAtAmortisedCost,상각후원가측정금융자산,-,제 56 기 1분기말,65728029951248,제 55 기말,58103697361258,11,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산,-,제 56 기 1분기말,14734576811584,제 55 기말,16087747836345,12,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융자산,-,제 56 기 1분기말,46886990613121,제 55 기말,44782872187053,13,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_IntangibleAssetsAndGoodwill,무형자산,-,제 56 기 1분기말,510920965846,제 55 기말,506878311504,14,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_InvestmentAccountedForUsingEquityMethod,관계기업투자자산,-,제 56 기 1분기말,1928238452526,제 55 기말,2021588580039,15,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 56 기 1분기말,3736421414072,제 55 기말,3724529208124,16,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_OtherAssets,기타자산,-,제 56 기 1분기말,68756672030,제 55 기말,67950683227,17,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 56 기 1분기말,524711820146,제 55 기말,518737476941,18,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 56 기 1분기말,11293238176559,제 55 기말,11238866114389,21,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배주주지분,-,제 56 기 1분기말,11128061421746,제 55 기말,11080955998501,22,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,dart_CapitalAdjustments,자본조정,-,제 56 기 1분기말,-343727401873,제 55 기말,-359065727456,23,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 56 기 1분기말,2157082249016,제 55 기말,2157853974977,24,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_AccumulatedOtherComprehensiveIncome,기타포괄손익누계액,-,제 56 기 1분기말,404962828494,제 55 기말,359628234703,25,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 56 기 1분기말,4101960790000,제 55 기말,4101960790000,26,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금,-,제 56 기 1분기말,4807782956109,제 55 기말,4820578726277,27,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,dart_RegulatoryReserveForCreditLoss,대손준비금 적립액,-,제 56 기 1분기말,-110622948871,제 55 기말,-68733189148,28,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,dart_RegulatoryReserveForCreditLossToBeAddedReversed,대손준비금 환입(전입)예정금액,-,제 56 기 1분기말,-31335531307,제 55 기말,-41889759723,29,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 56 기 1분기말,165176754813,제 55 기말,157910115888,30,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_EquityAndLiabilities,부채 및 자본총계,-,제 56 기 1분기말,136541546185762,제 55 기말,128177312090956,31,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_BondsIssued,발행사채,-,제 56 기 1분기말,7734595402809,제 55 기말,6976335983305,33,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_Borrowings,차입부채,-,제 56 기 1분기말,73421676400856,제 55 기말,67894576810548,34,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 56 기 1분기말,24402895804,제 55 기말,26599102210,35,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 56 기 1분기말,27034692323,제 55 기말,27199565092,36,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_DepositsFromCustomers,예수부채,-,제 56 기 1분기말,11973393671107,제 55 기말,10926683536511,37,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_FinancialLiabilitiesAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융부채,-,제 56 기 1분기말,13534035398797,제 55 기말,14151424586012,38,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 56 기 1분기말,125248308009203,제 55 기말,116938445976567,39,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_OtherLiabilities,기타부채,-,제 56 기 1분기말,18508866753977,제 55 기말,16863984835659,40,KRW,,,,,연결
+20240516001912,11013,2024,00111722,BS,재무상태표,ifrs-full_Provisions,충당부채,-,제 56 기 1분기말,24302793530,제 55 기말,71641557230,41,KRW,,,,,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,dart_GainFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융상품관련이익,-,제 56 기 1분기,11120511626,,,6,KRW,11120511626,제 55 기 1분기,16021507973,16021507973,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,dart_GainFromFinancialInstrumentsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융상품관련이익,-,제 56 기 1분기,3920324818974,,,7,KRW,3920324818974,제 55 기 1분기,4955133113297,4955133113297,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,dart_LossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융상품관련손실,-,제 56 기 1분기,648199802,,,8,KRW,648199802,제 55 기 1분기,8337838268,8337838268,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융상품관련손실,-,제 56 기 1분기,3651816097002,,,9,KRW,3651816097002,제 55 기 1분기,4746149868802,4746149868802,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,dart_NonOperatingProfitLoss,영업외손익,-,제 56 기 1분기,-38132252159,,,10,KRW,-38132252159,제 55 기 1분기,12865732540,12865732540,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,dart_NonOperatingExpense,영업외비용,-,제 56 기 1분기,52865704537,,,11,KRW,52865704537,제 55 기 1분기,42828740274,42828740274,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,dart_NonOperatingIncome,영업외수익,-,제 56 기 1분기,14733452378,,,12,KRW,14733452378,제 55 기 1분기,55694472814,55694472814,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,dart_OtherOperatingExpense,기타의영업비용,-,제 56 기 1분기,74795365909,,,13,KRW,74795365909,제 55 기 1분기,50133137292,50133137292,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,dart_OtherOperatingIncome,기타의영업수익,-,제 56 기 1분기,229438272277,,,14,KRW,229438272277,제 55 기 1분기,182450276380,182450276380,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,dart_PersonalExpense,인건비,-,제 56 기 1분기,239921676536,,,15,KRW,239921676536,제 55 기 1분기,203175285193,203175285193,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_AdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets,신용손실충당금전입액,-,제 56 기 1분기,27277390003,,,16,KRW,27277390003,제 55 기 1분기,4244606979,4244606979,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,분기총포괄손익,-,제 56 기 1분기,215929537495,,,17,KRW,215929537495,제 55 기 1분기,579834977884,579834977884,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,-,제 56 기 1분기,5874032964,,,18,KRW,5874032964,제 55 기 1분기,1640994361,1640994361,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유주지분,-,제 56 기 1분기,210055504531,,,19,KRW,210055504531,제 55 기 1분기,578193983523,578193983523,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,dart_BasicEarningsLossPerSharePreferredStock,기본 주당이익(우선주),-,제 56 기 1분기,272,,,21,KRW,272,제 55 기 1분기,384,384,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,dart_DilutedEarningsLossPerSharePreferredStock,희석 주당이익(우선주),-,제 56 기 1분기,272,,,22,KRW,272,제 55 기 1분기,384,384,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본 주당이익(보통주),-,제 56 기 1분기,272,,,23,KRW,272,제 55 기 1분기,384,384,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,희석 주당이익(보통주),-,제 56 기 1분기,272,,,24,KRW,272,제 55 기 1분기,384,384,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_FeeAndCommissionExpense,수수료비용,-,제 56 기 1분기,69300872411,,,25,KRW,69300872411,제 55 기 1분기,63767041098,63767041098,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_FeeAndCommissionIncome,수수료수익,-,제 56 기 1분기,326115557798,,,26,KRW,326115557798,제 55 기 1분기,290637794931,290637794931,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_ForeignExchangeGain,외환거래이익,-,제 56 기 1분기,468889908041,,,27,KRW,468889908041,제 55 기 1분기,516511812337,516511812337,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_ForeignExchangeLoss,외환거래손실,-,제 56 기 1분기,563858852928,,,28,KRW,563858852928,제 55 기 1분기,532237175646,532237175646,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),-,제 56 기 1분기,61817647453,,,29,KRW,61817647453,제 55 기 1분기,56324107331,56324107331,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_InterestExpense,이자비용,-,제 56 기 1분기,1213766718376,,,30,KRW,1213766718376,제 55 기 1분기,820659258975,820659258975,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_OperatingExpense,영업비용,-,제 56 기 1분기,6008522383518,,,31,KRW,6008522383518,제 55 기 1분기,6583720760304,6583720760304,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 56 기 1분기,45406153190,,,32,KRW,45406153190,제 55 기 1분기,341594943755,341594943755,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,-,제 56 기 1분기,-1180107741,,,34,KRW,-1180107741,제 55 기 1분기,161485775807,161485775807,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,-,제 56 기 1분기,208108506702,,,35,KRW,208108506702,제 55 기 1분기,150451222297,150451222297,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations,해외사업장순투자에 대한 위험회피,-,제 56 기 1분기,1572077058,,,36,KRW,1572077058,제 55 기 1분기,-11319415040,-11319415040,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업투자자산평가손익,-,제 56 기 1분기,-78695521906,,,37,KRW,-78695521906,제 55 기 1분기,19093100857,19093100857,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability,당기손익-공정가치측정지정금융부채의 신용위험 변동,-,제 56 기 1분기,-4585182190,,,39,KRW,-4585182190,제 55 기 1분기,-23873480747,-23873480747,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치측정지정금융자산평가손익,-,제 56 기 1분기,-79813618733,,,40,KRW,-79813618733,제 55 기 1분기,45757740581,45757740581,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_ProfitLoss,분기순이익(손실),-,제 56 기 1분기,170523384305,,,41,KRW,170523384305,제 55 기 1분기,238240034129,238240034129,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,-,제 56 기 1분기,5802473565,,,42,KRW,5802473565,제 55 기 1분기,1509643943,1509643943,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주지분,-,제 56 기 1분기,164720910740,,,43,KRW,164720910740,제 55 기 1분기,236730390186,236730390186,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익,-,제 56 기 1분기,232341031758,,,44,KRW,232341031758,제 55 기 1분기,294564141460,294564141460,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_ProfitLossFromOperatingActivities,영업이익,-,제 56 기 1분기,270473283917,,,45,KRW,270473283917,제 55 기 1분기,281698408920,281698408920,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_Revenue,영업수익,-,제 56 기 1분기,6278995667435,,,46,KRW,6278995667435,제 55 기 1분기,6865419169224,6865419169224,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_RevenueFromInterest,이자수익,-,제 56 기 1분기,1315617615586,,,47,KRW,1315617615586,제 55 기 1분기,903383819140,903383819140,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_InterestIncomeForFinancialAssetsMeasuredAtAmortisedCost,상각후원가측정금융자산관련이자수익,-,제 56 기 1분기,998988223945,,,48,KRW,998988223945,제 55 기 1분기,640160382376,640160382376,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_InterestIncomeOnFinancialAssetsDesignatedAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융자산관련이자수익,-,제 56 기 1분기,189722384540,,,49,KRW,189722384540,제 55 기 1분기,146919339655,146919339655,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_InterestRevenueForFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산관련이자수익,-,제 56 기 1분기,126907007101,,,50,KRW,126907007101,제 55 기 1분기,116304097109,116304097109,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_ReversalAllowanceAccountForCreditLossesOfFinancialAssets,신용손실충당금환입액,-,제 56 기 1분기,7488983133,,,51,KRW,7488983133,제 55 기 1분기,1280845166,1280845166,연결
+20240516001912,11013,2024,00111722,CIS,포괄손익계산서,ifrs-full_SellingGeneralAndAdministrativeExpense,판매관리비,-,제 56 기 1분기,167137210551,,,52,KRW,167137210551,제 55 기 1분기,155016548051,155016548051,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 56 기 1분기,1750885888022,,,2,KRW,,제 55 기 1분기,2847879554739,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 56 기 1분기,1796079154115,,,7,KRW,,제 55 기 1분기,2196566497027,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동으로 인한 현금흐름,-,제 56 기 1분기,1332522669026,,,9,KRW,,제 55 기 1분기,-2239783427531,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,dart_DecreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 감소,-,제 56 기 1분기,24000000,,,10,KRW,,제 55 기 1분기,526424900,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,dart_DecreaseInOtherLiabilities,기타부채의 감소,-,제 56 기 1분기,32932773064,,,11,KRW,,제 55 기 1분기,12295037682,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,dart_DecreaseInShortTermBonds,전자단기사채의 순감소,-,제 56 기 1분기,0,,,12,KRW,,제 55 기 1분기,1703355889601,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 증가,-,제 56 기 1분기,554268000,,,13,KRW,,제 55 기 1분기,475547980,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,dart_IncreaseInOtherLiabilitiesFinancingActivities,기타부채의 증가,-,제 56 기 1분기,5161735771,,,14,KRW,,제 55 기 1분기,52953709010,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,dart_IncreaseInShortTermBonds,전자단기사채의 순증가,-,제 56 기 1분기,96895979014,,,15,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,dart_ProceedsFromExerciseOfShareOptions,주식선택권의 행사,-,제 56 기 1분기,620880000,,,16,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 감소,-,제 56 기 1분기,12596053961,,,17,KRW,,제 55 기 1분기,13469399875,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입부채의 순증가,-,제 56 기 1분기,769254178471,,,18,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures,사채의 발행,-,제 56 기 1분기,1337958524670,,,19,KRW,,제 55 기 1분기,340478376800,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_ProceedsFromIssuingShares,유상증자,-,제 56 기 1분기,0,,,20,KRW,,제 55 기 1분기,24964602323,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_PurchaseOfTreasuryShares,자기주식의 취득,-,제 56 기 1분기,72370069875,,,21,KRW,,제 55 기 1분기,3498991260,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_RepaymentsOfBondsNotesAndDebentures,사채의 상환,-,제 56 기 1분기,760000000000,,,22,KRW,,제 55 기 1분기,350000000000,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입부채의 순감소,-,제 56 기 1분기,0,,,23,KRW,,제 55 기 1분기,575509920326,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동으로 인한 현금흐름,-,제 56 기 1분기,1292624176081,,,25,KRW,,제 55 기 1분기,511386368843,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,임차보증금의 감소,-,제 56 기 1분기,1951152004,,,26,KRW,,제 55 기 1분기,56482957,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,임차보증금의 증가,-,제 56 기 1분기,1151690889,,,27,KRW,,제 55 기 1분기,131364969,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산의 감소,-,제 56 기 1분기,3981382054863,,,28,KRW,,제 55 기 1분기,3757493813778,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산의 증가,-,제 56 기 1분기,2691715480266,,,29,KRW,,제 55 기 1분기,3238296609809,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_CashAdvancesAndLoansMadeToOtherPartiesClassifiedAsInvestingActivities,선급금의 증가,-,제 56 기 1분기,3060621350,,,30,KRW,,제 55 기 1분기,2890458450,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_CashFlowsFromLosingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,종속기업투자자산의 감소,-,제 56 기 1분기,0,,,31,KRW,,제 55 기 1분기,342421157,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_CashFlowsUsedInObtainingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,종속기업투자자산의 증가,-,제 56 기 1분기,1723240813,,,32,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInterestsInAssociates,관계기업투자자산의 감소,-,제 56 기 1분기,10967926601,,,33,KRW,,제 55 기 1분기,4391799000,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 56 기 1분기,124732314,,,34,KRW,,제 55 기 1분기,12277298,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 56 기 1분기,2582492072,,,35,KRW,,제 55 기 1분기,1239143903,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_PurchaseOfInterestsInAssociates,관계기업투자자산의 증가,-,제 56 기 1분기,80000000,,,36,KRW,,제 55 기 1분기,2738100000,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_PurchaseOfInvestmentProperty,투자부동산의 취득,-,제 56 기 1분기,0,,,37,KRW,,제 55 기 1분기,605030284,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 56 기 1분기,1488164311,,,38,KRW,,제 55 기 1분기,5009717932,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동으로 인한 현금흐름,-,제 56 기 1분기,-2626976091650,,,40,KRW,,제 55 기 1분기,1039737960695,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,자산 부채의 변동,-,제 56 기 1분기,-2806606606578,,,41,KRW,,제 55 기 1분기,1113071538586,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,손익조정항목,-,제 56 기 1분기,-33824239729,,,42,KRW,,제 55 기 1분기,-294812340247,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취,-,제 56 기 1분기,12252702468,,,43,KRW,,제 55 기 1분기,10448527542,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세지급,-,제 56 기 1분기,83586602425,,,44,KRW,,제 55 기 1분기,47253708566,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급,-,제 56 기 1분기,1205227441846,,,45,KRW,,제 55 기 1분기,829361944826,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 56 기 1분기,1319492712155,,,46,KRW,,제 55 기 1분기,849405854077,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_ProfitLoss,분기순이익(손실),-,제 56 기 1분기,170523384305,,,47,KRW,,제 55 기 1분기,238240034129,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,외화표시 현금및현금성자산의 환율변동효과,-,제 56 기 1분기,47022512636,,,49,KRW,,제 55 기 1분기,37346040281,,연결
+20240516001912,11013,2024,00111722,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증감,-,제 56 기 1분기,45193266093,,,50,KRW,,제 55 기 1분기,-651313057712,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 56 기 1분기,2157853974977,,,3,KRW,,제 55 기 1분기,2159663932101,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 56 기 1분기,4101960790000,,,3,KRW,,제 55 기 1분기,4101960790000,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 56 기 1분기,4820578726277,,,3,KRW,,제 55 기 1분기,4703617045163,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 56 기 1분기,359628234703,,,3,KRW,,제 55 기 1분기,-15462769088,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 56 기 1분기,11080955998501,,,3,KRW,,제 55 기 1분기,10577785696805,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|비지배지분 [구성요소],제 56 기 1분기,157910115888,,,3,KRW,,제 55 기 1분기,121846468058,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 56 기 1분기,11238866114389,,,3,KRW,,제 55 기 1분기,10699632164863,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 56 기 1분기,-359065727456,,,3,KRW,,제 55 기 1분기,-371993301371,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_AnnualDividendsPaid,배당금의 지급,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 56 기 1분기,0,,,6,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_AnnualDividendsPaid,배당금의 지급,연결재무제표 [member],제 56 기 1분기,89808285450,,,6,KRW,,제 55 기 1분기,123424380600,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_AnnualDividendsPaid,배당금의 지급,자본 [구성요소]|비지배지분 [구성요소],제 56 기 1분기,0,,,6,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_AnnualDividendsPaid,배당금의 지급,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 56 기 1분기,89808285450,,,6,KRW,,제 55 기 1분기,123424380600,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_AnnualDividendsPaid,배당금의 지급,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 56 기 1분기,0,,,6,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_AnnualDividendsPaid,배당금의 지급,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 56 기 1분기,89808285450,,,6,KRW,,제 55 기 1분기,123424380600,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_AnnualDividendsPaid,배당금의 지급,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 56 기 1분기,0,,,6,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_AnnualDividendsPaid,배당금의 지급,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 56 기 1분기,0,,,6,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식의 증감,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 56 기 1분기,0,,,7,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식의 증감,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 56 기 1분기,0,,,7,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식의 증감,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 56 기 1분기,0,,,7,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식의 증감,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 56 기 1분기,0,,,7,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식의 증감,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 56 기 1분기,72370069875,,,7,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식의 증감,자본 [구성요소]|비지배지분 [구성요소],제 56 기 1분기,0,,,7,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식의 증감,연결재무제표 [member],제 56 기 1분기,72370069875,,,7,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,dart_TreasuryShareTransactions,자기주식의 증감,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 56 기 1분기,72370069875,,,7,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식의 소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 56 기 1분기,0,,,8,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식의 소각,자본 [구성요소]|비지배지분 [구성요소],제 56 기 1분기,0,,,8,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식의 소각,연결재무제표 [member],제 56 기 1분기,0,,,8,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식의 소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 56 기 1분기,0,,,8,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식의 소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 56 기 1분기,-87708395458,,,8,KRW,,제 55 기 1분기,-86650000000,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식의 소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 56 기 1분기,0,,,8,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식의 소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 56 기 1분기,0,,,8,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_CancellationOfTreasuryShares,자기주식의 소각,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 56 기 1분기,87708395458,,,8,KRW,,제 55 기 1분기,86650000000,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 지분율의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 56 기 1분기,-771725961,,,9,KRW,,제 55 기 1분기,-5916151126,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 지분율의 변동,자본 [구성요소]|비지배지분 [구성요소],제 56 기 1분기,771725961,,,9,KRW,,제 55 기 1분기,2417159866,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 지분율의 변동,연결재무제표 [member],제 56 기 1분기,0,,,9,KRW,,제 55 기 1분기,-3498991260,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 지분율의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 56 기 1분기,0,,,9,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 지분율의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 56 기 1분기,0,,,9,KRW,,제 55 기 1분기,-3782743905,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 지분율의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 56 기 1분기,-771725961,,,9,KRW,,제 55 기 1분기,-2133407221,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 지분율의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 56 기 1분기,0,,,9,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 지분율의 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 56 기 1분기,0,,,9,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughExerciseOfWarrantsEquity,주식선택권의 행사,연결재무제표 [member],제 56 기 1분기,620880000,,,10,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughExerciseOfWarrantsEquity,주식선택권의 행사,자본 [구성요소]|비지배지분 [구성요소],제 56 기 1분기,620880000,,,10,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughExerciseOfWarrantsEquity,주식선택권의 행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 56 기 1분기,0,,,10,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughExerciseOfWarrantsEquity,주식선택권의 행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 56 기 1분기,0,,,10,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughExerciseOfWarrantsEquity,주식선택권의 행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 56 기 1분기,0,,,10,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughExerciseOfWarrantsEquity,주식선택권의 행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 56 기 1분기,0,,,10,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughExerciseOfWarrantsEquity,주식선택권의 행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 56 기 1분기,0,,,10,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughExerciseOfWarrantsEquity,주식선택권의 행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 56 기 1분기,0,,,10,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,연결재무제표 [member],제 56 기 1분기,0,,,11,KRW,,제 55 기 1분기,24964602323,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,자본 [구성요소]|비지배지분 [구성요소],제 56 기 1분기,0,,,11,KRW,,제 55 기 1분기,24964602323,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 56 기 1분기,0,,,11,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 56 기 1분기,0,,,11,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 56 기 1분기,0,,,11,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 56 기 1분기,0,,,11,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 56 기 1분기,0,,,11,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_IssueOfEquity,유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 56 기 1분기,0,,,11,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability,당기손익-공정가치측정지정금융부채의 신용위험 변동,연결재무제표 [member],제 56 기 1분기,-4585182190,,,14,KRW,,제 55 기 1분기,-23873480747,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability,당기손익-공정가치측정지정금융부채의 신용위험 변동,자본 [구성요소]|비지배지분 [구성요소],제 56 기 1분기,0,,,14,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability,당기손익-공정가치측정지정금융부채의 신용위험 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 56 기 1분기,-4585182190,,,14,KRW,,제 55 기 1분기,-23873480747,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability,당기손익-공정가치측정지정금융부채의 신용위험 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 56 기 1분기,-4585182190,,,14,KRW,,제 55 기 1분기,-23873480747,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability,당기손익-공정가치측정지정금융부채의 신용위험 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 56 기 1분기,0,,,14,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability,당기손익-공정가치측정지정금융부채의 신용위험 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 56 기 1분기,0,,,14,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability,당기손익-공정가치측정지정금융부채의 신용위험 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 56 기 1분기,0,,,14,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialLiabilityAttributableToChangeInCreditRiskOfLiability,당기손익-공정가치측정지정금융부채의 신용위험 변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 56 기 1분기,0,,,14,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 56 기 1분기,208036947303,,,15,KRW,,제 55 기 1분기,150319871879,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|비지배지분 [구성요소],제 56 기 1분기,71559399,,,15,KRW,,제 55 기 1분기,131350418,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,연결재무제표 [member],제 56 기 1분기,208108506702,,,15,KRW,,제 55 기 1분기,150451222297,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 56 기 1분기,208036947303,,,15,KRW,,제 55 기 1분기,150319871879,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 56 기 1분기,0,,,15,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 56 기 1분기,0,,,15,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 56 기 1분기,0,,,15,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 56 기 1분기,0,,,15,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,연결재무제표 [member],제 56 기 1분기,-80993726474,,,16,KRW,,제 55 기 1분기,207243516388,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|비지배지분 [구성요소],제 56 기 1분기,0,,,16,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 56 기 1분기,-80993726474,,,16,KRW,,제 55 기 1분기,207243516388,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 56 기 1분기,0,,,16,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 56 기 1분기,0,,,16,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 56 기 1분기,0,,,16,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 56 기 1분기,-80993726474,,,16,KRW,,제 55 기 1분기,207243516388,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 56 기 1분기,0,,,16,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations,해외사업장순투자에 대한 위험회피,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 56 기 1분기,1572077058,,,17,KRW,,제 55 기 1분기,-11319415040,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations,해외사업장순투자에 대한 위험회피,자본 [구성요소]|비지배지분 [구성요소],제 56 기 1분기,0,,,17,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations,해외사업장순투자에 대한 위험회피,연결재무제표 [member],제 56 기 1분기,1572077058,,,17,KRW,,제 55 기 1분기,-11319415040,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations,해외사업장순투자에 대한 위험회피,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 56 기 1분기,1572077058,,,17,KRW,,제 55 기 1분기,-11319415040,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations,해외사업장순투자에 대한 위험회피,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 56 기 1분기,0,,,17,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations,해외사업장순투자에 대한 위험회피,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 56 기 1분기,0,,,17,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations,해외사업장순투자에 대한 위험회피,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 56 기 1분기,0,,,17,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxHedgesOfNetInvestmentsInForeignOperations,해외사업장순투자에 대한 위험회피,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 56 기 1분기,0,,,17,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,관계기업투자자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 56 기 1분기,0,,,18,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,관계기업투자자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 56 기 1분기,0,,,18,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,관계기업투자자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 56 기 1분기,0,,,18,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,관계기업투자자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 56 기 1분기,-78695521906,,,18,KRW,,제 55 기 1분기,19093100857,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,관계기업투자자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 56 기 1분기,-78695521906,,,18,KRW,,제 55 기 1분기,19093100857,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,관계기업투자자산평가손익,자본 [구성요소]|비지배지분 [구성요소],제 56 기 1분기,0,,,18,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,관계기업투자자산평가손익,연결재무제표 [member],제 56 기 1분기,-78695521906,,,18,KRW,,제 55 기 1분기,19093100857,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,관계기업투자자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 56 기 1분기,0,,,18,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 56 기 1분기,0,,,19,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 56 기 1분기,0,,,19,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 56 기 1분기,0,,,19,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 56 기 1분기,164720910740,,,19,KRW,,제 55 기 1분기,236730390186,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 56 기 1분기,0,,,19,KRW,,제 55 기 1분기,0,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 56 기 1분기,164720910740,,,19,KRW,,제 55 기 1분기,236730390186,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),연결재무제표 [member],제 56 기 1분기,170523384305,,,19,KRW,,제 55 기 1분기,238240034129,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|비지배지분 [구성요소],제 56 기 1분기,5802473565,,,19,KRW,,제 55 기 1분기,1509643943,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 56 기 1분기,11293238176559,,11238866114389,20,KRW,,제 55 기 1분기,11177508373210,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|비지배지분 [구성요소],제 56 기 1분기,165176754813,,,20,KRW,,제 55 기 1분기,150869224608,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 56 기 1분기,11128061421746,,,20,KRW,,제 55 기 1분기,11026639148602,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 56 기 1분기,2157082249016,,,20,KRW,,제 55 기 1분기,2157530524880,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 56 기 1분기,4101960790000,,,20,KRW,,제 55 기 1분기,4101960790000,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 56 기 1분기,4807782956109,,,20,KRW,,제 55 기 1분기,4730273054749,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누적액 [구성요소],제 56 기 1분기,404962828494,,,20,KRW,,제 55 기 1분기,326000824249,,연결
+20240516001912,11013,2024,00111722,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본조정 [구성요소],제 56 기 1분기,-343727401873,,,20,KRW,,제 55 기 1분기,-289126045276,,연결

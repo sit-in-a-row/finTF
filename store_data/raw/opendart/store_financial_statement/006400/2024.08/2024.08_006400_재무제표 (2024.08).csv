@@ -1,0 +1,185 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,bfefrmtrm_nm,bfefrmtrm_amount,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 55 기 반기말,37782725624726,제 54 기말,34038860192967,7,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 55 기 반기말,9968558065196,제 54 기말,9187029193265,8,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,dart_CurrentDerivativeAsset,파생상품자산,-,제 55 기 반기말,5016159271,제 54 기말,7031294369,9,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 55 기 반기말,1709005959001,제 54 기말,1524461361452,10,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 55 기 반기말,3638086487024,제 54 기말,3297368930324,11,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_OtherCurrentAssets,기타유동자산,-,제 55 기 반기말,306440374805,제 54 기말,353200051577,12,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_OtherCurrentFinancialAssets,기타투자자산,-,제 55 기 반기말,233749307138,제 54 기말,602098500787,13,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_TradeAndOtherCurrentReceivables,매출채권및기타채권,-,제 55 기 반기말,4076259777957,제 54 기말,3402869054756,14,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 55 기 반기말,27814167559530,제 54 기말,24851830999702,15,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,매출채권및기타채권,-,제 55 기 반기말,94563225239,제 54 기말,33739219162,16,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_DeferredTaxAssets,이연법인세자산,-,제 55 기 반기말,230475297667,제 54 기말,211071363902,17,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_IntangibleAssetsAndGoodwill,무형자산,-,제 55 기 반기말,858025472114,제 54 기말,858929747025,18,KRW,제 53 기,814931163000,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_InvestmentAccountedForUsingEquityMethod,관계기업투자,-,제 55 기 반기말,9512045498616,제 54 기말,9996233432914,19,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 55 기 반기말,128327797962,제 54 기말,147320485846,20,KRW,제 53 기,147558866000,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_NoncurrentRecognisedAssetsDefinedBenefitPlan,종업원급여자산,-,제 55 기 반기말,220031775118,제 54 기말,253826202197,21,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_OtherNoncurrentAssets,기타비유동자산,-,제 55 기 반기말,136843547546,제 54 기말,93180478798,22,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_OtherNoncurrentFinancialAssets,기타투자자산,-,제 55 기 반기말,1187263501204,제 54 기말,1364181992958,23,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 55 기 반기말,15446591444064,제 54 기말,11893348076900,24,KRW,제 53 기,8965469799000,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 55 기 반기말,21189572384533,제 54 기말,19907249977522,26,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업지분,-,제 55 기 반기말,19456582681878,제 54 기말,18511373378175,27,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 55 기 반기말,5001974693202,제 54 기말,5001974693202,28,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타자본항목,-,제 55 기 반기말,-345131583767,제 54 기말,-345131583767,29,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,-,제 55 기 반기말,1578177864298,제 54 기말,1162152892848,30,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 55 기 반기말,356712130000,제 54 기말,356712130000,31,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금,-,제 55 기 반기말,12864849578145,제 54 기말,12335665245892,32,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 55 기 반기말,1732989702655,제 54 기말,1395876599347,33,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_EquityAndLiabilities,부채 및 자본총계,-,제 55 기 반기말,37782725624726,제 54 기말,34038860192967,34,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 55 기 반기말,10609204128141,제 54 기말,8518933137070,36,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,dart_ShortTermAdvancesCustomers,선수금,-,제 55 기 반기말,552227875553,제 54 기말,607331856215,37,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,dart_ShortTermIncomeReceivedInAdvance,선수수익,-,제 55 기 반기말,324854540455,제 54 기말,18823553350,38,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_CurrentProvisions,충당부채,-,제 55 기 반기말,374415573104,제 54 기말,383763099073,39,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,미지급법인세,-,제 55 기 반기말,87382544011,제 54 기말,101894652720,40,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_ShorttermBorrowings,단기차입금,-,제 55 기 반기말,4669965679325,제 54 기말,2868274951532,41,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayables,매입채무및기타채무,-,제 55 기 반기말,4600357915693,제 54 기말,4538845024180,42,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 55 기 반기말,16593153240193,제 54 기말,14131610215445,43,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 55 기 반기말,5983949112052,제 54 기말,5612677078375,44,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,dart_LongTermAdvancesCustomers,장기선수금,-,제 55 기 반기말,56222184042,제 54 기말,61184781788,45,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,dart_LongTermBorrowingsGross,장기차입금,-,제 55 기 반기말,3310720890000,제 54 기말,2849524920000,46,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentPayables,매입채무및기타채무,-,제 55 기 반기말,465254003730,제 54 기말,541922916698,47,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,dart_PostemploymentBenefitObligations,종업원급여부채,-,제 55 기 반기말,2443915941,제 54 기말,2276046885,48,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 55 기 반기말,2058154996836,제 54 기말,2064627748341,49,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,BS,재무상태표,ifrs-full_NoncurrentProvisions,충당부채,-,제 55 기 반기말,91153121503,제 54 기말,93140664663,50,KRW,,,,,,,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익,-,제 55 기 반기,280220396631,,,6,KRW,,,547601702668,제 54 기 반기,450192670421,825577523630,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,dart_OtherGains,기타수익,-,제 55 기 반기,7868760240,,,7,KRW,,,27619231642,제 54 기 반기,13452859795,35787333566,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,dart_OtherLosses,기타비용,-,제 55 기 반기,13690648296,,,8,KRW,,,22800576151,제 54 기 반기,9805646021,21613228976,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,dart_OtherOperatingIncome,기타영업수익,-,제 55 기 반기,7926679635,,,9,KRW,,,54586182228,제 54 기 반기,0,0,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 55 기 반기,716506719392,,,10,KRW,,,1383590994891,제 54 기 반기,578433971362,1154526857452,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 55 기 반기,584483907488,,,11,KRW,,,1100077096811,제 54 기 반기,382381424329,1233019975192,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,-,제 55 기 반기,24982479484,,,13,KRW,,,87923183308,제 54 기 반기,8969844210,61326024574,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업지분,-,제 55 기 반기,559501428004,,,14,KRW,,,1012153913503,제 54 기 반기,373411580119,1171693950618,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 55 기 반기,3461333992676,,,15,KRW,,,7704421375770,제 54 기 반기,4811955792285,9215322807949,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,dart_BasicEarningsLossPerSharePreferredStock,우선주 기본및희석주당이익,-,제 55 기 반기,4830,,,17,KRW,,,8914,제 54 기 반기,6886,13455,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,보통주 기본및희석주당이익,-,제 55 기 반기,4830,,,18,KRW,,,8914,제 54 기 반기,6886,13455,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융비용,-,제 55 기 반기,325415379157,,,19,KRW,,,676040273556,제 54 기 반기,289491593821,674284103921,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 55 기 반기,218478408833,,,20,KRW,,,471931433735,제 54 기 반기,243320090409,664991954989,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 55 기 반기,988800436388,,,21,KRW,,,1876606515331,제 54 기 반기,1028626641783,1980104381082,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세수익(비용),-,제 55 기 반기,76194056391,,,22,KRW,,,82758812877,제 54 기 반기,97363842942,194124551856,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 55 기 반기,283327161957,,,23,KRW,,,512231650536,제 54 기 반기,-103455204241,282671146206,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossBeforeTax,후속기간에 당기손익으로 재분류되는 포괄손익,-,제 55 기 반기,321221266126,,,24,KRW,,,626891287311,제 54 기 반기,-61548880666,194043166995,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_GainsLossesOnCashFlowHedgesBeforeTax,파생상품평가손익,-,제 55 기 반기,-1040216356,,,25,KRW,,,-2015135098,제 54 기 반기,-4538900034,-19804434280,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationBeforeTax,해외사업환산손익,-,제 55 기 반기,234712680310,,,26,KRW,,,476392809242,제 54 기 반기,-64311296850,151337261678,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLoss,법인세효과,-,제 55 기 반기,31030253607,,,27,KRW,,,53983149694,제 54 기 반기,990866674,15318422558,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossBeforeTax,지분법자본변동,-,제 55 기 반기,118579055779,,,28,KRW,,,206496762861,제 54 기 반기,8292182892,77828762155,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossBeforeTax,후속기간에 당기손익으로 재분류되지 않는 포괄손익,-,제 55 기 반기,-37894104169,,,29,KRW,,,-114659636775,제 54 기 반기,-41906323575,88627979211,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLoss,법인세효과,-,제 55 기 반기,-13592450407,,,30,KRW,,,-41129088182,제 54 기 반기,-32364868955,14457217913,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesFromInvestmentsInEquityInstruments,기타포괄손익-공정가치측정금융자산평가손익,-,제 55 기 반기,-51486554576,,,31,KRW,,,-155795684407,제 54 기 반기,-74271192530,102805327581,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,-,제 55 기 반기,0,,,32,KRW,,,6959450,제 54 기 반기,0,279869543,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_ProfitLoss,반기순이익,-,제 55 기 반기,301156745531,,,33,KRW,,,587845446275,제 54 기 반기,485836628570,950348828986,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,-,제 55 기 반기,-21833140275,,,35,KRW,,,-8278373623,제 54 기 반기,25352260593,50581551466,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업지분,-,제 55 기 반기,322989885806,,,36,KRW,,,596123819898,제 54 기 반기,460484367977,899767277520,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익,-,제 55 기 반기,377350801922,,,37,KRW,,,670604259152,제 54 기 반기,583200471512,1144473380842,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_Revenue,매출액,-,제 55 기 반기,4450134429064,,,38,KRW,,,9581027891101,제 54 기 반기,5840582434068,11195427189031,연결
+20240814004401,11012,2024,00126362,CIS,포괄손익계산서,ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법손익,-,제 55 기 반기,209889263671,,,39,KRW,,,322292740814,제 54 기 반기,175532090729,314013901554,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초의 현금및현금성자산,-,제 55 기 반기,1524461361452,,,2,KRW,,,,제 54 기 반기,2614271849898,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,반기말의 현금및현금성자산,-,제 55 기 반기,1709005959001,,,3,KRW,,,,제 54 기 반기,1962103442076,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 55 기 반기,2190913102933,,,8,KRW,,,,제 54 기 반기,546659483906,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 차입,-,제 55 기 반기,879179832000,,,9,KRW,,,,제 54 기 반기,204104518500,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 차입,-,제 55 기 반기,2684962660363,,,10,KRW,,,,제 54 기 반기,2088221886873,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 상환,-,제 55 기 반기,660559598400,,,11,KRW,,,,제 54 기 반기,87117848259,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 55 기 반기,877079669579,,,12,KRW,,,,제 54 기 반기,1643408025934,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금지급,-,제 55 기 반기,66938529730,,,13,KRW,,,,제 54 기 반기,68944523350,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 55 기 반기,17841511721,,,14,KRW,,,,제 54 기 반기,17244753924,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_ProceedsFromChangesInOwnershipInterestsInSubsidiaries,종속기업의 유상증자,-,제 55 기 반기,249189920000,,,15,KRW,,,,제 54 기 반기,71048230000,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 55 기 반기,-1449536404693,,,16,KRW,,,,제 54 기 반기,-2675846297806,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,dart_ProceedsFromSalesOfOtherFinancialAssets,기타투자자산의 감소,-,제 55 기 반기,665258997150,,,17,KRW,,,,제 54 기 반기,170781860137,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,dart_PurchaseOfOtherFinancialAssets,기타투자자산의 증가,-,제 55 기 반기,327513768280,,,18,KRW,,,,제 54 기 반기,1394966990581,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,정부보조금의 수령,-,제 55 기 반기,24173630894,,,19,KRW,,,,제 54 기 반기,76613061878,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 55 기 반기,902594844,,,20,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInvestmentsAccountedForUsingEquityMethod,관계기업투자의 감소,-,제 55 기 반기,1013647437972,,,21,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 55 기 반기,8968734719,,,22,KRW,,,,제 54 기 반기,9582074718,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 55 기 반기,7852615830,,,23,KRW,,,,제 54 기 반기,1299838264,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_PurchaseOfInterestsInInvestmentsAccountedForUsingEquityMethod,관계기업투자의 증가,-,제 55 기 반기,670000000,,,24,KRW,,,,제 54 기 반기,41340000000,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 55 기 반기,2826451416162,,,25,KRW,,,,제 54 기 반기,1495216465694,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 55 기 반기,-624588545948,,,26,KRW,,,,제 54 기 반기,1447253920245,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,자산 및 부채의 증감,-,제 55 기 반기,-1970270476074,,,27,KRW,,,,제 54 기 반기,46754276503,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,dart_NetCashflowsFromUsedInOperations,영업에서 창출된 현금,-,제 55 기 반기,-385418338758,,,28,KRW,,,,제 54 기 반기,1771863583959,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,조정,-,제 55 기 반기,997006691041,,,29,KRW,,,,제 54 기 반기,774760478470,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsInvestingActivities,배당금의 수취,-,제 55 기 반기,-11555572500,,,30,KRW,,,,제 54 기 반기,-12717436300,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 지급,-,제 55 기 반기,122735704950,,,31,KRW,,,,제 54 기 반기,279993477530,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,-,제 55 기 반기,161047834536,,,32,KRW,,,,제 54 기 반기,99548532961,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,-,제 55 기 반기,33057759796,,,33,KRW,,,,제 54 기 반기,42214910477,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_ProfitLoss,반기순이익,-,제 55 기 반기,301156745531,,,34,KRW,,,,제 54 기 반기,485836628570,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,외화환산으로 인한 현금의 변동,-,제 55 기 반기,67756445257,,,35,KRW,,,,제 54 기 반기,29764485833,,연결
+20240814004401,11012,2024,00126362,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,현금및현금성자산의 증감,-,제 55 기 반기,116788152292,,,36,KRW,,,,제 54 기 반기,-681932893655,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,연결재무제표 [member],제 55 기 반기,476392809242,,,3,KRW,,,,제 54 기 반기,151337261679,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [구성요소]|비지배지분 [구성요소],제 55 기 반기,96201556931,,,3,KRW,,,,제 54 기 반기,10744473108,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 55 기 반기,380191252311,,,3,KRW,,,,제 54 기 반기,140592788571,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 55 기 반기,0,,,3,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 55 기 반기,380191252311,,,3,KRW,,,,제 54 기 반기,140592788571,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 55 기 반기,0,,,3,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 55 기 반기,0,,,3,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInForeignExchangeRates,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 55 기 반기,0,,,3,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 55 기 반기,-114664758930,,,4,KRW,,,,제 54 기 반기,88421995227,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|비지배지분 [구성요소],제 55 기 반기,0,,,4,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,연결재무제표 [member],제 55 기 반기,-114664758930,,,4,KRW,,,,제 54 기 반기,88421995227,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 55 기 반기,0,,,4,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 55 기 반기,0,,,4,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 55 기 반기,0,,,4,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 55 기 반기,0,,,4,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_ChangesInReserveOfGainsAndLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 55 기 반기,-114664758930,,,4,KRW,,,,제 54 기 반기,88421995227,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 55 기 반기,19907249977522,,,5,KRW,,,,제 54 기 반기,17217502156128,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|비지배지분 [구성요소],제 55 기 반기,1395876599347,,,5,KRW,,,,제 54 기 반기,731778642550,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 55 기 반기,18511373378175,,,5,KRW,,,,제 54 기 반기,16485723513578,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 55 기 반기,356712130000,,,5,KRW,,,,제 54 기 반기,356712130000,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 55 기 반기,12335665245892,,,5,KRW,,,,제 54 기 반기,10468351380974,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 55 기 반기,1162152892848,,,5,KRW,,,,제 54 기 반기,1003816893169,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 55 기 반기,-345131583767,,,5,KRW,,,,제 54 기 반기,-345131583767,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 55 기 반기,5001974693202,,,5,KRW,,,,제 54 기 반기,5001974693202,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_AmountRemovedFromReserveOfCashFlowHedgesAndIncludedInInitialCostOrOtherCarryingAmountOfNonfinancialAssetLiabilityOrFirmCommitmentForWhichFairValueHedgeAccountingIsApplied,파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 55 기 반기,-1483139433,,,6,KRW,,,,제 54 기 반기,-14576063630,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_AmountRemovedFromReserveOfCashFlowHedgesAndIncludedInInitialCostOrOtherCarryingAmountOfNonfinancialAssetLiabilityOrFirmCommitmentForWhichFairValueHedgeAccountingIsApplied,파생상품평가손익,자본 [구성요소]|비지배지분 [구성요소],제 55 기 반기,0,,,6,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_AmountRemovedFromReserveOfCashFlowHedgesAndIncludedInInitialCostOrOtherCarryingAmountOfNonfinancialAssetLiabilityOrFirmCommitmentForWhichFairValueHedgeAccountingIsApplied,파생상품평가손익,연결재무제표 [member],제 55 기 반기,-1483139433,,,6,KRW,,,,제 54 기 반기,-14576063630,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_AmountRemovedFromReserveOfCashFlowHedgesAndIncludedInInitialCostOrOtherCarryingAmountOfNonfinancialAssetLiabilityOrFirmCommitmentForWhichFairValueHedgeAccountingIsApplied,파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 55 기 반기,0,,,6,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_AmountRemovedFromReserveOfCashFlowHedgesAndIncludedInInitialCostOrOtherCarryingAmountOfNonfinancialAssetLiabilityOrFirmCommitmentForWhichFairValueHedgeAccountingIsApplied,파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 55 기 반기,0,,,6,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_AmountRemovedFromReserveOfCashFlowHedgesAndIncludedInInitialCostOrOtherCarryingAmountOfNonfinancialAssetLiabilityOrFirmCommitmentForWhichFairValueHedgeAccountingIsApplied,파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 55 기 반기,0,,,6,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_AmountRemovedFromReserveOfCashFlowHedgesAndIncludedInInitialCostOrOtherCarryingAmountOfNonfinancialAssetLiabilityOrFirmCommitmentForWhichFairValueHedgeAccountingIsApplied,파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 55 기 반기,0,,,6,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_AmountRemovedFromReserveOfCashFlowHedgesAndIncludedInInitialCostOrOtherCarryingAmountOfNonfinancialAssetLiabilityOrFirmCommitmentForWhichFairValueHedgeAccountingIsApplied,파생상품평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 55 기 반기,-1483139433,,,6,KRW,,,,제 54 기 반기,-14576063630,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_DividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 55 기 반기,66944609800,,,7,KRW,,,,제 54 기 반기,68950788850,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_DividendsPaid,연차배당,자본 [구성요소]|비지배지분 [구성요소],제 55 기 반기,0,,,7,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_DividendsPaid,연차배당,연결재무제표 [member],제 55 기 반기,66944609800,,,7,KRW,,,,제 54 기 반기,68950788850,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_DividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 55 기 반기,0,,,7,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_DividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 55 기 반기,0,,,7,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_DividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 55 기 반기,66944609800,,,7,KRW,,,,제 54 기 반기,68950788850,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_DividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 55 기 반기,0,,,7,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_DividendsPaid,연차배당,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 55 기 반기,0,,,7,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 55 기 반기,19456582681878,,,8,KRW,,,,제 54 기 반기,17588466675346,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|비지배지분 [구성요소],제 55 기 반기,1732989702655,,,8,KRW,,,,제 54 기 반기,864152897124,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 55 기 반기,21189572384533,,19907249977522,8,KRW,,,,제 54 기 반기,18452619572470,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 55 기 반기,-345131583767,,,8,KRW,,,,제 54 기 반기,-345131583767,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 55 기 반기,5001974693202,,,8,KRW,,,,제 54 기 반기,5001974693202,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 55 기 반기,356712130000,,,8,KRW,,,,제 54 기 반기,356712130000,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 55 기 반기,12864849578145,,,8,KRW,,,,제 54 기 반기,11299373853628,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 55 기 반기,1578177864298,,,8,KRW,,,,제 54 기 반기,1275537582283,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업의 유상증자,연결재무제표 [member],제 55 기 반기,249189920000,,,9,KRW,,,,제 54 기 반기,71048230000,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업의 유상증자,자본 [구성요소]|비지배지분 [구성요소],제 55 기 반기,249189920000,,,9,KRW,,,,제 54 기 반기,71048230000,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업의 유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 55 기 반기,0,,,9,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업의 유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 55 기 반기,0,,,9,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업의 유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 55 기 반기,0,,,9,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업의 유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 55 기 반기,0,,,9,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업의 유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 55 기 반기,0,,,9,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업의 유상증자,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 55 기 반기,0,,,9,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,연결재무제표 [member],제 55 기 반기,5122155,,,10,KRW,,,,제 54 기 반기,205983984,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,자본 [구성요소]|비지배지분 [구성요소],제 55 기 반기,0,,,10,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 55 기 반기,5122155,,,10,KRW,,,,제 54 기 반기,205983984,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 55 기 반기,0,,,10,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 55 기 반기,0,,,10,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 55 기 반기,5122155,,,10,KRW,,,,제 54 기 반기,205983984,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 55 기 반기,0,,,10,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 55 기 반기,0,,,10,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ProfitLoss,반기순이익,연결재무제표 [member],제 55 기 반기,301156745531,,,11,KRW,,,,제 54 기 반기,485836628570,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ProfitLoss,반기순이익,자본 [구성요소]|비지배지분 [구성요소],제 55 기 반기,-8278373623,,,11,KRW,,,,제 54 기 반기,50581551466,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ProfitLoss,반기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 55 기 반기,0,,,11,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ProfitLoss,반기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 55 기 반기,0,,,11,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ProfitLoss,반기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 55 기 반기,596123819898,,,11,KRW,,,,제 54 기 반기,899767277520,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ProfitLoss,반기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 55 기 반기,0,,,11,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ProfitLoss,반기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 55 기 반기,0,,,11,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ProfitLoss,반기순이익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 55 기 반기,596123819898,,,11,KRW,,,,제 54 기 반기,899767277520,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,연결재무제표 [member],제 55 기 반기,151981617502,,,12,KRW,,,,제 54 기 반기,57281968946,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 55 기 반기,0,,,12,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 55 기 반기,0,,,12,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 55 기 반기,151981617502,,,12,KRW,,,,제 54 기 반기,57281968946,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 55 기 반기,0,,,12,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 55 기 반기,151981617502,,,12,KRW,,,,제 54 기 반기,57281968946,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|비지배지분 [구성요소],제 55 기 반기,0,,,12,KRW,,,,제 54 기 반기,0,,연결
+20240814004401,11012,2024,00126362,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 55 기 반기,0,,,12,KRW,,,,제 54 기 반기,0,,연결

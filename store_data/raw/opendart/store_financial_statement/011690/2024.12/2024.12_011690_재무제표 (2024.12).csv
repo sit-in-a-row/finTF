@@ -1,0 +1,197 @@
+rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,ord,currency,thstrm_add_amount,frmtrm_q_nm,frmtrm_q_amount,frmtrm_add_amount,연결구분
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 49 기 3분기말,132121951637,제 48 기말,124121630726,7,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 49 기 3분기말,105423385644,제 48 기말,86736433173,8,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_ShortTermAdvancePayments,선급금,-,제 49 기 3분기말,2045038951,제 48 기말,2623299865,9,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_ShortTermPrepaidExpenses,선급비용,-,제 49 기 3분기말,1202753279,제 48 기말,799602829,10,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 49 기 3분기말,4839712764,제 48 기말,7849569704,11,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_CurrentTaxAssets,당기법인세자산,-,제 49 기 3분기말,187382010,제 48 기말,39554530,12,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 49 기 3분기말,45891860226,제 48 기말,42399371490,13,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,단기금융상품,-,제 49 기 3분기말,22335200000,제 48 기말,500000000,14,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_TradeAndOtherCurrentReceivables,매출채권및기타채권,-,제 49 기 3분기말,28921438414,제 48 기말,32525034755,15,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_ShortTermAccruedIncome,미수수익,-,제 49 기 3분기말,167581558,제 48 기말,19583227,16,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_ShortTermLoans,단기대여금,-,제 49 기 3분기말,13002580,제 48 기말,20202580,17,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_ShortTermOtherReceivables,미수금,-,제 49 기 3분기말,833304524,제 48 기말,718394963,18,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_ShortTermTradeReceivable,매출채권,-,제 49 기 3분기말,27907549752,제 48 기말,31766853985,19,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 49 기 3분기말,26698565993,제 48 기말,37385197553,20,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_LongTermDepositsNotClassifiedAsCashEquivalents,장기금융상품,-,제 49 기 3분기말,,제 48 기말,2500000,21,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,장기매출채권및기타채권,-,제 49 기 3분기말,954168524,제 48 기말,951181796,22,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_LongTermDepositsProvidedGross,장기보증금,-,제 49 기 3분기말,294221524,제 48 기말,306334796,23,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_LongTermLoansGross,장기대여금,-,제 49 기 3분기말,659800000,제 48 기말,644700000,24,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_LongTermTradeReceivablesGross,장기매출채권,-,제 49 기 3분기말,147000,제 48 기말,147000,25,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산,-,제 49 기 3분기말,210860080,제 48 기말,211227460,26,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,-,제 49 기 3분기말,1192962101,제 48 기말,1283059230,27,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 49 기 3분기말,91168700,제 48 기말,13177364077,28,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_InvestmentsInJointVentures,공동기업투자,-,제 49 기 3분기말,7306500362,제 48 기말,7476871383,29,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 49 기 3분기말,14918465625,제 48 기말,12370923199,30,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_RecognisedAssetsDefinedBenefitPlan,순확정급여자산,-,제 49 기 3분기말,,제 48 기말,45779361,31,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_RightofuseAssets,사용권자산,-,제 49 기 3분기말,2024440601,제 48 기말,1866291047,32,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 49 기 3분기말,108916245243,제 48 기말,101958444449,34,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,-,제 49 기 3분기말,108916245243,제 48 기말,101958444449,35,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 49 기 3분기말,109146157043,제 48 기말,108862957043,36,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타자본항목,-,제 49 기 3분기말,280211177,제 48 기말,230693951,37,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,-,제 49 기 3분기말,-1693676396,제 48 기말,-1884945925,38,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 49 기 3분기말,91435985000,제 48 기말,91435985000,39,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_RetainedEarnings,결손금,-,제 49 기 3분기말,-90252431581,제 48 기말,-96686245620,40,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_EquityAndLiabilities,자본과부채총계,-,제 49 기 3분기말,132121951637,제 48 기말,124121630726,42,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 49 기 3분기말,19386827603,제 48 기말,18476972154,44,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_ShortTermAdvancesCustomers,선수금,-,제 49 기 3분기말,5158908,제 48 기말,84847376,45,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_ShortTermIncomeReceivedInAdvance,선수수익,-,제 49 기 3분기말,155062379,제 48 기말,,46,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_ShortTermWithholdings,예수금,-,제 49 기 3분기말,175900324,제 48 기말,268881996,47,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_CurrentLeaseLiabilities,리스부채,-,제 49 기 3분기말,772820702,제 48 기말,603563336,48,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 49 기 3분기말,168591561,제 48 기말,,49,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayables,매입채무및기타채무,-,제 49 기 3분기말,18109293729,제 48 기말,17519679446,50,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_ShortTermAccruedExpenses,미지급비용,-,제 49 기 3분기말,2752576106,제 48 기말,2022794378,51,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_ShortTermOtherPayables,미지급금,-,제 49 기 3분기말,3302555028,제 48 기말,4678648847,52,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_ShortTermTradePayables,매입채무,-,제 49 기 3분기말,12054162595,제 48 기말,10818236221,53,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 49 기 3분기말,23205706394,제 48 기말,22163186277,54,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 49 기 3분기말,3818878791,제 48 기말,3686214123,55,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_LongTermBorrowingsGross,장기차입금,-,제 49 기 3분기말,1294937621,제 48 기말,,56,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,dart_LongTermOtherPayablesGross,장기성미지급금,-,제 49 기 3분기말,81277931,제 48 기말,64823788,57,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 49 기 3분기말,215624409,제 48 기말,2279397263,58,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_NoncurrentLeaseLiabilities,장기리스부채,-,제 49 기 3분기말,1288024151,제 48 기말,1341993072,59,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_ProvisionForDecommissioningRestorationAndRehabilitationCosts,복구충당부채,-,제 49 기 3분기말,77869214,제 48 기말,,60,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_Provisions,클레임충당부채,-,제 49 기 3분기말,220000000,제 48 기말,,61,KRW,,,,,연결
+20241202000449,11014,2024,00144720,BS,재무상태표,ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan,순확정급여부채,-,제 49 기 3분기말,641145465,제 48 기말,,62,KRW,,,,,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,dart_LossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법손실,-,제 49 기 3분기,611506260,,,6,KRW,1707047789,제 48 기 3분기,475636955,1486682192,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익,-,제 49 기 3분기,638353484,,,7,KRW,3221886161,제 48 기 3분기,1057139316,148929305,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,dart_OtherGains,기타수익,-,제 49 기 3분기,26192027,,,8,KRW,1941121267,제 48 기 3분기,123020942,311980114,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,dart_OtherLosses,기타비용,-,제 49 기 3분기,1085050,,,9,KRW,153031399,제 48 기 3분기,10581824,285370360,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 49 기 3분기,4437300851,,,10,KRW,13119749500,제 48 기 3분기,3812326407,11204937170,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄이익(손실),-,제 49 기 3분기,-1255516041,,,11,KRW,6625083568,제 48 기 3분기,50891342,-1332313339,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,-표준계정코드 미사용-,지배기업 소유주지분,-,제 49 기 3분기,-1255516041,,,12,KRW,6625083568,제 48 기 3분기,50891342,-1332313339,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 49 기 3분기,34458991216,,,14,KRW,102775854108,제 48 기 3분기,34338030925,81657335155,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본및희석주당이익(손실),-,제 49 기 3분기,-24,,,16,KRW,179,제 48 기 3분기,11,-39,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융비용,-,제 49 기 3분기,1775178840,,,17,KRW,4086879611,제 48 기 3분기,1692385996,11810936002,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 49 기 3분기,778910190,,,18,KRW,5465693901,제 48 기 3분기,1402239296,12035619409,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 49 기 3분기,5075654335,,,19,KRW,16341635661,제 48 기 3분기,4869465723,11353866475,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),-,제 49 기 3분기,77944743,,,20,KRW,1865271349,제 48 기 3분기,-512022914,-256011457,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 49 기 3분기,-389146335,,,21,KRW,78069689,제 48 기 3분기,159119477,10157844,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업환산차이,-,제 49 기 3분기,-12355207,,,23,KRW,-5589859,제 48 기 3분기,-55166521,-228790235,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,-,제 49 기 3분기,-375406656,,,24,KRW,197226768,제 48 기 3분기,211139028,488768435,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,-,제 49 기 3분기,-1384472,,,26,KRW,-367380,제 48 기 3분기,3146970,-2102230,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,-표준계정코드 미사용-,순확정급여부채의 재측정요소,-,제 49 기 3분기,-113199840,,,27,KRW,-113199840,제 48 기 3분기,,-247718126,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,ifrs-full_ProfitLoss,분기순이익(손실),-,제 49 기 3분기,-866369706,,,28,KRW,6547013879,제 48 기 3분기,-108228135,-1342471183,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,-표준계정코드 미사용-,지배기업 소유주지분,-,제 49 기 3분기,-866369706,,,29,KRW,6547013879,제 48 기 3분기,-108228135,-1342471183,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-,제 49 기 3분기,-944314449,,,31,KRW,4681742530,제 48 기 3분기,403794779,-1086459726,연결
+20241202000449,11014,2024,00144720,CIS,포괄손익계산서,ifrs-full_Revenue,매출액,-,제 49 기 3분기,39534645551,,,32,KRW,119117489769,제 48 기 3분기,39207496648,93011201630,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 49 기 3분기,7849569704,,,2,KRW,,제 48 기 3분기,25286639895,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 49 기 3분기,4839712764,,,3,KRW,,제 48 기 3분기,2714878679,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 49 기 3분기,996622299,,,8,KRW,,제 48 기 3분기,-1467186786,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AcquisitionOfTreasuryShares,자기주식의 취득,-,제 49 기 3분기,,,,9,KRW,,제 48 기 3분기,25064180,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInFinanceLeaseLiabilities,리스부채의 상환,-,제 49 기 3분기,-736577650,,,10,KRW,,제 48 기 3분기,-666402968,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,차입금의 증가,-,제 49 기 3분기,1450000000,,,11,KRW,,제 48 기 3분기,,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsFinancingActivities,이자지급,-,제 49 기 3분기,51,,,12,KRW,,제 48 기 3분기,40466398,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,-,제 49 기 3분기,,,,13,KRW,,제 48 기 3분기,363500000,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_ShareIssueRelatedCost,주식발행비용의 환급(납부),-,제 49 기 3분기,283200000,,,14,KRW,,제 48 기 3분기,-371753240,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 49 기 3분기,-13293700452,,,15,KRW,,제 48 기 3분기,6065800621,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금의 감소,-,제 49 기 3분기,871000,,,16,KRW,,제 48 기 3분기,1964140,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_DecreaseInLoans,대여금의 감소,-,제 49 기 3분기,7200000,,,17,KRW,,제 48 기 3분기,232089190,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 49 기 3분기,10712766,,,18,KRW,,제 48 기 3분기,37561280,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities,당기손익-공정가치측정금융자산의 처분,-,제 49 기 3분기,,,,19,KRW,,제 48 기 3분기,1336993325,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInSubsidiaries,종속기업투자주식의 처분,-,제 49 기 3분기,68581930,,,20,KRW,,제 48 기 3분기,-113419571,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_ProceedsFromSalesOfLongTermFinancialInstruments,장기금융상품의 감소,-,제 49 기 3분기,2500000,,,21,KRW,,제 48 기 3분기,,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,-,제 49 기 3분기,134966200000,,,22,KRW,,제 48 기 3분기,18740585036,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_PurchaseOfInvestmentsInJointVentures,공동기업투자주식의 취득,-,제 49 기 3분기,2531850000,,,23,KRW,,제 48 기 3분기,2261650000,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 증가,-,제 49 기 3분기,157591000000,,,24,KRW,,제 48 기 3분기,9829400000,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsInvestingActivities,배당금의 수취,-,제 49 기 3분기,408200,,,25,KRW,,제 48 기 3분기,204100,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInvestmentProperty,투자부동산의 처분,-,제 49 기 3분기,14798302624,,,26,KRW,,제 48 기 3분기,,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 49 기 3분기,6037732,,,27,KRW,,제 48 기 3분기,-251363573,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 49 기 3분기,62632567,,,28,KRW,,제 48 기 3분기,719366519,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 49 기 3분기,2947606605,,,29,KRW,,제 48 기 3분기,1033274227,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 49 기 3분기,8819212284,,,30,KRW,,제 48 기 3분기,-27695886588,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,운전자본의 조정,-,제 49 기 3분기,466330608,,,31,KRW,,제 48 기 3분기,-31254501463,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInAdvancePayments,선급금의 감소(증가),-,제 49 기 3분기,33277701,,,32,KRW,,제 48 기 3분기,-400754631,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInFairValueOfPlanAssets,사외적립자산의 납입,-,제 49 기 3분기,,,,33,KRW,,제 48 기 3분기,473358238,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInOtherReceivables,미수금의 감소(증가),-,제 49 기 3분기,-209387674,,,34,KRW,,제 48 기 3분기,11242514,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInShortTermTradeReceivable,매출채권의 감소(증가),-,제 49 기 3분기,4008605750,,,35,KRW,,제 48 기 3분기,-10935053415,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAccruedExpenses,미지급비용의 증가(감소),-,제 49 기 3분기,257436604,,,36,KRW,,제 48 기 3분기,-269113718,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAdvancesCustomers,선수금의 감소,-,제 49 기 3분기,-53046255,,,37,KRW,,제 48 기 3분기,-81569333,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInLongTermOtherPayables,장기성미지급금의 증가,-,제 49 기 3분기,8617212,,,38,KRW,,제 48 기 3분기,,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInOtherPayables,미지급금의 감소,-,제 49 기 3분기,-896798801,,,39,KRW,,제 48 기 3분기,-347834413,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInWithholdingsBanks,예수금의 증가(감소),-,제 49 기 3분기,-93100619,,,40,KRW,,제 48 기 3분기,4420330,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_CashOutflowForSeverancePay,퇴직금의지급,-,제 49 기 3분기,14782164,,,41,KRW,,제 48 기 3분기,479999700,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInInventories,재고자산의 증가,-,제 49 기 3분기,-3680804624,,,42,KRW,,제 48 기 3분기,-26618552401,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInPrepaidExpenses,선급비용의 감소 (증가),-,제 49 기 3분기,-401928607,,,43,KRW,,제 48 기 3분기,17635819,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAccountPayable,매입채무의 증가,-,제 49 기 3분기,1508242085,,,44,KRW,,제 48 기 3분기,7371719247,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,비현금항목의 조정,-,제 49 기 3분기,1260600460,,,45,KRW,,제 48 기 3분기,4743773699,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비(환입),-,제 49 기 3분기,-21743550,,,46,KRW,,제 48 기 3분기,20971845,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익,-,제 49 기 3분기,5500249,,,47,KRW,,제 48 기 3분기,54382443,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익,-,제 49 기 3분기,941738812,,,48,KRW,,제 48 기 3분기,1884403349,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfInvestmentProperty,투자부동산처분이익,-,제 49 기 3분기,1747795413,,,49,KRW,,제 48 기 3분기,,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOfPropertyPlantAndEquipment,유형자산손상차손,-,제 49 기 3분기,,,,50,KRW,,제 48 기 3분기,47387639,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForInterestExpenses,이자비용,-,제 49 기 3분기,209475708,,,51,KRW,,제 48 기 3분기,605701973,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForLossesFromInventoryLiquidation,재고자산폐기손실,-,제 49 기 3분기,166449789,,,52,KRW,,제 48 기 3분기,114205973,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForLossesFromInventoryShrinkage,재고자산감모손실(환입),-,제 49 기 3분기,491369,,,53,KRW,,제 48 기 3분기,-815123,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForLossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법손실,-,제 49 기 3분기,1707047789,,,54,KRW,,제 48 기 3분기,1486682192,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForLossesOnAbandonmentOfPropertyPlantAndEquipment,유형자산폐기손실,-,제 49 기 3분기,1132689,,,55,KRW,,제 48 기 3분기,110926882,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForLossesOnDispositionOfPropertyPlantAndEquipment,유형자산처분손실,-,제 49 기 3분기,715637,,,56,KRW,,제 48 기 3분기,6143815,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForLossesOnForeignExchangeTranslations,외화환산손실,-,제 49 기 3분기,1397316341,,,57,KRW,,제 48 기 3분기,1457854051,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForOtherBadDebtExpenses,기타의 대손상각비(환입),-,제 49 기 3분기,,,,58,KRW,,제 48 기 3분기,-5508295889,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여,-,제 49 기 3분기,566434137,,,59,KRW,,제 48 기 3분기,366760329,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForReversalsOfInventories,재고자산평가손실,-,제 49 기 3분기,-130408389,,,60,KRW,,제 48 기 3분기,-983211490,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_AdjustmentsForShareBasedPayment,주식보상비용,-,제 49 기 3분기,49517226,,,61,KRW,,제 48 기 3분기,107749532,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_DividendIncomeNonOperating,배당금수익,-,제 49 기 3분기,408200,,,62,KRW,,제 48 기 3분기,204100,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_GainsFromAssetsContributed,자산수증이익,-,제 49 기 3분기,28575959,,,63,KRW,,제 48 기 3분기,,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_GainsLossesOnChangeInFairValueOfFinancialInstrumentsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융상품평가손실,-,제 49 기 3분기,,,,64,KRW,,제 48 기 3분기,-829947300,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_GainsOnSaleOfInvestmentsInSubsidiaries,종속기업투자주식처분이익,-,제 49 기 3분기,,,,65,KRW,,제 48 기 3분기,140158730,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_LossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융자산거래손실,-,제 49 기 3분기,,,,66,KRW,,제 48 기 3분기,6043375,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,dart_LossesOnChangeInFairValueOfFinancialInstrumentsAtFairValueThroughProfitOrLoss,당기손익-공정가치측정금융부채평가손실,-,제 49 기 3분기,,,,67,KRW,,제 48 기 3분기,4093311896,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_AdjustmentsForAmortisationExpense,무형자산상각비,-,제 49 기 3분기,232029696,,,68,KRW,,제 48 기 3분기,177679931,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationExpense,감가상각비,-,제 49 기 3분기,2228297280,,,69,KRW,,제 48 기 3분기,1865478571,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용(수익),-,제 49 기 3분기,-1865271349,,,70,KRW,,제 48 기 3분기,256011457,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익,-,제 49 기 3분기,817682058,,,71,KRW,,제 48 기 3분기,204034918,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 납부,-,제 49 기 3분기,149499530,,,72,KRW,,제 48 기 3분기,59016731,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,-,제 49 기 3분기,694766867,,,73,KRW,,제 48 기 3분기,216329090,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_ProfitLoss,분기순이익(손실),-,제 49 기 3분기,-866369706,,,74,KRW,,제 48 기 3분기,-108228135,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,외화표시 현금및현금성자산의 환율변동효과,-,제 49 기 3분기,468008929,,,75,KRW,,제 48 기 3분기,525511537,,연결
+20241202000449,11014,2024,00144720,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,현금및현금성자산의 감소,-,제 49 기 3분기,-3477865869,,,76,KRW,,제 48 기 3분기,-23097272753,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_AppropriationOfRetainedEarnings,이익잉여금(결손금)으로 대체,연결재무제표 [member],제 49 기 3분기,7609012311,,,3,KRW,,제 48 기 3분기,,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_AppropriationOfRetainedEarnings,이익잉여금(결손금)으로 대체,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 49 기 3분기,7609012311,,,3,KRW,,제 48 기 3분기,,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_AppropriationOfRetainedEarnings,이익잉여금(결손금)으로 대체,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 49 기 3분기,7609012311,,,3,KRW,,제 48 기 3분기,,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 49 기 3분기,-1884945925,,,4,KRW,,제 48 기 3분기,-5376244528,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 49 기 3분기,-96686245620,,,4,KRW,,제 48 기 3분기,-92290188101,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 49 기 3분기,91435985000,,,4,KRW,,제 48 기 3분기,79617818500,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 49 기 3분기,230693951,,,4,KRW,,제 48 기 3분기,111696402,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 49 기 3분기,108862957043,,,4,KRW,,제 48 기 3분기,100436739819,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,연결재무제표 [member],제 49 기 3분기,101958444449,,,4,KRW,,제 48 기 3분기,82499822092,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_EquityAtBeginningOfPeriod,기초자본,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 49 기 3분기,101958444449,,,4,KRW,,제 48 기 3분기,82499822092,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,연결재무제표 [member],제 49 기 3분기,-1384472,,,5,KRW,,제 48 기 3분기,3146970,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 49 기 3분기,,,,5,KRW,,제 48 기 3분기,-3556500000,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 49 기 3분기,-367380,,,5,KRW,,제 48 기 3분기,3554397770,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxChangeInFairValueOfFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치측정금융자산평가손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 49 기 3분기,-367380,,,5,KRW,,제 48 기 3분기,-2102230,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluationOfPropertyPlandAndEquipment,재평가잉여금,연결재무제표 [member],제 49 기 3분기,-7609012311,,,6,KRW,,제 48 기 3분기,,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluationOfPropertyPlandAndEquipment,재평가잉여금,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 49 기 3분기,-7609012311,,,6,KRW,,제 48 기 3분기,,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluationOfPropertyPlandAndEquipment,재평가잉여금,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 49 기 3분기,-7609012311,,,6,KRW,,제 48 기 3분기,,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_ProceedsFromExerciseOfConvertibleRightOrWarrant,전환권 행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 49 기 3분기,,,,7,KRW,,제 48 기 3분기,11818166500,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_ProceedsFromExerciseOfConvertibleRightOrWarrant,전환권 행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 49 기 3분기,,,,7,KRW,,제 48 기 3분기,20244383724,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_ProceedsFromExerciseOfConvertibleRightOrWarrant,전환권 행사,연결재무제표 [member],제 49 기 3분기,,,,7,KRW,,제 48 기 3분기,20244383724,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,dart_ProceedsFromExerciseOfConvertibleRightOrWarrant,전환권 행사,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 49 기 3분기,,,,7,KRW,,제 48 기 3분기,8426217224,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 49 기 3분기,280211177,,,8,KRW,,제 48 기 3분기,194382754,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 49 기 3분기,108916245243,,,8,KRW,,제 48 기 3분기,101494578829,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_Equity,자본총계,연결재무제표 [member],제 49 기 3분기,108916245243,,101958444449,8,KRW,,제 48 기 3분기,101494578829,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 49 기 3분기,-1693676396,,,8,KRW,,제 48 기 3분기,-1561868558,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 49 기 3분기,109146157043,,,8,KRW,,제 48 기 3분기,108862957043,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본금 [구성요소],제 49 기 3분기,91435985000,,,8,KRW,,제 48 기 3분기,91435985000,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_Equity,자본총계,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 49 기 3분기,-90252431581,,,8,KRW,,제 48 기 3분기,-97436877410,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_ExpectedDividendShareOptionsGranted,주식선택권,연결재무제표 [member],제 49 기 3분기,49517226,,,9,KRW,,제 48 기 3분기,107749532,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_ExpectedDividendShareOptionsGranted,주식선택권,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 49 기 3분기,49517226,,,9,KRW,,제 48 기 3분기,107749532,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_ExpectedDividendShareOptionsGranted,주식선택권,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 49 기 3분기,49517226,,,9,KRW,,제 48 기 3분기,107749532,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_OtherComprehensiveIncome,기타포괄손익,연결재무제표 [member],제 49 기 3분기,-389146335,,,10,KRW,,제 48 기 3분기,159119477,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,연결재무제표 [member],제 49 기 3분기,-5589859,,,11,KRW,,제 48 기 3분기,-228790235,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 49 기 3분기,-5589859,,,11,KRW,,제 48 기 3분기,-228790235,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업환산손익,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 49 기 3분기,-5589859,,,11,KRW,,제 48 기 3분기,-228790235,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 49 기 3분기,-113199840,,,12,KRW,,제 48 기 3분기,-247718126,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,연결재무제표 [member],제 49 기 3분기,-113199840,,,12,KRW,,제 48 기 3분기,-247718126,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,순확정급여부채의 재측정요소,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 49 기 3분기,-113199840,,,12,KRW,,제 48 기 3분기,-247718126,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_PaymentsForShareIssueCosts,주식발행비용의 환급,연결재무제표 [member],제 49 기 3분기,283200000,,,13,KRW,,제 48 기 3분기,,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_PaymentsForShareIssueCosts,주식발행비용의 환급,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|자본잉여금 [구성요소],제 49 기 3분기,283200000,,,13,KRW,,제 48 기 3분기,,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_PaymentsForShareIssueCosts,주식발행비용의 환급,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 49 기 3분기,283200000,,,13,KRW,,제 48 기 3분기,,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),연결재무제표 [member],제 49 기 3분기,-866369706,,,14,KRW,,제 48 기 3분기,-108228135,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 49 기 3분기,6547013879,,,14,KRW,,제 48 기 3분기,-1342471183,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_ProfitLoss,분기순이익(손실),자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|이익잉여금 [구성요소],제 49 기 3분기,6547013879,,,14,KRW,,제 48 기 3분기,-1342471183,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_PurchaseOfTreasuryShares,자기주식의 취득,연결재무제표 [member],제 49 기 3분기,,,,15,KRW,,제 48 기 3분기,-25063180,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_PurchaseOfTreasuryShares,자기주식의 취득,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 49 기 3분기,,,,15,KRW,,제 48 기 3분기,-25063180,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_PurchaseOfTreasuryShares,자기주식의 취득,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타자본구성요소 [구성요소],제 49 기 3분기,,,,15,KRW,,제 48 기 3분기,-25063180,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,연결재무제표 [member],제 49 기 3분기,-375406656,,,16,KRW,,제 48 기 3분기,211139028,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소],제 49 기 3분기,197226768,,,16,KRW,,제 48 기 3분기,488768435,,연결
+20241202000449,11014,2024,00144720,SCE,자본변동표,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법자본변동,자본 [구성요소]|지배기업의 소유주에게 귀속되는 지분 [구성요소]|기타포괄손익누계액 [구성요소],제 49 기 3분기,197226768,,,16,KRW,,제 48 기 3분기,488768435,,연결
