@@ -5,8 +5,8 @@ import pandas as pd
 import os
 
 # 모델과 토크나이저 로드
-tokenizer = BertTokenizer.from_pretrained("snunlp/KR-FinBert-SC", local_files_only=False, use_safetensors=False)
-model = BertForSequenceClassification.from_pretrained("snunlp/KR-FinBert-SC", local_files_only=False, use_safetensors=False)
+tokenizer = BertTokenizer.from_pretrained("snunlp/KR-FinBert-SC", local_files_only=True, use_safetensors=False)
+model = BertForSequenceClassification.from_pretrained("snunlp/KR-FinBert-SC", local_files_only=True, use_safetensors=False)
 labels = ["negative", "neutral", "positive"]
 
 def get_SA_result(target_text):

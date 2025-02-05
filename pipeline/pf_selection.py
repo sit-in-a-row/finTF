@@ -1,4 +1,10 @@
 from sub_func import *
+from pykrx import stock
+
+def is_delisted(ticker: str, date: str) -> bool:
+    """특정 날짜 기준으로 해당 종목이 상장 폐지되었는지 확인"""
+    tickers = stock.get_market_ticker_list(date)
+    return ticker not in tickers
 
 pf_selection_report_format = """{
 report: '(생성한 레포트 본문 전체)',
@@ -108,17 +114,7 @@ def get_sector_selection_report(target_year, start_date, end_date):
 
 def generate_final_portfolio(target_year, target_quarter, start_date, end_date, pf_selection_sector):
     """
-    주어진 조건에 따라 최종 포트폴리오 리스트를 생성하는 함수.
-
-    Args:
-        target_year (int): 대상 연도
-        target_quarter (int): 대상 분기
-        start_date (str): 시작 날짜 (YYYYMMDD)
-        end_date (str): 종료 날짜 (YYYYMMDD)
-        pf_selection_sector (list): 선택된 섹터 리스트
-
-    Returns:
-        list: 최종 포트폴리오에 포함된 티커 리스트
+    최종 포트폴리오 리스트를 생성하는 함수. (상장 폐지 여부까지 체크)
     """
     temp_tickers_list = []
     store_all_raw_pf_selection = {}
@@ -131,7 +127,7 @@ def generate_final_portfolio(target_year, target_quarter, start_date, end_date, 
     temp_pf = get_pf(target_year, target_quarter, pf_selection_sector)
     print('공시 보고서 탐색 완료!')
 
-    # 중복되지 않은 티커 리스트 생성 (다른 업종이지만 같은 종목이 있는 경우)
+    # 중복되지 않은 티커 리스트 생성
     for sector in temp_pf:
         for ticker in temp_pf[sector]:
             if ticker not in temp_tickers_list:
@@ -139,7 +135,6 @@ def generate_final_portfolio(target_year, target_quarter, start_date, end_date, 
 
     print('-'*50)
     print('각 티커에 대해 데이터를 처리합니다...')
-    # 각 티커에 대한 데이터 처리
     for i, ticker in enumerate(temp_tickers_list):
         print(f'({i+1}/{len(temp_tickers_list)}) | {ticker}에 대해 정보 수집을 시작합니다...')
         pf_selection_corp_prompt = ""
@@ -196,7 +191,7 @@ def generate_final_portfolio(target_year, target_quarter, start_date, end_date, 
         except Exception as e:
             print(f"{ticker}에 대한 분석의 GPT 응답 구조에 오류가 있습니다. | {e}")
 
-    # 최종 포트폴리오 선정, invest가 'True'인 항목만 필터링하는 코드
+    # ✅ **invest가 True인 종목만 필터링**
     filtered_temp_pf = {
         sector: {ticker: value for ticker, value in tickers.items()
                 if store_all_raw_pf_selection.get(ticker, {}).get('invest') == 'True'}
@@ -205,7 +200,19 @@ def generate_final_portfolio(target_year, target_quarter, start_date, end_date, 
 
     filtered_temp_pf['corp_analysis_report'] = store_all_raw_pf_selection
 
-    return filtered_temp_pf
+    # ✅ **최종적으로 상장 폐지 여부를 확인하여 필터링**
+    final_pf = {
+        sector: {ticker: value for ticker, value in tickers.items()
+                if not is_delisted(ticker, end_date)}
+        for sector, tickers in filtered_temp_pf.items()
+    }
+
+    # ✅ **corp_analysis_report는 그대로 유지**
+    final_pf['corp_analysis_report'] = store_all_raw_pf_selection
+
+    print('-'*50)
+    print('최종 포트폴리오에서 상장 폐지된 종목을 제거 완료')
+    return final_pf
 
 def pf_selection_main(target_year, target_quarter, start_date, end_date):
     sector_selection_report = get_sector_selection_report(target_year, start_date, end_date)

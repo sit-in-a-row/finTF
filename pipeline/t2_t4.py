@@ -1,89 +1,12 @@
-import notion_client
-import pandas as pd
-import yaml
-import os
-import sys
-import re
+from sub_func import *
+from pf_selection import *
+from pipeline_utils import *
 
-#시작 전 세팅
+from crawl_tradingview import *
 
-# pipeline 모듈을 찾을 수 있도록 경로 추가
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../pipeline/sub_func")))
-from to_gpt import to_GPT
+from datetime import datetime, timedelta
 
-# API 및 DB 설정
-def load_api_keys():
-    """api_keys.yaml에서 API 키를 로드"""
-    config_path = os.path.join(os.path.dirname(__file__), "../config/api_keys.yaml")
-    with open(config_path, "r") as file:
-        return yaml.safe_load(file)
-
-api_keys = load_api_keys()
-NOTION_API_KEY = api_keys["api_keys"]["NOTION_API_TOKEN"]
-T1_DB_ID = api_keys["DB_IDs"]["t_1"]
-T4_DB_ID = api_keys["DB_IDs"]["t_4"]
-
-notion = notion_client.Client(auth=NOTION_API_KEY)
-
-def fetch_specific_notion_data(database_id, titles):
-    """노션 데이터베이스에서 특정 제목을 가진 페이지 목록을 가져옴"""
-    response = notion.databases.query(database_id)
-    results = []
-
-    for page in response["results"]:
-        title_property = page["properties"].get("Title", {}).get("title", [])
-        if title_property:
-            title = title_property[0]["text"]["content"]
-            if title in titles:
-                results.append(page)
-
-    print("\n🔍 Fetched Notion Pages:", results)  
-    return results
-
-def fetch_notion_page_content(page_id):
-    """Notion 페이지의 본문 내용을 가져오기"""
-    response = notion.blocks.children.list(block_id=page_id)
-    content = []
-
-    for block in response["results"]:
-        if block["type"] == "paragraph":
-            text_content = block["paragraph"]["rich_text"]
-            if text_content:
-                content.append(text_content[0]["plain_text"])
-
-    full_text = "\n".join(content)
-    print("\n📜 Extracted Text from Notion:\n", full_text[:500])  
-    return full_text
-
-def extract_stocks_from_text(text):
-    """Notion 본문에서 종목 정보를 추출"""
-    stock_dict = {}
-
-    pattern_table = r"\|\s*(\d{6})\s*\|\s*(.*?)\s*\|\s*([\d.]+)\s*\|\s*([\d.]+)\s*\|\s*([\d.]+%)\s*\|\s*([\d.]+%)\s*\|\s*([\d,]+)\s*\|\s*(.*?)\s*\|"
-    matches_table = re.findall(pattern_table, text)
-
-    print("\nDEBUG: Extracted Stocks (Before Saving)")
-    
-    for match in matches_table:
-        stock_code, company_name, per, pbr, roe, growth, target_price, notes = match
-        # 매수/매도 여부 판별
-        action = "매수" if "저평가" in notes or "반등" in notes else "매도"
-
-        stock_dict[stock_code] = {
-            "종목명": company_name.strip(),
-            "PER": float(per),
-            "PBR": float(pbr),
-            "ROE": roe,
-            "이익 성장률": growth,
-            "목표가": int(target_price.replace(",", "")),
-            "투자포인트": notes.strip(),
-            "매수/매도": action
-        }
-
-        print(f"📌 종목 코드: {stock_code}, 종목명: {company_name.strip()}")  # 디버깅용
-
-    return stock_dict
-
+current_dir = os.path.dirname(os.path.abspath(__file__))
 
 # trader 중심 코드
 def generate_trade_log(all_stocks):
@@ -226,53 +149,137 @@ def analyze_news_combined(all_stocks, year, quarter):
     
     return response["choices"][0]["message"]["content"][:2000]
 
+def get_t_1_trader_report(today):
+    json_file_path = os.path.join(current_dir, './notion_page_ids.json')
+    data = read_json(json_file_path)
+    t_1_trader_report_id = data['t_1'][f'{today}_t_1_trader_report']
+    t_1_trader_report = get_all_text_from_page(t_1_trader_report_id)
 
-# 노션에 저장
-def save_to_notion(title, content, database_id, period):
-    """Notion 데이터베이스에 새로운 페이지를 추가하고 본문을 한글로 채움"""
+    return t_1_trader_report
 
-    new_page = notion.pages.create(
-        parent={"database_id": database_id},
-        properties={
-            "Title": {
-                "title": [{"text": {"content": title}}]
-            },
-            "Period": {
-                "rich_text": [{"text": {"content": period}}]
-            }
-        }
-    )
+def get_t_2_t_4_trader_prompts(t_1_trader_report):
+    trader_output_format = """{
+        "log": "{매수/매도} | {수량} | {가격}"
+    }"""
 
-    page_id = new_page["id"]
-    notion.blocks.children.append(
-        block_id=page_id,
-        children=[
-            {
-                "object": "block",
-                "type": "paragraph",
-                "paragraph": {
-                    "rich_text": [{"type": "text", "text": {"content": content[:2000]}}]
-                }
-            }
-        ]
-    )
+    trader_prompt = f"""당신은 주식 트레이더입니다.
+    주어진 데이터를 분석하여 매수 또는 매도, 관망 여부를 결정하고 거래 로그를 작성해야 합니다.
+    이때, 이전에 저장된 t1의 트레이더 output을 참고하여 더욱 정확한 거래를 해야 합니다.
 
-# 메인
-def main(year, quarter):
-    period = f"{year}_Q{quarter}"  
+    만약 매수 또는 매도를 진행한다면, 다음 양식을 따라야 합니다: {trader_output_format}
+    만약 관망을 진행한다면, "관망"이라고 작성해야 합니다.
 
-    pages = fetch_specific_notion_data(T1_DB_ID, [f"{period}_analyst_rp", f"{period}_final_trader_report"])
-    all_stocks = {}
+    추가적인 단어 생성 없이, 반드시 {trader_output_format}에 따라 dict만을 작성하거나, "관망"이라고 작성해야 합니다.
 
-    for page in pages:
-        stocks = extract_stocks_from_text(fetch_notion_page_content(page["id"]))
-        all_stocks.update(stocks)
+    당신의 역할은 수익성을 극대화하기 위해 정확하고 신속한 거래 결정을 내리는 것입니다.
+    거래 로그는 반드시 지정된 형식을 따라야 합니다.
 
-    trade_log = generate_trade_log(all_stocks)
-    save_to_notion(f"{period}_trader_log", trade_log, T4_DB_ID, period)
+    t1의 트레이더 output: {t_1_trader_report}
+    """
 
-    analyst_report = analyze_news_combined(all_stocks, year, quarter)
-    save_to_notion(f"{period}_analyst_report", analyst_report, T4_DB_ID, period)
+    return trader_prompt
 
-if __name__ == "__main__":
-    main(2022, 4) # 예시
+def get_pf_weights_prompts(target_year, target_quarter, today, logs):
+    pf_path = os.path.join(current_dir, f'./pf_logs/{target_year}_{target_quarter}/{today}_portfolio_weights.json')
+    pf_before_update = read_json(pf_path)
+
+    pf_update_system = """주어진 다음 거래 로그를 바탕으로 포트폴리오를 정확히 업데이트 하세요.
+    추가적인 글이나 json delimiter 따위를 생성하지 말고, output을 바로 json으로 저장할 수 있도록 출력하세요.
+
+    포트폴리오는 반드시 {ticker: weight} 형식을 따라야 합니다. 이때, 모든 종목의 weight의 합은 반드시 1이어야 합니다.
+    """
+
+    pf_update_prompt = f"""
+    오늘의 거래 로그: {logs}
+    이전 포트폴리오: {pf_before_update}
+    """
+
+    return {
+        'pf_update_system': pf_update_system,
+        'pf_update_prompt': pf_update_prompt
+    }
+
+def get_hourly_sp(tickers, start_date, today):
+    sp_dict = {}
+
+    # t2_trader
+    for i, ticker in enumerate(tickers):
+        print(f'=== {i+1}/{len(tickers)} ===')
+
+        try:
+            sp_dict[ticker] = {}
+
+            sp = stock_price_info(ticker, start_date, today)[['Close', 'RSI_14', 'BBP_20_2.0']]
+            date_obj = datetime.strptime(today, "%Y%m%d")
+            new_date_obj = date_obj + timedelta(days=10)
+            end_day = new_date_obj.strftime("%Y%m%d")
+            sp_dict[ticker]['sp'] = sp
+
+            df = scrape_tradingview_data(ticker, today, end_day)
+            filtered_df = df[df['Timestamp'].dt.strftime('%Y%m%d') == today]
+            sp_dict[ticker]['hourly_sp'] = filtered_df
+        except Exception as e:
+            print(f'{e} | Error occurred at {ticker}')
+            continue    
+
+    return sp_dict
+
+def t_2_t_4_main(tickers, start_date, today, target_year, target_quarter, base_year, base_quarter):
+
+    t_1_trader_report = get_t_1_trader_report(today)
+    trader_prompt = get_t_2_t_4_trader_prompts(t_1_trader_report)
+
+    sp_dict = get_hourly_sp(tickers, start_date, today)
+
+
+    curr_hour = 9
+    t_2_trader_response = {}
+
+    while curr_hour < 16:
+        t_2_trader_response[curr_hour] = {}
+
+        for i, ticker in enumerate(tickers):
+            print(f'=== [{curr_hour}] {i+1}/{len(tickers)} ({ticker}) ===')
+
+            sp = sp_dict[ticker]['sp'] if ticker in sp_dict and 'sp' in sp_dict[ticker] else '역대 가격 정보를 가져올 수 없습니다.'
+
+            # `sp_dict[ticker]['hourly_sp']`이 존재하면 DataFrame을 필터링하여 바인딩
+            if ticker in sp_dict and 'hourly_sp' in sp_dict[ticker]:
+                df = sp_dict[ticker]['hourly_sp']
+
+                # curr_hour 이전의 데이터만 필터링
+                filtered_df = df[df['Timestamp'].dt.hour < curr_hour]
+
+                # 데이터가 존재하면 최신 데이터 가져오기 (Timestamp 기준 가장 최근 값)
+                if not filtered_df.empty:
+                    hourly_sp = filtered_df  # 가장 최근 데이터 선택
+                else:
+                    hourly_sp = '해당 시간 이전의 데이터가 없습니다.'
+            else:
+                hourly_sp = '실시간 정보를 가져올 수 없습니다.'
+
+            price_info = f"""역대 주식 가격: {sp}
+            실시간 주식 가격: {hourly_sp}"""
+
+            response = to_GPT(trader_prompt, price_info)['choices'][0]['message']['content']
+            t_2_trader_response[curr_hour][ticker] = response
+
+        curr_hour += 1
+
+    to_DB('t_2', f'{today}_t_2_t_4_trader_log', f'{base_quarter}_{base_year}', str(t_2_trader_response))
+
+    pf_weight_prompts = get_pf_weights_prompts(target_year, target_quarter, today, str(t_2_trader_response))
+    pf_update_system = pf_weight_prompts['pf_update_system']
+    pf_update_prompt = pf_weight_prompts['pf_update_prompt']
+
+    pf_update = to_GPT(pf_update_system, pf_update_prompt)['choices'][0]['message']['content']
+
+    # 파일 경로
+    file_path = os.path.join(os.path.join(current_dir, f'./pf_logs/{target_year}_{target_quarter}'), f"{today}_portfolio_weights.json")
+
+    # JSON 파일 저장
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(eval(pf_update), f, indent=2, ensure_ascii=False)
+
+    print(f"포트폴리오 비중 데이터가 {file_path}에 저장되었습니다.")
+    to_DB('t_2', f'{today}_t_2_t_4_pf_update', f'{base_quarter}_{base_year}', str(pf_update))

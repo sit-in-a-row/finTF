@@ -1,12 +1,45 @@
 {
     "pf_selection_agent": {
-        "2022_Q4_init_pf": "17ccd049-9633-8122-aefb-e05799314c81"
+        "2023_Q1_init_pf": "190cd049-9633-816f-846b-fd15a7a882dc"
     },
     "t_1": {
-        "2020_Q4_005930_report": "17ecd049-9633-8134-b1c1-c42d5b738ddf"
+        "20230102_t_1_analyst_rp": "190cd049-9633-811e-bacf-c13ecce5ff3f",
+        "20230102_t_1_portfolio_report": "190cd049-9633-8141-b438-e9bf063fa6a5",
+        "20230102_portfolio_weights": "190cd049-9633-8101-8ac6-de29b32e9959",
+        "20230102_t_1_trader_report": "190cd049-9633-8185-8cd2-c54812367cbe",
+        "20230103_t_1_analyst_rp": "190cd049-9633-8191-802a-d1b7d65d389d",
+        "20230103_t_1_portfolio_report": "190cd049-9633-819f-a471-f70d193fca42",
+        "20230103_portfolio_weights": "190cd049-9633-8189-85dc-d99e6913b40a",
+        "20230103_t_1_trader_report": "190cd049-9633-811c-b44e-fca22820be7f",
+        "20230104_t_1_analyst_rp": "190cd049-9633-813e-a9c3-e1398edbc754",
+        "20230104_t_1_portfolio_report": "190cd049-9633-8108-953c-d30d83e9d3d5",
+        "20230104_portfolio_weights": "190cd049-9633-8128-b526-fd1e6cf3b0e9",
+        "20230104_t_1_trader_report": "190cd049-9633-81b6-8e14-e1c41bef0846",
+        "20230105_t_1_analyst_rp": "190cd049-9633-81f9-b86b-c0faf06310fb",
+        "20230105_t_1_portfolio_report": "190cd049-9633-816c-b68e-e995189deacd",
+        "20230105_portfolio_weights": "190cd049-9633-810d-a7e4-f58aeab0ec4a",
+        "20230105_t_1_trader_report": "190cd049-9633-8153-b2d8-eaf9128a64e1"
     },
-    "t_2": {},
+    "t_2": {
+        "20230102_t_2_t_4_trader_log": "190cd049-9633-81d6-b97a-eed2f0453646",
+        "20230102_t_2_t_4_pf_update": "190cd049-9633-818b-815e-d87e564848c2",
+        "20230103_t_2_t_4_trader_log": "190cd049-9633-8196-b014-db1a42387535",
+        "20230103_t_2_t_4_pf_update": "190cd049-9633-811e-b952-e5f3943cc00a",
+        "20230104_t_2_t_4_trader_log": "190cd049-9633-8174-aa5c-d37599100523",
+        "20230104_t_2_t_4_pf_update": "190cd049-9633-811e-851c-e3624f4bf5f4",
+        "20230105_t_2_t_4_trader_log": "190cd049-9633-81ae-92e0-f9c5f07cc44f",
+        "20230105_t_2_t_4_pf_update": "190cd049-9633-81b6-b742-eebc1fab591c"
+    },
     "t_3": {},
     "t_4": {},
-    "t_5": {}
+    "t_5": {
+        "20230102_t_5_trader_report": "190cd049-9633-81a1-8123-e968fcbb3439",
+        "20230102_t_5_portfolio_report": "190cd049-9633-81bc-bb12-eae4d901a6d6",
+        "20230103_t_5_trader_report": "190cd049-9633-811b-8f24-ddec3a276eee",
+        "20230103_t_5_portfolio_report": "190cd049-9633-81e0-a791-fa81627a2836",
+        "20230104_t_5_trader_report": "190cd049-9633-8159-a6d1-cc4802323a01",
+        "20230104_t_5_portfolio_report": "190cd049-9633-81a4-8a99-c5abe639bb40",
+        "20230105_t_5_trader_report": "190cd049-9633-8188-aa90-d15e917e015a",
+        "20230105_t_5_portfolio_report": "190cd049-9633-81c1-891f-df6115d6b755"
+    }
 }

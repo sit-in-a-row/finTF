@@ -23,6 +23,8 @@ client = openai.OpenAI(api_key=get_api_key())
 
 # GPT 호출 함수
 def to_GPT(system, prompt):
+    # print('Prompt: ', prompt)
+
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
