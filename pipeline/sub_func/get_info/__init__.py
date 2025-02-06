@@ -9,5 +9,6 @@ from .get_index_price_info import index_price_info
 from .get_pattern_info import pattern_info
 from .get_sector_analysis_info import sector_analysis_info
 from .get_index_price_info import get_index_list
+from .get_price_GRU import predict_multiple_prices
 
 from .utils import *

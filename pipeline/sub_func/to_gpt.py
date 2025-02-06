@@ -19,7 +19,10 @@ def get_api_key():
 
 # OpenAI API 클라이언트 초기화
 
-client = openai.OpenAI(api_key=get_api_key())
+client = openai.OpenAI(
+    api_key=get_api_key(),
+    base_url="https://api.openai.com/v1"
+)
 
 # GPT 호출 함수
 def to_GPT(system, prompt):
