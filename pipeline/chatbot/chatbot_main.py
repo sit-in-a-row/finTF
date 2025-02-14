@@ -1,47 +1,69 @@
 import faiss
 import numpy as np
 import torch
-from transformers import AutoTokenizer, AutoModel, pipeline
+from transformers import AutoTokenizer, AutoModel
 import json
 import logging
 
-# 로깅 설정
+#to_GPT 함수 임포트
+import sys
+sys.path.append('.')
+from pipeline.sub_func.to_gpt import to_GPT
+
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 class RAGSystem:
-    def __init__(self, model_name="snunlp/KR-FinBert-SC", index_path="faiss_crawling.bin", doc_store_path="doc_store.json"):
-        """RAG 시스템 초기화"""
-        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    def __init__(self, model_name="jhgan/ko-sroberta-multitask", 
+             index_path="/Users/gamjawon/finTF/faiss_crawling.bin", 
+             doc_store_path="/Users/gamjawon/finTF/doc_store.json"):
+        print("초기화 시작")
+        self.device = torch.device("cpu")
         
-        # 임베딩 모델 로드
+        print("토크나이저 로딩")
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
-        self.model = AutoModel.from_pretrained(model_name).to(self.device)
+        
+        print("모델 로딩")
+        self.model = AutoModel.from_pretrained(model_name)
+        self.model.to("cpu")
         self.model.eval()
         
-        # FAISS 벡터 DB 로드
-        self.index = faiss.read_index(index_path)
+        print("FAISS 인덱스 로딩")
+        try:
+            self.index = faiss.read_index(index_path)
+            print(f"FAISS 인덱스 크기: {self.index.ntotal}")
+        except Exception as e:
+            print(f"FAISS 로딩 오류: {e}")
+            raise
         
-        # 문서 저장소 로드
+        print("문서 저장소 로딩")
         with open(doc_store_path, "r", encoding="utf-8") as f:
             self.doc_store = json.load(f)
         
-        # LLM 초기화 (GPT-40 mini)
-        self.llm = pipeline("text-generation", model="gpt-40-mini")
+        self.system_prompt = "You are a helpful Stock Market Analyst"
 
     @torch.no_grad()
     def get_embedding(self, text: str) -> np.ndarray:
-        """입력된 텍스트의 임베딩 벡터 생성"""
-        inputs = self.tokenizer(text, return_tensors="pt", truncation=True, padding=True, max_length=512).to(self.device)
-        outputs = self.model(**inputs)
-        return outputs.last_hidden_state[:, 0, :].cpu().numpy()
+        try:
+            inputs = self.tokenizer(text, return_tensors="pt", truncation=True, padding=True, max_length=512)
+            outputs = self.model(**inputs)
+            embeddings = outputs.last_hidden_state[:, 0, :].numpy()
+            return embeddings
+        except Exception as e:
+            print(f"임베딩 생성 오류: {e}")
+            raise
 
     def search_documents(self, query: str, top_k: int = 5):
-        """사용자 질문과 가장 유사한 문서를 검색"""
+        print("임베딩 시작")
         query_embedding = self.get_embedding(query)
         
-        # FAISS에서 유사한 문서 검색
-        distances, indices = self.index.search(query_embedding, top_k)
+        print("FAISS 검색 시작")
+        try:
+            distances, indices = self.index.search(query_embedding, top_k)
+            print(f"검색된 인덱스: {indices}")
+        except Exception as e:
+            print(f"FAISS 검색 오류: {e}")
+            return []
         
         retrieved_docs = []
         for idx in indices[0]:
@@ -59,11 +81,20 @@ class RAGSystem:
         
         context = "\n".join(retrieved_docs)
         
-        # LLM에 질문 및 문맥 전달
+        # LLM에 전달할 프롬프트 생성
         prompt = f"질문: {query}\n\n참고 자료:\n{context}\n\n답변:"
-        response = self.llm(prompt, max_length=200)[0]["generated_text"]
         
-        return response
+        # to_GPT 함수를 이용하여 OpenAI API 호출
+        response_dict = to_GPT(self.system_prompt, prompt)
+        
+        # OpenAI API의 응답 형식에 따라 답변 텍스트 추출
+        # 예시: Chat API의 경우 response_dict['choices'][0]['message']['content'] 형태일 수 있음
+        answer = response_dict.get("choices", [{}])[0].get("message", {}).get("content", "")
+        
+        if not answer:
+            answer = "응답 생성에 실패했습니다."
+            
+        return answer
 
 def main():
     rag = RAGSystem()

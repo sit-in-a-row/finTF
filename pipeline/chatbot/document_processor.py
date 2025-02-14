@@ -35,11 +35,20 @@ class DocumentProcessor:
         self.batch_size = batch_size
         self.faiss_index = None
         
-        # BERT 모델 초기화
-        self.tokenizer = AutoTokenizer.from_pretrained("jhgan/ko-sroberta-multitask")
-        self.model = AutoModel.from_pretrained("jhgan/ko-sroberta-multitask")
-        if torch.cuda.is_available():
+        # BERT 모델 초기화 시 메모리 설정
+        torch.backends.cudnn.benchmark = False  # 메모리 사용량 최적화
+        
+        # 모델 로드
+        self.tokenizer = AutoTokenizer.from_pretrained("sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
+        self.model = AutoModel.from_pretrained("sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
+        
+        if torch.cuda.is_available() and not sys.platform.startswith('darwin'):
             self.model = self.model.cuda()
+        else:
+            self.model = self.model.cpu()
+            # CPU 모드에서 메모리 최적화
+            torch.set_num_threads(4)  # CPU 스레드 수 제한
+        
         self.model.eval()
         
         # self._initialize_db()
@@ -56,30 +65,52 @@ class DocumentProcessor:
     #         )
     #         """)
     #         conn.commit()
-
-    def get_embedding(self, text: str) -> np.ndarray:
-        """단일 텍스트의 임베딩 벡터 생성 (단일 처리)"""
-        inputs = self.tokenizer(text, return_tensors="pt", truncation=True, max_length=512, padding=True)
-        if torch.cuda.is_available():
-            inputs = {k: v.cuda() for k, v in inputs.items()}
-        
-        with torch.no_grad():
-            outputs = self.model(**inputs)
-            embeddings = outputs.last_hidden_state.mean(dim=1)
-        
-        return embeddings.cpu().numpy().flatten()
-
+    
     def get_embeddings(self, texts: List[str]) -> np.ndarray:
-        """배치로 텍스트들의 임베딩 벡터 생성"""
-        inputs = self.tokenizer(texts, return_tensors="pt", truncation=True, max_length=512, padding=True)
-        if torch.cuda.is_available():
-            inputs = {k: v.cuda() for k, v in inputs.items()}
+        logger.info("start")
+        # 더 작은 배치 크기로 나누어 처리
+        batch_size = 16  # 배치 크기를 64에서 16으로 줄임
+        embeddings_list = []
         
-        with torch.no_grad():
-            outputs = self.model(**inputs)
-            embeddings = outputs.last_hidden_state.mean(dim=1)
+        for i in range(0, len(texts), batch_size):
+            batch_texts = texts[i:i + batch_size]
+            inputs = self.tokenizer(
+                batch_texts, 
+                return_tensors="pt", 
+                truncation=True, 
+                max_length=512, 
+                padding=True
+            )
+            logger.info(f"Processing batch {i//batch_size + 1}")
+            
+            # CPU 사용 시 메모리 최적화
+            if not torch.cuda.is_available() or sys.platform.startswith('darwin'):
+                inputs = {k: v.cpu() for k, v in inputs.items()}
+                # 메모리 사용량 로깅
+                logger.info(f"Current memory usage: {torch.cuda.memory_allocated() if torch.cuda.is_available() else 'CPU mode'}")
+                
+                with torch.no_grad():
+                    try:
+                        outputs = self.model(**inputs)
+                        batch_embeddings = outputs.last_hidden_state.mean(dim=1)
+                        # 즉시 numpy로 변환하여 메모리 해제
+                        batch_embeddings = batch_embeddings.cpu().numpy().astype(np.float32)
+                        embeddings_list.append(batch_embeddings)
+                    except RuntimeError as e:
+                        logger.error(f"Error processing batch: {e}")
+                        # 메모리 해제
+                        del inputs
+                        torch.cuda.empty_cache() if torch.cuda.is_available() else gc.collect()
+                        continue
+                
+                # 메모리 정리
+                del inputs
+                torch.cuda.empty_cache() if torch.cuda.is_available() else gc.collect()
         
-        return embeddings.cpu().numpy()
+        # 모든 배치의 임베딩을 합침
+        final_embeddings = np.vstack(embeddings_list)
+        return np.ascontiguousarray(final_embeddings)
+
 
     def process_embeddings_in_batches(self, texts: List[str], embedding_file: str) -> np.ndarray:
         """기존 방식: 배치 단위로 임베딩을 처리하여 npy 파일로 저장 (참고용)"""
@@ -124,24 +155,20 @@ class DocumentProcessor:
             pdf_data[company_code] = []
             
             pdf_files = list(company_folder.rglob("*.pdf")) + list(company_folder.rglob("*.PDF"))
-            logger.info(f"Processing company folder: {company_code}, Found {len(pdf_files)} PDF files")
             
             for pdf_file in pdf_files:
                 try:
-                    logger.info(f"Attempting to extract text from: {pdf_file}")
                     text = self._extract_pdf_text(pdf_file)
                     if text:
                         pdf_data[company_code].append({
                             "file": str(pdf_file),
                             "text": text
                         })
-                        logger.info(f"Successfully extracted {len(text)} characters from {pdf_file.name}")
                 except Exception as e:
                     logger.error(f"Error processing PDF {pdf_file}: {str(e)}")
 
         return pdf_data  # 반드시 pdf_data 반환
 
-    
     def _extract_pdf_text(self, pdf_file: Path) -> str:
         try:
             with pdfplumber.open(pdf_file) as pdf:
@@ -154,7 +181,7 @@ class DocumentProcessor:
         except Exception as e:
             logger.error(f"Failed to extract text from {pdf_file}: {e}")
             return ""  # 빈 문자열 반환
-    
+
     def chunk_text(self, text: str, chunk_size: int = 1000) -> List[str]:
         """텍스트를 청크로 분할"""
         words = text.split()
@@ -255,13 +282,16 @@ class DocumentProcessor:
 
         for i in tqdm(range(0, total_texts, self.batch_size), total=total_batches, desc="Indexing batches"):
             batch_texts = pdf_chunks[i:i + self.batch_size]
+            logger.info("임베딩 시작")
             batch_embeddings = self.get_embeddings(batch_texts)
+            logger.info(f"Batch {i//self.batch_size+1}/{total_batches}: shape {batch_embeddings.shape}, dtype {batch_embeddings.dtype}")
             if index is None:
                 embedding_dim = batch_embeddings.shape[1]
                 index = faiss.IndexFlatL2(embedding_dim)
             index.add(batch_embeddings)
             logger.info(f"Indexed batch {i // self.batch_size + 1}/{total_batches}")
             gc.collect()
+
         
         if self.faiss_index_file:
             faiss.write_index(index, self.faiss_index_file)
@@ -311,13 +341,26 @@ def main():
             pdf_file_names.extend([doc["file"]] * len(chunks))
     logger.info(f"Created {len(pdf_chunks)} PDF chunks")
     
-    # FAISS 인덱스 생성 (incremental 방식)
-    if not os.path.exists(processor.faiss_index_file):
-        logger.info("Creating FAISS index incrementally...")
+    # 디버깅: pdf_chunks의 내용을 일부 출력 (예: 처음 20개)
+    logger.info("디버깅: PDF 청크 내용 미리보기")
+    for idx, chunk in enumerate(pdf_chunks[:20]):  # 처음 20개의 청크만 확인
+        # 청크가 비어있다면 그 사실도 로깅
+        if not chunk.strip():
+            logger.info(f"Chunk {idx}: [EMPTY]")
+        else:
+            preview = chunk[:200].replace("\n", " ")
+            logger.info(f"Chunk {idx}: 길이={len(chunk)}; 미리보기='{preview}'")
+    
+    index_path = "faiss_crawling.bin"  # 필요하다면 절대 경로 사용
+
+    if not os.path.exists(index_path) or os.path.getsize(index_path) < 100:
+        print("Index file does not exist or is too small. Recreating the index...")
         index = processor.create_faiss_index_incrementally(pdf_chunks)
     else:
-        logger.info("Loading existing FAISS index...")
-        index = faiss.read_index(processor.faiss_index_file)
+        index = faiss.read_index(index_path)
+        if index is None:
+            raise ValueError("Failed to load FAISS index from file. The file might be corrupted.")
+        print("Total vectors in the index:", index.ntotal)
     
     # 메모리 정리
     # del csv_texts
