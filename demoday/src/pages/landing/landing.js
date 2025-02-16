@@ -78,9 +78,15 @@ function createLandingCard(index) {
             break;
         case 2:
             landing_card_text.innerText = '보고서 조회';
+            landing_card_element.addEventListener('click', ()=>{
+                router_main('report');
+            })
             break;
         case 3:
             landing_card_text.innerText = '수익률 조회';
+            landing_card_element.addEventListener('click', ()=>{
+                router_main('profit');
+            })
             break;
     }
 

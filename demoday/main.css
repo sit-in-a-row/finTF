@@ -3,6 +3,9 @@
 @import url(./src/pages/landing/landing.css);
 @import url(./src/pages/proj_intro/proj_intro.css);
 @import url(./src/pages/stock_forecast/stock_forecast.css);
+@import url(./src/pages/report/report.css);
+@import url(./src/pages/profit/profit.css);
+
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css");
 
 * {
@@ -30,10 +33,10 @@ body {
     --color-warmGrey: #ECECEC;
 
     --font-size-h1: 2.5rem;
-    --font-size-h3: 1.2rem;
+    --font-size-h3: 1.0rem;
     --font-size-h5: .825rem;
 
-    --font-spacing-h1: -0.1rem;
+    --font-spacing-h1: -0.0rem;
     --font-spacing-h3: -0.05rem;
 
     --font-weight-extraThin: 100;

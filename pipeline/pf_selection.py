@@ -1,10 +1,24 @@
 from sub_func import *
-from pykrx import stock
+import FinanceDataReader as fdr
 
 def is_delisted(ticker: str, date: str) -> bool:
-    """특정 날짜 기준으로 해당 종목이 상장 폐지되었는지 확인"""
-    tickers = stock.get_market_ticker_list(date)
-    return ticker not in tickers
+    """
+    FinanceDataReader의 DataReader를 사용하여,
+    지정한 날짜에 해당 종목의 거래 데이터가 있는지 확인합니다.
+    
+    만약 거래 데이터가 없으면 상장 폐지(또는 거래 없음)로 간주합니다.
+    단, 지정한 날짜가 거래일이 아닐 경우 오판할 수 있으므로 사용에 주의해야 합니다.
+    """
+    try:
+        # date에 해당하는 단일 날짜의 거래 데이터를 가져옵니다.
+        df = fdr.DataReader(ticker, date, date)
+        return df.empty
+    except Exception:
+        # 데이터 요청 중 오류가 발생하면 해당 종목은 상장 폐지된 것으로 간주합니다.
+        return True
+
+
+pf_stock_num = 10
 
 pf_selection_report_format = """{
 report: '(생성한 레포트 본문 전체)',
@@ -33,7 +47,18 @@ invest: '(True or False로만 답하세요.)'
 pf_selection_corp_system = f"""당신은 증권회사의 분석가입니다.
 주어진 자료들을 바탕으로 다음 분기동안 해당 종목을 보유해야할지 판단하고 이를 보고서 형식으로 작성해야 합니다.
 보고서의 의견은 반드시 주어진 정보에 기반하여야 합니다.
-보고서의 형식은 반드시 다음을 따라야 합니다. {pf_selection_corp_format}
+보고서의 형식은 반드시 {pf_selection_report_format}와 같이, 프롬프트로 주어진 json 양식과 동일해야 합니다.
+형식 외의 다른 내용을 생성하지 마세요.
+
+** Return only pure JSON format without any code block or delimiters. **
+** Make sure that the response does not create JSON decode error. **
+"""
+
+# ================================ #
+
+pf_count_system = f"""당신은 증권회사의 분석가입니다.
+주어진 종목들에 대한 정보를 바탕으로, invest = True인 종목 중 최대 {pf_stock_num}개의 종목을 포함하는 포트폴리오를 구성해야 합니다.
+반드시 {pf_stock_num}개 이하의 종목만 포함해야 합니다.
 
 ** Return only pure JSON format without any code block or delimiters. **
 ** Make sure that the response does not create JSON decode error. **
@@ -87,7 +112,8 @@ def get_sector_selection_report(target_year, start_date, end_date):
 
     for sector in sector_list:
         # 토큰수 제한때문에 컬럼 선별해서 넣기...
-        index_price = index_price_info(sector, start_date, end_date)[['Close', 'Transaction_Val','Market_Cap', 'RSI_14']]
+        # index_price = index_price_info(sector, start_date, end_date)[['Close', 'Transaction_Val','Market_Cap', 'RSI_14']]
+        index_price = index_price_info(sector, start_date, end_date)[['Close','Market_Cap', 'RSI_14']]
         index_prices[sector] = index_price.T.to_dict()
 
     pf_selection_prompt += f"""인덱스 가격 지표: {index_prices}\n"""
@@ -194,7 +220,8 @@ def generate_final_portfolio(target_year, target_quarter, start_date, end_date, 
     # ✅ **invest가 True인 종목만 필터링**
     filtered_temp_pf = {
         sector: {ticker: value for ticker, value in tickers.items()
-                if store_all_raw_pf_selection.get(ticker, {}).get('invest') == 'True'}
+                if isinstance(store_all_raw_pf_selection.get(ticker, {}), dict) and 
+                    store_all_raw_pf_selection.get(ticker, {}).get('invest') == 'True'}
         for sector, tickers in temp_pf.items()
     }
 
@@ -207,8 +234,11 @@ def generate_final_portfolio(target_year, target_quarter, start_date, end_date, 
         for sector, tickers in filtered_temp_pf.items()
     }
 
-    # ✅ **corp_analysis_report는 그대로 유지**
-    final_pf['corp_analysis_report'] = store_all_raw_pf_selection
+    final_pf['corp_analysis_report_raw'] = store_all_raw_pf_selection
+
+    # 포트폴리오 내 종목 개수 줄이도록 다시 GPT에게 요청
+    pf_count_lowered = to_GPT(pf_count_system, str(store_all_raw_pf_selection))
+    final_pf['corp_analysis_report'] = pf_count_lowered
 
     print('-'*50)
     print('최종 포트폴리오에서 상장 폐지된 종목을 제거 완료')

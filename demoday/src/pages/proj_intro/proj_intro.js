@@ -1,17 +1,19 @@
 import { checkDuplication, createElement } from "../../utils/utils.js";
 import { create_sideBar } from "../../utils/sideBar.js";
+import { clear_page } from "../../utils/clear_page.js";
 
 export function proj_intro_main() {
-    checkDuplication('landing_main');
-    checkDuplication('proj_intro_container');
-    checkDuplication('stock_forecast_container')
+    // checkDuplication('landing_main');
+    // checkDuplication('proj_intro_container');
+    // checkDuplication('stock_forecast_container')
 
-    const checkSideBar = document.getElementById('sideBar_container');
-    if (!checkSideBar) {
-        create_sideBar();
-    }
+    // const checkSideBar = document.getElementById('sideBar_container');
+    // if (!checkSideBar) {
+    //     create_sideBar();
+    // }
     
-    create_sideBar();
+    clear_page();
+
     create_proj_intro();
 }
 

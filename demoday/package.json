@@ -1,0 +1,21 @@
+{
+  "name": "demoday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "marked": "^15.0.6",
+    "openai": "^4.83.0",
+    "path": "^0.12.7",
+    "python-shell": "^5.0.0",
+    "yamljs": "^0.3.0"
+  }
+}

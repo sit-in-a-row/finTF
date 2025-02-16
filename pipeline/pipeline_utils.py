@@ -42,6 +42,21 @@ def get_tickers_from_json(agent_type, title):
         print(f"Error: {e}")
         return []
 
+def get_tickers_from_json_v2(agent_type, title):
+    data = read_json(json_file_path)
+    if agent_type in data and title in data[agent_type]:
+        page_id = data[agent_type][title]
+        content = get_all_text_from_page(page_id)
+        try:
+            target_dict = eval(eval(content)['final_portfolio']['corp_analysis_report']['choices'][0]['message']['content'])
+            tickers = [item['ticker'] for item in target_dict['portfolio']]
+
+            return tickers
+
+        except Exception as e:
+            print(f"Error: {e}")
+            return []
+
 def predict_multiple_prices(tickers: list, start_date: str, end_date: str, price_data_dict=None) -> dict:
     predictions = {}
     

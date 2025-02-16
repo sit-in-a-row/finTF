@@ -30,24 +30,24 @@ def calculate_es(portfolio_returns, VaR):
 
 #calculates by summing up the beta of each stocks
 def calculate_beta(stocks, returns, weights, market_index, risk_free_rate = '0.03'):
-    market_var = market_index.var();
-    beta_sum = 0;
+    market_var = market_index.var()
+    beta_sum = 0
     for i in range(0, len(stocks)):
         # print(stocks[i])
-        # print(returns[stocks[i]]);
+        # print(returns[stocks[i]])
         # print(market_index)
         new_returns = returns[stocks[i]]
-        s_cov = np.cov(returns[stocks[i]], market_index)[0][1];
-        beta_sum += weights[i] * (s_cov / market_var);
+        s_cov = np.cov(returns[stocks[i]], market_index)[0][1]
+        beta_sum += weights[i] * (s_cov / market_var)
 
-    return beta_sum;    
+    return beta_sum    
 
 #calculates the beta from the portfolio return itself
 def cb(portfolio_returns, market_index):
-    market_var = market_index.var();
-    p_cov = np.cov(portfolio_returns, market_index)[0][1];
+    market_var = market_index.var()
+    p_cov = np.cov(portfolio_returns, market_index)[0][1]
 
-    return p_cov / market_var;
+    return p_cov / market_var
 
 def analyze_portfolio():
     # Define your portfolio
@@ -62,7 +62,7 @@ def analyze_portfolio():
     # Calculate daily returns
     returns = data.pct_change().dropna()
 
-    common_dates = data.index.intersection(market_index.index);
+    common_dates = data.index.intersection(market_index.index)
     returns = returns.loc[common_dates]
     market_index = market_index.loc[common_dates]
 

@@ -79,9 +79,12 @@ textarea {
 .stock_forecast_chat_wrapper {
     width: 75vw;
     height: 80%;
+    gap: 2vw;
     overflow: auto;
-    border: 1px solid;
+    /* border: 1px solid; */
     flex-direction: column;
+
+    display: none;
 }
 
 .user_chat {
@@ -90,11 +93,13 @@ textarea {
     border: 1px solid var(--color-borderGrey);
     padding: 0.8rem 1.2rem;
     border-radius: 0.5rem;
+    max-width: 60vw;
 }
 
 .answer_chat {
     display: flex;
     gap: 1vw;
+    max-width: 60vw;
 }
 .answer_chat_text {
     background-color: var(--color-warmGrey);

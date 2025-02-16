@@ -41,8 +41,8 @@
 }
 .sideBar_item {
     display: flex;
-    padding-top: 1vw;
-    padding-bottom: 1vw;
+    padding-top: 0.8vw;
+    padding-bottom: 0.8vw;
 }
 .sideBar_item_text {
     color: white;
@@ -66,6 +66,8 @@
 }
 .sideBar_item_hover .sideBar_item_text {
     color: black;
+    display: flex;
+    align-items: center;
     background-color: white;
     transition: 0.1s;
 }

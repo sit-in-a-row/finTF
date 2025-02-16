@@ -1,6 +1,7 @@
 import { router_main } from "../../router.js";
 import { create_sideBar } from "../../utils/sideBar.js";
 import { checkDuplication, createElement } from "../../utils/utils.js";
+import { clear_page } from "../../utils/clear_page.js";
 
 var chat_start = false;
 var user_chat_count = 0;
@@ -13,20 +14,13 @@ const carousel_img_list = [
     '../../../assets/imgs/stock_forecast/carousel_posco.svg',
     '../../../assets/imgs/stock_forecast/carousel_samsung.svg',
     '../../../assets/imgs/stock_forecast/carousel_skhy.svg'
-]
+];
 
 export function stock_forecast_main() {
-    checkDuplication('landing_main');
-    checkDuplication('proj_intro_container');
-    checkDuplication('stock_forecast_container');
-
-    const checkSideBar = document.getElementById('sideBar_container');
-    if (!checkSideBar) {
-        create_sideBar();
-    }
+    chat_start = false;
+    clear_page();
 
     var stock_forecast_container = createElement('div', 'stock_forecast_container', 'stock_forecast_container');
-
     var stock_forecast_wrapper = createElement('div', 'stock_forecast_wrapper', 'stock_forecast_wrapper');
 
     var top_title = createElement('img', 'stock_forecast_top_title', 'stock_forecast_top_title');
@@ -40,26 +34,21 @@ export function stock_forecast_main() {
     var chat_wrapper = createElement('div', 'stock_forecast_chat_wrapper', 'stock_forecast_chat_wrapper');
     stock_forecast_wrapper.appendChild(chat_wrapper);
 
-    // ===== 캐러셀 코드 시작 ===== //
-    // Infinite carousel
     var infinite_carousel = createElement('div', 'stock_forecast_carousel', 'stock_forecast_carousel');
     var carousel_track = createElement('div', 'carousel_track', 'carousel_track');
 
-    // Duplicate the last few images to the start
     for (let i = carousel_img_list.length - 1; i >= carousel_img_list.length - 2; i--) {
         var duplicate_img_start = createElement('img', `carousel_img_dup_start_${i}`, 'carousel_img');
         duplicate_img_start.src = carousel_img_list[i];
         carousel_track.insertBefore(duplicate_img_start, carousel_track.firstChild);
     }
 
-    // Original images
     for (let i = 0; i < carousel_img_list.length; i++) {
         var carousel_img = createElement('img', `carousel_img_${i}`, 'carousel_img');
         carousel_img.src = carousel_img_list[i];
         carousel_track.appendChild(carousel_img);
     }
 
-    // Duplicate the first few images to the end
     for (let i = 0; i < 7; i++) {
         var duplicate_img_end = createElement('img', `carousel_img_dup_end_${i}`, 'carousel_img');
         duplicate_img_end.src = carousel_img_list[i];
@@ -67,48 +56,38 @@ export function stock_forecast_main() {
     }
 
     infinite_carousel.appendChild(carousel_track);
-
-    // ===== 캐러셀 코드 끝 ===== //
-
     stock_forecast_wrapper.appendChild(infinite_carousel);
 
     var chat_input = createElement('textarea', 'stock_forecast_chat_input', 'stock_forecast_chat_input');
-    chat_input.placeholder = '확인하고자 하는 종목명, 혹은 티커를 입력해주세요.';
+    chat_input.placeholder = '관심 종목의 종목명을 입력하면, 종목에 대한 분석 의견을 알려드릴게요!';
     stock_forecast_wrapper.appendChild(chat_input);
 
     stock_forecast_container.appendChild(stock_forecast_wrapper);
-
     document.body.appendChild(stock_forecast_container);
 
-    // Start the carousel animation
     startInfiniteCarousel();
-
-    // Initialize chat input
     init_chat();
 }
 
 function startInfiniteCarousel() {
     const track = document.querySelector('.carousel_track');
     const images = document.querySelectorAll('.carousel_img');
-    const imgWidth = images[0].getBoundingClientRect().width + 10; // 이미지 크기 + margin
+    const imgWidth = images[0].getBoundingClientRect().width + 10;
     let currentPosition = 0;
 
     function moveCarousel() {
-        currentPosition -= 1; // 부드럽게 1px씩 이동
-
-        // Loop back seamlessly
+        currentPosition -= 1;
         if (Math.abs(currentPosition) >= (imgWidth) * (images.length / 2)) {
-            currentPosition = 0; // Reset position to start
+            currentPosition = 0;
         }
-
-        track.style.transform = 'translateX(`${currentPosition}px`)';
+        track.style.transform = `translateX(${currentPosition}px)`;
         requestAnimationFrame(moveCarousel);
     }
 
     requestAnimationFrame(moveCarousel);
 }
 
-function init_chat() {
+async function init_chat() {
     const chatInput = document.querySelector('#stock_forecast_chat_input');
     const chatWrapper = document.getElementById('stock_forecast_chat_wrapper');
     const wrapper = document.getElementById('stock_forecast_wrapper');
@@ -116,14 +95,13 @@ function init_chat() {
     const logo = document.getElementById('stock_forecast_PI_logo');
     const carousel = document.getElementById('stock_forecast_carousel');
 
-    chatInput.addEventListener('keypress', (event) => {
+    chatInput.addEventListener('keypress', async (event) => {
         if (event.key === 'Enter') {
-            event.preventDefault(); // 줄바꿈 방지
-
-            const userInput = chatInput.value.trim(); // 입력값에서 공백 제거
-            if (userInput === '') return; // 빈 입력은 무시
-
-            user_chat_count += 1; // 유저 채팅 수 트래킹
+            event.preventDefault();
+            const userInput = chatInput.value.trim();
+            if (userInput === '') return;
+            chatInput.value = '';
+            user_chat_count += 1;
 
             if (!chat_start) {
                 chat_start = true;
@@ -132,32 +110,49 @@ function init_chat() {
                 wrapper.removeChild(carousel);
             }
 
-            console.log(userInput); // 입력된 텍스트 출력
-
-            // 유저 채팅 띄우기
+            // 사용자의 채팅 내용 표시
+            console.log(userInput);
             const userChat = createElement('div', `user_chat_${user_chat_count}`, 'user_chat');
             userChat.innerText = userInput;
             chatWrapper.appendChild(userChat);
+            chatWrapper.scrollTop = chatWrapper.scrollHeight;
 
-            // 답변 채팅 띄우기
+            // 챗봇 응답 대기 UI 구성
             const answerChatWrapper = createElement('div', `answer_chat_${user_chat_count}`, 'answer_chat');
-
             const chatbotIcon = createElement('img', 'chatbot_icon', 'chatbot_icon');
             chatbotIcon.src = '../../../assets/logos/chatbot_icon.svg';
             answerChatWrapper.appendChild(chatbotIcon);
 
             const chatbotText = createElement('div', `answer_chat_text_${user_chat_count}`, 'answer_chat_text');
-            chatbotText.innerText = chatbot_answer(userInput);
+            chatbotText.innerText = '응답 대기 중...';
             answerChatWrapper.appendChild(chatbotText);
-
             chatWrapper.appendChild(answerChatWrapper);
 
-            chatInput.value = ''; // 입력창 초기화
+            try {
+                // 백엔드의 /get_raw_info 엔드포인트에 요청
+                const response = await fetch("http://localhost:1234/get_raw_info", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({ user_input: userInput })
+                });
+                console.log('정보 요청중');
+                const data = await response.json();
+                // 최종 응답은 data.result에 담겨 있다고 가정
+                let answer = data.result;
+                console.log("최종 응답:", answer);
+
+                answer = answer.replaceAll('\n', '<br>');
+
+                chatbotText.innerHTML = answer;
+                chatbotText.style.lineHeight = '2vw';
+                chatWrapper.scrollTop = chatWrapper.scrollHeight;
+
+            } catch (error) {
+                console.error("Error fetching answer:", error);
+                chatbotText.innerText = "에러 발생: 답변을 가져올 수 없습니다.";
+            }
         }
     });
-}
-
-// 추후 챗봇 구현하고 api로 땡겨오는 함수
-function chatbot_answer(user_input) {
-    return '아직은 챗봇 기능이 완성되지 않았습니다.'
 }

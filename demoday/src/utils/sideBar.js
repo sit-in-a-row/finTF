@@ -25,7 +25,7 @@ const sidebarItems = [
     }
 ];
 
-const router_link = ['proj_intro', 'stock_forecast'];
+const router_link = ['proj_intro', 'stock_forecast', 'report', 'profit'];
 
 export function create_sideBar() {
     checkDuplication('sideBar_container');
